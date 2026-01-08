@@ -1,4 +1,23 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Behold! A Paleblood Sky added.
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Numbing Mist
+rules_text: Flash
+When this artifact enters or leaves the battlefield, until end of turn, if an opponent would gain life, that players loses that much life instead.
+{2}, {T}, Sacrifice this artifact: Target player discards a card. => Flash
+When this artifact enters or leaves the battlefield, until end of turn, if an opponent would gain life, that player loses that much life instead.
+{2}, {T}, Sacrifice this artifact: Target player discards a card.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
