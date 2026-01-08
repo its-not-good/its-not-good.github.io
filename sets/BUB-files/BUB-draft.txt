@@ -1,0 +1,4058 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Great One's Wisdom",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/0.png"
+			}
+		},
+		{
+			"name": "Iosefka's Blood Vial",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Blood",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/1.png"
+			}
+		},
+		{
+			"name": "Folded Saw Cleaver",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "317",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/2_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/2_front.png"
+			}
+		},
+		{
+			"name": "Scourge Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Wolf Beast",
+			"collector_number": "285",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/3_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/3_front.png"
+			}
+		},
+		{
+			"name": "Threaded Cane",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "327",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/4_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/4_front.png"
+			}
+		},
+		{
+			"name": "Hunter's Axe",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "320",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/5_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/5_front.png"
+			}
+		},
+		{
+			"name": "Tonitrus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/6.png"
+			}
+		},
+		{
+			"name": "The Cursed Lady Maria",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Human Nightmare",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/7_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/7_front.png"
+			}
+		},
+		{
+			"name": "Father Gascoigne",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "223",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/8_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/8_front.png"
+			}
+		},
+		{
+			"name": "Gehrman of the Hunter's Dream",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "269",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/9_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/9_front.png"
+			}
+		},
+		{
+			"name": "Alfred, Hunter of Vilebloods",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/10.png"
+			}
+		},
+		{
+			"name": "Annalise, Queen of the Vilebloods",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/11.png"
+			}
+		},
+		{
+			"name": "A Call Beyond",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/12.png"
+			}
+		},
+		{
+			"name": "The Bloody Crow of Cainhurst",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/13.png"
+			}
+		},
+		{
+			"name": "Accursed Brew",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/14.png"
+			}
+		},
+		{
+			"name": "Augur of Ebrietas",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/15.png"
+			}
+		},
+		{
+			"name": "Beast Blood Pellet",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/16.png"
+			}
+		},
+		{
+			"name": "Beast Roar",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/17.png"
+			}
+		},
+		{
+			"name": "Blacksky Eye",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/18.png"
+			}
+		},
+		{
+			"name": "Blue Elixir",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/19.png"
+			}
+		},
+		{
+			"name": "Bolt Paper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/20.png"
+			}
+		},
+		{
+			"name": "Fire Paper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/21.png"
+			}
+		},
+		{
+			"name": "Bone Marrow Ash",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/22.png"
+			}
+		},
+		{
+			"name": "Gather the Townsfolk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/23.png"
+			}
+		},
+		{
+			"name": "Rifle Huntsman",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/24.png"
+			}
+		},
+		{
+			"name": "Cannon Huntsman",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/25.png"
+			}
+		},
+		{
+			"name": "Bleeding Huntsman",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/26.png"
+			}
+		},
+		{
+			"name": "Sabre Huntsman",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/27.png"
+			}
+		},
+		{
+			"name": "Pitchfork Huntsman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/28.png"
+			}
+		},
+		{
+			"name": "Molotov Cocktail",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/29.png"
+			}
+		},
+		{
+			"name": "Lead Elixir",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/30.png"
+			}
+		},
+		{
+			"name": "Pebble",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/31.png"
+			}
+		},
+		{
+			"name": "Oil Urn",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/32.png"
+			}
+		},
+		{
+			"name": "Winter Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/33.png"
+			}
+		},
+		{
+			"name": "Coldblood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Coldblood",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/34.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/35.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/36.png"
+			}
+		},
+		{
+			"name": "Blood of Arianna",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Blood",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/37.png"
+			}
+		},
+		{
+			"name": "Blood of Adella",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Blood",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/38.png"
+			}
+		},
+		{
+			"name": "Blood of Adeline",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Blood",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/39.png"
+			}
+		},
+		{
+			"name": "Sedative",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/40.png"
+			}
+		},
+		{
+			"name": "Choir Bell",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/41.png"
+			}
+		},
+		{
+			"name": "Antidote",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/42.png"
+			}
+		},
+		{
+			"name": "Empty Phantasm Shell",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/43.png"
+			}
+		},
+		{
+			"name": "Executioner's Gloves",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/44.png"
+			}
+		},
+		{
+			"name": "Madaras Whistle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/45.png"
+			}
+		},
+		{
+			"name": "Poison Knife",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/46.png"
+			}
+		},
+		{
+			"name": "Pungent Blood Cocktail",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/47.png"
+			}
+		},
+		{
+			"name": "Shaman Bone Blade",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/48.png"
+			}
+		},
+		{
+			"name": "Throwing Knife",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/49.png"
+			}
+		},
+		{
+			"name": "Tiny Music Box",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/50.png"
+			}
+		},
+		{
+			"name": "Tiny Tonitrus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/51.png"
+			}
+		},
+		{
+			"name": "Numbing Mist",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/52.png"
+			}
+		},
+		{
+			"name": "Bastard of Loran",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/53.png"
+			}
+		},
+		{
+			"name": "Arcane Haze",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/54.png"
+			}
+		},
+		{
+			"name": "Bloodshot Eyeball",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/55.png"
+			}
+		},
+		{
+			"name": "Living String",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/56.png"
+			}
+		},
+		{
+			"name": "Yellow Backbone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/57.png"
+			}
+		},
+		{
+			"name": "Infected Organ",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/58.png"
+			}
+		},
+		{
+			"name": "Pearl Slug",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/59.png"
+			}
+		},
+		{
+			"name": "Chalice Dungeon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/60.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/61.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/62.png"
+			}
+		},
+		{
+			"name": "Fish Kin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Fish Kin",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/63.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/64.png"
+			}
+		},
+		{
+			"name": "Amygdalan Arm Club",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "207",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/65_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/65_front.png"
+			}
+		},
+		{
+			"name": "Beast Claw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/66.png"
+			}
+		},
+		{
+			"name": "Burial Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "114",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/67_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/67_front.png"
+			}
+		},
+		{
+			"name": "Blade of Mercy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "2",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/68_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/68_front.png"
+			}
+		},
+		{
+			"name": "Bloodletter Mace",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/69.png"
+			}
+		},
+		{
+			"name": "Boom Hammer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/70.png"
+			}
+		},
+		{
+			"name": "Great One Coldblood",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/71.png"
+			}
+		},
+		{
+			"name": "Hunter's Cannon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/72.png"
+			}
+		},
+		{
+			"name": "Chikage",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/73.png"
+			}
+		},
+		{
+			"name": "Church Cannon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/74.png"
+			}
+		},
+		{
+			"name": "Church Sword",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/75_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/75_front.png"
+			}
+		},
+		{
+			"name": "Hunter Blunderbuss",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/76.png"
+			}
+		},
+		{
+			"name": "Fist of Gratia",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/77.png"
+			}
+		},
+		{
+			"name": "Flamespray",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/78.png"
+			}
+		},
+		{
+			"name": "Gun Down",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/79.png"
+			}
+		},
+		{
+			"name": "Guiding Moonlight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/80.png"
+			}
+		},
+		{
+			"name": "Holy Moonlight Sword",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/81.png"
+			}
+		},
+		{
+			"name": "Kos, Mother of the Nightmare",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Enchantment — Great One",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/82.png"
+			}
+		},
+		{
+			"name": "Kos Parasite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/83.png"
+			}
+		},
+		{
+			"name": "The Brain of Mensis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Enchantment — Great One",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/84.png"
+			}
+		},
+		{
+			"name": "Make Contact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/85.png"
+			}
+		},
+		{
+			"name": "Destroy Evil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/86.png"
+			}
+		},
+		{
+			"name": "Flora, the Moon Presence",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Enchantment — Great One",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/87.png"
+			}
+		},
+		{
+			"name": "Ebrietas, Daughter of the Cosmos",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Enchantment — Great One",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/88.png"
+			}
+		},
+		{
+			"name": "Formless Oedon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Enchantment — Great One",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/89.png"
+			}
+		},
+		{
+			"name": "Rom, the Vacuous Spider",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Enchantment Creature — Kin Spider",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/90.png"
+			}
+		},
+		{
+			"name": "Spider Kin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Spider Kin",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/91.png"
+			}
+		},
+		{
+			"name": "Orphan of Kos",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Enchantment Creature — Great One",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/92.png"
+			}
+		},
+		{
+			"name": "Celestial Emissary",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Enchantment Creature — Kin",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/93.png"
+			}
+		},
+		{
+			"name": "Amygdala",
+			"rarity": "common",
+			"mana_cost": "{7}{G}",
+			"type": "Enchantment Creature — Great One",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/94.png"
+			}
+		},
+		{
+			"name": "Giant Fishman",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Fish Giant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/95.png"
+			}
+		},
+		{
+			"name": "The One Reborn",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}{B}{B}",
+			"type": "Legendary Enchantment Creature — Zombie Kin",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/96.png"
+			}
+		},
+		{
+			"name": "Afflicted Beggar",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human",
+			"collector_number": "154",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/97_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/97_front.png"
+			}
+		},
+		{
+			"name": "Blood Saint",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/98.png"
+			}
+		},
+		{
+			"name": "Bath Messengers",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Kin",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/99.png"
+			}
+		},
+		{
+			"name": "Beastclaw Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/100.png"
+			}
+		},
+		{
+			"name": "Bell-Ringing Woman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Cleric",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/101.png"
+			}
+		},
+		{
+			"name": "Beastial Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/102.png"
+			}
+		},
+		{
+			"name": "Blood Minister",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/103.png"
+			}
+		},
+		{
+			"name": "Church Assassin",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/104.png"
+			}
+		},
+		{
+			"name": "Arianna, Oedon's Consort",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/105.png"
+			}
+		},
+		{
+			"name": "Kin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Kin",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/106.png"
+			}
+		},
+		{
+			"name": "The Hunt Begins",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Instant",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/107.png"
+			}
+		},
+		{
+			"name": "Stoke the Flames",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/108.png"
+			}
+		},
+		{
+			"name": "Burning the Dream",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/109.png"
+			}
+		},
+		{
+			"name": "Searching Patient",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Human Kin",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/110.png"
+			}
+		},
+		{
+			"name": "Hostile Patient",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Human Kin",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/111.png"
+			}
+		},
+		{
+			"name": "Feral Patient",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Human Kin",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/112.png"
+			}
+		},
+		{
+			"name": "Infected Patient",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Human Kin",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/113.png"
+			}
+		},
+		{
+			"name": "Arcane Patient",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Human Kin",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/114.png"
+			}
+		},
+		{
+			"name": "Patient's Head",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Human Kin",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/115.png"
+			}
+		},
+		{
+			"name": "Queen Killer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/116.png"
+			}
+		},
+		{
+			"name": "Nightmare Hound",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Creature — Dog Hunter",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/117.png"
+			}
+		},
+		{
+			"name": "Gravekeeper Scorpion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/118.png"
+			}
+		},
+		{
+			"name": "Mensis Defector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scholar",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/119.png"
+			}
+		},
+		{
+			"name": "The Doll",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/120.png"
+			}
+		},
+		{
+			"name": "Powder Keg Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/121.png"
+			}
+		},
+		{
+			"name": "Discple of Djura",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/122.png"
+			}
+		},
+		{
+			"name": "Choir Intelligencer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric Rogue",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/123.png"
+			}
+		},
+		{
+			"name": "Eileen, the Crow",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/124.png"
+			}
+		},
+		{
+			"name": "Vicar Amelia",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}{W}",
+			"type": "Legendary Creature — Beast Cleric",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/125.png"
+			}
+		},
+		{
+			"name": "Micolash, Host of the Nightmare",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{U}{U}",
+			"type": "Legendary Creature — Human Scholar",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/126.png"
+			}
+		},
+		{
+			"name": "Laurence, the First Vicar",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}{R}{R}",
+			"type": "Legendary Creature — Beast Cleric",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/127.png"
+			}
+		},
+		{
+			"name": "Cleric Beast",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}{G}{G}{G}",
+			"type": "Creature — Beast Cleric",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/128.png"
+			}
+		},
+		{
+			"name": "Fishing Hamlet Priest",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Fish Human Kin",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/129.png"
+			}
+		},
+		{
+			"name": "Forbidden Woods Gatekeeper",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Spirit",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/130.png"
+			}
+		},
+		{
+			"name": "Sickly Yharnamite",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "250",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/131_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/131_front.png"
+			}
+		},
+		{
+			"name": "Yharnam Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/132.png"
+			}
+		},
+		{
+			"name": "Black Church Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/133.png"
+			}
+		},
+		{
+			"name": "White Church Hunter",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/134.png"
+			}
+		},
+		{
+			"name": "Imposter Iosefka",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Shapeshifter",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/135.png"
+			}
+		},
+		{
+			"name": "Iosefka, the Blood-Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/136.png"
+			}
+		},
+		{
+			"name": "Labyrinth Madman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Pthumerian Berserker",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/137.png"
+			}
+		},
+		{
+			"name": "Mad Labyrinth Hunter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/138.png"
+			}
+		},
+		{
+			"name": "Master Willem",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Scholar",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/139.png"
+			}
+		},
+		{
+			"name": "Mensis Scholar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Scholar",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/140.png"
+			}
+		},
+		{
+			"name": "Mergo's Cry",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/141.png"
+			}
+		},
+		{
+			"name": "Narrow Minded Man",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/142.png"
+			}
+		},
+		{
+			"name": "Oedon Chapel Dweller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/143.png"
+			}
+		},
+		{
+			"name": "Old Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/144.png"
+			}
+		},
+		{
+			"name": "Henryk, Tragic Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/145.png"
+			}
+		},
+		{
+			"name": "Beast Cutter Hunter",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/146.png"
+			}
+		},
+		{
+			"name": "Patches, the Spider",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Human Spider",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/147.png"
+			}
+		},
+		{
+			"name": "Retired Hunter Djura",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/148.png"
+			}
+		},
+		{
+			"name": "Saint Adeline",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Enchantment Creature — Human Kin",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/149.png"
+			}
+		},
+		{
+			"name": "Harrowed Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/150.png"
+			}
+		},
+		{
+			"name": "Tomb Prospector",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/151.png"
+			}
+		},
+		{
+			"name": "Valtr, Master of the League",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/152.png"
+			}
+		},
+		{
+			"name": "Wanderer from the East",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/153.png"
+			}
+		},
+		{
+			"name": "Strength of Arms",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/154.png"
+			}
+		},
+		{
+			"name": "Petrify",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/155.png"
+			}
+		},
+		{
+			"name": "Madaras Twin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/156.png"
+			}
+		},
+		{
+			"name": "Yurie, the Last Scholar",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Scholar",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/157.png"
+			}
+		},
+		{
+			"name": "Tonitrus Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/158.png"
+			}
+		},
+		{
+			"name": "Burn at the Stake",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/159.png"
+			}
+		},
+		{
+			"name": "Ambushed by Beasts",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/160.png"
+			}
+		},
+		{
+			"name": "Crazed Confrontation",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/161.png"
+			}
+		},
+		{
+			"name": "Hooded Beast Patient",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/162.png"
+			}
+		},
+		{
+			"name": "Beast of the Hunt",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Beast",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/163.png"
+			}
+		},
+		{
+			"name": "Beast-Possessed Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Beast Nightmare",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/164.png"
+			}
+		},
+		{
+			"name": "Blood Gel",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/165.png"
+			}
+		},
+		{
+			"name": "Blood-Starved Beast",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/166.png"
+			}
+		},
+		{
+			"name": "Bloodletting Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "261",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/167_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/167_front.png"
+			}
+		},
+		{
+			"name": "Bloodlicker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Vampire Beast",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/168.png"
+			}
+		},
+		{
+			"name": "Bound Widow",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/169.png"
+			}
+		},
+		{
+			"name": "Brain Sucker",
+			"rarity": "common",
+			"mana_cost": "{3}{W/U}{W/U}",
+			"type": "Enchantment Creature — Kin",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/170.png"
+			}
+		},
+		{
+			"name": "Cain's Servant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/171.png"
+			}
+		},
+		{
+			"name": "Cainhurst Servant Knight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/172.png"
+			}
+		},
+		{
+			"name": "Carrion Crow",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/173.png"
+			}
+		},
+		{
+			"name": "Mutated Crow",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Bird Dog Horror",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/174.png"
+			}
+		},
+		{
+			"name": "Celestial Child",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment Creature — Kin",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/175.png"
+			}
+		},
+		{
+			"name": "Celestial Minion",
+			"rarity": "common",
+			"mana_cost": "{2}{G/U}",
+			"type": "Enchantment Creature — Kin",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/176.png"
+			}
+		},
+		{
+			"name": "Child of Rom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Spider Kin",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/177.png"
+			}
+		},
+		{
+			"name": "Executioner Church Giant",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Giant Pthumerian",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/178.png"
+			}
+		},
+		{
+			"name": "Destroyer Church Giant",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Giant Pthumerian",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/179.png"
+			}
+		},
+		{
+			"name": "Lost Church Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Giant Pthumerian",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/180.png"
+			}
+		},
+		{
+			"name": "Church Servant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/181.png"
+			}
+		},
+		{
+			"name": "Church Cleanser",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/182.png"
+			}
+		},
+		{
+			"name": "Church Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/183.png"
+			}
+		},
+		{
+			"name": "Church Crucifier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/184.png"
+			}
+		},
+		{
+			"name": "Church Excoriator",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/185.png"
+			}
+		},
+		{
+			"name": "Cramped Casket",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/186.png"
+			}
+		},
+		{
+			"name": "Nightmare Crawler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Kin Horror",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/187.png"
+			}
+		},
+		{
+			"name": "Darkbeast Paarl",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Skeleton Beast",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/188.png"
+			}
+		},
+		{
+			"name": "Labyrinth Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/189.png"
+			}
+		},
+		{
+			"name": "Church Executioner",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/190.png"
+			}
+		},
+		{
+			"name": "Eye Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/191.png"
+			}
+		},
+		{
+			"name": "Fish Dog",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Fish Dog Kin",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/192.png"
+			}
+		},
+		{
+			"name": "Trawl Through the Muck",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/193.png"
+			}
+		},
+		{
+			"name": "Cleaver Fishman",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Fish Human Kin",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/194.png"
+			}
+		},
+		{
+			"name": "Spear-Thrower Fishman",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Fish Human Kin",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/195.png"
+			}
+		},
+		{
+			"name": "Flourescent Flower",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Enchantment Creature — Plant Kin",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/196.png"
+			}
+		},
+		{
+			"name": "Garden of Eyes",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Insect Kin",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/197.png"
+			}
+		},
+		{
+			"name": "Boulder Defense",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/198.png"
+			}
+		},
+		{
+			"name": "Giant Lost Child",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/199.png"
+			}
+		},
+		{
+			"name": "Great Snake Ball",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Snake Horror Hydra",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/200.png"
+			}
+		},
+		{
+			"name": "Hemwick Grave Woman",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Witch",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/201.png"
+			}
+		},
+		{
+			"name": "Hemwick Hammer Woman",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Witch",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/202.png"
+			}
+		},
+		{
+			"name": "Hemwick Solderer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Witch",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/203.png"
+			}
+		},
+		{
+			"name": "Spiked Hunting Dog",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Dog Hunter",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/204.png"
+			}
+		},
+		{
+			"name": "Rabid Dog",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Dog",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/205.png"
+			}
+		},
+		{
+			"name": "Mutated Dog",
+			"rarity": "common",
+			"mana_cost": "{3}{R/G}",
+			"type": "Creature — Bird Dog Horror",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/206.png"
+			}
+		},
+		{
+			"name": "Huntsman's Minion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Ogre Hunter",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/207.png"
+			}
+		},
+		{
+			"name": "Keeper of the Old Lords",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Pthumerian Shaman",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/208.png"
+			}
+		},
+		{
+			"name": "Keeper's Hunting Dogs",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Dog Hunter",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/209.png"
+			}
+		},
+		{
+			"name": "Kidnap",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/210.png"
+			}
+		},
+		{
+			"name": "Yahar'gul Kidnapper",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/211.png"
+			}
+		},
+		{
+			"name": "Labyrinth Mole",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Mole Horror",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/212.png"
+			}
+		},
+		{
+			"name": "Labyrinth Rat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/213.png"
+			}
+		},
+		{
+			"name": "Labyrinth Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Pthumerian Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/214.png"
+			}
+		},
+		{
+			"name": "The Blood Moon Rises",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/215.png"
+			}
+		},
+		{
+			"name": "Persistence",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/216.png"
+			}
+		},
+		{
+			"name": "Delve into the Labyrinth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/217.png"
+			}
+		},
+		{
+			"name": "Old Hunter Bone",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/218.png"
+			}
+		},
+		{
+			"name": "End of Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/219.png"
+			}
+		},
+		{
+			"name": "Transcendence",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/220.png"
+			}
+		},
+		{
+			"name": "Hunters Must Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/221.png"
+			}
+		},
+		{
+			"name": "Loran Cleric",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast Cleric",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/222.png"
+			}
+		},
+		{
+			"name": "Burden of the Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/223.png"
+			}
+		},
+		{
+			"name": "Fishman Mage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Fish Human Kin",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/224.png"
+			}
+		},
+		{
+			"name": "Skeletal Puppet",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Skeleton Construct",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/225.png"
+			}
+		},
+		{
+			"name": "Praise the Moon Presence",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/226.png"
+			}
+		},
+		{
+			"name": "Oedon Chapel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/227.png"
+			}
+		},
+		{
+			"name": "Nightmare Boar",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Boar Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/228.png"
+			}
+		},
+		{
+			"name": "Parasite Larvae",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/229.png"
+			}
+		},
+		{
+			"name": "Labyrinth Ritekeeper",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/230.png"
+			}
+		},
+		{
+			"name": "Soul-Guide Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/231.png"
+			}
+		},
+		{
+			"name": "Labyrinth Flaming Swordsman",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Creature — Pthumerian Soldier",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/232.png"
+			}
+		},
+		{
+			"name": "Lonely Old Dear",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/233.png"
+			}
+		},
+		{
+			"name": "Twin Dagger Watcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pthumerian Berserker",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/234.png"
+			}
+		},
+		{
+			"name": "Call the Watchers",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/235.png"
+			}
+		},
+		{
+			"name": "Lantern Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Pthumerian Cleric",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/236.png"
+			}
+		},
+		{
+			"name": "Halberd Watcher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Pthumerian Warrior",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/237.png"
+			}
+		},
+		{
+			"name": "Stalking Beastman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/238.png"
+			}
+		},
+		{
+			"name": "Large Wandering Nightmare",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/239.png"
+			}
+		},
+		{
+			"name": "Small Wandering Nightmare",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/240.png"
+			}
+		},
+		{
+			"name": "Living Failures",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Giant Kin",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/241.png"
+			}
+		},
+		{
+			"name": "Lost Child of Antiquity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/242.png"
+			}
+		},
+		{
+			"name": "Ludwig, The Acursed",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Beast Horror",
+			"collector_number": "277",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/243_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/243_front.png"
+			}
+		},
+		{
+			"name": "Surrounded by Mad Ones",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Instant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/244.png"
+			}
+		},
+		{
+			"name": "Mad One",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Spirit",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/245.png"
+			}
+		},
+		{
+			"name": "Maneater Boar",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Boar Beast",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/246.png"
+			}
+		},
+		{
+			"name": "Martyr Logarius",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/247.png"
+			}
+		},
+		{
+			"name": "Merciless Blunderbuss",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Pthumerian Horror",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/248.png"
+			}
+		},
+		{
+			"name": "Merciless Butcher",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Pthumerian Horror",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/249.png"
+			}
+		},
+		{
+			"name": "Merciless Mace",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Pthumerian Horror",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/250.png"
+			}
+		},
+		{
+			"name": "At Mergo's Will",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/251.png"
+			}
+		},
+		{
+			"name": "Attendant of Mergo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/252.png"
+			}
+		},
+		{
+			"name": "Mergo's Chief Attendant",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/253.png"
+			}
+		},
+		{
+			"name": "Mergo's Wet Nurse",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Enchantment Creature — Great One",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/254.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Illusion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/255.png"
+			}
+		},
+		{
+			"name": "The Mother Apostle",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Spider",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/256.png"
+			}
+		},
+		{
+			"name": "Nightmare Apostle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/257.png"
+			}
+		},
+		{
+			"name": "Failed Apostle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Spider",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/258.png"
+			}
+		},
+		{
+			"name": "Nightmare Executioner",
+			"rarity": "common",
+			"mana_cost": "{3}{W/B}{W/B}",
+			"type": "Creature — Warrior Horror",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/259.png"
+			}
+		},
+		{
+			"name": "Nightmare Cannoneer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Creature — Warrior Horror",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/260.png"
+			}
+		},
+		{
+			"name": "Pthumerian Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pthumerian Spirit",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/261.png"
+			}
+		},
+		{
+			"name": "Pthumerian Descendant",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Pthumerian Noble",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/262.png"
+			}
+		},
+		{
+			"name": "Rotted Corpse",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/263.png"
+			}
+		},
+		{
+			"name": "Shadows of Yharnam",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Creature — Pthumerian Horror",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/264.png"
+			}
+		},
+		{
+			"name": "Walking Silverbeast",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "204",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/265_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/265_front.png"
+			}
+		},
+		{
+			"name": "Slime Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Ooze Kin",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/266.png"
+			}
+		},
+		{
+			"name": "Procession of the Orphan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/267.png"
+			}
+		},
+		{
+			"name": "Prayers to Kos",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/268.png"
+			}
+		},
+		{
+			"name": "UU16 Snail Woman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Fish Kin",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/269.png"
+			}
+		},
+		{
+			"name": "Minor Snake Ball",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Snake Horror Hydra",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/270.png"
+			}
+		},
+		{
+			"name": "Masked Huntsman",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "240",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/271_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/271_front.png"
+			}
+		},
+		{
+			"name": "The Witch of Hemwick",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/272.png"
+			}
+		},
+		{
+			"name": "Undead Blade Giant",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Pthumerian Zombie Giant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/273.png"
+			}
+		},
+		{
+			"name": "Undead Cannon Giant",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Pthumerian Zombie Giant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/274.png"
+			}
+		},
+		{
+			"name": "Watchdog of the Old Lords",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/275.png"
+			}
+		},
+		{
+			"name": "Hook Gravedigger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pthumerian",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/276.png"
+			}
+		},
+		{
+			"name": "Pickaxe Gravedigger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pthumerian",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/277.png"
+			}
+		},
+		{
+			"name": "Rifle Gravedigger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Pthumerian",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/278.png"
+			}
+		},
+		{
+			"name": "Elder Huntsman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/279.png"
+			}
+		},
+		{
+			"name": "Huntsman Chaingunner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Beast Hunter",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/280.png"
+			}
+		},
+		{
+			"name": "Healing Church Communion",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Enchantment",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/281.png"
+			}
+		},
+		{
+			"name": "Pthumeru Chalice",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/282.png"
+			}
+		},
+		{
+			"name": "Great Pthumeru Ihyll Chalice",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/283.png"
+			}
+		},
+		{
+			"name": "Hintertomb Chalice",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/284.png"
+			}
+		},
+		{
+			"name": "Ailing Loran Chalice",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/285.png"
+			}
+		},
+		{
+			"name": "Great Isz Chalice",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/286.png"
+			}
+		},
+		{
+			"name": "Blazing Torch",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/287.png"
+			}
+		},
+		{
+			"name": "Sign in Blood",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/288.png"
+			}
+		},
+		{
+			"name": "Beast Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/289.png"
+			}
+		},
+		{
+			"name": "Clawmark Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/290.png"
+			}
+		},
+		{
+			"name": "Blood Rapture",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/291.png"
+			}
+		},
+		{
+			"name": "Anti-Clockwise Metamorphosis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/292.png"
+			}
+		},
+		{
+			"name": "Moon Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/293.png"
+			}
+		},
+		{
+			"name": "Guidance Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/294.png"
+			}
+		},
+		{
+			"name": "Deep Sea Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/295.png"
+			}
+		},
+		{
+			"name": "Lake Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/296.png"
+			}
+		},
+		{
+			"name": "Eye Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/297.png"
+			}
+		},
+		{
+			"name": "Clockwise Metamorphosis",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/298.png"
+			}
+		},
+		{
+			"name": "Oedon Writhe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/299.png"
+			}
+		},
+		{
+			"name": "Communion Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/300.png"
+			}
+		},
+		{
+			"name": "Heir Rune",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/301.png"
+			}
+		},
+		{
+			"name": "Impurity Oath",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/302.png"
+			}
+		},
+		{
+			"name": "Radiance Oath",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/303.png"
+			}
+		},
+		{
+			"name": "Milkweed Oath",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/304.png"
+			}
+		},
+		{
+			"name": "Beast's Embrace Oath",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/305.png"
+			}
+		},
+		{
+			"name": "Hunter's Oath",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/306.png"
+			}
+		},
+		{
+			"name": "Corruption Oath",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Aura Rune",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/307.png"
+			}
+		},
+		{
+			"name": "Beast Cutter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "210",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/308_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/308_front.png"
+			}
+		},
+		{
+			"name": "Beast Hunter Saif",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "105",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/309_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/309_front.png"
+			}
+		},
+		{
+			"name": "Kirkhammer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/310_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/310_front.png"
+			}
+		},
+		{
+			"name": "Logarius' Wheel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "276",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/311_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/311_front.png"
+			}
+		},
+		{
+			"name": "The Sin of Byrgenwerth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/312.png"
+			}
+		},
+		{
+			"name": "Rifle Spear",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "198",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/313_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/313_front.png"
+			}
+		},
+		{
+			"name": "Piercing Rifle",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/314.png"
+			}
+		},
+		{
+			"name": "Repeating Pistol",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/315.png"
+			}
+		},
+		{
+			"name": "Rosmarinus",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/316.png"
+			}
+		},
+		{
+			"name": "Whirligig Saw",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "330",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/BUB-files/img/317_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/317_front.png"
+			}
+		},
+		{
+			"name": "Abandoned Hunter's Workshop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/318.png"
+			}
+		},
+		{
+			"name": "Hunter's Dream",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/319.png"
+			}
+		},
+		{
+			"name": "Astral Clocktower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/320.png"
+			}
+		},
+		{
+			"name": "Byrgenwerth",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/321.png"
+			}
+		},
+		{
+			"name": "Cathedral Ward",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/322.png"
+			}
+		},
+		{
+			"name": "Fishing Hamlet",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/323.png"
+			}
+		},
+		{
+			"name": "Nightmare of Mensis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/324.png"
+			}
+		},
+		{
+			"name": "Forbidden Woods",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/325.png"
+			}
+		},
+		{
+			"name": "Yahar'gul, Unseen Village",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/326.png"
+			}
+		},
+		{
+			"name": "Phlebotomize",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/327.png"
+			}
+		},
+		{
+			"name": "Frenzying Voices",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Instant",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/328.png"
+			}
+		},
+		{
+			"name": "Unsettling Discoveries",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Enchantment",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/329.png"
+			}
+		},
+		{
+			"name": "Solemn Respite",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/330.png"
+			}
+		},
+		{
+			"name": "Encircled by Ghosts",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/331.png"
+			}
+		},
+		{
+			"name": "Sorrowful Song",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/332.png"
+			}
+		},
+		{
+			"name": "Gift of the Moon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/333.png"
+			}
+		},
+		{
+			"name": "Childhood's Beginning",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/334.png"
+			}
+		},
+		{
+			"name": "Killing Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/335.png"
+			}
+		},
+		{
+			"name": "Peaceful Dawn",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/336.png"
+			}
+		},
+		{
+			"name": "Bloodmad Blitz",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/337.png"
+			}
+		},
+		{
+			"name": "Hunter's Awakening",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/338.png"
+			}
+		},
+		{
+			"name": "Honoring Wishes",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/339.png"
+			}
+		},
+		{
+			"name": "Into the Mist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/340.png"
+			}
+		},
+		{
+			"name": "Hunter's Remembrance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/341.png"
+			}
+		},
+		{
+			"name": "What We Should Not Know",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/342.png"
+			}
+		},
+		{
+			"name": "Desperate Struggle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/343.png"
+			}
+		},
+		{
+			"name": "The Blood Sings",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/344.png"
+			}
+		},
+		{
+			"name": "Wander the Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/345.png"
+			}
+		},
+		{
+			"name": "The Good Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/346.png"
+			}
+		},
+		{
+			"name": "Viceral Attack",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/347.png"
+			}
+		},
+		{
+			"name": "Consult the Great Ones",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Instant",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/348.png"
+			}
+		},
+		{
+			"name": "Gentle Quiet",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/349.png"
+			}
+		},
+		{
+			"name": "The Hunter's Armory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/350.png"
+			}
+		},
+		{
+			"name": "The Tragedy of Ludwig",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Instant",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/351.png"
+			}
+		},
+		{
+			"name": "Crimes of the Church",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/352.png"
+			}
+		},
+		{
+			"name": "The Child Kin",
+			"rarity": "common",
+			"mana_cost": "{G/U}{G/U}",
+			"type": "Legendary Enchantment Creature — Human Kin",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/353.png"
+			}
+		},
+		{
+			"name": "Mensis Cage",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/354.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 The Cursed Lady Maria
+	5 Father Gascoigne
+	5 Gehrman of the Hunter's Dream
+	5 Shaman Bone Blade
+	5 Burial Blade
+	5 Blade of Mercy
+	5 Chikage
+	5 Gun Down
+	5 Holy Moonlight Sword
+	5 Rom, the Vacuous Spider
+	5 Orphan of Kos
+	5 Celestial Emissary
+	5 The One Reborn
+	5 Arianna, Oedon's Consort
+	5 The Doll
+	5 Eileen, the Crow
+	5 Vicar Amelia
+	5 Micolash, Host of the Nightmare
+	5 Laurence, the First Vicar
+	5 Cleric Beast
+	5 Master Willem
+	5 Patches, the Spider
+	5 Retired Hunter Djura
+	5 Yurie, the Last Scholar
+	5 Burn at the Stake
+	5 Blood-Starved Beast
+	5 Celestial Child
+	5 Church Excoriator
+	5 Darkbeast Paarl
+	5 The Blood Moon Rises
+	5 End of Night
+	5 Loran Cleric
+	5 Call the Watchers
+	5 Living Failures
+	5 Ludwig, The Acursed
+	5 Martyr Logarius
+	5 Mergo's Chief Attendant
+	5 Mergo's Wet Nurse
+	5 The Mother Apostle
+	5 Pthumerian Descendant
+	5 Shadows of Yharnam
+	5 The Witch of Hemwick
+	5 Undead Blade Giant
+	5 Undead Cannon Giant
+	5 Watchdog of the Old Lords
+	5 Impurity Oath
+	5 Radiance Oath
+	5 Milkweed Oath
+	5 Beast's Embrace Oath
+	5 Hunter's Oath
+	5 Corruption Oath
+	5 Whirligig Saw
+	5 Phlebotomize
+	5 Childhood's Beginning
+	5 Peaceful Dawn
+	5 Honoring Wishes
+	5 The Blood Sings
+	5 The Good Hunter
+	5 Viceral Attack
+	5 Consult the Great Ones
+[uncommon(3)]
+	5 Iosefka's Blood Vial
+	5 Scourge Beast
+	5 Tonitrus
+	5 Alfred, Hunter of Vilebloods
+	5 Annalise, Queen of the Vilebloods
+	5 The Bloody Crow of Cainhurst
+	5 Accursed Brew
+	5 Bolt Paper
+	5 Fire Paper
+	5 Winter Lantern
+	5 Blood of Arianna
+	5 Blood of Adella
+	5 Blood of Adeline
+	5 Pungent Blood Cocktail
+	5 Tiny Music Box
+	5 Tiny Tonitrus
+	5 Numbing Mist
+	5 Bastard of Loran
+	5 Arcane Haze
+	5 Bloodshot Eyeball
+	5 Living String
+	5 Yellow Backbone
+	5 Infected Organ
+	5 Pearl Slug
+	5 Amygdalan Arm Club
+	5 Beast Claw
+	5 Boom Hammer
+	5 Hunter's Cannon
+	5 Church Cannon
+	5 Guiding Moonlight
+	5 Kos Parasite
+	5 Make Contact
+	5 Destroy Evil
+	5 Blood Saint
+	5 Beastclaw Hunter
+	5 Bell-Ringing Woman
+	5 Stoke the Flames
+	5 Burning the Dream
+	5 Queen Killer
+	5 Gravekeeper Scorpion
+	5 Mensis Defector
+	5 Powder Keg Hunter
+	5 Discple of Djura
+	5 Choir Intelligencer
+	5 Fishing Hamlet Priest
+	5 Imposter Iosefka
+	5 Iosefka, the Blood-Healer
+	5 Labyrinth Madman
+	5 Oedon Chapel Dweller
+	5 Henryk, Tragic Hunter
+	5 Saint Adeline
+	5 Harrowed Hunter
+	5 Tomb Prospector
+	5 Valtr, Master of the League
+	5 Madaras Twin
+	5 Tonitrus Hunter
+	5 Crazed Confrontation
+	5 Beast-Possessed Soul
+	5 Bloodletting Beast
+	5 Bloodlicker
+	5 Child of Rom
+	5 Lost Church Giant
+	5 Church Harvester
+	5 Church Crucifier
+	5 Cramped Casket
+	5 Nightmare Crawler
+	5 Labyrinth Spirit
+	5 Eye Collector
+	5 Flourescent Flower
+	5 Great Snake Ball
+	5 Spiked Hunting Dog
+	5 Huntsman's Minion
+	5 Keeper of the Old Lords
+	5 Kidnap
+	5 Yahar'gul Kidnapper
+	5 Labyrinth Soldier
+	5 Delve into the Labyrinth
+	5 Old Hunter Bone
+	5 Hunters Must Hunt
+	5 Burden of the Hunt
+	5 Oedon Chapel
+	5 Soul-Guide Lantern
+	5 Lantern Watcher
+	5 Stalking Beastman
+	5 Large Wandering Nightmare
+	5 Lost Child of Antiquity
+	5 Surrounded by Mad Ones
+	5 Maneater Boar
+	5 Merciless Blunderbuss
+	5 Merciless Butcher
+	5 Merciless Mace
+	5 At Mergo's Will
+	5 Attendant of Mergo
+	5 Failed Apostle
+	5 Nightmare Cannoneer
+	5 Pthumerian Pilgrim
+	5 Slime Scholar
+	5 Procession of the Orphan
+	5 Prayers to Kos
+	5 UU16 Snail Woman
+	5 Minor Snake Ball
+	5 Hook Gravedigger
+	5 Pickaxe Gravedigger
+	5 Rifle Gravedigger
+	5 Elder Huntsman
+	5 Huntsman Chaingunner
+	5 Beast Rune
+	5 Clawmark Rune
+	5 Blood Rapture
+	5 Anti-Clockwise Metamorphosis
+	5 Moon Rune
+	5 Guidance Rune
+	5 Deep Sea Rune
+	5 Lake Rune
+	5 Eye Rune
+	5 Clockwise Metamorphosis
+	5 Oedon Writhe
+	5 Communion Rune
+	5 Heir Rune
+	5 Beast Cutter
+	5 Beast Hunter Saif
+	5 Logarius' Wheel
+	5 The Sin of Byrgenwerth
+	5 Abandoned Hunter's Workshop
+	5 Hunter's Dream
+	5 Astral Clocktower
+	5 Byrgenwerth
+	5 Cathedral Ward
+	5 Fishing Hamlet
+	5 Nightmare of Mensis
+	5 Forbidden Woods
+	5 Yahar'gul, Unseen Village
+	5 Encircled by Ghosts
+	5 Killing Moon
+	5 What We Should Not Know
+	5 Desperate Struggle
+	5 Wander the Woods
+	5 Gentle Quiet
+	5 The Hunter's Armory
+	5 The Tragedy of Ludwig
+	5 Crimes of the Church
+[common(10)]
+	5 Great One's Wisdom
+	5 Folded Saw Cleaver
+	5 Threaded Cane
+	5 Hunter's Axe
+	5 A Call Beyond
+	5 Augur of Ebrietas
+	5 Beast Blood Pellet
+	5 Beast Roar
+	5 Blacksky Eye
+	5 Blue Elixir
+	5 Bone Marrow Ash
+	5 Gather the Townsfolk
+	5 Rifle Huntsman
+	5 Cannon Huntsman
+	5 Bleeding Huntsman
+	5 Sabre Huntsman
+	5 Pitchfork Huntsman
+	5 Molotov Cocktail
+	5 Lead Elixir
+	5 Pebble
+	5 Oil Urn
+	5 
+	5 Sedative
+	5 Choir Bell
+	5 Antidote
+	5 Empty Phantasm Shell
+	5 Executioner's Gloves
+	5 Madaras Whistle
+	5 Poison Knife
+	5 Throwing Knife
+	5 Bloodletter Mace
+	5 Great One Coldblood
+	5 Church Sword
+	5 Hunter Blunderbuss
+	5 Fist of Gratia
+	5 Flamespray
+	5 Amygdala
+	5 Giant Fishman
+	5 Afflicted Beggar
+	5 Bath Messengers
+	5 Beastial Hunter
+	5 Blood Minister
+	5 Church Assassin
+	5 The Hunt Begins
+	5 Searching Patient
+	5 Hostile Patient
+	5 Feral Patient
+	5 Infected Patient
+	5 Arcane Patient
+	5 Patient's Head
+	5 Nightmare Hound
+	5 Forbidden Woods Gatekeeper
+	5 Sickly Yharnamite
+	5 Yharnam Hunter
+	5 Black Church Hunter
+	5 White Church Hunter
+	5 Mad Labyrinth Hunter
+	5 Mensis Scholar
+	5 Mergo's Cry
+	5 Narrow Minded Man
+	5 Old Hunter
+	5 Beast Cutter Hunter
+	5 Wanderer from the East
+	5 Strength of Arms
+	5 Petrify
+	5 Ambushed by Beasts
+	5 Hooded Beast Patient
+	5 Beast of the Hunt
+	5 Blood Gel
+	5 Bound Widow
+	5 Brain Sucker
+	5 Cain's Servant
+	5 Cainhurst Servant Knight
+	5 Carrion Crow
+	5 Mutated Crow
+	5 Celestial Minion
+	5 Executioner Church Giant
+	5 Destroyer Church Giant
+	5 Church Servant
+	5 Church Cleanser
+	5 Church Executioner
+	5 Fish Dog
+	5 Trawl Through the Muck
+	5 Cleaver Fishman
+	5 Spear-Thrower Fishman
+	5 Garden of Eyes
+	5 Boulder Defense
+	5 Giant Lost Child
+	5 Hemwick Grave Woman
+	5 Hemwick Hammer Woman
+	5 Hemwick Solderer
+	5 Rabid Dog
+	5 Mutated Dog
+	5 Keeper's Hunting Dogs
+	5 Labyrinth Mole
+	5 Labyrinth Rat
+	5 Persistence
+	5 Transcendence
+	5 Fishman Mage
+	5 Skeletal Puppet
+	5 Praise the Moon Presence
+	5 Nightmare Boar
+	5 Parasite Larvae
+	5 Labyrinth Ritekeeper
+	5 Labyrinth Flaming Swordsman
+	5 Lonely Old Dear
+	5 Twin Dagger Watcher
+	5 Halberd Watcher
+	5 Small Wandering Nightmare
+	5 Mad One
+	5 Nightmare Apostle
+	5 Nightmare Executioner
+	5 Rotted Corpse
+	5 Walking Silverbeast
+	5 Masked Huntsman
+	5 Healing Church Communion
+	5 Pthumeru Chalice
+	5 Great Pthumeru Ihyll Chalice
+	5 Hintertomb Chalice
+	5 Ailing Loran Chalice
+	5 Great Isz Chalice
+	5 Blazing Torch
+	5 Sign in Blood
+	5 Kirkhammer
+	5 Rifle Spear
+	5 Piercing Rifle
+	5 Repeating Pistol
+	5 Rosmarinus
+	5 Frenzying Voices
+	5 Unsettling Discoveries
+	5 Solemn Respite
+	5 Sorrowful Song
+	5 Gift of the Moon
+	5 Bloodmad Blitz
+	5 Hunter's Awakening
+	5 Into the Mist
+	5 Hunter's Remembrance
+	5 The Child Kin
+	5 Mensis Cage
