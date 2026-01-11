@@ -1,4 +1,127 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Kos Parasite
+rules_text: When this enchantment enters, commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, target player mills two cards. => When this enchantment enters, commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, target player mills two cards.
+
+Make Contact
+rules_text: When this enchantment enters, commune with The Brain of Mensis. [i](If you don't control The Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, draw a card. This ability triggers only once per turn. => When this enchantment enters, commune with The Brain of Mensis. [i](Create a The Brain of Mensis token or awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, draw a card. This ability triggers only once per turn.
+
+Rom, the Vacuous Spider
+rules_text: When Rom enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever Rom attacks, return her to her owner's hand. When you do, create three 1/3 green Spider Kin enchantment creature tokens. => When Rom enters, commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+Whenever Rom attacks, return her to her owner's hand. When you do, create three 1/3 green Spider Kin enchantment creature tokens.
+
+Orphan of Kos
+rules_text: When Orphan of Kos enters, commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever Orphan of Kos or another Great One you control enters, draw a card.
+Other enchantments you control have hexproof and indestructible. => When Orphan of Kos enters, commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i]
+Whenever Orphan of Kos or another Great One you control enters, draw a card.
+Other enchantments you control have hexproof and indestructible.
+
+Celestial Emissary
+rules_text: As an additional cost to cast Celestial Emissary, return a nonland permanent you control to its owner's hand or pay {2}.
+Ward {1}
+When Celestial Emissary enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i] => As an additional cost to cast Celestial Emissary, return a nonland permanent you control to its owner's hand or pay {2}.
+Ward {1}
+When Celestial Emissary enters, commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+
+Fishing Hamlet Priest
+rules_text: When this creature enters, choose one —
+• Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+• Commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever a creature attacks you, it gets -1/-0 until end of turn. => When this creature enters, choose one —
+• Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+• Commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i]
+Whenever a creature attacks you, it gets -1/-0 until end of turn.
+
+Oedon Chapel Dweller
+rules_text: When this creature enters, commune with Oedon. [i](If you don't control Oedon, create a token of them. Otherwise awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, you gain 1 life. => When this creature enters, commune with Oedon. [i](Create an Oedon token or awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, you gain 1 life.
+
+Yurie, the Last Scholar
+rules_text: When Yurie enters, return target nonland permanent to its owner's hand.
+Whenever an artifact you control leaves the battlefield during your turn, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i] => When Yurie enters, return target nonland permanent to its owner's hand.
+Whenever an artifact you control leaves the battlefield during your turn, commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+
+Brain Sucker
+rules_text: When this creature enters, commune with Oedon. [i](If you don't control Oedon, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever this creature deals combat damage to a player, that player loses an insight. Then you may increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => When this creature enters, commune with Oedon. [i](Create an Oedon token or awaken a Great One you control.)[/i]
+Whenever this creature deals combat damage to a player, that player loses an insight. Then you may increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Celestial Child
+rules_text: {5}, {T}: Commune with any Great One. This costs {1} less to activate for each Great One you control. [i](Create a token of a Great One you don't control. Then commune with a Great One you control.)[/i] => {5}, {T}: Commune with any Great One. This costs {1} less to activate for each Great One you control. [i](Create a token of Ebrietas, Flora, Kos, Oedon, or The Brain of Mensis or awaken a Great One you control.)[/i]
+
+Celestial Minion
+rules_text: When this creature enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i] => When this creature enters, commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+
+Praise the Moon Presence
+rules_text: Commune with Flora [i](If you don't control Flora, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Create a 3/3 green Beast creature token. => Commune with Flora [i](Create a Flora token or awaken a Great One you control.)[/i]
+Create a 3/3 green Beast creature token.
+
+Oedon Chapel
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Commune with Oedon. [i](If you don't control Oedon, create a token of them. Otherwise awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Commune with Oedon. [i](Create an Oedon token or awaken a Great One you control.)[/i]
+
+Nightmare Boar
+rules_text: When this creature enters, commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i] => When this creature enters, commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control.)[/i]
+
+Slime Scholar
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i] => Prowess
+Whenever you cast a spell from anywhere other than your hand, commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control.)[/i]
+
+Hunter's Dream
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Commune with Flora. [i](If you don't control Flora, create a token of them. Otherwise awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Commune with Flora. [i](Create a Flora token or awaken a Great One you control.)[/i]
+
+Byrgenwerth
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+
+Fishing Hamlet
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i]
+
+Nightmare of Mensis
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control.)[/i]
+
+Gift of the Moon
+rules_text: Commune with Flora. [i](If you don't control Flora, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Target creature you control gets +3/+3 and gains trample until end of turn. => Commune with Flora. [i](Create a Flora token or awaken a Great One you control.)[/i]
+Target creature you control gets +3/+3 and gains trample until end of turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Insight added.
