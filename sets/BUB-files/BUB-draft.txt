@@ -191,8 +191,8 @@
 		},
 		{
 			"name": "Accursed Brew",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
+			"rarity": "common",
+			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
@@ -554,7 +554,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/50.png"
 			}
@@ -793,7 +793,7 @@
 		{
 			"name": "Hunter's Cannon",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Artifact — Equipment",
 			"collector_number": "184",
 			"image_uris": {
@@ -1533,7 +1533,7 @@
 		},
 		{
 			"name": "Old Hunter",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Hunter",
 			"collector_number": "142",
@@ -2033,7 +2033,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/193.png"
 			}
@@ -2053,7 +2053,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment Creature — Fish Human Kin",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/195.png"
 			}
@@ -2120,7 +2120,7 @@
 		},
 		{
 			"name": "Hemwick Hammer Woman",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Witch",
 			"collector_number": "127",
@@ -2303,7 +2303,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/220.png"
 			}
@@ -2597,8 +2597,8 @@
 		},
 		{
 			"name": "Merciless Butcher",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{B}{B}",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Pthumerian Horror",
 			"collector_number": "138",
 			"image_uris": {
@@ -2803,11 +2803,11 @@
 			}
 		},
 		{
-			"name": "UU16 Snail Woman",
+			"name": "Snail Woman",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment Creature — Fish Kin",
-			"collector_number": "99",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/269.png"
 			}
@@ -3022,7 +3022,7 @@
 		{
 			"name": "Clawmark Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "218",
 			"image_uris": {
@@ -3032,7 +3032,7 @@
 		{
 			"name": "Blood Rapture",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{B}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "111",
 			"image_uris": {
@@ -3042,7 +3042,7 @@
 		{
 			"name": "Anti-Clockwise Metamorphosis",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "157",
 			"image_uris": {
@@ -3062,7 +3062,7 @@
 		{
 			"name": "Guidance Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "68",
 			"image_uris": {
@@ -3072,7 +3072,7 @@
 		{
 			"name": "Deep Sea Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "61",
 			"image_uris": {
@@ -3082,7 +3082,7 @@
 		{
 			"name": "Lake Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "73",
 			"image_uris": {
@@ -3092,7 +3092,7 @@
 		{
 			"name": "Eye Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{U}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "63",
 			"image_uris": {
@@ -3112,7 +3112,7 @@
 		{
 			"name": "Oedon Writhe",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "39",
 			"image_uris": {
@@ -3122,7 +3122,7 @@
 		{
 			"name": "Communion Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "18",
 			"image_uris": {
@@ -3132,7 +3132,7 @@
 		{
 			"name": "Heir Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "26",
 			"image_uris": {
@@ -3142,7 +3142,7 @@
 		{
 			"name": "Impurity Oath",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "276",
 			"image_uris": {
@@ -3152,7 +3152,7 @@
 		{
 			"name": "Radiance Oath",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "46",
 			"image_uris": {
@@ -3172,7 +3172,7 @@
 		{
 			"name": "Beast's Embrace Oath",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "159",
 			"image_uris": {
@@ -3192,7 +3192,7 @@
 		{
 			"name": "Corruption Oath",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "119",
 			"image_uris": {
@@ -3632,7 +3632,7 @@
 			}
 		},
 		{
-			"name": "Viceral Attack",
+			"name": "Visceral Attack",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
@@ -3782,7 +3782,7 @@
 	5 Honoring Wishes
 	5 The Blood Sings
 	5 The Good Hunter
-	5 Viceral Attack
+	5 Visceral Attack
 	5 Consult the Great Ones
 	5 Behold! A Paleblood Sky
 [uncommon(3)]
@@ -3792,7 +3792,6 @@
 	5 Alfred, Hunter of Vilebloods
 	5 Annalise, Queen of the Vilebloods
 	5 The Bloody Crow of Cainhurst
-	5 Accursed Brew
 	5 Bolt Paper
 	5 Fire Paper
 	5 Winter Lantern
@@ -3835,6 +3834,7 @@
 	5 Iosefka, the Blood-Healer
 	5 Labyrinth Madman
 	5 Oedon Chapel Dweller
+	5 Old Hunter
 	5 Henryk, Tragic Hunter
 	5 Saint Adeline
 	5 Harrowed Hunter
@@ -3856,6 +3856,7 @@
 	5 Eye Collector
 	5 Flourescent Flower
 	5 Great Snake Ball
+	5 Hemwick Hammer Woman
 	5 Spiked Hunting Dog
 	5 Huntsman's Minion
 	5 Keeper of the Old Lords
@@ -3875,7 +3876,6 @@
 	5 Surrounded by Mad Ones
 	5 Maneater Boar
 	5 Merciless Blunderbuss
-	5 Merciless Butcher
 	5 Merciless Mace
 	5 At Mergo's Will
 	5 Attendant of Mergo
@@ -3885,7 +3885,7 @@
 	5 Slime Scholar
 	5 Procession of the Orphan
 	5 Prayers to Kos
-	5 UU16 Snail Woman
+	5 Snail Woman
 	5 Minor Snake Ball
 	5 Hook Gravedigger
 	5 Pickaxe Gravedigger
@@ -3933,6 +3933,7 @@
 	5 Threaded Cane
 	5 Hunter's Axe
 	5 A Call Beyond
+	5 Accursed Brew
 	5 Augur of Ebrietas
 	5 Beast Blood Pellet
 	5 Beast Roar
@@ -3988,7 +3989,6 @@
 	5 Mensis Scholar
 	5 Mergo's Cry
 	5 Narrow Minded Man
-	5 Old Hunter
 	5 Beast Cutter Hunter
 	5 Wanderer from the East
 	5 Strength of Arms
@@ -4017,7 +4017,6 @@
 	5 Boulder Defense
 	5 Giant Lost Child
 	5 Hemwick Grave Woman
-	5 Hemwick Hammer Woman
 	5 Hemwick Solderer
 	5 Rabid Dog
 	5 Mutated Dog
@@ -4038,6 +4037,7 @@
 	5 Halberd Watcher
 	5 Small Wandering Nightmare
 	5 Mad One
+	5 Merciless Butcher
 	5 Nightmare Apostle
 	5 Nightmare Executioner
 	5 Rotted Corpse

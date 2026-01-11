@@ -1,4 +1,563 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Snail Woman added.
+Visceral Attack added.
+
+UU16 Snail Woman removed.
+Viceral Attack removed.
+
+Folded Saw Cleaver
+rules_text: Equipped creature gets +1/+0 and has “Whenever this creature deals combat damage, create a Blood token.”
+Trick weapon {1} [i]({1}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => Equipped creature gets +1/+0 and has “Whenever this creature deals combat damage, create a Blood token.”
+Trick weapon {1} [i]({1}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Threaded Cane
+rules_text: Equipped creature gets +1/+1 and has vigilance and “{T}: Surveil 1.”
+Trick weapon {2} [i]({2}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => Equipped creature gets +1/+1 and has vigilance and “{T}: Surveil 1.”
+Trick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Hunter's Axe
+rules_text: Equipped creature gets +3/+1 and has trample.
+Trick weapon {2} [i]({2}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => Equipped creature gets +3/+1 and has trample.
+Trick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Accursed Brew
+cost: {1}{B}{B} => {B}
+rules_text: Target creature gets -3/-3 until end of turn. Each other creature gets -1/-1 until end of turn. => As an additional cost to cast this spell, you may sacrifice an artifact or creature.
+Target creature gets -2/-2 until end of turn. If this spell's additional cost was paid, that creature gets -4/-4 until end of turn instead.
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Choir Bell
+rules_text: When this artifact enters or leaves the battlefield, create a 1/1 white Human creature token.
+{4}, {T}, Sacrifice this artifact: Creatures you control get +1/+1 and gain lifelink until end of turn. => When this artifact enters or leaves the battlefield, create a 1/1 white Human creature token, then attach target Equipment you control to it.
+{4}, {T}, Sacrifice this artifact: Creatures you control get +1/+1 and gain lifelink until end of turn.
+
+Executioner's Gloves
+rules_text: When this artifact enters or leaves the battlefield, surveil 2.
+{4}, {T}, Sacrifice this artifact: Destroy target creature. => When this artifact enters or leaves the battlefield, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{3}, {T}, Sacrifice this artifact: Destroy target creature.
+
+Poison Knife
+rules_text: When this artifact enters, each opponent sacrifices a creature.
+{4}, {T}: Each opponent loses 2 life. If mana produced by a Coldblood was used to activate this ability, copy this ability. => When this artifact enters, each opponent sacrifices a creature.
+{2}, {T}: Each opponent loses 1 life. If mana produced by a Coldblood was used to activate this ability, copy this ability.
+
+Amygdalan Arm Club
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +3/+3.
+Trick weapon {3} [i]({3}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +3/+3.
+Trick weapon {3} [i]({3}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Burial Blade
+rules_text: Equipped creature has “{T}, Sacrifice a creature or artifact: You draw a card and lose 1 life.”
+Trick weapon {1} [i]({1}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => Equipped creature has “{T}, Sacrifice a creature or artifact: You draw a card and lose 1 life.”
+Trick weapon {1} [i]({1}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Hunter's Cannon
+cost: {4}{R} => {3}{R}
+rules_text: When this Equipment enters, choose one—
+• This artifact deals 5 damage to target creature you don't control.
+• Destroy target artifact.
+Equipped creature gets +1/+0 and has menace.
+Equip {2} => When this Equipment enters, choose one—
+• This artifact deals 5 damage to target creature you don't control.
+• Destroy target artifact.
+Equipped creature gets +2/+1 and has menace.
+Equip {4}
+
+Church Cannon
+rules_text: When this Equipment enters, choose one—
+• Destroy target creature you don't control with power 3 or greater.
+• Destroy target artifact.
+Equipped creature gets +1/+1 and has vigilance.
+Equip {2} => When this Equipment enters, choose one—
+• Destroy target creature you don't control with power 3 or greater.
+• Destroy target artifact.
+Equipped creature gets +1/+2 and has vigilance.
+Equip {3}
+
+Church Sword
+rules_text: When this Equipment enters, create a 1/1 white Human creature token, then attach this to it.
+Equipped creature gets +1/+1.
+Trick weapon {2} [i]({2}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => When this Equipment enters, create a 1/1 white Human creature token, then attach this to it.
+Equipped creature gets +1/+1.
+Trick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Kos, Mother of the Nightmare
+rules_text: [i](Kos is colorless. Whenever you commune with Kos, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever Kos or another Great One you control attacks, create two 2/2 blue Fish Horror creature tokens that are tapped and attacking. => [i](Kos is colorless. Whenever you awaken Kos, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever Kos or another Great One you control attacks, create two 2/2 blue Fish Horror creature tokens that are tapped and attacking.
+
+Kos Parasite
+rules_text: When this enchantment enters, commune with Kos. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, target player mills two cards. => When this enchantment enters, commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, target player mills two cards.
+
+The Brain of Mensis
+rules_text: [i](The Brain is Colorless. Whenever you commune with The Brain, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever The Brain or another Great One you control attacks, you may discard a card, if you do, that creature can't be blocked this turn, then increase your insight. 
+You do not lose life when increasing your insight. => [i](The Brain is Colorless. Whenever you awaken The Brain, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever The Brain or another Great One you control attacks, you may discard a card, if you do, that creature can't be blocked this turn, then increase your insight. 
+If you would lose life while gaining insight, you lose 2 less life instead.
+
+Make Contact
+rules_text: When this enchantment enters, commune with The Brain of Mensis. [i](If you don't control The Brain of Mensis, create a token of them. Then commune with a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, draw a card. This ability triggers only once per turn. => When this enchantment enters, commune with The Brain of Mensis. [i](If you don't control The Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, draw a card. This ability triggers only once per turn.
+
+Flora, the Moon Presence
+rules_text: [i](Flora is colorless. Whenever you commune with Flora, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever Flora or another Great One you control attacks, up to one target creature you control fights target creature you don't control. When a creature dies this way, create a 3/3 green Beast creature token. => [i](Flora is colorless. Whenever you awaken Flora, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever Flora or another Great One you control attacks, up to one target creature you control fights target creature you don't control. When a creature dies this way, create a 3/3 green Beast creature token.
+
+Ebrietas, Daughter of the Cosmos
+rules_text: [i](Ebrietas is colorless. Whenever you commune with Ebrietas, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever Ebrietas or another Great One you control attacks, put a +1/+1 counter on each creature you control and each noncreature Great One you control. If you've completed the Chalice Dungeon, put three additional +1/+1 counters on each Great One you control. => [i](Ebrietas is colorless. Whenever you awaken Ebrietas, she becomes a creature in addition to her other types until your next turn.)[/i]
+Whenever Ebrietas or another Great One you control attacks, put a +1/+1 counter on each creature you control and each noncreature Great One you control. If you've completed the Chalice Dungeon, put three additional +1/+1 counters on each Great One you control.
+
+Formless Oedon
+rules_text: [i](Oedon is colorless. Whenever you commune with Oedon, he becomes a creature in addition to his other types until your next turn.)[/i]
+Oedon can't attack unless you have six or more insight.
+Whenever you commune with Oedon, you gain 3 life, then each other Great One you control becomes a creature in addition to its other types until your next turn. => [i](Oedon is colorless. Whenever you awaken Oedon, he becomes a creature in addition to his other types until your next turn.)[/i]
+[i]Blood Moon[/i] — Oedon can't attack unless you have three or more insight.
+Whenever you awaken Oedon, you gain 3 life, then awaken each other Great One you control.
+
+Rom, the Vacuous Spider
+rules_text: When Rom enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Then commune with a Great One you control.)[/i]
+Whenever Rom attacks, return her to her owner's hand. When you do, create three 1/3 green Spider Kin enchantment creature tokens. => When Rom enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever Rom attacks, return her to her owner's hand. When you do, create three 1/3 green Spider Kin enchantment creature tokens.
+
+Orphan of Kos
+rules_text: At the beginning of combat on your turn, commune with Kos. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control.)[/i]
+[i]Constellation[/i] — Whenever Orphan of Kos or another enchantment you control enters, draw a card.
+Other enchantments you control have hexproof and indestructible. => When Orphan of Kos enters, commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever Orphan of Kos or another Great One you control enters, draw a card.
+Other enchantments you control have hexproof and indestructible.
+
+Celestial Emissary
+rules_text: As an additional cost to cast Celestial Emissary, return a nonland permanent you control to its owner's hand or pay {2}.
+Ward {1}
+When Celestial Emissary enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Then commune with a Great One you control.)[/i] => As an additional cost to cast Celestial Emissary, return a nonland permanent you control to its owner's hand or pay {2}.
+Ward {1}
+When Celestial Emissary enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+The Doll
+rules_text: When The Doll enters and at the beginning of your upkeep, Commune with Flora. [i](If you don't control Flora, create a token of them. Then commune with a Great One you control.)[/i]
+{2}: Put a +1/+1 counter on another target creature and you gain 1 life. If that creature is a Hunter, draw a card. If mana produced by a Coldblood was used to activate this ability, copy this ability. => When The Doll enters, Commune with Flora. [i](If you don't control Flora, create a token of them. Then commune with a Great One you control.)[/i]
+{2}: Put a +1/+1 counter on another target creature and you gain 1 life. If that creature is a Hunter, draw a card. If mana produced by a Coldblood was used to activate this ability, copy this ability.
+
+Fishing Hamlet Priest
+rules_text: When this creature enters, choose one —
+• Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+• Commune with Kos. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control.)[/i]
+Whenever a creature attacks you, it gets -1/-0 until end of turn. => When this creature enters, choose one —
+• Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+• Commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever a creature attacks you, it gets -1/-0 until end of turn.
+
+White Church Hunter
+rules_text: Vigilance
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, create a 1/1 white Human creature token. => Vigilance
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, create a create a 1/1 white Human creature token, then attach target Equipment you control to it.
+
+Oedon Chapel Dweller
+rules_text: When this creature enters, commune with Oedon. [i](If you don't control Oedon, create a token of them. Then commune with a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, you gain 1 life. => When this creature enters, commune with Oedon. [i](If you don't control Oedon, create a token of them. Otherwise awaken a Great One you control.)[/i]
+[i]Otherworldly[/i] — Whenever a token enters under your control, you gain 1 life.
+
+Old Hunter
+rules_text: Whenever this creature deals combat damage to a Beast, destroy that Beast.
+{2}: This creature gets +1/+1 until end of turn. If mana produced by a Coldblood was used to activate this ability, put a +1/+1 counter on this creature instead. => Whenever this creature deals combat damage to a player, create a Coldblood token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}{C}. This mana can't be spent to cast spells from your hand.”)[/i]
+{2}: This creature gets +1/+1 until end of turn. If mana produced by a Coldblood was used to activate this ability, put a +1/+1 counter on this creature instead.
+
+Tomb Prospector
+rules_text: Whenever this creature deals combat damage to a player, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Sacrifice another creature or artifact: This creature gains indestructible until end of turn. Tap it. => Whenever this creature attacks, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Sacrifice another creature or artifact: This creature gains indestructible until end of turn. Tap it.
+
+Yurie, the Last Scholar
+rules_text: When Yurie enters, return target nonland permanent to its owner's hand.
+Whenever an artifact you control leaves the battlefield during your turn, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Then commune with a Great One you control.)[/i] => When Yurie enters, return target nonland permanent to its owner's hand.
+Whenever an artifact you control leaves the battlefield during your turn, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Bound Widow
+rules_text: Vigilance
+{5}, Exile this card from your graveyard: Create two 1/1 white Human creature tokens. => Vigilance
+When this creature dies, create a 1/1 white Human creature token, then attach target Equipment you control to it.
+
+Brain Sucker
+rules_text: When this creature enters, commune with Oedon. [i](If you don't control Oedon, create a token of them. Then commune with a Great One you control.)[/i]
+Whenever this creature deals combat damage to a player, that player loses an insight. Then you may increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => When this creature enters, commune with Oedon. [i](If you don't control Oedon, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Whenever this creature deals combat damage to a player, that player loses an insight. Then you may increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Celestial Minion
+rules_text: When this creature enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Then commune with a Great One you control.)[/i] => When this creature enters, commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Lost Church Giant
+rules_text: Whenever you gain life, create a 1/1 white Human creature token. This ability triggers only once per turn. => Whenever you gain life, create a 1/1 white Human creature token, then attach target Equipment you control to it. This ability triggers only once per turn.
+
+Church Crucifier
+rules_text: When this creature enters, exile target nonland permanent you don't control until this leaves the battlefield.
+{5}: Put a card exiled by this creature into its owner's graveyard. When you do, you gain 2 life and create a 1/1 white Human creature token. => When this creature enters, exile target nonland permanent you don't control until this leaves the battlefield. You gain 2 life.
+{5}: Put a card exiled by this creature into its owner's graveyard. When you do, create a 1/1 white Human creature token, then attach target Equipment you control to it.
+
+Great Snake Ball
+rules_text: This creature enters with X +1/+1 counters on it.
+[i]Blood Moon[/i] — When this creature dies, if you have three or more insight, create a token that is a copy of it for each +1/+1 on it. => This creature enters with X +1/+1 counters on it.
+[i]Blood Moon[/i] — When this creature dies, if this isn't a token and you have three or more insight, create two tokens that are copies of it. Then distribute its counters among those copies.
+
+Hemwick Hammer Woman
+rules_text: Whenever you discard a card, each opponent loses 1 life and you gain 1 life.
+Madness {2}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Whenever a player discards a card, each opponent loses 1 life and you gain 1 life.
+Madness {2}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Hemwick Solderer
+rules_text: Whenever this creature enters or attacks, you may exile target card from a graveyard. If you exile a creature card this way, each opponent loses 1 life and you gain 1 life.
+Madness {2} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Whenever this creature enters or attacks, you may exile target card from a graveyard. If you exile a creature card this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Madness {2} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Keeper of the Old Lords
+rules_text: Whenever you cast a spell from anywhere other than your hand, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+As long as you have completed the Chalice Dungeon, this creature gets +1/+1 and has menace. => Whenever you cast a spell from anywhere other than your hand, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Sacrifice an artifact or creature: This creature gets +2/+0 until end of turn.
+
+Keeper's Hunting Dogs
+rules_text: Menace, haste
+When you cast this spell, if you have completed the Chalice Dungeon, copy this spell. [i](The copy enters as a token.)[/i] => Menace, haste
+When this creature deals combat damage to a player, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+
+Labyrinth Rat
+rules_text: Deathtouch
+{2}, Exile this card from your graveyard: Create a token that's a copy of this card. Activate this ability only if you have completed the Chalice Dungeon. => Lifelink, deathtouch
+
+Delve into the Labyrinth
+rules_text: When this enchantment enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+If the beginning of your end step causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => When this enchantment enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+If the beginning of your end step causes a triggered ability of a permanent or Dungeon you control to trigger, that ability triggers an additional time.
+
+Praise the Moon Presence
+rules_text: Commune with Flora [i](If you don't control Flora, create a token of them. Then commune with a Great One you control.)[/i]
+Create a 3/3 green Beast creature token. => Commune with Flora [i](If you don't control Flora, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Create a 3/3 green Beast creature token.
+
+Oedon Chapel
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Commune with Oedon. [i](If you don't control Oedon, create a token of them. Then commune with a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Commune with Oedon. [i](If you don't control Oedon, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Nightmare Boar
+rules_text: When this creature enters, commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Then commune with a Great One you control.)[/i] => When this creature enters, commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Labyrinth Flaming Swordsman
+rules_text: When this creature enters, you may attach target Equipment you control to target creature you control. Then you may transform that Equipment. => Whenever this creature attacks, you may attach target Equipment you control to target creature you control. Then you may transform that Equipment.
+
+Twin Dagger Watcher
+rules_text: This creature enters tapped.
+{2}, Sacrifice a creature or artifact: Return this creature card from your graveyard to the battlefield. Activate only if you've completed the Chalice Dungeon. => This creature enters tapped.
+{2}, Sacrifice a creature or artifact: Return this creature card from your graveyard to the battlefield. Activate only if you've ventured into the Chalice Dungeon this turn.
+
+Lantern Watcher
+rules_text: When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Exhaust — {2}: Return target creature card from your graveyard to the battlefield. Activate only if you've completed the Chalice Dungeon. [i](Activate each exhaust ability only once.)[/i] => When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Exhaust — {2}{B}{B}: Return target creature card from your graveyard to the battlefield. [i](Activate each exhaust ability only once.)[/i]
+
+Merciless Butcher
+cost: {5}{B}{B} => {2}{B}{B}
+rules_text: When this creature enters, destroy target creature.
+Whenever this creature attacks, if you've completed the Chalice Dungeon, each opponent loses 2 life. => When this creature enters, destroy target creature an opponent controls. If that creature's power was 2 or less, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+pt: 5/3 => 2/2
+
+Merciless Mace
+rules_text: At the beginning of your end step, if this creature didn't attack this turn, you lose 2 life unless you've completed the Chalice Dungeon. => At the beginning of your end step, if this creature didn't attack this turn, you lose 2 life unless you sacrifice a creature. When you sacrifice a creature this way, Venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+
+Nightmare Executioner
+rules_text: Lifelink
+Whenever another nontoken creature you control dies, create a 1/1 white Human creature token. This ability triggers only once per turn. => Lifelink
+Whenever another nontoken creature you control dies, create a 1/1 white Human creature token, then attach target Equipment you control to it. This ability triggers only once per turn.
+
+Slime Scholar
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Then commune with a Great One you control.)[/i] => Prowess
+Whenever you cast a spell from anywhere other than your hand, commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Rifle Gravedigger
+rules_text: When this creature enters or dies, mill three cards.
+When this creature dies, if you've completed the Chalice Dungeon, target creature an opponent controls gets -3/-3 until end of turn. => When this creature enters or dies, mill three cards.
+Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. [i](Activate each exhaust ability only once.)[/i]
+
+Beast Rune
+rules_text: Enchant permanent
+When this Aura enters, create a 3/3 green Beast creature token, then put a +1/+1 counter on it for each enchantment you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, put a +1/+1 counter on it.”
+Enchanted Equipment has “Whenever equipped creature attacks, put a +1/+1 counter on it.” => Enchant permanent
+When this Aura enters, create a 3/3 green Beast creature token.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create a 3/3 green Beast creature token.”
+Enchanted Equipment has “Whenever equipped creature attacks, create a 3/3 green Beast creature token.”
+
+Clawmark Rune
+cost: {4}{G} => {1}{G}
+rules_text: Enchant permanent
+When this Aura enters, creatures you control get +X/+X until end of turn, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, it gets +2/+2 and gains trample until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, it gets +2/+2 and gains trample until end of turn.” => Enchant permanent
+When this Aura enters, put a +1/+1 counter on target creature you control. It gains trample until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, put a +1/+1 counter on target creature you control. It gains trample until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, put a +1/+1 counter on target creature you control. It gains trample until end of turn.”
+
+Blood Rapture
+cost: {2}{B} => {B}
+rules_text: Enchant permanent
+When this Aura enters, destroy target creature you don't control with power X or less, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.”
+Enchanted Equipment has “Whenever equipped creature attacks, each opponent loses 1 life and you gain 1 life.” => Enchant permanent
+When this Aura enters, each opponent loses 1 life and you gain 1 life.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.”
+Enchanted Equipment has “Whenever equipped creature attacks, each opponent loses 1 life and you gain 1 life.”
+
+Anti-Clockwise Metamorphosis
+cost: {1}{R} => {R}
+rules_text: Enchant permanent
+When this Aura enters, it deals X damage to target creature you don't control, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, it gets +2/+0 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, it gets +2/+0 until end of turn.” => Enchant permanent
+When this Aura enters, it deals 1 damage to any target.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, it deals 1 damage to any target.”
+Enchanted Equipment has “Whenever equipped creature attacks, it deals 1 damage to any target.”
+
+Moon Rune
+rules_text: Enchant permanent
+When this Aura enters, up to X target creatures can't block this turn, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, discard a card then draw a card.”
+Enchanted Equipment has “Whenever equipped creature attacks, discard a card then draw a card.” => Enchant permanent
+When this Aura enters, discard a card then draw a card.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, discard a card then draw a card.”
+Enchanted Equipment has “Whenever equipped creature attacks, discard a card then draw a card.”
+
+Guidance Rune
+cost: {1}{U} => {2}{U}
+rules_text: Enchant permanent
+When this Aura enters, surveil X, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, draw a card.”
+Enchanted Equipment has “Whenever equipped creature attacks, draw a card.” => Enchant permanent
+When this Aura enters, draw a card.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, draw a card.”
+Enchanted Equipment has “Whenever equipped creature attacks, draw a card.”
+
+Deep Sea Rune
+cost: {2}{U} => {3}{U}
+rules_text: Enchant permanent
+When this Aura enters, tap up to X target permanents, where X is the number of enchantments you control. Put a stun counter on one of them.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create a 2/2 blue Fish Horror enchantment creature token that's tapped and attacking.”
+Enchanted Equipment has “Whenever equipped creature attacks, create a 2/2 blue Fish Horror enchantment creature token that's tapped and attacking.” => Enchant permanent
+When this Aura enters, tap target permanent and put a stun counter on it.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, tap target permanent and put a stun counter on it.”
+Enchanted Equipment has “Whenever equipped creature attacks, tap target permanent and put a stun counter on it.”
+
+Lake Rune
+cost: {3}{U} => {1}{U}
+rules_text: Enchant permanent
+When this Aura enters, put target nonland permanent you don't control into its owner's library just beneath the top X cards of that library, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, target player mills four cards.”
+Enchanted Equipment has “Whenever equipped creature attacks, target player mills four cards.” => Enchant permanent
+When this Aura enters, target player mills four cards.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, target player mills four cards.”
+Enchanted Equipment has “Whenever equipped creature attacks, target player mills four cards.”
+
+Eye Rune
+cost: {2}{U} => {U}
+rules_text: Enchant permanent
+When this Aura enters, look at the top X cards of your library, where X is the number of enchantments you control. Put one into your hand and the rest on the bottom of your library in any order.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, until end of turn target creature gets +1/+0 and can't be blocked.”
+Enchanted Equipment has “Whenever equipped creature attacks, until end of turn target creature gets +1/+0 and can't be blocked.” => Enchant permanent
+When this Aura enters, surveil 2.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, surveil 2.”
+Enchanted Equipment has “Whenever equipped creature attacks, surveil 2.”
+
+Clockwise Metamorphosis
+rules_text: Enchant permanent
+When this Aura enters, you gain 2 life for each enchantment you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, tap target creature.”
+Enchanted Equipment has “Whenever equipped creature attacks, tap target creature.” => Enchant permanent
+When this Aura enters, tap target creature.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, tap target creature.”
+Enchanted Equipment has “Whenever equipped creature attacks, tap target creature.”
+
+Oedon Writhe
+cost: {3}{W} => {1}{W}
+rules_text: Enchant permanent
+When this Aura enters, create a 1/1 white Human creature token for each enchantment you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, creatures you control get +1/+1 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, creatures you control get +1/+1 until end of turn.” => Enchant permanent
+When this Aura enters, creatures you control get +1/+1 until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, creatures you control get +1/+1 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, creatures you control get +1/+1 until end of turn.”
+
+Communion Rune
+cost: {1}{W} => {W}
+rules_text: Enchant permanent
+When this Aura enters, create a Blood token for each enchantment you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, it gets +1/+2 and gains lifelink until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, it gets +1/+2 and gains lifelink until end of turn.” => Enchant permanent
+When this Aura enters, create a Blood or a Coldblood token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}{C}. This mana can't be spent to cast spells from your hand.”)[/i]
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create a Blood or a Coldblood token.”
+Enchanted Equipment has “Whenever equipped creature attacks, create a Blood or a Coldblood token.”
+
+Heir Rune
+cost: {3}{W} => {4}{W}
+rules_text: Enchant permanent
+When this Aura enters, return target permanent card with mana value X or less from your graveyard to the battlefield, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, it gets +1/+1 until end of turn for each enchantment you control.”
+Enchanted Equipment has “Whenever equipped creature attacks, it gets +1/+1 until end of turn for each enchantment you control.” => Enchant permanent
+When this Aura enters, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.”
+Enchanted Equipment has “Whenever equipped creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.”
+
+Impurity Oath
+cost: {3}{W}{B} => {2}{W}{B}
+rules_text: Enchant permanent
+At the beginning of your upkeep, create X tokens that are copies of a token you control, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.”
+Enchanted Equipment has “Whenever equipped creature attacks, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.” => Enchant permanent
+When this Aura enters, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.”
+Enchanted Equipment has “Whenever equipped creature attacks, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.”
+
+Radiance Oath
+cost: {2}{W}{W} => {3}{W}{W}
+rules_text: Enchant permanent
+At the beginning of your upkeep, you gain X life, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create three tapped and attacking 1/1 white Human creature tokens.”
+Enchanted Equipment has “Whenever equipped creature attacks, create three tapped and attacking 1/1 white Human creature tokens.” => Enchant permanent
+When this Aura enters, create three 1/1 white Human creature tokens.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create three 1/1 white Human creature tokens.”
+Enchanted Equipment has “Whenever equipped creature attacks, create three 1/1 white Human creature tokens.”
+
+Milkweed Oath
+rules_text: Enchant permanent
+At the beginning of your upkeep, look at the top X cards of your library, where X is the number of enchantments you control. Put up to one of them on top of your library and the rest on the bottom of your library in a random order.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, exile target permanent you control, then return it to the battlefield under its owner's control.”
+Enchanted Equipment has “Whenever equipped creature attacks, exile target permanent you control, then return it to the battlefield under its owner's control.” => Enchant permanent
+When this Aura enters, exile target artifact or creature you control, then return it to the battlefield under its owner's control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.”
+Enchanted Equipment has “Whenever equipped creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.”
+
+Beast's Embrace Oath
+cost: {2}{R}{R} => {1}{R}{R}
+rules_text: Enchant permanent
+At the beginning of your upkeep, gain control of target creature with power X or less until end of turn, where X is the number of enchantments you control. Untap that creature. It gains haste until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, creatures you control get +2/+0 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, creatures you control get +2/+0 until end of turn.” => Enchant permanent
+When this Aura enters, creatures you control get +2/+0 until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, creatures you control get +2/+0 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, creatures you control get +2/+0 until end of turn.”
+
+Hunter's Oath
+rules_text: Enchant permanent
+At the beginning of your upkeep, target creature you control gets +X/+X until end of turn, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.”
+Enchanted Equipment has “Whenever equipped creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.” => Enchant permanent
+When this Aura enters, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.”
+Enchanted Equipment has “Whenever equipped creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.”
+
+Corruption Oath
+cost: {3}{B}{B} => {B}{B}
+rules_text: Enchant permanent
+At the beginning of your upkeep, each opponent loses X life, where X is the number of enchantments you control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, return target creature card from your graveyard to your hand.”
+Enchanted Equipment has “Whenever equipped creature attacks, return target creature card from your graveyard to your hand.” => Enchant permanent
+When this Aura enters, return target creature card from your graveyard to your hand.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, return target creature card from your graveyard to your hand.”
+Enchanted Equipment has “Whenever equipped creature attacks, return target creature card from your graveyard to your hand.”
+
+Beast Cutter
+rules_text: When this Equipment enters, attach it to target creature you control. Then you may have that creature fight target creature you don't control.
+Equipped creature gets +2/+1.
+Trick weapon {2} [i]({2}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => When this Equipment enters, attach it to target creature you control. Then you may have that creature fight target creature you don't control.
+Equipped creature gets +2/+1.
+Trick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Beast Hunter Saif
+rules_text: When this Equipment enters, destroy target creature you don't control.
+Equipped creature gets +2/+0.
+Trick weapon {3} [i]({3}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => When this Equipment enters, destroy target creature you don't control.
+Equipped creature gets +3/+0.
+Trick weapon {4} [i]({4}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Kirkhammer
+rules_text: When this Equipment enters, destroy up to one target artifact or enchantment.
+Equipped creature gets +2/+2.
+Trick weapon {2} [i]({2}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => When this Equipment enters, destroy up to one target artifact or enchantment.
+Equipped creature gets +2/+2.
+Trick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Logarius' Wheel
+rules_text: Equipped creature gets +1/+1 and has vigilance, trample, and haste.
+Trick weapon {1} [i]({1}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => Equipped creature gets +1/+1 and has vigilance, trample, and haste.
+Trick weapon {1} [i]({1}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Rifle Spear
+rules_text: When this Equipment enters, create a Blood token.
+Equipped creature gets +2/+0.
+Trick weapon {2} [i]({2}: Transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i] => When this Equipment enters, create a Blood token.
+Equipped creature gets +1/+1.
+Trick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]
+
+Piercing Rifle
+rules_text: When this Equipment enters, it deals 3 damage to target creature you don't control. Excess damage is dealt to that creature's controller instead.
+As long as it's your turn, equipped creature gets +1/+0 and has first strike.
+Equip {2} => When this Equipment enters, it deals 3 damage to target creature you don't control. Excess damage is dealt to that creature's controller instead.
+As long as it's your turn, equipped creature gets +2/+0 and has first strike.
+Equip {3}
+
+Hunter's Dream
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Commune with Flora. [i](If you don't control Flora, create a token of them. Then commune with a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Commune with Flora. [i](If you don't control Flora, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Byrgenwerth
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Then commune with a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Ebrietas. [i](If you don't control Ebrietas, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Fishing Hamlet
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Kos. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Kos. [i](If you don't control Kos, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Nightmare of Mensis
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Then commune with a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Otherwise awaken a Great One you control.)[/i]
+
+Gift of the Moon
+rules_text: Commune with Flora. [i](If you don't control Flora, create a token of them. Then commune with a Great One you control.)[/i]
+Target creature you control gets +3/+3 and gains trample until end of turn. => Commune with Flora. [i](If you don't control Flora, create a token of them. Otherwise awaken a Great One you control.)[/i]
+Target creature you control gets +3/+3 and gains trample until end of turn.
+
+Wander the Woods
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Flashback {1}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Flashback {2}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Behold! A Paleblood Sky added.
