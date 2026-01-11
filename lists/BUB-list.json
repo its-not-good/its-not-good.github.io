@@ -2505,6 +2505,13 @@
         "position": "106"
     },
     {
+        "card_name": "Insight",
+        "number": 1,
+        "shape": "token",
+        "set": "BUB",
+        "position": "356"
+    },
+    {
         "card_name": "Blood",
         "number": 13,
         "shape": "token",
@@ -2601,6 +2608,18 @@
         "shape": "token",
         "set": "BUB",
         "position": "82"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

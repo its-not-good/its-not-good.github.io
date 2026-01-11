@@ -1,4 +1,21 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Insight added.
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+The Hunter's Armory
+rules_text: Whenever this or another artifact you control enters, you may mill two cards.
+Once during each of your turns, you may cast a spell from your graveyard by sacrificing an artifact in addition to paying its other costs. => Whenever this or another artifact you control enters, you may mill two cards.
+Once during each of your turns, you may cast an artifact spell from your graveyard by sacrificing an artifact in addition to paying its other costs.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Snail Woman added.
