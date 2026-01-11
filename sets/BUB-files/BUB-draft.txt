@@ -3720,6 +3720,16 @@
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/355.png"
 			}
+		},
+		{
+			"name": "Insight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/356.png"
+			}
 		}
 	]
 
