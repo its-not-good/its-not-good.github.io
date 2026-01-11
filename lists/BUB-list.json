@@ -308,7 +308,7 @@
         "position": "148"
     },
     {
-        "card_name": "Viceral Attack",
+        "card_name": "Visceral Attack",
         "number": 255,
         "shape": "normal",
         "set": "BUB",
@@ -329,11 +329,11 @@
         "position": "54"
     },
     {
-        "card_name": "Accursed Brew",
-        "number": 104,
+        "card_name": "Bastard of Loran",
+        "number": 105,
         "shape": "normal",
         "set": "BUB",
-        "position": "14"
+        "position": "53"
     },
     {
         "card_name": "Anti-Clockwise Metamorphosis",
@@ -364,11 +364,11 @@
         "position": "251"
     },
     {
-        "card_name": "Bastard of Loran",
-        "number": 105,
-        "shape": "normal",
+        "card_name": "Beast Hunter Saif",
+        "number": 106,
+        "shape": "transform double faced",
         "set": "BUB",
-        "position": "53"
+        "position": "309"
     },
     {
         "card_name": "Blood Saint",
@@ -399,11 +399,11 @@
         "position": "252"
     },
     {
-        "card_name": "Beast Hunter Saif",
-        "number": 106,
-        "shape": "transform double faced",
+        "card_name": "Bell-Ringing Woman",
+        "number": 108,
+        "shape": "normal",
         "set": "BUB",
-        "position": "309"
+        "position": "101"
     },
     {
         "card_name": "Bloodshot Eyeball",
@@ -434,11 +434,11 @@
         "position": "295"
     },
     {
-        "card_name": "Bell-Ringing Woman",
-        "number": 108,
+        "card_name": "Blood Rapture",
+        "number": 111,
         "shape": "normal",
         "set": "BUB",
-        "position": "101"
+        "position": "291"
     },
     {
         "card_name": "Boom Hammer",
@@ -469,11 +469,11 @@
         "position": "191"
     },
     {
-        "card_name": "Blood Rapture",
-        "number": 111,
+        "card_name": "Bloodlicker",
+        "number": 113,
         "shape": "normal",
         "set": "BUB",
-        "position": "291"
+        "position": "168"
     },
     {
         "card_name": "Burden of the Hunt",
@@ -504,11 +504,11 @@
         "position": "297"
     },
     {
-        "card_name": "Bloodlicker",
-        "number": 113,
+        "card_name": "The Bloody Crow of Cainhurst",
+        "number": 114,
         "shape": "normal",
         "set": "BUB",
-        "position": "168"
+        "position": "13"
     },
     {
         "card_name": "Burning the Dream",
@@ -539,11 +539,11 @@
         "position": "129"
     },
     {
-        "card_name": "The Bloody Crow of Cainhurst",
-        "number": 114,
+        "card_name": "Cramped Casket",
+        "number": 120,
         "shape": "normal",
         "set": "BUB",
-        "position": "13"
+        "position": "186"
     },
     {
         "card_name": "Discple of Djura",
@@ -574,11 +574,11 @@
         "position": "294"
     },
     {
-        "card_name": "Cramped Casket",
-        "number": 120,
+        "card_name": "Delve into the Labyrinth",
+        "number": 121,
         "shape": "normal",
         "set": "BUB",
-        "position": "186"
+        "position": "217"
     },
     {
         "card_name": "Elder Huntsman",
@@ -609,11 +609,11 @@
         "position": "210"
     },
     {
-        "card_name": "Delve into the Labyrinth",
-        "number": 121,
+        "card_name": "Hemwick Hammer Woman",
+        "number": 127,
         "shape": "normal",
         "set": "BUB",
-        "position": "217"
+        "position": "202"
     },
     {
         "card_name": "Fire Paper",
@@ -819,11 +819,11 @@
         "position": "268"
     },
     {
-        "card_name": "Merciless Butcher",
-        "number": 138,
+        "card_name": "Merciless Mace",
+        "number": 139,
         "shape": "normal",
         "set": "BUB",
-        "position": "249"
+        "position": "250"
     },
     {
         "card_name": "Labyrinth Madman",
@@ -854,11 +854,11 @@
         "position": "267"
     },
     {
-        "card_name": "Merciless Mace",
-        "number": 139,
+        "card_name": "Numbing Mist",
+        "number": 141,
         "shape": "normal",
         "set": "BUB",
-        "position": "250"
+        "position": "52"
     },
     {
         "card_name": "Moon Rune",
@@ -889,11 +889,11 @@
         "position": "266"
     },
     {
-        "card_name": "Numbing Mist",
-        "number": 141,
+        "card_name": "Old Hunter",
+        "number": 142,
         "shape": "normal",
         "set": "BUB",
-        "position": "52"
+        "position": "144"
     },
     {
         "card_name": "Powder Keg Hunter",
@@ -917,11 +917,11 @@
         "position": "218"
     },
     {
-        "card_name": "Tiny Music Box",
-        "number": 96,
+        "card_name": "Snail Woman",
+        "number": 95,
         "shape": "normal",
         "set": "BUB",
-        "position": "50"
+        "position": "269"
     },
     {
         "card_name": "Pickaxe Gravedigger",
@@ -952,11 +952,11 @@
         "position": "59"
     },
     {
-        "card_name": "UU16 Snail Woman",
-        "number": 99,
+        "card_name": "Tiny Music Box",
+        "number": 97,
         "shape": "normal",
         "set": "BUB",
-        "position": "269"
+        "position": "50"
     },
     {
         "card_name": "Rifle Gravedigger",
@@ -1064,11 +1064,11 @@
         "position": "114"
     },
     {
-        "card_name": "Beast of the Hunt",
-        "number": 107,
+        "card_name": "Accursed Brew",
+        "number": 104,
         "shape": "normal",
         "set": "BUB",
-        "position": "163"
+        "position": "14"
     },
     {
         "card_name": "Afflicted Beggar",
@@ -1099,11 +1099,11 @@
         "position": "15"
     },
     {
-        "card_name": "Blood Gel",
-        "number": 109,
+        "card_name": "Beast of the Hunt",
+        "number": 107,
         "shape": "normal",
         "set": "BUB",
-        "position": "165"
+        "position": "163"
     },
     {
         "card_name": "Ailing Loran Chalice",
@@ -1134,11 +1134,11 @@
         "position": "99"
     },
     {
-        "card_name": "Blood Minister",
-        "number": 110,
+        "card_name": "Blood Gel",
+        "number": 109,
         "shape": "normal",
         "set": "BUB",
-        "position": "103"
+        "position": "165"
     },
     {
         "card_name": "Beast Blood Pellet",
@@ -1169,11 +1169,11 @@
         "position": "12"
     },
     {
-        "card_name": "Church Assassin",
-        "number": 117,
+        "card_name": "Blood Minister",
+        "number": 110,
         "shape": "normal",
         "set": "BUB",
-        "position": "104"
+        "position": "103"
     },
     {
         "card_name": "Blacksky Eye",
@@ -1204,11 +1204,11 @@
         "position": "194"
     },
     {
-        "card_name": "Church Executioner",
-        "number": 118,
+        "card_name": "Church Assassin",
+        "number": 117,
         "shape": "normal",
         "set": "BUB",
-        "position": "190"
+        "position": "104"
     },
     {
         "card_name": "Bleeding Huntsman",
@@ -1239,11 +1239,11 @@
         "position": "192"
     },
     {
-        "card_name": "Executioner's Gloves",
-        "number": 123,
+        "card_name": "Church Executioner",
+        "number": 118,
         "shape": "normal",
         "set": "BUB",
-        "position": "44"
+        "position": "190"
     },
     {
         "card_name": "Bloodletter Mace",
@@ -1274,11 +1274,11 @@
         "position": "224"
     },
     {
-        "card_name": "Great Pthumeru Ihyll Chalice",
-        "number": 124,
+        "card_name": "Executioner's Gloves",
+        "number": 123,
         "shape": "normal",
         "set": "BUB",
-        "position": "283"
+        "position": "44"
     },
     {
         "card_name": "Bloodmad Blitz",
@@ -1309,11 +1309,11 @@
         "position": "95"
     },
     {
-        "card_name": "Halberd Watcher",
-        "number": 125,
+        "card_name": "Great Pthumeru Ihyll Chalice",
+        "number": 124,
         "shape": "normal",
         "set": "BUB",
-        "position": "237"
+        "position": "283"
     },
     {
         "card_name": "Boulder Defense",
@@ -1344,11 +1344,11 @@
         "position": "284"
     },
     {
-        "card_name": "Hemwick Grave Woman",
-        "number": 126,
+        "card_name": "Halberd Watcher",
+        "number": 125,
         "shape": "normal",
         "set": "BUB",
-        "position": "201"
+        "position": "237"
     },
     {
         "card_name": "Cannon Huntsman",
@@ -1379,11 +1379,11 @@
         "position": "340"
     },
     {
-        "card_name": "Hemwick Hammer Woman",
-        "number": 127,
+        "card_name": "Hemwick Grave Woman",
+        "number": 126,
         "shape": "normal",
         "set": "BUB",
-        "position": "202"
+        "position": "201"
     },
     {
         "card_name": "Empty Phantasm Shell",
@@ -1554,11 +1554,11 @@
         "position": "115"
     },
     {
-        "card_name": "Narrow Minded Man",
-        "number": 140,
+        "card_name": "Merciless Butcher",
+        "number": 138,
         "shape": "normal",
         "set": "BUB",
-        "position": "142"
+        "position": "249"
     },
     {
         "card_name": "Keeper's Hunting Dogs",
@@ -1589,11 +1589,11 @@
         "position": "110"
     },
     {
-        "card_name": "Old Hunter",
-        "number": 142,
+        "card_name": "Narrow Minded Man",
+        "number": 140,
         "shape": "normal",
         "set": "BUB",
-        "position": "144"
+        "position": "142"
     },
     {
         "card_name": "Piercing Rifle",
@@ -1688,7 +1688,7 @@
     },
     {
         "card_name": "Spear-Thrower Fishman",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "BUB",
         "position": "195"
@@ -1723,7 +1723,7 @@
     },
     {
         "card_name": "Transcendence",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "BUB",
         "position": "220"
@@ -1758,7 +1758,7 @@
     },
     {
         "card_name": "Trawl Through the Muck",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "BUB",
         "position": "193"
