@@ -4,6 +4,11 @@
             "set_code": "BUB",
             "set_name": "Bloodborne: Universes Beyond",
             "formats": ""
+        },
+        {
+            "set_code": "YUB",
+            "set_name": "Yu Gi Oh Universes Beyond",
+            "formats": ""
         }
     ]
 }
