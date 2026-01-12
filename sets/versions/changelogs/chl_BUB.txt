@@ -1,4 +1,33 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Fishing Hamlet Priest
+rules_text: When this creature enters, choose one —
+• Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+• Commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i]
+Whenever a creature attacks you, it gets -1/-0 until end of turn. => When this creature enters, commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i]
+Whenever a creature attacks you, it gets -1/-0 until end of turn.
+
+Imposter Iosefka
+rules_text: When Imposter Iosefka enters, commune with Flora or Ebrietas. [i](Create a token of one that you don't control. Then commune with a Great One you control.)[/i]
+Enchantment creatures you control get +1/+1 and have trample. => When Imposter Iosefka enters, commune with Ebrietas or Flora. [i](Create an Ebrietas or Flora token or awaken a Great One you control.)[/i]
+Enchantment creatures you control get +1/+1 and have trample.
+
+Skeletal Puppet
+rules_text: Exhaust — {3}: Commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i] => Exhaust — {3}: Commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Parasite Larvae
+rules_text: Exhaust — {2}: Commune with the Brain of Mensis. [i](If you don't control the Brain of Mensis, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i] => Exhaust — {2}: Commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
