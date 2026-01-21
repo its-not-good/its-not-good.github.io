@@ -1,4 +1,165 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Tonitrus
+rules_text: When this artifact enters and whenever equipped creature attacks, put a charge counter on this artifact. Then you may remove three charge counters from this artifact. When you do, it deals 3 damage to any target.
+Equipped creature gets +1/+1.
+{2}: Attach this artifact to target creature you control. Put a charge counter on this artifact. => When this artifact enters and whenever equipped creature attacks, put a charge counter on this artifact. Then you may remove three charge counters from this artifact. When you do, it deals 3 damage to any target.
+Equipped creature gets +1/+1.
+{2}: Attach this artifact to target creature you control. Put a charge counter on this artifact. Activate only during your turn.
+
+Blue Elixir
+rules_text: {2}{U}, {T}, Sacrifice this artifact: Target creature gets +2/+0 and can't be blocked until end of turn.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card. => {2}{U}, {T}, Sacrifice this artifact: Target creature gets +2/+0 and can't be blocked until end of turn. Activate only as a sorcery.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.
+
+Bone Marrow Ash
+rules_text: {2}{B}, {T}, Sacrifice this artifact: Target creature gets -3/-3 until end of turn.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card. => {2}{B}, {T}, Sacrifice this artifact: Target creature gets -3/-3 until end of turn. Activate only as a sorcery.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.
+
+Molotov Cocktail
+rules_text: {3}{R}, {T}, Sacrifice this artifact: This artifact deals 4 damage to target player or Beast.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card. => {3}{R}, {T}, Sacrifice this artifact: This artifact deals 4 damage to target player or Beast. Activate only as a sorcery.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.
+
+Lead Elixir
+rules_text: {2}{G}, {T}, Sacrifice this artifact: Target creature gets +3/+3 and gains trample until end of turn.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card. => {2}{G}, {T}, Sacrifice this artifact: Target creature gets +3/+3 and gains trample until end of turn. Activate only as a sorcery.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.
+
+Pebble
+rules_text: {2}{W}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card. => {2}{W}, {T}, Sacrifice this artifact: Tap target creature and put a stun counter on it. Activate only as a sorcery.
+When this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.
+
+Oil Urn
+rules_text: When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Until end of turn all damage dealt to target permanent is doubled. => When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Until end of turn, all damage dealt to target permanent is doubled.
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Crazed Confrontation
+rules_text: Target creature you control fights target creature you don't control. Whenever one or more creatures die this way, you may increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => Choose one—
+• Target creature you control fights target creature you don't control. 
+• Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Fishman Mage
+rules_text: Prowess
+Exhaust — {2}: Commune with Kos. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i] => Prowess
+Exhaust — {2}: Commune with Kos. Activate only as a sorcery. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Skeletal Puppet
+rules_text: Exhaust — {3}: Commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i] => Exhaust — {3}: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Oedon Chapel
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Commune with Oedon. [i](Create an Oedon token or awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Commune with Oedon. Activate only as a sorcery. [i](Create an Oedon token or awaken a Great One you control.)[/i]
+
+Parasite Larvae
+rules_text: Exhaust — {2}: Commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i] => Exhaust — {2}: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Lantern Watcher
+rules_text: When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Exhaust — {2}{B}{B}: Return target creature card from your graveyard to the battlefield. [i](Activate each exhaust ability only once.)[/i] => When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Exhaust — {2}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Attendant of Mergo
+rules_text: [i]Blood Moon [/i]— At the beginning of combat on your turn, if you have three or more insight, you may discard a card. If you do, target noncreature Great One you control becomes a creature in addition to its other types until your next turn. => [i]Blood Moon [/i]— At the beginning of combat on your turn, if you have three or more insight, you may discard a card. If you do, awaken target Great One you control.
+
+Rifle Gravedigger
+rules_text: When this creature enters or dies, mill three cards.
+Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. [i](Activate each exhaust ability only once.)[/i] => When this creature enters or dies, mill three cards.
+Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Beast Rune
+cost: {3}{G} => {4}{G}
+
+Abandoned Hunter's Workshop
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}, Sacrifice this land: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => This land enters tapped.
+{T}: Add {U} or {B}.
+{4}, {T}, Sacrifice this land: Increase your insight. Activate only as a sorcery. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Hunter's Dream
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Commune with Flora. [i](Create a Flora token or awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{4}, {T}, Sacrifice this land: Commune with Flora. Activate only as a sorcery. [i](Create a Flora token or awaken a Great One you control.)[/i]
+
+Astral Clocktower
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{4}, {T}, Sacrifice this land: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. => This land enters tapped.
+{T}: Add {R} or {W}.
+{4}, {T}, Sacrifice this land: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. Activate only as a sorcery.
+
+Byrgenwerth
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Ebrietas. Activate only as a sorcery. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+
+Cathedral Ward
+rules_text: This land enters tapped.
+{T}: Add {W} or {B}.
+{4}, {T}, Sacrifice this land: Create two tokens that are copies of a token you control. => This land enters tapped.
+{T}: Add {W} or {B}.
+{4}, {T}, Sacrifice this land: Create two tokens that are copies of a token you control. Activate only as a sorcery.
+
+Fishing Hamlet
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Kos. [i](Create a Kos token or awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{4}, {T}, Sacrifice this land: Commune with Kos. Activate only as a sorcery. [i](Create a Kos token or awaken a Great One you control.)[/i]
+
+Nightmare of Mensis
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Commune with the Brain of Mensis. [i](Create a the Brain of Mensis token or awaken a Great One you control.)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{4}, {T}, Sacrifice this land: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control.)[/i]
+
+Forbidden Woods
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+{4}, {T}, Sacrifice this land: Mill three cards then return a creature card from your graveyard to your hand. => This land enters tapped.
+{T}: Add {B} or {G}.
+{4}, {T}, Sacrifice this land: Mill three cards then return a creature card from your graveyard to your hand. Activate only as a sorcery.
+
+Yahar'gul, Unseen Village
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+{4}, {T}, Sacrifice this land: Create three Blood tokens. => This land enters tapped.
+{T}: Add {B} or {R}.
+{4}, {T}, Sacrifice this land: Create three Blood tokens. Activate only as a sorcery.
+
+Childhood's Beginning
+rules_text: At the beginning of combat on your turn, choose target enchantment you control. If it is a Great One, it becomes an enchantment creature until end of turn. Otherwise, it becomes a Great One enchantment creature with base power and toughness equal to its mana value until end of turn. => At the beginning of combat on your turn, choose target enchantment you control. If it is a Great One, awaken it. Otherwise, it becomes a Great One enchantment creature with base power and toughness equal to its mana value until end of turn.
+
+The Hunter's Armory
+rules_text: Whenever this or another artifact you control enters, you may mill two cards.
+Once during each of your turns, you may cast an artifact spell from your graveyard by sacrificing an artifact in addition to paying its other costs. => Whenever this or another artifact you control enters, you may mill two cards.
+Once during each of your turns, you may cast an artifact spell from your graveyard by sacrificing an artifact in addition to paying its other costs. Whenever you cast an artifact spell this way, it enters with a finality counter on it.
+
+Crimes of the Church
+rules_text: Whenever a nontoken creature you control dies, return it to the battlefield tapped with a finality counter on it. It becomes a green Beast with base power and toughness 3/3. => Whenever one or more nontoken creatures you control die, return one of them to the battlefield tapped with a finality counter on it. It becomes a green Beast with base power and toughness 3/3. This ability triggers only once per turn.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
