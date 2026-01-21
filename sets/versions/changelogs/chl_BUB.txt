@@ -1,4 +1,52 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Fluorescent Flower added.
+Dark Well added.
+Blood Stone Shard added.
+Blood Rock added.
+Altar of Surgery added.
+Chalice Ritual Site added.
+The Cursed Coast added.
+Snake Infested Gravesite added.
+Great Bridge added.
+Grand Cathedral added.
+Hypogean Gaol added.
+
+Flourescent Flower removed.
+
+Cannon Huntsman
+cost: {2}{R} => {1}{R}
+rules_text: Defender
+{2}, {T}, Discard a card: This creature deals 2 damage to any target. If mana produced by a Coldblood was used to activate this ability, draw a card. => Whenever this creature attacks, you may discard a card and pay {2}. If you do, this creature deals 2 damage to any target. If mana produced by a Coldblood was used to pay this ability's cost, draw a card.
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Yellow Backbone
+cost: {2}{B} => {1}{B}
+rules_text: When this artifact enters, mill four cards. You may put an artifact card and a creature card from among the milled cards into your hand.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters, destroy target creature you don't control with mana value 3 or less.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+
+Astral Clocktower
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{4}, {T}, Sacrifice this land: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. Activate only as a sorcery. => This land enters tapped.
+{T}: Add {R}.
+{3}{R}{R}: Until end of turn, this land becomes a 2/2 red Human creature with double strike and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.”
+
+Unsettling Discoveries
+
+Childhood's Beginning
+rules_text: At the beginning of combat on your turn, choose target enchantment you control. If it is a Great One, awaken it. Otherwise, it becomes a Great One enchantment creature with base power and toughness equal to its mana value until end of turn. => At the beginning of combat on your turn, choose target non-Great One creature or enchantment you control. It becomes a Great One enchantment creature with base power and toughness equal to its mana value until end of turn.
+
+Mensis Cage
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

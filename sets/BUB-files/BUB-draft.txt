@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "320",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "322",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "318",
+			"collector_number": "322",
 			"back": {
 				"name": "",
 				"type": "",
@@ -59,7 +59,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "328",
+			"collector_number": "332",
 			"back": {
 				"name": "",
 				"type": "",
@@ -76,7 +76,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "321",
+			"collector_number": "325",
 			"back": {
 				"name": "",
 				"type": "",
@@ -93,7 +93,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "330",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/6.png"
 			}
@@ -244,7 +244,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "316",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/19.png"
 			}
@@ -274,7 +274,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "317",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/22.png"
 			}
@@ -302,7 +302,7 @@
 		{
 			"name": "Cannon Huntsman",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "173",
 			"image_uris": {
@@ -344,7 +344,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "324",
+			"collector_number": "328",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/29.png"
 			}
@@ -354,7 +354,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "323",
+			"collector_number": "327",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/30.png"
 			}
@@ -364,7 +364,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "326",
+			"collector_number": "330",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/31.png"
 			}
@@ -374,7 +374,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "325",
+			"collector_number": "329",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/32.png"
 			}
@@ -424,7 +424,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/37.png"
 			}
@@ -434,7 +434,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "314",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/38.png"
 			}
@@ -444,7 +444,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "313",
+			"collector_number": "314",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/39.png"
 			}
@@ -544,7 +544,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "329",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/49.png"
 			}
@@ -622,7 +622,7 @@
 		{
 			"name": "Yellow Backbone",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Artifact",
 			"collector_number": "154",
 			"image_uris": {
@@ -785,7 +785,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "319",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/71.png"
 			}
@@ -2059,7 +2059,7 @@
 			}
 		},
 		{
-			"name": "Flourescent Flower",
+			"name": "Fluorescent Flower",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Enchantment Creature — Plant Kin",
@@ -2373,7 +2373,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "340",
+			"collector_number": "349",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/227.png"
 			}
@@ -2413,7 +2413,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "327",
+			"collector_number": "331",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/231.png"
 			}
@@ -2994,7 +2994,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "312",
+			"collector_number": "313",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/287.png"
 			}
@@ -3329,7 +3329,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment",
-			"collector_number": "331",
+			"collector_number": "335",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3346,7 +3346,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "332",
+			"collector_number": "336",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/318.png"
 			}
@@ -3356,17 +3356,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "338",
+			"collector_number": "346",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/319.png"
 			}
 		},
 		{
 			"name": "Astral Clocktower",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "333",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/320.png"
 			}
@@ -3376,7 +3376,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "334",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/321.png"
 			}
@@ -3386,7 +3386,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "335",
+			"collector_number": "339",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/322.png"
 			}
@@ -3396,7 +3396,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "336",
+			"collector_number": "342",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/323.png"
 			}
@@ -3406,7 +3406,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "339",
+			"collector_number": "348",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/324.png"
 			}
@@ -3416,7 +3416,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "337",
+			"collector_number": "343",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/325.png"
 			}
@@ -3426,7 +3426,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "341",
+			"collector_number": "351",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/326.png"
 			}
@@ -3730,6 +3730,106 @@
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/356.png"
 			}
+		},
+		{
+			"name": "Dark Well",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/357.png"
+			}
+		},
+		{
+			"name": "Blood Stone Shard",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Blood",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/358.png"
+			}
+		},
+		{
+			"name": "Blood Rock",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Blood",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/359.png"
+			}
+		},
+		{
+			"name": "Altar of Surgery",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/360.png"
+			}
+		},
+		{
+			"name": "Chalice Ritual Site",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/361.png"
+			}
+		},
+		{
+			"name": "The Cursed Coast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/362.png"
+			}
+		},
+		{
+			"name": "Snake Infested Gravesite",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/363.png"
+			}
+		},
+		{
+			"name": "Great Bridge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/364.png"
+			}
+		},
+		{
+			"name": "Grand Cathedral",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/365.png"
+			}
+		},
+		{
+			"name": "Hypogean Gaol",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://mse-hub/sets/BUB-files/img/366.png"
+			}
 		}
 	]
 
@@ -3786,6 +3886,7 @@
 	5 Hunter's Oath
 	5 Corruption Oath
 	5 Whirligig Saw
+	5 Astral Clocktower
 	5 Phlebotomize
 	5 Childhood's Beginning
 	5 Peaceful Dawn
@@ -3795,6 +3896,11 @@
 	5 Visceral Attack
 	5 Consult the Great Ones
 	5 Behold! A Paleblood Sky
+	5 Altar of Surgery
+	5 The Cursed Coast
+	5 Snake Infested Gravesite
+	5 Great Bridge
+	5 Grand Cathedral
 [uncommon(3)]
 	5 Iosefka's Blood Vial
 	5 Scourge Beast
@@ -3864,7 +3970,7 @@
 	5 Nightmare Crawler
 	5 Labyrinth Spirit
 	5 Eye Collector
-	5 Flourescent Flower
+	5 Fluorescent Flower
 	5 Great Snake Ball
 	5 Hemwick Hammer Woman
 	5 Spiked Hunting Dog
@@ -3921,7 +4027,6 @@
 	5 The Sin of Byrgenwerth
 	5 Abandoned Hunter's Workshop
 	5 Hunter's Dream
-	5 Astral Clocktower
 	5 Byrgenwerth
 	5 Cathedral Ward
 	5 Fishing Hamlet
@@ -3937,6 +4042,9 @@
 	5 The Hunter's Armory
 	5 The Tragedy of Ludwig
 	5 Crimes of the Church
+	5 Blood Rock
+	5 Chalice Ritual Site
+	5 Hypogean Gaol
 [common(10)]
 	5 Great One's Wisdom
 	5 Folded Saw Cleaver
@@ -4077,3 +4185,5 @@
 	5 Hunter's Remembrance
 	5 The Child Kin
 	5 Mensis Cage
+	5 Dark Well
+	5 Blood Stone Shard
