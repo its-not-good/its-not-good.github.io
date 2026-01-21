@@ -2109,7 +2109,7 @@
         "position": "311"
     },
     {
-        "card_name": "Flourescent Flower",
+        "card_name": "Fluorescent Flower",
         "number": 269,
         "shape": "normal",
         "set": "BUB",
@@ -2226,50 +2226,71 @@
     },
     "a->colorless",
     {
+        "card_name": "Altar of Surgery",
+        "number": 312,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "360"
+    },
+    {
         "card_name": "Whirligig Saw",
-        "number": 331,
+        "number": 335,
         "shape": "transform double faced",
         "set": "BUB",
         "position": "317"
     },
     {
         "card_name": "Blood of Adeline",
-        "number": 313,
+        "number": 314,
         "shape": "normal",
         "set": "BUB",
         "position": "39"
     },
     {
         "card_name": "Blood of Adella",
-        "number": 314,
+        "number": 315,
         "shape": "normal",
         "set": "BUB",
         "position": "38"
     },
     {
         "card_name": "Blood of Arianna",
-        "number": 315,
+        "number": 316,
         "shape": "normal",
         "set": "BUB",
         "position": "37"
     },
     {
+        "card_name": "Blood Rock",
+        "number": 317,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "359"
+    },
+    {
+        "card_name": "Chalice Ritual Site",
+        "number": 321,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "361"
+    },
+    {
         "card_name": "Iosefka's Blood Vial",
-        "number": 322,
+        "number": 326,
         "shape": "normal",
         "set": "BUB",
         "position": "1"
     },
     {
         "card_name": "Soul-Guide Lantern",
-        "number": 327,
+        "number": 331,
         "shape": "normal",
         "set": "BUB",
         "position": "231"
     },
     {
         "card_name": "Tonitrus",
-        "number": 330,
+        "number": 334,
         "shape": "normal",
         "set": "BUB",
         "position": "6"
@@ -2283,106 +2304,149 @@
     },
     {
         "card_name": "Blazing Torch",
-        "number": 312,
+        "number": 313,
         "shape": "normal",
         "set": "BUB",
         "position": "287"
     },
     {
+        "card_name": "Blood Stone Shard",
+        "number": 318,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "358"
+    },
+    {
         "card_name": "Blue Elixir",
-        "number": 316,
+        "number": 319,
         "shape": "normal",
         "set": "BUB",
         "position": "19"
     },
     {
         "card_name": "Bone Marrow Ash",
-        "number": 317,
+        "number": 320,
         "shape": "normal",
         "set": "BUB",
         "position": "22"
     },
     {
         "card_name": "Folded Saw Cleaver",
-        "number": 318,
+        "number": 322,
         "shape": "transform double faced",
         "set": "BUB",
         "position": "2"
     },
     {
         "card_name": "Great One Coldblood",
-        "number": 319,
+        "number": 323,
         "shape": "normal",
         "set": "BUB",
         "position": "71"
     },
     {
         "card_name": "Great One's Wisdom",
-        "number": 320,
+        "number": 324,
         "shape": "normal",
         "set": "BUB",
         "position": "0"
     },
     {
         "card_name": "Hunter's Axe",
-        "number": 321,
+        "number": 325,
         "shape": "transform double faced",
         "set": "BUB",
         "position": "5"
     },
     {
         "card_name": "Lead Elixir",
-        "number": 323,
+        "number": 327,
         "shape": "normal",
         "set": "BUB",
         "position": "30"
     },
     {
         "card_name": "Molotov Cocktail",
-        "number": 324,
+        "number": 328,
         "shape": "normal",
         "set": "BUB",
         "position": "29"
     },
     {
         "card_name": "Oil Urn",
-        "number": 325,
+        "number": 329,
         "shape": "normal",
         "set": "BUB",
         "position": "32"
     },
     {
         "card_name": "Pebble",
-        "number": 326,
+        "number": 330,
         "shape": "normal",
         "set": "BUB",
         "position": "31"
     },
     {
         "card_name": "Threaded Cane",
-        "number": 328,
+        "number": 332,
         "shape": "transform double faced",
         "set": "BUB",
         "position": "4"
     },
     {
         "card_name": "Throwing Knife",
-        "number": 329,
+        "number": 333,
         "shape": "normal",
         "set": "BUB",
         "position": "49"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Grand Cathedral",
+        "number": 344,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "365"
+    },
+    {
+        "card_name": "The Cursed Coast",
+        "number": 340,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "362"
+    },
+    {
+        "card_name": "Snake Infested Gravesite",
+        "number": 350,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "363"
+    },
+    {
+        "card_name": "Astral Clocktower",
+        "number": 337,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "320"
+    },
+    {
+        "card_name": "Great Bridge",
+        "number": 345,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "364"
     },
     {
         "card_name": "er"
@@ -2401,35 +2465,35 @@
     },
     {
         "card_name": "Byrgenwerth",
-        "number": 334,
+        "number": 338,
         "shape": "normal",
         "set": "BUB",
         "position": "321"
     },
     {
         "card_name": "Abandoned Hunter's Workshop",
-        "number": 332,
+        "number": 336,
         "shape": "normal",
         "set": "BUB",
         "position": "318"
     },
     {
         "card_name": "Yahar'gul, Unseen Village",
-        "number": 341,
+        "number": 351,
         "shape": "normal",
         "set": "BUB",
         "position": "326"
     },
     {
         "card_name": "Hunter's Dream",
-        "number": 338,
+        "number": 346,
         "shape": "normal",
         "set": "BUB",
         "position": "319"
     },
     {
         "card_name": "Oedon Chapel",
-        "number": 340,
+        "number": 349,
         "shape": "normal",
         "set": "BUB",
         "position": "227"
@@ -2451,38 +2515,72 @@
     },
     {
         "card_name": "Cathedral Ward",
-        "number": 335,
+        "number": 339,
         "shape": "normal",
         "set": "BUB",
         "position": "322"
     },
     {
         "card_name": "Nightmare of Mensis",
-        "number": 339,
+        "number": 348,
         "shape": "normal",
         "set": "BUB",
         "position": "324"
     },
     {
         "card_name": "Forbidden Woods",
-        "number": 337,
+        "number": 343,
         "shape": "normal",
         "set": "BUB",
         "position": "325"
     },
     {
-        "card_name": "Astral Clocktower",
-        "number": 333,
+        "card_name": "Hypogean Gaol",
+        "number": 347,
         "shape": "normal",
         "set": "BUB",
-        "position": "320"
+        "position": "366"
     },
     {
         "card_name": "Fishing Hamlet",
-        "number": 336,
+        "number": 342,
         "shape": "normal",
         "set": "BUB",
         "position": "323"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Dark Well",
+        "number": 341,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "357"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
