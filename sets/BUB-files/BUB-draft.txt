@@ -3012,7 +3012,7 @@
 		{
 			"name": "Beast Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{4}{G}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "214",
 			"image_uris": {
