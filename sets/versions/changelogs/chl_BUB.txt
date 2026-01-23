@@ -1,4 +1,302 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Iosefka's Blood Vial
+rules_text: {T}, Discard a card, Sacrifice this artifact: Draw a card.
+You may cast this card from your graveyard if a creature an opponent controls died this turn. => {T}, Discard a card, Sacrifice this artifact: Draw a card.
+Whenever a creature and opponent controls dies during your turn, you may return this card from your graveyard to your hand.
+
+Annalise, Queen of the Vilebloods
+pt: 1/1 => 2/1
+
+The Bloody Crow of Cainhurst
+pt: 2/3 => 3/3
+
+Cannon Huntsman
+rules_text: Whenever this creature attacks, you may discard a card and pay {2}. If you do, this creature deals 2 damage to any target. If mana produced by a Coldblood was used to pay this ability's cost, draw a card. => Exhaust — {2}{R}, Discard a card: This creature deals 3 damage to any target. If mana produced by a Coldblood was used to activate this ability, draw a card.
+pt: 0/4 => 2/2
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Boom Hammer
+rules_text: Equipped creature has trample and haste.
+Whenever you discard a card, equipped creature gets +2/+0 until end of turn.
+Equip {1} => Equipped creature gets +X/+0 where X is the number of cards you've discarded this turn and has trample and haste.
+Equip—Discard a card. Acrtivate only once per turn.
+
+Blood Saint
+pt: 2/3 => 3/2
+
+Arianna, Oedon's Consort
+pt: 2/3 => 3/3
+
+Searching Patient
+rules_text: [i]Blood Moon[/i] — Whenever this creature deals combat damage to a player, draw a card. Then discard a card unless you have three or more insight.
+{4}, Exile this card from your graveyard: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => Prowess
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+pt: 1/3 => 2/2
+
+Arcane Patient
+pt: 2/3 => 3/2
+
+Mensis Defector
+pt: 2/1 => 2/2
+
+The Doll
+rules_text: When The Doll enters, Commune with Flora. [i](If you don't control Flora, create a token of them. Then commune with a Great One you control.)[/i]
+{2}: Put a +1/+1 counter on another target creature and you gain 1 life. If that creature is a Hunter, draw a card. If mana produced by a Coldblood was used to activate this ability, copy this ability. => When The Doll enters, Commune with Flora. [i](Create a Flora token or awaken a Great One you control.)[/i]
+{2}: Put a +1/+1 counter on another target creature and you gain 1 life. If that creature is a Hunter, draw a card. If mana produced by a Coldblood was used to activate this ability, copy this ability.
+
+Powder Keg Hunter
+pt: 3/4 => 4/3
+
+Discple of Djura
+cost: {4}{R} => {1}{R}{R}
+rules_text: Menace
+When this creature enters, you may sacrifice an artifact. If you do, this creature deals 3 damage to any target. => Menace
+Whenever this creature attacks, you may sacrifice an artifact. If you do, this creature deals 2 damage to each opponent.
+pt: 4/5 => 3/3
+
+Micolash, Host of the Nightmare
+rules_text: Hexproof
+When Micolash enters, gain control of target creature for as long as you control Micolash.
+Whenever Micolash attacks, shuffle target creature into its owner's library. Then put Micholash into his owner's library, third from the top. => Ward {5} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {5}.)[/i]
+When Micolash enters, gain control of target creature for as long as you control Micolash.
+Whenever Micolash attacks, put him into his owner's library, third from the top.
+
+Darkbeast Paarl
+cost: {4}{R}{R} => {2}{R}{R}
+rules_text: Haste
+Whenever you discard a card, Darkbeast Paarl deals 2 damage to any target. This ability triggers only once per turn.
+{2}, Discard Darkbeast Paarl: It deals 2 damage to any target. => Haste
+Whenever you discard a card, Darkbeast Paarl deals 2 damage to any target. This ability triggers only once per turn.
+Madness {2}{R}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+pt: 7/4 => 5/3
+
+Cleaver Fishman
+rules_text: Vigilance, prowess
+[i]Blood Moon[/i] — As long as you have three or more insight, this creature can't be blocked. => As long as you've discarded a card this turn, this creature can't be blocked.
+Madness {1}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Spear-Thrower Fishman
+rules_text: Prowess
+[i]Blood Moon[/i] — When this creature enters, tap target creature you don't control and put a stun counter on it. Then if you have three or more insight, put an additional stun counter on it. => When this creature enters, tap target creature you don't control and put a stun counter on it.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Hemwick Hammer Woman
+pt: 3/4 => 4/3
+
+Hemwick Solderer
+pt: 3/2 => 4/2
+
+Burden of the Hunt
+rules_text: Whenever you cast a spell from anywhere other than your hand, this enchantment deals 2 damage to any target. => Whenever you cast a spell from anywhere other than your hand, this enchantment deals 2 damage to any target.
+Madness {2}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Twin Dagger Watcher
+rules_text: This creature enters tapped.
+{2}, Sacrifice a creature or artifact: Return this creature card from your graveyard to the battlefield. Activate only if you've ventured into the Chalice Dungeon this turn. => This creature enters tapped.
+{2}, Exile an artifact card or another creature card from your graveyard: Return this creature card from your graveyard to the battlefield. Activate only if you're currently in the Chalice Dungeon.
+
+Halberd Watcher
+pt: 2/2 => 3/2
+
+Living Failures
+rules_text: Whenever this creature enters or attacks, create a 1/1 colorless Kin enchantment creature token with “This creature gets +X/+0, where X is your insight.”
+[i]Otherworldly[/i] — Whenever a token enters under your control, tap target creature. If it is already tapped, put a stun counter on it. => Whenever this creature enters or attacks, create a 1/1 colorless Kin enchantment creature token with “This creature gets +X/+0, where X is your insight.”
+[i]Otherworldly[/i] — Whenever a token enters under your control, tap target creature you don't control. If it is already tapped, put a stun counter on it.
+
+Merciless Blunderbuss
+rules_text: Whenever this creature attacks, target creature gets -1/-1 until end of turn. When that creature dies this turn, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => Whenever this creature attacks, each player discards a card. Then venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Madness {2}{B}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Merciless Butcher
+rules_text: When this creature enters, destroy target creature an opponent controls. If that creature's power was 2 or less, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this creature enters, destroy target creature an opponent controls. If that creature's power was 2 or less, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Madness {3}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Merciless Mace
+rules_text: At the beginning of your end step, if this creature didn't attack this turn, you lose 2 life unless you sacrifice a creature. When you sacrifice a creature this way, Venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => Whenever this creature attacks, you lose 2 life unless you sacrifice an artifact or creature. Then venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Madness {B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Attendant of Mergo
+pt: 2/3 => 3/2
+
+Nightmare Cannoneer
+rules_text: Whenever this creature attacks, you may sacrifice two other nonland permanents. If you do, destroy target nonland permanent you don't control. => Whenever this creature enters or attacks, you may sacrifice another nonland permanent. If you do, destroy target nonland permanent you don't control.
+pt: 4/4 => 4/5
+
+Slime Scholar
+pt: 1/4 => 2/3
+
+Hook Gravedigger
+pt: 2/3 => 3/2
+
+Pickaxe Gravedigger
+rules_text: {T}: Mill two cards.
+{T}, Exile two artifact cards and/or creature cards from your graveyard: Venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => Whenever this creature attacks, mill two cards. Then you may exile two artifact cards and/or creature cards from your graveyard. If you do, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+pt: 2/2 => 3/2
+
+Beast Rune
+rules_text: Enchant permanent
+When this Aura enters, create a 3/3 green Beast creature token.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create a 3/3 green Beast creature token.”
+Enchanted Equipment has “Whenever equipped creature attacks, create a 3/3 green Beast creature token.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+3 and has trample and “Whenever this creature attacks, create a 3/3 green Beast creature token.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Clawmark Rune
+rules_text: Enchant permanent
+When this Aura enters, put a +1/+1 counter on target creature you control. It gains trample until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, put a +1/+1 counter on target creature you control. It gains trample until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, put a +1/+1 counter on target creature you control. It gains trample until end of turn.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, put a +1/+1 counter on target creature.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Blood Rapture
+rules_text: Enchant permanent
+When this Aura enters, each opponent loses 1 life and you gain 1 life.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.”
+Enchanted Equipment has “Whenever equipped creature attacks, each opponent loses 1 life and you gain 1 life.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+1 and has “Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Anti-Clockwise Metamorphosis
+rules_text: Enchant permanent
+When this Aura enters, it deals 1 damage to any target.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, it deals 1 damage to any target.”
+Enchanted Equipment has “Whenever equipped creature attacks, it deals 1 damage to any target.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+1 and has haste and “Whenever this creature attacks, target creature can't block this turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Moon Rune
+rules_text: Enchant permanent
+When this Aura enters, discard a card then draw a card.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, discard a card then draw a card.”
+Enchanted Equipment has “Whenever equipped creature attacks, discard a card then draw a card.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+1 and has “Whenever this creature attacks, discard a card then draw a card.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Guidance Rune
+rules_text: Enchant permanent
+When this Aura enters, draw a card.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, draw a card.”
+Enchanted Equipment has “Whenever equipped creature attacks, draw a card.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+3 and has “Whenever this creature attacks, draw a card.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Deep Sea Rune
+cost: {3}{U} => {2}{U}
+rules_text: Enchant permanent
+When this Aura enters, tap target permanent and put a stun counter on it.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, tap target permanent and put a stun counter on it.”
+Enchanted Equipment has “Whenever equipped creature attacks, tap target permanent and put a stun counter on it.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, tap target creature you don't control and put a stun counter on it.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Lake Rune
+rules_text: Enchant permanent
+When this Aura enters, target player mills four cards.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, target player mills four cards.”
+Enchanted Equipment has “Whenever equipped creature attacks, target player mills four cards.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, target player mills four cards.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Eye Rune
+rules_text: Enchant permanent
+When this Aura enters, surveil 2.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, surveil 2.”
+Enchanted Equipment has “Whenever equipped creature attacks, surveil 2.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +1/+2 and has “Whenever this creature attacks, surveil 2.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Clockwise Metamorphosis
+rules_text: Enchant permanent
+When this Aura enters, tap target creature.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, tap target creature.”
+Enchanted Equipment has “Whenever equipped creature attacks, tap target creature.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +1/+2 and has “Whenever this creature attacks, tap target creature.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Oedon Writhe
+rules_text: Enchant permanent
+When this Aura enters, creatures you control get +1/+1 until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, creatures you control get +1/+1 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, creatures you control get +1/+1 until end of turn.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, creatures you control get +1/+1 until end of turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Communion Rune
+cost: {W} => {1}{W}
+rules_text: Enchant permanent
+When this Aura enters, create a Blood or a Coldblood token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}{C}. This mana can't be spent to cast spells from your hand.”)[/i]
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create a Blood or a Coldblood token.”
+Enchanted Equipment has “Whenever equipped creature attacks, create a Blood or a Coldblood token.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has lifelink and “Whenever this creature attacks, create a Blood or a Coldblood token.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Heir Rune
+rules_text: Enchant permanent
+When this Aura enters, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.”
+Enchanted Equipment has “Whenever equipped creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+4 and has vigilance and “Whenever this creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Impurity Oath
+rules_text: Enchant permanent
+When this Aura enters, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.”
+Enchanted Equipment has “Whenever equipped creature attacks, you may sacrifice a nonland permanent. If you do, destroy target nonland permanent you don't control.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +4/+4 and has “Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, each opponent loses 3 life.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Radiance Oath
+rules_text: Enchant permanent
+When this Aura enters, create three 1/1 white Human creature tokens.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, create three 1/1 white Human creature tokens.”
+Enchanted Equipment has “Whenever equipped creature attacks, create three 1/1 white Human creature tokens.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+3 and has “Whenever this creature attacks, create three 1/1 white Human creature tokens.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Milkweed Oath
+rules_text: Enchant permanent
+When this Aura enters, exile target artifact or creature you control, then return it to the battlefield under its owner's control.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.”
+Enchanted Equipment has “Whenever equipped creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+2 and has “Whenever this creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Beast's Embrace Oath
+rules_text: Enchant permanent
+When this Aura enters, creatures you control get +2/+0 until end of turn.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, creatures you control get +2/+0 until end of turn.”
+Enchanted Equipment has “Whenever equipped creature attacks, creatures you control get +2/+0 until end of turn.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+2 and has menace and “Whenever this creature attacks, creatures you control get +2/+0 until end of turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Hunter's Oath
+rules_text: Enchant permanent
+When this Aura enters, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.”
+Enchanted Equipment has “Whenever equipped creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+3 and has “Whenever this creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Corruption Oath
+rules_text: Enchant permanent
+When this Aura enters, return target creature card from your graveyard to your hand.
+Enchanted creature and Great Ones you control have “Whenever this creature attacks, return target creature card from your graveyard to your hand.”
+Enchanted Equipment has “Whenever equipped creature attacks, return target creature card from your graveyard to your hand.” => Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has deathtouch and “Whenever this creature attacks, return target creature card from your graveyard to your hand.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Astral Clocktower
+rules_text: This land enters tapped.
+{T}: Add {R}.
+{3}{R}{R}: Until end of turn, this land becomes a 2/2 red Human creature with double strike and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.” => This land enters tapped.
+{T}: Add {R}.
+{3}{R}{R}: Until end of turn, this land becomes a 1/1 red Human creature with double strike. Then you may attach target equipment you control to it.
+
+Unsettling Discoveries
+cost: {2}{BR}{BR} => {1}{BR}{BR}
+rules_text: Whenever you discard a card or sacrifice an artifact, create a 1/1 colorless Kin enchantment creature token with “This creature gets +X/+0, where X is your insight.” This ability triggers only once per turn. => At the beginning of your upkeep, this enchantment deals 1 damage to each opponent.
+Whenever you discard your third card each turn, sacrifice this enchantment. When you do, draw two cards and create two colorless 1/1 Kin enchantment creature tokens with “This creature gets +X/+0 where X is your insight.”
+
+The Blood Sings
+cost: {5}{R}{R} => {3}{R}{R}
+rules_text: Discard your hand then draw seven cards. You may pay {0} rather than the madness costs of cards discarded this way. => Discard your hand then draw four cards. You may pay {0} rather than the madness costs of cards discarded this way.
+
+Blood Rock
+cost: {3} => {2}
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
