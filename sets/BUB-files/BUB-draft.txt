@@ -1307,7 +1307,7 @@
 		{
 			"name": "Discple of Djura",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Hunter",
 			"collector_number": "175",
 			"image_uris": {
@@ -1981,7 +1981,7 @@
 		{
 			"name": "Darkbeast Paarl",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Skeleton Beast",
 			"collector_number": "174",
 			"image_uris": {
@@ -3072,7 +3072,7 @@
 		{
 			"name": "Deep Sea Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "61",
 			"image_uris": {
@@ -3122,7 +3122,7 @@
 		{
 			"name": "Communion Rune",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "18",
 			"image_uris": {
@@ -3454,7 +3454,7 @@
 		{
 			"name": "Unsettling Discoveries",
 			"rarity": "common",
-			"mana_cost": "{2}{B/R}{B/R}",
+			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Enchantment",
 			"collector_number": "308",
 			"image_uris": {
@@ -3604,7 +3604,7 @@
 		{
 			"name": "The Blood Sings",
 			"rarity": "mythic",
-			"mana_cost": "{5}{R}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
@@ -3754,7 +3754,7 @@
 		{
 			"name": "Blood Rock",
 			"rarity": "uncommon",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Artifact — Blood",
 			"collector_number": "317",
 			"image_uris": {
