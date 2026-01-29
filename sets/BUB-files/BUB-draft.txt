@@ -382,7 +382,7 @@
 		{
 			"name": "Winter Lantern",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
+			"mana_cost": "{3}{U}{R}",
 			"type": "Creature — Nightmare",
 			"collector_number": "291",
 			"image_uris": {
@@ -2061,7 +2061,7 @@
 		{
 			"name": "Fluorescent Flower",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{G}{U}",
+			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment Creature — Plant Kin",
 			"collector_number": "269",
 			"image_uris": {
@@ -2161,7 +2161,7 @@
 		{
 			"name": "Mutated Dog",
 			"rarity": "common",
-			"mana_cost": "{3}{R/G}",
+			"mana_cost": "{1}{R/G}{R/G}",
 			"type": "Creature — Bird Dog Horror",
 			"collector_number": "305",
 			"image_uris": {
@@ -2698,7 +2698,7 @@
 		{
 			"name": "Nightmare Executioner",
 			"rarity": "common",
-			"mana_cost": "{3}{W/B}{W/B}",
+			"mana_cost": "{2}{W/B}{W/B}",
 			"type": "Creature — Warrior Horror",
 			"collector_number": "306",
 			"image_uris": {
@@ -3674,7 +3674,7 @@
 		{
 			"name": "The Tragedy of Ludwig",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{X}{G}{W}",
 			"type": "Instant",
 			"collector_number": "289",
 			"image_uris": {
@@ -3704,7 +3704,7 @@
 		{
 			"name": "Mensis Cage",
 			"rarity": "common",
-			"mana_cost": "{2}{U/R}",
+			"mana_cost": "{1}{U/R}",
 			"type": "Artifact — Equipment",
 			"collector_number": "303",
 			"image_uris": {
