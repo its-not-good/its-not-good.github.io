@@ -1,4 +1,197 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Iosefka's Blood Vial
+rules_text: {T}, Discard a card, Sacrifice this artifact: Draw a card.
+Whenever a creature and opponent controls dies during your turn, you may return this card from your graveyard to your hand. => {T}, Discard a card, Sacrifice this artifact: Draw a card.
+Whenever a creature an opponent controls dies during your turn, you may return this card from your graveyard to your hand.
+
+Alfred, Hunter of Vilebloods
+rules_text: Lifelink
+Whenever you attack, Alfred deals 1 damage to each opponent. => Lifelink
+Whenever another creature dies, Alfred deals 1 damage to each opponent.
+pt: 2/3 => 2/2
+
+Winter Lantern
+cost: {2}{U}{R} => {3}{U}{R}
+rules_text: Ward— Pay 8 life
+{T}: Until end of turn, target creature gains “Whenever this creature deals combat damage, it deals that much damage to its controller” and attacks this turn if able.
+Madness {2}{UR} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When this creature enters, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Madness {3}{UR} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Beastclaw Hunter
+rules_text: During your turn this creature has deathtouch.
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, you may have this creature fight target creature you don't control. => During your turn this creature has deathtouch.
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, you draw a card and lose 1 life.
+
+Nightmare Hound
+rules_text: [i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, you may pay {2}. If you do, create a token that's a copy of this creature. => [i]Blood Moon[/i] — At the beginning of your end step, if you have three or more insight, you may pay {1}. If you do, create a token that's a copy of this creature, except it loses this ability.
+
+Black Church Hunter
+rules_text: [i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, put a +1/+1 counter on this creature.
+When this creature dies, target player gains X life where X is this creature's power. => Sacrifice a creature: Target player gains 1 life.
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, put a +1/+1 counter on this creature.
+
+Carrion Crow
+rules_text: [i]Blood Moon —[/i] At the beginning of your end step, if you have three or more insight, you may sacrifice an artifact to return this card from your graveyard to the battlefield tapped. => This creature gets +1/+1 as long as you've discarded a card this turn.
+Madness {UB} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Fluorescent Flower
+cost: {4}{G}{U} => {3}{G}{U}
+rules_text: If an effect would create one or more nonlegendary tokens under your control, it creates that many of those tokens plus one instead.
+[i]Otherworldly[/i] — Whenever a token enters under your control, put a +1/+1 counter on this creature and add one mana of any color. => Vigilance
+When this creature enters, commune with Ebrietas. [i](Create an Ebrietas token or awaken a Great One you control.)[/i]
+This creature gets +1/+1 for each enchantment you control.
+pt: 1/4 => 1/1
+
+Mutated Dog
+cost: {3}{RG} => {1}{RG}{RG}
+rules_text: If you would increase your insight, you may create a token that's a copy of this creature instead. => Whenever this creature deals combat damage to a player, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Stalking Beastman
+rules_text: [i]Otherworldly[/i] — Whenever a token enters under your control, reveal the top card of your library. If it's a land card, put it into your hand. Otherwise, you may put that card into your graveyard. => [i]Otherworldly[/i] — Whenever a token enters under your control, mill a card, then you may put a land card from your graveyard into your hand.
+
+Mad One
+rules_text: Whenever this creature attacks, you may discard a card. If you do, each opponent discards a card.
+Madness {1}{UB} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When this creature enters, if you've discarded a card this turn, you draw two cards and lose 2 life.
+Madness {3}{UB} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Nightmare Executioner
+cost: {3}{WB}{WB} => {2}{WB}{WB}
+
+Healing Church Communion
+rules_text: When this enchantment enters, search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle.
+[i]Landfall[/i] — Whenever a land enters under your control, you gain 1 life. => When this enchantment enters, create a 1/1 white Human creature token, then attach target Equipment you control to it.
+[i]Otherworldly[/i] — Whenever a token enters under your control, surveil 1.
+
+Beast Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+3 and has trample and “Whenever this creature attacks, create a 3/3 green Beast creature token.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +3/+3 and has trample and “Whenever this creature attacks, create a 3/3 green Beast creature token.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Clawmark Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, put a +1/+1 counter on target creature.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, put a +1/+1 counter on target creature.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Blood Rapture
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+1 and has “Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+1 and has “Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Anti-Clockwise Metamorphosis
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+1 and has haste and “Whenever this creature attacks, target creature can't block this turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+1 and has haste and “Whenever this creature attacks, target creature can't block this turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Moon Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+1 and has “Whenever this creature attacks, discard a card then draw a card.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+1 and has “Whenever this creature attacks, discard a card then draw a card.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Guidance Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+3 and has “Whenever this creature attacks, draw a card.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+3 and has “Whenever this creature attacks, draw a card.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Deep Sea Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, tap target creature you don't control and put a stun counter on it.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, tap target creature you don't control and put a stun counter on it.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Lake Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, target player mills four cards.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, target player mills four cards.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Eye Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +1/+2 and has “Whenever this creature attacks, surveil 2.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +1/+2 and has “Whenever this creature attacks, surveil 2.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Clockwise Metamorphosis
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +1/+2 and has “Whenever this creature attacks, tap target creature.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +1/+2 and has “Whenever this creature attacks, tap target creature.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Oedon Writhe
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, creatures you control get +1/+1 until end of turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+2 and has “Whenever this creature attacks, creatures you control get +1/+1 until end of turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Communion Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has lifelink and “Whenever this creature attacks, create a Blood or a Coldblood token.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+2 and has lifelink and “Whenever this creature attacks, create a Blood or a Coldblood token.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Heir Rune
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+4 and has vigilance and “Whenever this creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +3/+4 and has vigilance and “Whenever this creature attacks, return target permanent card with mana value 3 or less from your graveyard to the battlefield.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Impurity Oath
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +4/+4 and has “Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, each opponent loses 3 life.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +4/+4 and has “Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, each opponent loses 3 life.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Radiance Oath
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+3 and has “Whenever this creature attacks, create three 1/1 white Human creature tokens.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +3/+3 and has “Whenever this creature attacks, create three 1/1 white Human creature tokens.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Milkweed Oath
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+2 and has “Whenever this creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +3/+2 and has “Whenever this creature attacks, exile target artifact or creature you control, then return it to the battlefield under its owner's control.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Beast's Embrace Oath
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+2 and has menace and “Whenever this creature attacks, creatures you control get +2/+0 until end of turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +3/+2 and has menace and “Whenever this creature attacks, creatures you control get +2/+0 until end of turn.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Hunter's Oath
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +3/+3 and has “Whenever this creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +3/+3 and has “Whenever this creature attacks, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+Corruption Oath
+rules_text: Enchant non-Great One permanent
+Caryll Rune — This creature gets +2/+2 and has deathtouch and “Whenever this creature attacks, return target creature card from your graveyard to your hand.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i] => Enchant nonenchantment permanent
+Caryll Rune — This creature gets +2/+2 and has deathtouch and “Whenever this creature attacks, return target creature card from your graveyard to your hand.” [i](Enchanted creature, and a creature equipped with enchanted equipment gain these abilities. If enchanted permanent isn't a creature or equipment, it becomes a 0/0 creature.)[/i]
+
+The Sin of Byrgenwerth
+rules_text: Tap an untapped artifact you control: Add {U} or {W}.
+{5}: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => Tap an untapped artifact you control: Add {U} or {W}.
+Exhaust — {9}: Create a 1/1 white Human creature token for each artifact you control. [i](Activate each exhaust ability only once.)[/i]
+
+Gentle Quiet
+rules_text: As an additional cost to cast this spell, you may sacrifice an artifact.
+Counter target spell unless its controller pays {3}. If you sacrificed an artifact, counter that spell instead.
+You gain 2 life. => Counter target spell unless its controller pays {3} plus an additional {X}. You gain X life. Where X is the number of artifacts you control.
+
+The Tragedy of Ludwig
+cost: {3}{G}{W} => {X}{G}{W}
+rules_text: Search your library for an artifact card, a creature card, and an enchantment card, reveal them, put them into your hand, then shuffle. => Create X 1/1 white Human creature tokens. For each token created this way, you may attach an equipment you control to it.
+
+Crimes of the Church
+rules_text: Whenever one or more nontoken creatures you control die, return one of them to the battlefield tapped with a finality counter on it. It becomes a green Beast with base power and toughness 3/3. This ability triggers only once per turn. => If you would create one or more tokens, you may create that many 3/3 green Beast creature tokens instead.
+
+Mensis Cage
+cost: {2}{UR} => {1}{UR}
+rules_text: Equipped creature has prowess and “When this creature dies, increase your insight, then attach this equipment to target creature you control.” [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+Equip {1} => Equipped creature gets +1/+1 and has “When this creature dies, increase your insight.” [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+Whenever you discard a card, you may attach this Equipment to target creature you control.
+Equip {1}
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
