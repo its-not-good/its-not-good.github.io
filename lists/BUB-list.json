@@ -1,0 +1,2737 @@
+﻿[
+    {
+        "card_name": "The Cursed Lady Maria",
+        "number": 19,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "7"
+    },
+    {
+        "card_name": "Mergo's Wet Nurse",
+        "number": 81,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "254"
+    },
+    {
+        "card_name": "Honoring Wishes",
+        "number": 129,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "339"
+    },
+    {
+        "card_name": "The Blood Sings",
+        "number": 164,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "344"
+    },
+    {
+        "card_name": "Childhood's Beginning",
+        "number": 217,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "334"
+    },
+    {
+        "card_name": "Vicar Amelia",
+        "number": 52,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "125"
+    },
+    {
+        "card_name": "Micolash, Host of the Nightmare",
+        "number": 82,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "126"
+    },
+    {
+        "card_name": "The One Reborn",
+        "number": 143,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "96"
+    },
+    {
+        "card_name": "Laurence, the First Vicar",
+        "number": 191,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "127"
+    },
+    {
+        "card_name": "Cleric Beast",
+        "number": 219,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "128"
+    },
+    {
+        "card_name": "Behold! A Paleblood Sky",
+        "number": 2,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "355"
+    },
+    {
+        "card_name": "Living Failures",
+        "number": 74,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "241"
+    },
+    {
+        "card_name": "Blood-Starved Beast",
+        "number": 112,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "166"
+    },
+    {
+        "card_name": "Beast's Embrace Oath",
+        "number": 159,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "305"
+    },
+    {
+        "card_name": "The Doll",
+        "number": 222,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "120"
+    },
+    {
+        "card_name": "Blade of Mercy",
+        "number": 3,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "68"
+    },
+    {
+        "card_name": "Master Willem",
+        "number": 77,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "139"
+    },
+    {
+        "card_name": "Burial Blade",
+        "number": 115,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "67"
+    },
+    {
+        "card_name": "The Blood Moon Rises",
+        "number": 162,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "215"
+    },
+    {
+        "card_name": "Father Gascoigne",
+        "number": 224,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "8"
+    },
+    {
+        "card_name": "Church Excoriator",
+        "number": 13,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "185"
+    },
+    {
+        "card_name": "Mergo's Chief Attendant",
+        "number": 79,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "253"
+    },
+    {
+        "card_name": "Call the Watchers",
+        "number": 116,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "235"
+    },
+    {
+        "card_name": "Burn at the Stake",
+        "number": 171,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "159"
+    },
+    {
+        "card_name": "The Good Hunter",
+        "number": 227,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "346"
+    },
+    {
+        "card_name": "Pthumerian Descendant",
+        "number": 43,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "262"
+    },
+    {
+        "card_name": "Milkweed Oath",
+        "number": 83,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "304"
+    },
+    {
+        "card_name": "Corruption Oath",
+        "number": 119,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "307"
+    },
+    {
+        "card_name": "Darkbeast Paarl",
+        "number": 174,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "188"
+    },
+    {
+        "card_name": "Hunter's Oath",
+        "number": 234,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "306"
+    },
+    {
+        "card_name": "Radiance Oath",
+        "number": 46,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "303"
+    },
+    {
+        "card_name": "Shaman Bone Blade",
+        "number": 92,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "48"
+    },
+    {
+        "card_name": "End of Night",
+        "number": 122,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "219"
+    },
+    {
+        "card_name": "Gun Down",
+        "number": 182,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "79"
+    },
+    {
+        "card_name": "Peaceful Dawn",
+        "number": 244,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "336"
+    },
+    {
+        "card_name": "Undead Blade Giant",
+        "number": 49,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "273"
+    },
+    {
+        "card_name": "The Witch of Hemwick",
+        "number": 101,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "272"
+    },
+    {
+        "card_name": "Phlebotomize",
+        "number": 144,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "327"
+    },
+    {
+        "card_name": "Loran Cleric",
+        "number": 192,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "222"
+    },
+    {
+        "card_name": "Rom, the Vacuous Spider",
+        "number": 250,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "90"
+    },
+    {
+        "card_name": "Undead Cannon Giant",
+        "number": 50,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "274"
+    },
+    {
+        "card_name": "Yurie, the Last Scholar",
+        "number": 103,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "157"
+    },
+    {
+        "card_name": "Shadows of Yharnam",
+        "number": 149,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "264"
+    },
+    {
+        "card_name": "Retired Hunter Djura",
+        "number": 198,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "148"
+    },
+    {
+        "card_name": "Visceral Attack",
+        "number": 255,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "347"
+    },
+    {
+        "card_name": "Bolt Paper",
+        "number": 4,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "20"
+    },
+    {
+        "card_name": "Arcane Haze",
+        "number": 53,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "54"
+    },
+    {
+        "card_name": "Bastard of Loran",
+        "number": 105,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "53"
+    },
+    {
+        "card_name": "Anti-Clockwise Metamorphosis",
+        "number": 157,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "292"
+    },
+    {
+        "card_name": "Amygdalan Arm Club",
+        "number": 208,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "65"
+    },
+    {
+        "card_name": "Choir Intelligencer",
+        "number": 9,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "123"
+    },
+    {
+        "card_name": "At Mergo's Will",
+        "number": 55,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "251"
+    },
+    {
+        "card_name": "Beast Hunter Saif",
+        "number": 106,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "309"
+    },
+    {
+        "card_name": "Blood Saint",
+        "number": 163,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "98"
+    },
+    {
+        "card_name": "Beast Claw",
+        "number": 210,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "66"
+    },
+    {
+        "card_name": "Church Cannon",
+        "number": 10,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "74"
+    },
+    {
+        "card_name": "Attendant of Mergo",
+        "number": 56,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "252"
+    },
+    {
+        "card_name": "Bell-Ringing Woman",
+        "number": 108,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "101"
+    },
+    {
+        "card_name": "Bloodshot Eyeball",
+        "number": 167,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "55"
+    },
+    {
+        "card_name": "Beast Cutter",
+        "number": 211,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "308"
+    },
+    {
+        "card_name": "Church Crucifier",
+        "number": 12,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "184"
+    },
+    {
+        "card_name": "Deep Sea Rune",
+        "number": 61,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "295"
+    },
+    {
+        "card_name": "Blood Rapture",
+        "number": 111,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "291"
+    },
+    {
+        "card_name": "Boom Hammer",
+        "number": 168,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "70"
+    },
+    {
+        "card_name": "Beast Rune",
+        "number": 214,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "289"
+    },
+    {
+        "card_name": "Church Harvester",
+        "number": 14,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "183"
+    },
+    {
+        "card_name": "Eye Collector",
+        "number": 62,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "191"
+    },
+    {
+        "card_name": "Bloodlicker",
+        "number": 113,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "168"
+    },
+    {
+        "card_name": "Burden of the Hunt",
+        "number": 170,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "223"
+    },
+    {
+        "card_name": "Child of Rom",
+        "number": 216,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "177"
+    },
+    {
+        "card_name": "Clockwise Metamorphosis",
+        "number": 17,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "298"
+    },
+    {
+        "card_name": "Eye Rune",
+        "number": 63,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "297"
+    },
+    {
+        "card_name": "The Bloody Crow of Cainhurst",
+        "number": 114,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "13"
+    },
+    {
+        "card_name": "Burning the Dream",
+        "number": 172,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "109"
+    },
+    {
+        "card_name": "Clawmark Rune",
+        "number": 218,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "290"
+    },
+    {
+        "card_name": "Communion Rune",
+        "number": 18,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "300"
+    },
+    {
+        "card_name": "Fishing Hamlet Priest",
+        "number": 65,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "129"
+    },
+    {
+        "card_name": "Cramped Casket",
+        "number": 120,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "186"
+    },
+    {
+        "card_name": "Discple of Djura",
+        "number": 175,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "122"
+    },
+    {
+        "card_name": "Crazed Confrontation",
+        "number": 220,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "161"
+    },
+    {
+        "card_name": "Destroy Evil",
+        "number": 20,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "86"
+    },
+    {
+        "card_name": "Guidance Rune",
+        "number": 68,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "294"
+    },
+    {
+        "card_name": "Delve into the Labyrinth",
+        "number": 121,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "217"
+    },
+    {
+        "card_name": "Elder Huntsman",
+        "number": 176,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "279"
+    },
+    {
+        "card_name": "Desperate Struggle",
+        "number": 221,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "343"
+    },
+    {
+        "card_name": "Encircled by Ghosts",
+        "number": 22,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "331"
+    },
+    {
+        "card_name": "Kidnap",
+        "number": 71,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "210"
+    },
+    {
+        "card_name": "Hemwick Hammer Woman",
+        "number": 127,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "202"
+    },
+    {
+        "card_name": "Fire Paper",
+        "number": 179,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "21"
+    },
+    {
+        "card_name": "Failed Apostle",
+        "number": 223,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "258"
+    },
+    {
+        "card_name": "Heir Rune",
+        "number": 26,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "301"
+    },
+    {
+        "card_name": "Kos Parasite",
+        "number": 72,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "83"
+    },
+    {
+        "card_name": "Hook Gravedigger",
+        "number": 130,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "276"
+    },
+    {
+        "card_name": "Hunter's Cannon",
+        "number": 184,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "72"
+    },
+    {
+        "card_name": "Great Snake Ball",
+        "number": 229,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "200"
+    },
+    {
+        "card_name": "Hunters Must Hunt",
+        "number": 29,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "221"
+    },
+    {
+        "card_name": "Lake Rune",
+        "number": 73,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "296"
+    },
+    {
+        "card_name": "Lantern Watcher",
+        "number": 133,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "236"
+    },
+    {
+        "card_name": "Huntsman Chaingunner",
+        "number": 185,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "280"
+    },
+    {
+        "card_name": "Guiding Moonlight",
+        "number": 230,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "80"
+    },
+    {
+        "card_name": "Iosefka, the Blood-Healer",
+        "number": 31,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "136"
+    },
+    {
+        "card_name": "Lost Child of Antiquity",
+        "number": 75,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "242"
+    },
+    {
+        "card_name": "Large Wandering Nightmare",
+        "number": 134,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "239"
+    },
+    {
+        "card_name": "Infected Organ",
+        "number": 186,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "58"
+    },
+    {
+        "card_name": "Harrowed Hunter",
+        "number": 231,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "150"
+    },
+    {
+        "card_name": "Labyrinth Soldier",
+        "number": 34,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "214"
+    },
+    {
+        "card_name": "Make Contact",
+        "number": 76,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "85"
+    },
+    {
+        "card_name": "Mensis Defector",
+        "number": 136,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "119"
+    },
+    {
+        "card_name": "Keeper of the Old Lords",
+        "number": 187,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "208"
+    },
+    {
+        "card_name": "Henryk, Tragic Hunter",
+        "number": 232,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "145"
+    },
+    {
+        "card_name": "Labyrinth Spirit",
+        "number": 35,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "189"
+    },
+    {
+        "card_name": "Nightmare Crawler",
+        "number": 85,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "187"
+    },
+    {
+        "card_name": "Merciless Blunderbuss",
+        "number": 137,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "248"
+    },
+    {
+        "card_name": "Killing Moon",
+        "number": 189,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "335"
+    },
+    {
+        "card_name": "Huntsman's Minion",
+        "number": 235,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "207"
+    },
+    {
+        "card_name": "Lost Church Giant",
+        "number": 37,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "180"
+    },
+    {
+        "card_name": "Prayers to Kos",
+        "number": 88,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "268"
+    },
+    {
+        "card_name": "Merciless Mace",
+        "number": 139,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "250"
+    },
+    {
+        "card_name": "Labyrinth Madman",
+        "number": 190,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "137"
+    },
+    {
+        "card_name": "Living String",
+        "number": 237,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "56"
+    },
+    {
+        "card_name": "Oedon Chapel Dweller",
+        "number": 38,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "143"
+    },
+    {
+        "card_name": "Procession of the Orphan",
+        "number": 89,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "267"
+    },
+    {
+        "card_name": "Numbing Mist",
+        "number": 141,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "52"
+    },
+    {
+        "card_name": "Moon Rune",
+        "number": 193,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "293"
+    },
+    {
+        "card_name": "Madaras Twin",
+        "number": 238,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "156"
+    },
+    {
+        "card_name": "Oedon Writhe",
+        "number": 39,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "299"
+    },
+    {
+        "card_name": "Slime Scholar",
+        "number": 94,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "266"
+    },
+    {
+        "card_name": "Old Hunter",
+        "number": 142,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "144"
+    },
+    {
+        "card_name": "Powder Keg Hunter",
+        "number": 195,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "121"
+    },
+    {
+        "card_name": "Maneater Boar",
+        "number": 240,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "246"
+    },
+    {
+        "card_name": "Old Hunter Bone",
+        "number": 40,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "218"
+    },
+    {
+        "card_name": "Snail Woman",
+        "number": 95,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "269"
+    },
+    {
+        "card_name": "Pickaxe Gravedigger",
+        "number": 145,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "277"
+    },
+    {
+        "card_name": "Pungent Blood Cocktail",
+        "number": 196,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "47"
+    },
+    {
+        "card_name": "Minor Snake Ball",
+        "number": 242,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "270"
+    },
+    {
+        "card_name": "Pearl Slug",
+        "number": 41,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "59"
+    },
+    {
+        "card_name": "Tiny Music Box",
+        "number": 97,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "50"
+    },
+    {
+        "card_name": "Rifle Gravedigger",
+        "number": 147,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "278"
+    },
+    {
+        "card_name": "Stoke the Flames",
+        "number": 202,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "108"
+    },
+    {
+        "card_name": "Spiked Hunting Dog",
+        "number": 253,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "204"
+    },
+    {
+        "card_name": "Pthumerian Pilgrim",
+        "number": 44,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "261"
+    },
+    {
+        "card_name": "What We Should Not Know",
+        "number": 100,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "342"
+    },
+    {
+        "card_name": "Tomb Prospector",
+        "number": 152,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "151"
+    },
+    {
+        "card_name": "Tiny Tonitrus",
+        "number": 203,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "51"
+    },
+    {
+        "card_name": "Stalking Beastman",
+        "number": 254,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "238"
+    },
+    {
+        "card_name": "Valtr, Master of the League",
+        "number": 51,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "152"
+    },
+    {
+        "card_name": "Yahar'gul Kidnapper",
+        "number": 102,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "211"
+    },
+    {
+        "card_name": "Yellow Backbone",
+        "number": 154,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "57"
+    },
+    {
+        "card_name": "Tonitrus Hunter",
+        "number": 204,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "158"
+    },
+    {
+        "card_name": "Wander the Woods",
+        "number": 256,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "345"
+    },
+    {
+        "card_name": "Bound Widow",
+        "number": 5,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "169"
+    },
+    {
+        "card_name": "Arcane Patient",
+        "number": 54,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "114"
+    },
+    {
+        "card_name": "Accursed Brew",
+        "number": 104,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "14"
+    },
+    {
+        "card_name": "Afflicted Beggar",
+        "number": 155,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "97"
+    },
+    {
+        "card_name": "Ambushed by Beasts",
+        "number": 206,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "160"
+    },
+    {
+        "card_name": "Cainhurst Servant Knight",
+        "number": 6,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "172"
+    },
+    {
+        "card_name": "Augur of Ebrietas",
+        "number": 57,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "15"
+    },
+    {
+        "card_name": "Beast of the Hunt",
+        "number": 107,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "163"
+    },
+    {
+        "card_name": "Ailing Loran Chalice",
+        "number": 156,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "285"
+    },
+    {
+        "card_name": "Amygdala",
+        "number": 207,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "94"
+    },
+    {
+        "card_name": "Cain's Servant",
+        "number": 7,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "171"
+    },
+    {
+        "card_name": "Bath Messengers",
+        "number": 58,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "99"
+    },
+    {
+        "card_name": "Blood Gel",
+        "number": 109,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "165"
+    },
+    {
+        "card_name": "Beast Blood Pellet",
+        "number": 158,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "16"
+    },
+    {
+        "card_name": "Antidote",
+        "number": 209,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "42"
+    },
+    {
+        "card_name": "Choir Bell",
+        "number": 8,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "41"
+    },
+    {
+        "card_name": "A Call Beyond",
+        "number": 59,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "12"
+    },
+    {
+        "card_name": "Blood Minister",
+        "number": 110,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "103"
+    },
+    {
+        "card_name": "Blacksky Eye",
+        "number": 160,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "18"
+    },
+    {
+        "card_name": "Beast Cutter Hunter",
+        "number": 212,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "146"
+    },
+    {
+        "card_name": "Church Cleanser",
+        "number": 11,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "182"
+    },
+    {
+        "card_name": "Cleaver Fishman",
+        "number": 60,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "194"
+    },
+    {
+        "card_name": "Church Assassin",
+        "number": 117,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "104"
+    },
+    {
+        "card_name": "Bleeding Huntsman",
+        "number": 161,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "26"
+    },
+    {
+        "card_name": "Beast Roar",
+        "number": 213,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "17"
+    },
+    {
+        "card_name": "Church Servant",
+        "number": 15,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "181"
+    },
+    {
+        "card_name": "Fish Dog",
+        "number": 64,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "192"
+    },
+    {
+        "card_name": "Church Executioner",
+        "number": 118,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "190"
+    },
+    {
+        "card_name": "Bloodletter Mace",
+        "number": 165,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "69"
+    },
+    {
+        "card_name": "Beastial Hunter",
+        "number": 215,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "102"
+    },
+    {
+        "card_name": "Church Sword",
+        "number": 16,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "75"
+    },
+    {
+        "card_name": "Fishman Mage",
+        "number": 66,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "224"
+    },
+    {
+        "card_name": "Executioner's Gloves",
+        "number": 123,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "44"
+    },
+    {
+        "card_name": "Bloodmad Blitz",
+        "number": 166,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "337"
+    },
+    {
+        "card_name": "Garden of Eyes",
+        "number": 225,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "197"
+    },
+    {
+        "card_name": "Destroyer Church Giant",
+        "number": 21,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "179"
+    },
+    {
+        "card_name": "Giant Fishman",
+        "number": 67,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "95"
+    },
+    {
+        "card_name": "Great Pthumeru Ihyll Chalice",
+        "number": 124,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "283"
+    },
+    {
+        "card_name": "Boulder Defense",
+        "number": 169,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "198"
+    },
+    {
+        "card_name": "Gift of the Moon",
+        "number": 226,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "333"
+    },
+    {
+        "card_name": "Executioner Church Giant",
+        "number": 23,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "178"
+    },
+    {
+        "card_name": "Hintertomb Chalice",
+        "number": 69,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "284"
+    },
+    {
+        "card_name": "Halberd Watcher",
+        "number": 125,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "237"
+    },
+    {
+        "card_name": "Cannon Huntsman",
+        "number": 173,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "25"
+    },
+    {
+        "card_name": "Great Isz Chalice",
+        "number": 228,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "286"
+    },
+    {
+        "card_name": "Fist of Gratia",
+        "number": 24,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "77"
+    },
+    {
+        "card_name": "Into the Mist",
+        "number": 70,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "340"
+    },
+    {
+        "card_name": "Hemwick Grave Woman",
+        "number": 126,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "201"
+    },
+    {
+        "card_name": "Empty Phantasm Shell",
+        "number": 177,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "43"
+    },
+    {
+        "card_name": "Hooded Beast Patient",
+        "number": 233,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "162"
+    },
+    {
+        "card_name": "Gather the Townsfolk",
+        "number": 25,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "23"
+    },
+    {
+        "card_name": "Mensis Scholar",
+        "number": 78,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "140"
+    },
+    {
+        "card_name": "Hemwick Solderer",
+        "number": 128,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "203"
+    },
+    {
+        "card_name": "Feral Patient",
+        "number": 178,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "112"
+    },
+    {
+        "card_name": "Infected Patient",
+        "number": 236,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "113"
+    },
+    {
+        "card_name": "Hunter Blunderbuss",
+        "number": 27,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "76"
+    },
+    {
+        "card_name": "Mergo's Cry",
+        "number": 80,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "141"
+    },
+    {
+        "card_name": "Labyrinth Mole",
+        "number": 131,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "212"
+    },
+    {
+        "card_name": "Flamespray",
+        "number": 180,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "78"
+    },
+    {
+        "card_name": "Madaras Whistle",
+        "number": 239,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "45"
+    },
+    {
+        "card_name": "Hunter's Awakening",
+        "number": 28,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "338"
+    },
+    {
+        "card_name": "Nightmare Boar",
+        "number": 84,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "228"
+    },
+    {
+        "card_name": "Labyrinth Rat",
+        "number": 132,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "213"
+    },
+    {
+        "card_name": "Giant Lost Child",
+        "number": 181,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "199"
+    },
+    {
+        "card_name": "Masked Huntsman",
+        "number": 241,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "271"
+    },
+    {
+        "card_name": "Hunter's Remembrance",
+        "number": 30,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "341"
+    },
+    {
+        "card_name": "Parasite Larvae",
+        "number": 86,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "229"
+    },
+    {
+        "card_name": "Mad Labyrinth Hunter",
+        "number": 135,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "138"
+    },
+    {
+        "card_name": "Hostile Patient",
+        "number": 183,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "111"
+    },
+    {
+        "card_name": "Nightmare Apostle",
+        "number": 243,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "257"
+    },
+    {
+        "card_name": "Kirkhammer",
+        "number": 32,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "310"
+    },
+    {
+        "card_name": "Patient's Head",
+        "number": 87,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "115"
+    },
+    {
+        "card_name": "Merciless Butcher",
+        "number": 138,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "249"
+    },
+    {
+        "card_name": "Keeper's Hunting Dogs",
+        "number": 188,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "209"
+    },
+    {
+        "card_name": "Persistence",
+        "number": 245,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "216"
+    },
+    {
+        "card_name": "Labyrinth Ritekeeper",
+        "number": 33,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "230"
+    },
+    {
+        "card_name": "Searching Patient",
+        "number": 90,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "110"
+    },
+    {
+        "card_name": "Narrow Minded Man",
+        "number": 140,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "142"
+    },
+    {
+        "card_name": "Piercing Rifle",
+        "number": 194,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "314"
+    },
+    {
+        "card_name": "Pitchfork Huntsman",
+        "number": 246,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "28"
+    },
+    {
+        "card_name": "Lonely Old Dear",
+        "number": 36,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "233"
+    },
+    {
+        "card_name": "Sedative",
+        "number": 91,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "40"
+    },
+    {
+        "card_name": "Poison Knife",
+        "number": 146,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "46"
+    },
+    {
+        "card_name": "Repeating Pistol",
+        "number": 197,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "315"
+    },
+    {
+        "card_name": "Praise the Moon Presence",
+        "number": 247,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "226"
+    },
+    {
+        "card_name": "Petrify",
+        "number": 42,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "155"
+    },
+    {
+        "card_name": "Skeletal Puppet",
+        "number": 93,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "225"
+    },
+    {
+        "card_name": "Rotted Corpse",
+        "number": 148,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "263"
+    },
+    {
+        "card_name": "Rifle Spear",
+        "number": 199,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "313"
+    },
+    {
+        "card_name": "Rabid Dog",
+        "number": 248,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "205"
+    },
+    {
+        "card_name": "Pthumeru Chalice",
+        "number": 45,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "282"
+    },
+    {
+        "card_name": "Spear-Thrower Fishman",
+        "number": 96,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "195"
+    },
+    {
+        "card_name": "Sign in Blood",
+        "number": 150,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "288"
+    },
+    {
+        "card_name": "Sabre Huntsman",
+        "number": 200,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "27"
+    },
+    {
+        "card_name": "Rifle Huntsman",
+        "number": 249,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "24"
+    },
+    {
+        "card_name": "Rosmarinus",
+        "number": 47,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "316"
+    },
+    {
+        "card_name": "Transcendence",
+        "number": 98,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "220"
+    },
+    {
+        "card_name": "Small Wandering Nightmare",
+        "number": 151,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "240"
+    },
+    {
+        "card_name": "Sorrowful Song",
+        "number": 201,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "332"
+    },
+    {
+        "card_name": "Sickly Yharnamite",
+        "number": 251,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "131"
+    },
+    {
+        "card_name": "Strength of Arms",
+        "number": 48,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "154"
+    },
+    {
+        "card_name": "Trawl Through the Muck",
+        "number": 99,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "193"
+    },
+    {
+        "card_name": "Twin Dagger Watcher",
+        "number": 153,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "234"
+    },
+    {
+        "card_name": "Walking Silverbeast",
+        "number": 205,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "265"
+    },
+    {
+        "card_name": "Solemn Respite",
+        "number": 252,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "330"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Ludwig, The Acursed",
+        "number": 278,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "243"
+    },
+    {
+        "card_name": "Gehrman of the Hunter's Dream",
+        "number": 270,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "9"
+    },
+    {
+        "card_name": "Chikage",
+        "number": 265,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "73"
+    },
+    {
+        "card_name": "Watchdog of the Old Lords",
+        "number": 290,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "275"
+    },
+    {
+        "card_name": "Celestial Child",
+        "number": 263,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "175"
+    },
+    {
+        "card_name": "Holy Moonlight Sword",
+        "number": 273,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "81"
+    },
+    {
+        "card_name": "Patches, the Spider",
+        "number": 283,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "147"
+    },
+    {
+        "card_name": "Annalise, Queen of the Vilebloods",
+        "number": 258,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "11"
+    },
+    {
+        "card_name": "Beast-Possessed Soul",
+        "number": 260,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "164"
+    },
+    {
+        "card_name": "Crimes of the Church",
+        "number": 267,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "352"
+    },
+    {
+        "card_name": "Gentle Quiet",
+        "number": 271,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "349"
+    },
+    {
+        "card_name": "The Hunter's Armory",
+        "number": 274,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "350"
+    },
+    {
+        "card_name": "Bloodletting Beast",
+        "number": 262,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "167"
+    },
+    {
+        "card_name": "Scourge Beast",
+        "number": 286,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "3"
+    },
+    {
+        "card_name": "The Tragedy of Ludwig",
+        "number": 289,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "351"
+    },
+    {
+        "card_name": "The Sin of Byrgenwerth",
+        "number": 287,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "312"
+    },
+    {
+        "card_name": "Surrounded by Mad Ones",
+        "number": 288,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "244"
+    },
+    {
+        "card_name": "Mutated Crow",
+        "number": 304,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "174"
+    },
+    {
+        "card_name": "Mutated Dog",
+        "number": 305,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "206"
+    },
+    {
+        "card_name": "Healing Church Communion",
+        "number": 299,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "281"
+    },
+    {
+        "card_name": "Brain Sucker",
+        "number": 293,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "170"
+    },
+    {
+        "card_name": "Carrion Crow",
+        "number": 294,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "173"
+    },
+    {
+        "card_name": "Unsettling Discoveries",
+        "number": 308,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "329"
+    },
+    {
+        "card_name": "Nightmare Hound",
+        "number": 307,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "117"
+    },
+    {
+        "card_name": "White Church Hunter",
+        "number": 310,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "134"
+    },
+    {
+        "card_name": "Forbidden Woods Gatekeeper",
+        "number": 297,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "130"
+    },
+    {
+        "card_name": "Mad One",
+        "number": 302,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "245"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Martyr Logarius",
+        "number": 279,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "247"
+    },
+    {
+        "card_name": "Consult the Great Ones",
+        "number": 266,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "348"
+    },
+    {
+        "card_name": "The Mother Apostle",
+        "number": 280,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "256"
+    },
+    {
+        "card_name": "Eileen, the Crow",
+        "number": 268,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "124"
+    },
+    {
+        "card_name": "Orphan of Kos",
+        "number": 282,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "92"
+    },
+    {
+        "card_name": "Impurity Oath",
+        "number": 276,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "302"
+    },
+    {
+        "card_name": "Saint Adeline",
+        "number": 285,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "149"
+    },
+    {
+        "card_name": "Beastclaw Hunter",
+        "number": 261,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "100"
+    },
+    {
+        "card_name": "Arianna, Oedon's Consort",
+        "number": 259,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "105"
+    },
+    {
+        "card_name": "Celestial Emissary",
+        "number": 264,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "93"
+    },
+    {
+        "card_name": "Alfred, Hunter of Vilebloods",
+        "number": 257,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "10"
+    },
+    {
+        "card_name": "Winter Lantern",
+        "number": 291,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "33"
+    },
+    {
+        "card_name": "Gravekeeper Scorpion",
+        "number": 272,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "118"
+    },
+    {
+        "card_name": "Logarius' Wheel",
+        "number": 277,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "311"
+    },
+    {
+        "card_name": "Fluorescent Flower",
+        "number": 269,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "196"
+    },
+    {
+        "card_name": "Nightmare Cannoneer",
+        "number": 281,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "260"
+    },
+    {
+        "card_name": "Frenzying Voices",
+        "number": 298,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "328"
+    },
+    {
+        "card_name": "The Hunt Begins",
+        "number": 300,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "107"
+    },
+    {
+        "card_name": "Queen Killer",
+        "number": 284,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "116"
+    },
+    {
+        "card_name": "Imposter Iosefka",
+        "number": 275,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "135"
+    },
+    {
+        "card_name": "Black Church Hunter",
+        "number": 292,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "133"
+    },
+    {
+        "card_name": "Mensis Cage",
+        "number": 303,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "354"
+    },
+    {
+        "card_name": "Yharnam Hunter",
+        "number": 311,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "132"
+    },
+    {
+        "card_name": "Labyrinth Flaming Swordsman",
+        "number": 301,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "232"
+    },
+    {
+        "card_name": "Celestial Minion",
+        "number": 295,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "176"
+    },
+    {
+        "card_name": "Nightmare Executioner",
+        "number": 306,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "259"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wanderer from the East",
+        "number": 309,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "153"
+    },
+    {
+        "card_name": "The Child Kin",
+        "number": 296,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "353"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Altar of Surgery",
+        "number": 312,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "360"
+    },
+    {
+        "card_name": "Whirligig Saw",
+        "number": 335,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "317"
+    },
+    {
+        "card_name": "Blood of Adeline",
+        "number": 314,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "39"
+    },
+    {
+        "card_name": "Blood of Adella",
+        "number": 315,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "38"
+    },
+    {
+        "card_name": "Blood of Arianna",
+        "number": 316,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "37"
+    },
+    {
+        "card_name": "Blood Rock",
+        "number": 317,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "359"
+    },
+    {
+        "card_name": "Chalice Ritual Site",
+        "number": 321,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "361"
+    },
+    {
+        "card_name": "Iosefka's Blood Vial",
+        "number": 326,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "1"
+    },
+    {
+        "card_name": "Soul-Guide Lantern",
+        "number": 331,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "231"
+    },
+    {
+        "card_name": "Tonitrus",
+        "number": 334,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "6"
+    },
+    {
+        "card_name": "",
+        "number": 1,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "36"
+    },
+    {
+        "card_name": "Blazing Torch",
+        "number": 313,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "287"
+    },
+    {
+        "card_name": "Blood Stone Shard",
+        "number": 318,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "358"
+    },
+    {
+        "card_name": "Blue Elixir",
+        "number": 319,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "19"
+    },
+    {
+        "card_name": "Bone Marrow Ash",
+        "number": 320,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "22"
+    },
+    {
+        "card_name": "Folded Saw Cleaver",
+        "number": 322,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "2"
+    },
+    {
+        "card_name": "Great One Coldblood",
+        "number": 323,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "71"
+    },
+    {
+        "card_name": "Great One's Wisdom",
+        "number": 324,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "0"
+    },
+    {
+        "card_name": "Hunter's Axe",
+        "number": 325,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "5"
+    },
+    {
+        "card_name": "Lead Elixir",
+        "number": 327,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "30"
+    },
+    {
+        "card_name": "Molotov Cocktail",
+        "number": 328,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "29"
+    },
+    {
+        "card_name": "Oil Urn",
+        "number": 329,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "32"
+    },
+    {
+        "card_name": "Pebble",
+        "number": 330,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "31"
+    },
+    {
+        "card_name": "Threaded Cane",
+        "number": 332,
+        "shape": "transform double faced",
+        "set": "BUB",
+        "position": "4"
+    },
+    {
+        "card_name": "Throwing Knife",
+        "number": 333,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "49"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Grand Cathedral",
+        "number": 344,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "365"
+    },
+    {
+        "card_name": "The Cursed Coast",
+        "number": 340,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "362"
+    },
+    {
+        "card_name": "Snake Infested Gravesite",
+        "number": 350,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "363"
+    },
+    {
+        "card_name": "Astral Clocktower",
+        "number": 337,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "320"
+    },
+    {
+        "card_name": "Great Bridge",
+        "number": 345,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "364"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Byrgenwerth",
+        "number": 338,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "321"
+    },
+    {
+        "card_name": "Abandoned Hunter's Workshop",
+        "number": 336,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "318"
+    },
+    {
+        "card_name": "Yahar'gul, Unseen Village",
+        "number": 351,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "326"
+    },
+    {
+        "card_name": "Hunter's Dream",
+        "number": 346,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "319"
+    },
+    {
+        "card_name": "Oedon Chapel",
+        "number": 349,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "227"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Cathedral Ward",
+        "number": 339,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "322"
+    },
+    {
+        "card_name": "Nightmare of Mensis",
+        "number": 348,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "324"
+    },
+    {
+        "card_name": "Forbidden Woods",
+        "number": 343,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "325"
+    },
+    {
+        "card_name": "Hypogean Gaol",
+        "number": 347,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "366"
+    },
+    {
+        "card_name": "Fishing Hamlet",
+        "number": 342,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "323"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Dark Well",
+        "number": 341,
+        "shape": "normal",
+        "set": "BUB",
+        "position": "357"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Kin",
+        "number": 1,
+        "shape": "token",
+        "set": "BUB",
+        "position": "106"
+    },
+    {
+        "card_name": "Insight",
+        "number": 1,
+        "shape": "token",
+        "set": "BUB",
+        "position": "356"
+    },
+    {
+        "card_name": "Blood",
+        "number": 13,
+        "shape": "token",
+        "set": "BUB",
+        "position": "35"
+    },
+    {
+        "card_name": "Coldblood",
+        "number": 14,
+        "shape": "token",
+        "set": "BUB",
+        "position": "34"
+    },
+    {
+        "card_name": "Human",
+        "number": 3,
+        "shape": "token",
+        "set": "BUB",
+        "position": "61"
+    },
+    {
+        "card_name": "Fish Kin",
+        "number": 4,
+        "shape": "token",
+        "set": "BUB",
+        "position": "63"
+    },
+    {
+        "card_name": "Illusion",
+        "number": 5,
+        "shape": "token",
+        "set": "BUB",
+        "position": "255"
+    },
+    {
+        "card_name": "Horror",
+        "number": 6,
+        "shape": "token",
+        "set": "BUB",
+        "position": "64"
+    },
+    {
+        "card_name": "Beast",
+        "number": 7,
+        "shape": "token",
+        "set": "BUB",
+        "position": "62"
+    },
+    {
+        "card_name": "Spider Kin",
+        "number": 8,
+        "shape": "token",
+        "set": "BUB",
+        "position": "91"
+    },
+    {
+        "card_name": "Formless Oedon",
+        "number": 2,
+        "shape": "token",
+        "set": "BUB",
+        "position": "89"
+    },
+    {
+        "card_name": "Chalice Dungeon",
+        "number": 15,
+        "shape": "token",
+        "set": "BUB",
+        "position": "60"
+    },
+    {
+        "card_name": "The Brain of Mensis",
+        "number": 9,
+        "shape": "token",
+        "set": "BUB",
+        "position": "84"
+    },
+    {
+        "card_name": "Ebrietas, Daughter of the Cosmos",
+        "number": 10,
+        "shape": "token",
+        "set": "BUB",
+        "position": "88"
+    },
+    {
+        "card_name": "Flora, the Moon Presence",
+        "number": 11,
+        "shape": "token",
+        "set": "BUB",
+        "position": "87"
+    },
+    {
+        "card_name": "Kos, Mother of the Nightmare",
+        "number": 12,
+        "shape": "token",
+        "set": "BUB",
+        "position": "82"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
