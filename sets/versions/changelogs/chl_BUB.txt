@@ -1,4 +1,135 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Choir Bell
+cost: {1}{W} => {W}
+rules_text: When this artifact enters or leaves the battlefield, create a 1/1 white Human creature token, then attach target Equipment you control to it.
+{4}, {T}, Sacrifice this artifact: Creatures you control get +1/+1 and gain lifelink until end of turn. => When this artifact enters or leaves the battlefield, create a 1/1 white Human creature token, then attach target Equipment you control to it.
+
+Antidote
+type: Artifact => Artifact — Food
+rules_text: When this artifact enters or leaves the battlefield, put a +1/+1 counter on target creature you control. You gain 1 life.
+{4}, {T}, Sacrifice this artifact: Transform target creature. => When this artifact enters or leaves the battlefield, put a +1/+1 counter on target creature you control.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+
+Empty Phantasm Shell
+cost: {1}{R} => {R}
+rules_text: When this artifact enters or leaves the battlefield, target creature you control gets +3/+1 until end of turn.
+{2}, {T}, Sacrifice this artifact: Attach target equipment you control to target creature you control. You may transform that equipment. => When this artifact enters or leaves the battlefield, target creature you control gets +3/+1 and gains trample until end of turn.
+
+Executioner's Gloves
+cost: {B} => {1}{B}
+rules_text: When this artifact enters or leaves the battlefield, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{3}, {T}, Sacrifice this artifact: Destroy target creature. => When this artifact enters or leaves the battlefield, destroy target creature you don't control with mana value 3 or less.
+
+Pungent Blood Cocktail
+cost: {R} => {2}{R}
+rules_text: When this artifact enters or leaves the battlefield, target creature can't block this turn.
+{4}, {T}, Sacrifice this artifact: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. => When this artifact enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. target creature can't block this turn.
+{2}, {T}: Target creature can't block this turn. If mana produced by a Coldblood was used to activate this ability, copy this ability.
+
+Numbing Mist
+rules_text: Flash
+When this artifact enters or leaves the battlefield, until end of turn, if an opponent would gain life, that player loses that much life instead.
+{2}, {T}, Sacrifice this artifact: Target player discards a card. => Flash
+When this artifact enters or leaves the battlefield, until end of turn, if an opponent would gain life, that player loses that much life instead.
+{2}, {T}, Sacrifice this artifact: Target player gains 3 life.
+
+Bastard of Loran
+cost: {4}{B} => {3}{B}
+rules_text: When this artifact enters, put target creature card from a graveyard onto the battlefield under your control. 
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+{2}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Arcane Haze
+cost: {5}{U} => {3}{U}
+rules_text: When this artifact enters, return up to three target creatures to their owner's hands.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, return up to one target creature to its owner's hand.
+{2}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Bloodshot Eyeball
+cost: {1}{R} => {R}
+rules_text: When this artifact enters, discard up to two cards, then increase your insight for each card discarded this way. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, you may discard a card. If you do, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+{2}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Living String
+cost: {3}{G} => {2}{G}
+rules_text: When this artifact enters, search your library for up to two basic land cards and put them onto the battlefield tapped, then shuffle. You gain 2 life.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, search your library for up to two basic land cards and reveal them. Put one into your hand and the other onto the battlefield tapped, then shuffle. You gain 1 life.
+{3}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Yellow Backbone
+cost: {1}{B} => {2}{B}
+rules_text: When this artifact enters, destroy target creature you don't control with mana value 3 or less.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, create a Blood token. When you do, target creature you don't control gets -X/-X until end of turn, where X is the number of artifacts you control. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{4}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Infected Organ
+rules_text: When this artifact enters, it deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, it deals 3 damage divided as you choose among any number of target creatures. If a creature dealt damage this way would die this turn, exile it instead.
+{5}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Pearl Slug
+rules_text: When this artifact enters, create three tokens that are copies of a token you control.
+When this artifact leaves the battlefield, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, create two tokens that are copies of a token you control.
+{2}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Boom Hammer
+rules_text: Equipped creature gets +X/+0 where X is the number of cards you've discarded this turn and has trample and haste.
+Equip—Discard a card. Acrtivate only once per turn. => Equipped creature gets +X/+0 where X is the number of cards you've discarded this turn and has trample and haste.
+Equip—Discard a card. Activate only once per turn.
+
+Old Hunter Bone
+cost: {W} => {1}{W}
+rules_text: Flash
+When this artifact enters, exile target creature you control, then return it to the battlefield under its owner's control.
+{3}, {T}, Sacrifice this artifact: Exile target player's graveyard. Draw a card. => Flash
+When this artifact enters or leaves the battlefield, exile target creature you control, then return it to the battlefield under its owner's control.
+{3}, {T}, Sacrifice this artifact: Exile target player's graveyard.
+
+Lost Child of Antiquity
+rules_text: Flash
+Vigilance
+When this creature enters, exile another target nonland permanent you control, then return it to the battlefield under your control. => Flash
+Vigilance
+When this creature enters, exile another target artifact or creature you control, then return it to the battlefield under its owner's control.
+
+Pthumeru Chalice
+cost: {2}{W} => {2W}{2W}
+
+Great Pthumeru Ihyll Chalice
+cost: {2}{B} => {2B}{2B}
+
+Hintertomb Chalice
+cost: {2}{U} => {2U}{2U}
+
+Ailing Loran Chalice
+cost: {2}{R} => {2R}{2R}
+
+Great Isz Chalice
+cost: {2}{G} => {2G}{2G}
+
+Whirligig Saw
+rules_text: When this Equipment enters, and at the beginning of your upkeep, put three charge counters on it.
+Remove a charge counter from this Equipment: Choose one —
+• Attach target Equipment you control to target creature you control. Put a +1/+1 counter on that creature.
+• Transform target Equipment you control.
+• Equipped creature gains your choice of vigilance, trample, lifelink, or haste until end of turn. => When this Equipment enters, and at the beginning of your upkeep, put three charge counters on it.
+Remove a charge counter from this Equipment: Choose one —
+• Attach target Equipment you control to target creature you control. Put a +1/+1 counter on that creature.
+• Transform target Equipment you control.
+• Equipped creature gains your choice of vigilance, trample, or lifelink until end of turn.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

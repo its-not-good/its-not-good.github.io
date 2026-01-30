@@ -462,7 +462,7 @@
 		{
 			"name": "Choir Bell",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Artifact",
 			"collector_number": "8",
 			"image_uris": {
@@ -473,7 +473,7 @@
 			"name": "Antidote",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Artifact",
+			"type": "Artifact — Food",
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https://mse-hub/sets/BUB-files/img/42.png"
@@ -482,7 +482,7 @@
 		{
 			"name": "Empty Phantasm Shell",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Artifact",
 			"collector_number": "177",
 			"image_uris": {
@@ -492,7 +492,7 @@
 		{
 			"name": "Executioner's Gloves",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Artifact",
 			"collector_number": "123",
 			"image_uris": {
@@ -522,7 +522,7 @@
 		{
 			"name": "Pungent Blood Cocktail",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Artifact",
 			"collector_number": "196",
 			"image_uris": {
@@ -582,7 +582,7 @@
 		{
 			"name": "Bastard of Loran",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Artifact",
 			"collector_number": "105",
 			"image_uris": {
@@ -592,7 +592,7 @@
 		{
 			"name": "Arcane Haze",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Artifact",
 			"collector_number": "53",
 			"image_uris": {
@@ -602,7 +602,7 @@
 		{
 			"name": "Bloodshot Eyeball",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Artifact",
 			"collector_number": "167",
 			"image_uris": {
@@ -612,7 +612,7 @@
 		{
 			"name": "Living String",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Artifact",
 			"collector_number": "237",
 			"image_uris": {
@@ -622,7 +622,7 @@
 		{
 			"name": "Yellow Backbone",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Artifact",
 			"collector_number": "154",
 			"image_uris": {
@@ -2281,7 +2281,7 @@
 		{
 			"name": "Old Hunter Bone",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Artifact",
 			"collector_number": "40",
 			"image_uris": {
@@ -2942,7 +2942,7 @@
 		{
 			"name": "Pthumeru Chalice",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{2/W}{2/W}",
 			"type": "Artifact",
 			"collector_number": "45",
 			"image_uris": {
@@ -2952,7 +2952,7 @@
 		{
 			"name": "Great Pthumeru Ihyll Chalice",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{2/B}{2/B}",
 			"type": "Artifact",
 			"collector_number": "124",
 			"image_uris": {
@@ -2962,7 +2962,7 @@
 		{
 			"name": "Hintertomb Chalice",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2/U}{2/U}",
 			"type": "Artifact",
 			"collector_number": "69",
 			"image_uris": {
@@ -2972,7 +2972,7 @@
 		{
 			"name": "Ailing Loran Chalice",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{2/R}{2/R}",
 			"type": "Artifact",
 			"collector_number": "156",
 			"image_uris": {
@@ -2982,7 +2982,7 @@
 		{
 			"name": "Great Isz Chalice",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{2/G}{2/G}",
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
