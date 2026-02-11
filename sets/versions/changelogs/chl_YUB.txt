@@ -1,4 +1,349 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Skull Knight
+cost: {3}{U}{B} => {2}{U}{B}
+rules_text: Fusion {2}{UB} — A blue creature and a black creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Skull Knight enters, each opponent shuffles a card from their hand into their library, then you draw a card. => Fusion {1}{U}{B} — A blue creature and a black creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Skull Knight enters, each opponent shuffles a card from their hand into their library, then you draw a card.
+pt: 4/2 => 3/2
+
+De-Spell
+rules_text: Choose one or both —
+• Destroy artifact or enchantment.
+• Counter target instant or sorcery spell. => Choose one or both —
+• Destroy target artifact or enchantment.
+• Counter target instant or sorcery spell.
+
+Thunder Dragon
+rules_text: Flying
+When this creature enters, you may search your library for a Dragon card with mana value 5 or less, reveal it, put it into your hand, then shuffle. => Flying
+When this creature enters, you may search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+
+Twin-Headed Thunder Dragon
+rules_text: Fusion {4}{RW} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+First strike
+Whenever Twin-Headed Thunder Dragon enters or attacks, look at the top four cards of your library and reveal a Dragon card from among them. Put that card into your hand and the rest on the bottom of your library in a random order. => Fusion {4}{R}{W} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+First strike
+Whenever Twin-Headed Thunder Dragon enters or attacks, look at the top four cards of your library and reveal a Dragon card from among them. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+Flame Swordsman
+rules_text: Fusion {2}{R} — Two red creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Flame Swordsman enters or whenever you cast a noncreature spell, Flame Swordsman deals 2 damage to any target. => Fusion {3}{R} — Two red creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Flame Swordsman enters or whenever you cast a noncreature spell, Flame Swordsman deals 2 damage to any target.
+
+Shadow Ghoul
+rules_text: Trample
+Whenever a creature card is put into your graveyard from anywhere, put a +1/+1 counter on target creature. => Trample
+Whenever another creature you control dies or a creature card is put into your graveyard from anywhere other than the battlefield, put a +1/+1 counter on this creature.
+
+Black Skull Dragon
+cost: {6}{B}{B}{R}{R} => {5}{B}{B}{R}{R}
+rules_text: Fusion {6}{BR} — A Zombie or Demon and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, deathtouch, trample
+When Black Skull Dragon enters, put target creature card from an opponent's graveyard onto the battlefield under your control. => Fusion {6}{B}{R} — A Zombie or Demon and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, deathtouch, trample
+When Black Skull Dragon enters, put target creature card from an opponent's graveyard onto the battlefield under your control.
+
+Musician King
+rules_text: Fusion {3}{UB} — Two Wizards [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Musician King enters, each opponent loses 1 life for each instant, sorcery, and Wizard card in your graveyard. => Fusion {3}{U}{B} — Two Wizards [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Musician King enters, each opponent loses 1 life for each instant, sorcery, and Wizard card in your graveyard.
+
+Roaring Ocean Snake
+cost: {4}{U}{U} => {3}{U}{U}
+
+Zombie Warrior
+cost: {3}{W}{B} => {2}{W}{B}
+rules_text: Fusion {2}{WB} — A Zombie and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Whenever a Zombie you control deals combat damage to a player, that player discards a card. => Fusion {1}{W}{B} — A Zombie and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Whenever a Zombie you control deals combat damage to a player, that player discards a card.
+
+Meteor Black Dragon
+rules_text: Fusion {5}{BR} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, menace
+When this creature enters, repeat the following process three times. Each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card. => Fusion {5}{B}{R} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, menace
+When this creature enters, repeat the following process three times. Each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.
+
+Magician Navigation
+rules_text: Put up to two Wizard cards from your hand onto the battlefield.
+[i]Channel[/i] — {U}{B}, Discard this card: Counter target noncreature spell. => Put up to two Wizard cards from your hand and/or graveyard onto the battlefield.
+[i]Channel[/i] — {U}{B}, Discard this card: Counter target noncreature spell.
+
+Red-Eyes Zombie Dragon
+rules_text: Emerge from Zombie {4}{BR} [i](You may cast this spell by sacrificing a Zombie and paying the emerge cost reduced by that Zombie's mana value.)[/i]
+Flying, deathtouch
+When this creature attacks, return target Zombie or Dragon card from your graveyard to your hand. => Emerge from Dragon or Zombie {4}{BR} [i](You may cast this spell by sacrificing a Dragon or Zombie and paying the emerge cost reduced by that Dragon or Zombie's mana value.)[/i]
+Flying, deathtouch
+When this creature attacks, return target Zombie or Dragon card from your graveyard to your hand.
+
+Red-Eyes Spirit
+cost: {3}{B}{R} => {2}{B}{R}
+
+Red-Eyes Black Metal Dragon
+rules_text: You may sacrifice a Dragon you control with an Aura attached to it rather than pay this spell's mana cost.
+Flying, trample
+Whenever this creature attacks, it deals 7 damage to target creature an opponent controls. Excess damage dealt this way is dealt to that creature's controller. => You may sacrifice a Dragon you control with an Aura or Equipment attached to it rather than pay this spell's mana cost.
+Flying, trample
+Whenever this creature attacks, it deals 7 damage to target creature an opponent controls. Excess damage dealt this way is dealt to that creature's controller.
+
+Red-Eyes Wyvern
+cost: {2}{BR}{BR} => {1}{BR}{BR}
+rules_text: Flying
+{5}{B}{R}, Exile this card from your graveyard: Put another target Dragon card from your graveyard onto the battlefield. => Flying
+{3}{B}{R}, Exile this card from your graveyard: Put another target Dragon card from your graveyard onto the battlefield.
+pt: 4/4 => 3/2
+
+Buster Blader, the Dragon Destroyer Swordsman
+rules_text: Fusion {2}{R}{G}{W} — A Warrior and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Menace, protection from Dragons
+Dragons can't attack or block and their activated abilities can't be activated. => Fusion {2}{R}{G}{W} — A Warrior and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Menace, reach, protection from Dragons
+Dragons can't attack or block and their activated abilities can't be activated.
+
+Book of Life
+cost: {3}{B}{B} => {2}{B}{B}
+rules_text: This spell costs {3} less to cast if it targets a Zombie card.
+Return target creature card from a graveyard to the battlefield under your control. Then exile target opponent's graveyard. => This spell costs {2} less to cast if it targets a Zombie card.
+Return target creature card from a graveyard to the battlefield under your control. Then exile target opponent's graveyard.
+
+Call of the Mummy
+cost: {1}{W}{B} => {W}{B}
+rules_text: {3}{W}{B}: Put a Zombie card from your hand or from a graveyard onto the battlefield under your control with a finality counter on it. Activate this ability only once per turn and only as a sorcery. This ability costs {3} less to activate if you control no creatures. => {2}{W}{B}: Put a Zombie card from your hand or from a graveyard onto the battlefield under your control with a finality counter on it. Activate this ability only once per turn and only as a sorcery. This ability costs {2} less to activate if you control no creatures.
+
+Bone Crusher
+rules_text: This creature has first strike while attacking.
+When this creature enters from your graveyard or is cast from your graveyard, destroy target nonland permanent an opponent controls. => This creature has first strike while attacking.
+When this creature enters, if it entered from your graveyard or was cast from your graveyard, destroy target nonland permanent an opponent controls.
+
+Mezuki
+rules_text: Affinity for Zombies [i](This spell costs {1} less to cast for each Zombie you control.)[/i]
+{3}{W}{W}, Exile this card from your graveyard: Return another target Zombie card from a graveyard to the battlefield under your control. => Affinity for Zombies [i](This spell costs {1} less to cast for each Zombie you control.)[/i]
+{2}{W}{W}, Exile this card from your graveyard: Return another target Zombie card from a graveyard to the battlefield under your control.
+
+Karbonala Warrior
+rules_text: Fusion {2}{W} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Whenever you attack, create a 1/1 white Warrior creature token that's tapped and attacking. Then creatures you control get +1/+1 until end of turn. => Fusion {3}{W} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Whenever you attack, create a 1/1 white Warrior creature token that's tapped and attacking. Then creatures you control get +1/+1 until end of turn.
+
+Green Baboon, Defender of the Forest
+rules_text: Whenever a Beast you control dies during an opponent's turn, you may pay 3 life and {R}{G} to put this card from your hand onto the battlefield.
+When this creature enters, sacrifice a land, then search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. => Whenever a creature you control dies during an opponent's turn, you may pay 3 life and {R}{G} to put this card from your hand or graveyard onto the battlefield with a finality counter on it.
+When this creature enters, sacrifice a land, then search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+Chimera the Flying Mythical Beast
+cost: {4}{G}{G} => {3}{G}{G}
+rules_text: Fusion {2}{G}{G} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield. => Fusion {3}{G} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield.
+
+Darkfire Dragon
+rules_text: Fusion {3}{R} — A Dragon and a Red Creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When this creature dies, it deals 2 damage to target opponent and each creature they control. Then remove this card from the game. [i](Return it to your sideboard if you have one.)[/i] => Fusion {4}{R} — A Dragon and a Red Creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When this creature dies, it deals 2 damage to target opponent and each creature they control. Then remove this card from the game. [i](Return it to your sideboard if you have one.)[/i]
+
+Book of Taiyou
+
+Book of Moon
+
+Penguin Soldier
+
+Nightmare Penguin
+rules_text: Defense position {2}{G}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]
+Whenever this or another creature you control is turned face up, put a +1/+1 counter on that creature. Then return up to one target nonland permanent to its owner's hand. => Defense position {1}{G}{U} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]
+Whenever this or another creature you control is turned face up, put a +1/+1 counter on that creature. Then return up to one target nonland permanent to its owner's hand.
+
+White Ninja
+
+Desertapir
+
+Needle Worm
+
+Penguin Knight
+
+Skelengel
+
+Soul Reversal
+
+Cyber Dragon
+
+Supply
+
+Magical Scientist
+
+Cyber-Stein
+
+Metamorphosis
+
+Summoner of Illusions
+
+Future Fusion
+
+Instant Fusion
+
+Petit Angel
+
+Mystical Sheep #2
+
+Mystical Sheep #1
+
+Enchanting Mermaid
+
+Fusionist
+rules_text: Fusion {2}{GW} — Two creatures with mana value 3 or less [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, vigilance, lifelink
+Whenever this creature attacks, other creatures you control get +1/+1 and gain flying and lifelink until end of turn. Untap them. => Fusion {2}{G}{W} — Two creatures with mana value 3 or less [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, vigilance, lifelink
+Whenever this creature attacks, other creatures you control get +1/+1 and gain flying and lifelink until end of turn. Untap them.
+
+Rare Fish
+cost: {4}{R}{R} => {5}{R}{R}
+rules_text: Fusion {3}{R} — A creature with mana value 5 or greater and a creature with mana value 3 or greater [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+At the beginning of combat on your turn, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn. => Fusion {5}{R} — A creature with mana value 5 or greater and a creature with mana value 3 or greater [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+At the beginning of combat on your turn, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn.
+pt: 4/3 => 5/4
+
+Worm Bait
+
+Cyber Twin Dragon
+rules_text: Fusion {6}{UR} — An artifact creature and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, haste
+Whenever this creature attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase. => Fusion {5}{U}{R} — An artifact creature and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, haste
+Whenever this creature attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+
+Totem Dragon
+rules_text: Flying
+You may treat this creature's mana value as 3 when paying an emerge cost.
+{G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only if you control no creatures and only as a sorcery. => Flying
+You may treat this creature's mana value as 3 when paying an emerge cost.
+{G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only as a sorcery.
+
+Angel 07
+
+Overwhelm
+
+Escalation of the Monarchs
+
+March of the Monarchs
+rules_text: Creatures you control with emerge get +2/+2 and have hexproof. [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Creatures you control cannot enter the battlefield from your graveyard or library. => Creatures you control with emerge get +2/+2 and have hexproof. [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Creatures you control cannot enter the battlefield from your graveyard or library.
+You cannot cast creature spells from anywhere other than your hand.
+
+Majesty of the White Dragons
+
+Marauding Captain
+
+Reinforce Truth
+
+Copy Knight
+rules_text: Flash
+Whenever this or another Warrior you control enters, you may have this become a copy of target Warrior you control except it gains this ability and is an enchantment in addition to its other types. => Flash
+Whenever this or another Warrior you control enters, you may have this become a copy of target Warrior you control except it gains this ability and is an enchantment in addition to its other types, and it isn't legendary.
+
+Dragon Treasure
+
+Silver Bow and Arrow
+
+Steel Shell
+
+Dark Energy
+
+Salamandra
+
+Violet Crystal
+
+Insect Armor with Laser Cannon
+
+Cestus of Dagla
+
+Gravity Axe
+
+Electro-Whip
+
+Soul Exchange
+
+Dark Renewal
+
+The Ultimate Creature of Destruction
+
+Guardragon Cataclysm
+
+Dark Magical Circle
+
+Dedication Through Light and Darkness
+
+Kidmodo Dragon
+
+Burst Breath
+
+The Thing in the Crater
+
+Convulsion of Nature
+
+The Seal of Orichalcos
+
+Psuedo Space
+
+Mausoleum of the Emperor
+
+Heart of Clear Water
+
+D.D. Borderline
+
+Harpies' Hunting Ground
+
+Kaiser Colosseum
+
+Labyrinth of Nightmare
+
+Sanguine Swamp
+
+Skull Lair
+
+The Dark Door
+
+Pyramid of Wonders
+
+Spring of Rebirth
+
+Twin-Headed Behemoth
+
+Serpent Night Dragon
+
+Reload
+
+Advance Draw
+
+Rush Recklessly
+
+D. Tribe
+
+Monster Gate
+
+Fusion Recovery
+
+Different Dimension Gate
+
+Heart of the Underdog
+
+Dark Magic Curtain
+rules_text: As an additional cost to cast this spell, pay half your life, rounded down.
+Search your library for a Wizard card and put it onto the battlefield. Then shuffle.
+End the turn. => As an additional cost to cast this spell, pay half your life, rounded down.
+Search your library for a Wizard card and put it onto the battlefield. Then the owner of each other creature you control shuffles it into their library.
+Exile Dark Magic Curtain.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
