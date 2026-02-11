@@ -303,7 +303,7 @@
 		{
 			"name": "Skull Knight",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{B}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Demon Knight",
 			"collector_number": "295",
 			"image_uris": {
@@ -1333,7 +1333,7 @@
 		{
 			"name": "Black Skull Dragon",
 			"rarity": "rare",
-			"mana_cost": "{6}{B}{B}{R}{R}",
+			"mana_cost": "{5}{B}{B}{R}{R}",
 			"type": "Creature — Demon Dragon",
 			"collector_number": "220",
 			"image_uris": {
@@ -1413,7 +1413,7 @@
 		{
 			"name": "Roaring Ocean Snake",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Serpent",
 			"collector_number": "77",
 			"image_uris": {
@@ -1473,7 +1473,7 @@
 		{
 			"name": "Zombie Warrior",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Zombie Warrior",
 			"collector_number": "308",
 			"image_uris": {
@@ -1773,7 +1773,7 @@
 		{
 			"name": "Red-Eyes Spirit",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Instant — Trap",
 			"collector_number": "288",
 			"image_uris": {
@@ -1813,7 +1813,7 @@
 		{
 			"name": "Red-Eyes Wyvern",
 			"rarity": "common",
-			"mana_cost": "{2}{B/R}{B/R}",
+			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Creature — Dragon",
 			"collector_number": "331",
 			"image_uris": {
@@ -2503,7 +2503,7 @@
 		{
 			"name": "Book of Life",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
@@ -2563,7 +2563,7 @@
 		{
 			"name": "Call of the Mummy",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
 			"collector_number": "229",
 			"image_uris": {
@@ -2943,7 +2943,7 @@
 		{
 			"name": "Chimera the Flying Mythical Beast",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Beast",
 			"collector_number": "179",
 			"image_uris": {
@@ -3091,23 +3091,13 @@
 			}
 		},
 		{
-			"name": "Dark Magic Curtain",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Sorcery",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/309.png"
-			}
-		},
-		{
 			"name": "Book of Taiyou",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/310.png"
+				"en": "https://mse-hub/sets/YUB-files/img/309.png"
 			}
 		},
 		{
@@ -3117,7 +3107,7 @@
 			"type": "Instant",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/311.png"
+				"en": "https://mse-hub/sets/YUB-files/img/310.png"
 			}
 		},
 		{
@@ -3127,7 +3117,7 @@
 			"type": "Creature — Penguin Soldier",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/312.png"
+				"en": "https://mse-hub/sets/YUB-files/img/311.png"
 			}
 		},
 		{
@@ -3137,7 +3127,7 @@
 			"type": "Creature — Nightmare Penguin",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/313.png"
+				"en": "https://mse-hub/sets/YUB-files/img/312.png"
 			}
 		},
 		{
@@ -3147,7 +3137,7 @@
 			"type": "Creature — Human Ninja",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/314.png"
+				"en": "https://mse-hub/sets/YUB-files/img/313.png"
 			}
 		},
 		{
@@ -3157,7 +3147,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/315.png"
+				"en": "https://mse-hub/sets/YUB-files/img/314.png"
 			}
 		},
 		{
@@ -3167,7 +3157,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/316.png"
+				"en": "https://mse-hub/sets/YUB-files/img/315.png"
 			}
 		},
 		{
@@ -3177,7 +3167,7 @@
 			"type": "Creature — Penguin Knight",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/317.png"
+				"en": "https://mse-hub/sets/YUB-files/img/316.png"
 			}
 		},
 		{
@@ -3187,7 +3177,7 @@
 			"type": "Creature — Faerie Angel",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/318.png"
+				"en": "https://mse-hub/sets/YUB-files/img/317.png"
 			}
 		},
 		{
@@ -3197,7 +3187,7 @@
 			"type": "Instant",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/319.png"
+				"en": "https://mse-hub/sets/YUB-files/img/318.png"
 			}
 		},
 		{
@@ -3207,7 +3197,7 @@
 			"type": "Artifact Creature — Dragon Construct",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/320.png"
+				"en": "https://mse-hub/sets/YUB-files/img/319.png"
 			}
 		},
 		{
@@ -3217,7 +3207,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/321.png"
+				"en": "https://mse-hub/sets/YUB-files/img/320.png"
 			}
 		},
 		{
@@ -3227,7 +3217,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/322.png"
+				"en": "https://mse-hub/sets/YUB-files/img/321.png"
 			}
 		},
 		{
@@ -3237,7 +3227,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/323.png"
+				"en": "https://mse-hub/sets/YUB-files/img/322.png"
 			}
 		},
 		{
@@ -3247,7 +3237,7 @@
 			"type": "Sorcery",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/324.png"
+				"en": "https://mse-hub/sets/YUB-files/img/323.png"
 			}
 		},
 		{
@@ -3257,7 +3247,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/325.png"
+				"en": "https://mse-hub/sets/YUB-files/img/324.png"
 			}
 		},
 		{
@@ -3267,7 +3257,7 @@
 			"type": "Sorcery",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/326.png"
+				"en": "https://mse-hub/sets/YUB-files/img/325.png"
 			}
 		},
 		{
@@ -3277,7 +3267,7 @@
 			"type": "Instant",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/327.png"
+				"en": "https://mse-hub/sets/YUB-files/img/326.png"
 			}
 		},
 		{
@@ -3287,7 +3277,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/328.png"
+				"en": "https://mse-hub/sets/YUB-files/img/327.png"
 			}
 		},
 		{
@@ -3297,7 +3287,7 @@
 			"type": "Creature — Beast Shaman",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/329.png"
+				"en": "https://mse-hub/sets/YUB-files/img/328.png"
 			}
 		},
 		{
@@ -3307,7 +3297,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/330.png"
+				"en": "https://mse-hub/sets/YUB-files/img/329.png"
 			}
 		},
 		{
@@ -3317,7 +3307,7 @@
 			"type": "Creature — Merfolk",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/331.png"
+				"en": "https://mse-hub/sets/YUB-files/img/330.png"
 			}
 		},
 		{
@@ -3327,17 +3317,17 @@
 			"type": "Creature — Cat Angel",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/332.png"
+				"en": "https://mse-hub/sets/YUB-files/img/331.png"
 			}
 		},
 		{
 			"name": "Rare Fish",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Cat Fish",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/333.png"
+				"en": "https://mse-hub/sets/YUB-files/img/332.png"
 			}
 		},
 		{
@@ -3347,7 +3337,7 @@
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/334.png"
+				"en": "https://mse-hub/sets/YUB-files/img/333.png"
 			}
 		},
 		{
@@ -3357,7 +3347,7 @@
 			"type": "Artifact Creature — Dragon Construct",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/335.png"
+				"en": "https://mse-hub/sets/YUB-files/img/334.png"
 			}
 		},
 		{
@@ -3367,7 +3357,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/336.png"
+				"en": "https://mse-hub/sets/YUB-files/img/335.png"
 			}
 		},
 		{
@@ -3377,7 +3367,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/337.png"
+				"en": "https://mse-hub/sets/YUB-files/img/336.png"
 			}
 		},
 		{
@@ -3387,7 +3377,7 @@
 			"type": "Instant",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/338.png"
+				"en": "https://mse-hub/sets/YUB-files/img/337.png"
 			}
 		},
 		{
@@ -3397,7 +3387,7 @@
 			"type": "Enchantment",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/339.png"
+				"en": "https://mse-hub/sets/YUB-files/img/338.png"
 			}
 		},
 		{
@@ -3407,7 +3397,7 @@
 			"type": "Enchantment",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/340.png"
+				"en": "https://mse-hub/sets/YUB-files/img/339.png"
 			}
 		},
 		{
@@ -3417,7 +3407,7 @@
 			"type": "Instant",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/341.png"
+				"en": "https://mse-hub/sets/YUB-files/img/340.png"
 			}
 		},
 		{
@@ -3427,7 +3417,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/342.png"
+				"en": "https://mse-hub/sets/YUB-files/img/341.png"
 			}
 		},
 		{
@@ -3437,7 +3427,7 @@
 			"type": "Instant",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/343.png"
+				"en": "https://mse-hub/sets/YUB-files/img/342.png"
 			}
 		},
 		{
@@ -3447,7 +3437,7 @@
 			"type": "Enchantment",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/344.png"
+				"en": "https://mse-hub/sets/YUB-files/img/343.png"
 			}
 		},
 		{
@@ -3457,7 +3447,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/345.png"
+				"en": "https://mse-hub/sets/YUB-files/img/344.png"
 			}
 		},
 		{
@@ -3467,7 +3457,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/346.png"
+				"en": "https://mse-hub/sets/YUB-files/img/345.png"
 			}
 		},
 		{
@@ -3477,7 +3467,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/347.png"
+				"en": "https://mse-hub/sets/YUB-files/img/346.png"
 			}
 		},
 		{
@@ -3487,7 +3477,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/348.png"
+				"en": "https://mse-hub/sets/YUB-files/img/347.png"
 			}
 		},
 		{
@@ -3497,7 +3487,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/349.png"
+				"en": "https://mse-hub/sets/YUB-files/img/348.png"
 			}
 		},
 		{
@@ -3507,7 +3497,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "354",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/350.png"
+				"en": "https://mse-hub/sets/YUB-files/img/349.png"
 			}
 		},
 		{
@@ -3517,7 +3507,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/351.png"
+				"en": "https://mse-hub/sets/YUB-files/img/350.png"
 			}
 		},
 		{
@@ -3527,7 +3517,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/352.png"
+				"en": "https://mse-hub/sets/YUB-files/img/351.png"
 			}
 		},
 		{
@@ -3537,7 +3527,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/353.png"
+				"en": "https://mse-hub/sets/YUB-files/img/352.png"
 			}
 		},
 		{
@@ -3547,7 +3537,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/354.png"
+				"en": "https://mse-hub/sets/YUB-files/img/353.png"
 			}
 		},
 		{
@@ -3557,7 +3547,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/355.png"
+				"en": "https://mse-hub/sets/YUB-files/img/354.png"
 			}
 		},
 		{
@@ -3567,7 +3557,7 @@
 			"type": "Instant — Trap",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/356.png"
+				"en": "https://mse-hub/sets/YUB-files/img/355.png"
 			}
 		},
 		{
@@ -3577,7 +3567,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/357.png"
+				"en": "https://mse-hub/sets/YUB-files/img/356.png"
 			}
 		},
 		{
@@ -3587,7 +3577,7 @@
 			"type": "Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/358.png"
+				"en": "https://mse-hub/sets/YUB-files/img/357.png"
 			}
 		},
 		{
@@ -3597,7 +3587,7 @@
 			"type": "Enchantment",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/359.png"
+				"en": "https://mse-hub/sets/YUB-files/img/358.png"
 			}
 		},
 		{
@@ -3607,7 +3597,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/360.png"
+				"en": "https://mse-hub/sets/YUB-files/img/359.png"
 			}
 		},
 		{
@@ -3617,7 +3607,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/361.png"
+				"en": "https://mse-hub/sets/YUB-files/img/360.png"
 			}
 		},
 		{
@@ -3627,7 +3617,7 @@
 			"type": "Instant",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/362.png"
+				"en": "https://mse-hub/sets/YUB-files/img/361.png"
 			}
 		},
 		{
@@ -3637,7 +3627,7 @@
 			"type": "Creature — Shapeshifter",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/363.png"
+				"en": "https://mse-hub/sets/YUB-files/img/362.png"
 			}
 		},
 		{
@@ -3647,7 +3637,7 @@
 			"type": "Land",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/364.png"
+				"en": "https://mse-hub/sets/YUB-files/img/363.png"
 			}
 		},
 		{
@@ -3657,7 +3647,7 @@
 			"type": "Land",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/365.png"
+				"en": "https://mse-hub/sets/YUB-files/img/364.png"
 			}
 		},
 		{
@@ -3667,7 +3657,7 @@
 			"type": "Land",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/366.png"
+				"en": "https://mse-hub/sets/YUB-files/img/365.png"
 			}
 		},
 		{
@@ -3677,7 +3667,7 @@
 			"type": "Land",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/367.png"
+				"en": "https://mse-hub/sets/YUB-files/img/366.png"
 			}
 		},
 		{
@@ -3687,7 +3677,7 @@
 			"type": "Land — Forest Island Mountain",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/368.png"
+				"en": "https://mse-hub/sets/YUB-files/img/367.png"
 			}
 		},
 		{
@@ -3697,7 +3687,7 @@
 			"type": "Land — Island Mountain Plains",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/369.png"
+				"en": "https://mse-hub/sets/YUB-files/img/368.png"
 			}
 		},
 		{
@@ -3707,7 +3697,7 @@
 			"type": "Land — Mountain Forest Plains",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/370.png"
+				"en": "https://mse-hub/sets/YUB-files/img/369.png"
 			}
 		},
 		{
@@ -3717,7 +3707,7 @@
 			"type": "Land — Swamp Plains Mountain",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/371.png"
+				"en": "https://mse-hub/sets/YUB-files/img/370.png"
 			}
 		},
 		{
@@ -3727,7 +3717,7 @@
 			"type": "Land — Plains Island Swamp",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/372.png"
+				"en": "https://mse-hub/sets/YUB-files/img/371.png"
 			}
 		},
 		{
@@ -3737,7 +3727,7 @@
 			"type": "Land — Swamp Mountain Forest",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/373.png"
+				"en": "https://mse-hub/sets/YUB-files/img/372.png"
 			}
 		},
 		{
@@ -3747,7 +3737,7 @@
 			"type": "Land — Island Swamp Mountain",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/374.png"
+				"en": "https://mse-hub/sets/YUB-files/img/373.png"
 			}
 		},
 		{
@@ -3757,7 +3747,7 @@
 			"type": "Land — Swamp Forest Island",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/375.png"
+				"en": "https://mse-hub/sets/YUB-files/img/374.png"
 			}
 		},
 		{
@@ -3767,7 +3757,7 @@
 			"type": "Land — Plains Swamp Forest",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/376.png"
+				"en": "https://mse-hub/sets/YUB-files/img/375.png"
 			}
 		},
 		{
@@ -3777,7 +3767,7 @@
 			"type": "Land — Forest Plains Island",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/377.png"
+				"en": "https://mse-hub/sets/YUB-files/img/376.png"
 			}
 		},
 		{
@@ -3787,7 +3777,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/378.png"
+				"en": "https://mse-hub/sets/YUB-files/img/377.png"
 			}
 		},
 		{
@@ -3797,7 +3787,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/379.png"
+				"en": "https://mse-hub/sets/YUB-files/img/378.png"
 			}
 		},
 		{
@@ -3807,7 +3797,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/380.png"
+				"en": "https://mse-hub/sets/YUB-files/img/379.png"
 			}
 		},
 		{
@@ -3817,7 +3807,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/381.png"
+				"en": "https://mse-hub/sets/YUB-files/img/380.png"
 			}
 		},
 		{
@@ -3827,7 +3817,7 @@
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/382.png"
+				"en": "https://mse-hub/sets/YUB-files/img/381.png"
 			}
 		},
 		{
@@ -3837,7 +3827,7 @@
 			"type": "Instant",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/383.png"
+				"en": "https://mse-hub/sets/YUB-files/img/382.png"
 			}
 		},
 		{
@@ -3847,7 +3837,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/384.png"
+				"en": "https://mse-hub/sets/YUB-files/img/383.png"
 			}
 		},
 		{
@@ -3857,7 +3847,7 @@
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/385.png"
+				"en": "https://mse-hub/sets/YUB-files/img/384.png"
 			}
 		},
 		{
@@ -3867,7 +3857,7 @@
 			"type": "Enchantment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/YUB-files/img/386.png"
+				"en": "https://mse-hub/sets/YUB-files/img/385.png"
 			}
 		},
 		{
@@ -3876,6 +3866,16 @@
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/YUB-files/img/386.png"
+			}
+		},
+		{
+			"name": "Dark Magic Curtain",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/387.png"
 			}
@@ -3957,7 +3957,6 @@
 	5 Akz, the Pumer
 	5 Spiritual Forest
 	5 Mother Spider
-	5 Dark Magic Curtain
 	5 Penguin Soldier
 	5 Nightmare Penguin
 	5 Penguin Knight
@@ -3968,6 +3967,7 @@
 	5 Majesty of the White Dragons
 	5 The Ultimate Creature of Destruction
 	5 Burst Breath
+	5 Dark Magic Curtain
 [uncommon(3)]
 	5 Blue-Eyes White Dragon
 	5 Red-Eyes Black Dragon
