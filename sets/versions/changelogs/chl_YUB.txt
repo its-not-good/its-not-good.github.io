@@ -1,4 +1,419 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+No changes.
+
+VERSION 3 CHANGELOG
+====================
+
+
+
+Blue-Eyes Ultimate Dragon
+rules_text: Fusion {6}{WU} — Three Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, vigilance, ward {6}
+When Blue-Eyes Ultimate Dragon enters, draw three cards. => Fusion {6}{W}{U} — Three Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, vigilance, ward {6}
+When Blue-Eyes Ultimate Dragon enters, draw three cards.
+
+Black Luster Ritual
+cost: {1}{W}{B} => {2}{W}{B}
+rules_text: Ritual 6 — {WB} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 6 or more and pay {WB} instead of this card's mana cost.)[/i]
+Search your library for a white or black creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Black Luster Soldier from your hand onto the battlefield tapped. => Ritual 5 — {W}{B} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 5 or more and pay {W}{B} instead of this card's mana cost.)[/i]
+Search your library for a white or black creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Black Luster Soldier from your hand onto the battlefield tapped.
+
+Skull Knight
+rules_text: Fusion {1}{U}{B} — A blue creature and a black creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Skull Knight enters, each opponent shuffles a card from their hand into their library, then you draw a card. => Fusion {1}{U}{B} — A blue creature and a black creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+When Skull Knight enters, each opponent shuffles a card from their hand into their library, then you draw a card.
+
+Rabid Horseman
+rules_text: Fusion {4}{RG} — A Beast and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Rabid Horseman enters, target creature gets +5/+5 until end of turn. => Fusion {4}{R}{G} — A Beast and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+When Rabid Horseman enters, target creature gets +5/+5 until end of turn.
+
+Basic Insect
+rules_text: Reach
+When this creature enters or dies, put a +1/+1 counter on target creature. => Reach
+When this creature dies, create two 1/1 green Insect creature tokens.
+
+Larvae Moth
+rules_text: You may sacrifice an Insect you control with power 2 or greater rather than pay this spell's mana cost.
+Ward {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]
+When this creature dies, create two 1/1 green Insect tokens. => You may sacrifice an Insect you control rather than pay this spell's mana cost.
+Ward {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]
+When this creature dies, create two 1/1 green Insect tokens.
+
+Cocoon of Evolution
+rules_text: Defender
+At the beginning of combat on your turn, put a +1/+1 counter on target Insect you control. => Defender
+At the beginning of your end step, put two +1/+1 counters on this creature.
+When this creature dies during your turn, search your library for an Insect card with power equal to or less than this creature's power and put it onto the battlefield. Then shuffle.
+pt: 0/2 => 0/1
+
+Hamburger Recipe
+cost: {1}{B}{G} => {2}{B}{G}
+rules_text: Ritual 6 — {BG} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 6 or more and pay {BG} instead of this card's mana cost.)[/i]
+Search your library for a green or black creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Hungry Burger from your hand onto the battlefield tapped. => Ritual 4 — {B}{G} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 4 or more and pay {B}{G} instead of this card's mana cost.)[/i]
+Search your library for a green or black creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Hungry Burger from your hand onto the battlefield tapped.
+
+Return of the Zombies
+type: Enchantment => Kindred Enchantment — Zombie
+
+Thunder Dragon
+cost: {3}{RW}{RW} => {2}{RW}{RW}
+rules_text: Flying
+When this creature enters, you may search your library for a Dragon card, reveal it, put it into your hand, then shuffle. => Flying
+Double dragoncycling {4}{RW} [i]({4}{RW}, Discard this card: Search your library for up to two dragon cards, reveal them, put them into your hand, then shuffle.)[/i]
+pt: 4/4 => 3/4
+
+Twin-Headed Thunder Dragon
+rules_text: Fusion {4}{R}{W} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+First strike
+Whenever Twin-Headed Thunder Dragon enters or attacks, look at the top four cards of your library and reveal a Dragon card from among them. Put that card into your hand and the rest on the bottom of your library in a random order. => Fusion {4}{R}{W} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+First strike
+Whenever Twin-Headed Thunder Dragon enters or attacks, look at the top four cards of your library and reveal a Dragon card from among them. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+Flame Swordsman
+rules_text: Fusion {3}{R} — Two red creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Flame Swordsman enters or whenever you cast a noncreature spell, Flame Swordsman deals 2 damage to any target. => Fusion {3}{R} — Two red creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+When Flame Swordsman enters or whenever you cast a noncreature spell, Flame Swordsman deals 2 damage to any target.
+
+Flute of Summoning Dragon
+type: Sorcery => Kindred Sorcery — Dragon
+cost: {5}{R}{R} => {4}{R}{R}
+rules_text: This spell costs {5} less to cast if you control a creature named Lord of D.
+Put up to two Dragon cards from your hand onto the battlefield. => This spell costs {4} less to cast if you control a creature named Lord of D.
+Put up to two Dragon cards from your hand onto the battlefield.
+
+Thousand Dragon
+rules_text: Whenever you win a coin flip from the ability of a card named Time Wizard, you may sacrifice a red or green Dragon. When you do, cast this spell from outside the game without paying its mana cost.
+Flying
+At the beginning of each opponent's upkeep, reveal the top card of that player's library. If it is a permanent card with mana value less than or equal to the number of lands you control, put it onto the battlefield under your control tapped. => Whenever a player wins a coin flip from the ability of a card named Time Wizard, you may cast this spell from outside the game without paying its mana cost.
+Flying
+At the beginning of each opponent's upkeep, reveal the top card of that player's library. If it is a permanent card with mana value less than or equal to the number of lands you control, put it onto the battlefield under your control tapped.
+
+Black Magic Ritual
+cost: {1}{U}{B} => {2}{U}{B}
+rules_text: Ritual 6 — {UB} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 6 or more and pay {UB} instead of this card's mana cost.)[/i]
+Search your library for a blue or black creature card, reveal it, put it into your hand, and shuffle. Then, you may put a card named Magician of Black Chaos from your hand onto the battlefield tapped. => Ritual 5 — {U}{B} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 5 or more and pay {U}{B} instead of this card's mana cost.)[/i]
+Search your library for a blue or black creature card, reveal it, put it into your hand, and shuffle. Then, you may put a card named Magician of Black Chaos from your hand onto the battlefield tapped.
+
+Black Skull Dragon
+rules_text: Fusion {6}{B}{R} — A Zombie or Demon and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, deathtouch, trample
+When Black Skull Dragon enters, put target creature card from an opponent's graveyard onto the battlefield under your control. => Fusion {6}{B}{R} — A Zombie or Demon and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, deathtouch, trample
+When Black Skull Dragon enters, put target creature card from an opponent's graveyard onto the battlefield under your control.
+
+Thousand-Eyes Restrict
+rules_text: Fusion {U}{U}{U}{U} — A Wizard and a blue creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Thousand-Eyes Restrict enters, exile target creature you don't control until this leaves the battlefield.
+At the beginning of each combat, create a token that's a copy of the exiled card. It gains haste. Sacrifice it at the beginning of the next end step.
+Whenever a creature attacks, if it is tapped, put a stun counter on it. => Fusion {U}{U}{U}{U} — A Wizard and a blue creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+When Thousand-Eyes Restrict enters, exile target creature you don't control until this leaves the battlefield.
+At the beginning of each combat, create a token that's a copy of the exiled card. It gains haste. Sacrifice it at the beginning of the next end step.
+Whenever a creature attacks, if it is tapped, put a stun counter on it.
+
+Musician King
+rules_text: Fusion {3}{U}{B} — Two Wizards [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+When Musician King enters, each opponent loses 1 life for each instant, sorcery, and Wizard card in your graveyard. => Fusion {3}{U}{B} — Two Wizards [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+When Musician King enters, each opponent loses 1 life for each instant, sorcery, and Wizard card in your graveyard.
+
+Roaring Ocean Snake
+rules_text: Fusion {3}{U} — Two blue creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+At the beginning of your end step, untap all Islands you control. => Fusion {3}{U} — Two blue creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+At the beginning of your end step, untap all Islands you control.
+
+Zombie Warrior
+rules_text: Fusion {1}{W}{B} — A Zombie and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Whenever a Zombie you control deals combat damage to a player, that player discards a card. => Fusion {1}{W}{B} — A Zombie and a Warrior [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Whenever a Zombie you control deals combat damage to a player, that player discards a card.
+
+Dark Sage
+rules_text: Whenever you win a coin flip from the ability of a card named Time Wizard, you may sacrifice a blue or black Wizard. When you do, cast this spell from outside the game without paying its mana cost.
+At the beginning of each opponent's upkeep, search your library for an instant or sorcery card and cast it without paying its mana cost. Then shuffle. => Whenever a player wins a coin flip from the ability of a card named Time Wizard, you may cast this spell from outside the game without paying its mana cost.
+At the beginning of each opponent's upkeep, search your library for an instant or sorcery card and cast it without paying its mana cost. Then shuffle.
+
+White Dragon Ritual
+cost: {1}{W}{W} => {2}{W}{W}
+rules_text: Ritual 4 — {W} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 4 or more and pay {W} instead of this card's mana cost.)[/i]
+Search your library for a white creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Paladin of White Dragon from your hand onto the battlefield tapped. => Ritual 4 — {W}{W} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 4 or more and pay {W}{W} instead of this card's mana cost.)[/i]
+Search your library for a white creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Paladin of White Dragon from your hand onto the battlefield tapped.
+
+Gaia the Dragon Champion
+rules_text: Fusion {5}{RW} — A Warrior and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, first strike, vigilance, lifelink, haste => Fusion {5}{R}{W} — A Warrior and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, first strike, vigilance, lifelink, haste
+
+Burst Stream of Destruction
+type: Sorcery => Kindred Sorcery — Dragon
+rules_text: As an additional cost to cast this spell, behold a Dragon or pay {2}.
+Destroy all non-Dragon creatures. => As an additional cost to cast this spell, behold another Dragon or pay {2}.
+Destroy all non-Dragon creatures.
+
+Red-Eyes Dark Dragoon
+rules_text: Fusion {4}{U}{B}{R} — A Wizard with mana value 7 or greater and a Dragon with mana value 7 or greater [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, indestructible, ward {3}
+Whenever you cast Red-Eyes Dark Dragoon for its Fusion cost or whenever it attacks, destroy target permanent. Its controller loses life equal to that permanents mana value. => Fusion {4}{U}{B}{R} — A Wizard with mana value 7 or greater and a Dragon with mana value 7 or greater [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, indestructible, ward {3}
+Whenever you cast Red-Eyes Dark Dragoon for its Fusion cost or whenever it attacks, destroy target permanent. Its controller loses life equal to that permanents mana value.
+
+Meteor Black Dragon
+rules_text: Fusion {5}{B}{R} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, menace
+When this creature enters, repeat the following process three times. Each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card. => Fusion {5}{B}{R} — Two Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, menace
+When this creature enters, repeat the following process three times. Each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.
+
+Dark Magic Attack
+type: Instant => Kindred Instant — Wizard
+rules_text: As an additional cost to cast this spell, behold a Wizard or pay {2}.
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library. => As an additional cost to cast this spell, behold another Wizard or pay {2}.
+Target nonland permanent's owner puts it on their choice of the top or bottom of their library.
+
+Magician's Rod
+type: Artifact => Kindred Artifact — Wizard
+rules_text: {1}{U}, {T}, Sacrifice this artifact: Search your library for an instant or sorcery card, reveal it, and put it into your hand. Then shuffle.
+{1}{U}, Sacrifice a Wizard: Return this card from your graveyard to your hand. => {1}{U}, {T}, Sacrifice this artifact: Search your library for an instant or sorcery card, reveal it, and put it into your hand. Then shuffle.
+{1}{U}, Sacrifice another Wizard: Return this card from your graveyard to your hand.
+
+Magician Navigation
+type: Instant => Kindred Instant — Wizard
+rules_text: Put up to two Wizard cards from your hand and/or graveyard onto the battlefield.
+[i]Channel[/i] — {U}{B}, Discard this card: Counter target noncreature spell. => Put up to one Wizard card from your hand and/or up to one Wizard card from your graveyard onto the battlefield.
+[i]Channel[/i] — {U}{B}, Discard this card: Counter target noncreature spell.
+
+Thousand Knives
+type: Sorcery => Kindred Sorcery — Wizard
+rules_text: As an additional cost to cast this spell, behold a Wizard or pay {2}.
+Target creature gets -5/-5 until end of turn. Its controller loses 2 life. => As an additional cost to cast this spell, behold another Wizard or pay {2}.
+Target creature gets -5/-5 until end of turn. Its controller loses 2 life.
+
+Cards of the Red Stone
+type: Sorcery => Kindred Sorcery — Dragon
+
+Red-Eyes Spirit
+type: Instant — Trap => Kindred Instant — Dragon Trap
+
+Inferno Fire Blast
+type: Sorcery => Kindred Sorcery — Dragon
+rules_text: As an additional cost to cast this spell, you may behold a dragon.
+Inferno Fire Blast deals 4 damage to any target. If you beheld a Dragon, Inferno Fire Blast deals damage equal to the power of that Dragon to any target instead. => As an additional cost to cast this spell, you may behold another Dragon.
+Inferno Fire Blast deals 4 damage to any target. If you beheld a Dragon, Inferno Fire Blast deals damage equal to the power of that Dragon to any target instead.
+
+Great Moth
+rules_text: You may sacrifice an Insect with power 4 or greater rather than pay this spells mana cost.
+Reach, ward {3} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]
+When this creature dies, create four 1/1 green Insect tokens. => Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach, ward {3} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]
+When this creature dies, create four 1/1 green Insect tokens.
+pt: 6/6 => 4/4
+
+Perfectly Ultimate Great Moth
+rules_text: You may sacrifice an Insect with power 7 or greater rather than pay this spells mana cost.
+Flying, hexproof
+When this creature enters, put two +1/+1 counters on each other creature you control and a flying counter on each other Insect creature you control. => Emerge from Insect {4}{B}{G} [i](You may cast this spell by sacrificing a Insect and paying the emerge cost reduced by that Insect's mana value.)[/i]
+Flying, hexproof
+When this creature enters, put two +1/+1 counters on each other creature you control and a flying counter on each other Insect creature you control.
+pt: 9/9 => 6/6
+
+Black Illusion Ritual
+cost: {1}{U}{U} => {2}{U}{U}
+rules_text: Ritual 4 — {U} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 4 or more and pay {U} instead of this card's mana cost.)[/i]
+Search your library for a blue creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Relinquished from your hand onto the battlefield tapped. => Ritual 3 — {U}{U} [i](You may sacrifice creatures and discard creature cards whose mana values add up to 3 or more and pay {U}{U} instead of this card's mana cost.)[/i]
+Search your library for a blue creature card and reveal it, put it into your hand, and shuffle. Then, you may put a card named Relinquished from your hand onto the battlefield tapped.
+
+Flying Kamakiri #2
+rules_text: Flying, deathtouch
+Whenever this or another Insect you control dies, you gain 1 life and draw a card. This ability triggers only once per turn. => Flying, deathtouch
+Whenever this or another creature you control dies, you gain 1 life and draw a card. This ability triggers only once per turn.
+
+Gokipon
+rules_text: When this creature dies, search your library for an Insect card with power 3 or less, reveal it, and put it into your hand, then shuffle. => When this creature dies, search your library for an Insect card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.
+
+Multiplication of Ants
+type: Sorcery => Kindred Sorcery — Insect
+cost: {G} => {1}{G}
+rules_text: As an additional cost to cast this spell, sacrifice an Insect or pay {2}.
+Create two 1/3 green Insect creature tokens with reach. => Create X 1/1 green Insect creature tokens, where X is one plus the number of Insects you control.
+
+Pinch Hopper
+rules_text: Reach
+When this creature dies, put an Insect card from your hand onto the battlefield.
+Insectcycling {1}{BG} [i]({1}{BG}, Discard this card: Search your library for an Insect card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature dies, you may cast an Insect spell from your hand without paying its mana cost.
+Insectcycling {1}{BG} [i]({1}{BG}, Discard this card: Search your library for an Insect card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Big Insect
+pt: 3/4 => 2/3
+
+Doom Dozer
+cost: {6}{B}{G} => {7}{B}{G}
+rules_text: As an additional cost to cast this spell, exile any number of Insect cards from your graveyard. This spell costs {2} less to cast for each card exiled this way.
+Trample
+Whenever this creature deals combat damage to a player, target player mills that many cards. Then create a 1/1 green Insect creature token for each creature card milled this way. => This spell costs {1} less to cast for each Insect you control and each Insect card in your graveyard.
+Trample
+Whenever this creature deals combat damage to a player, target player mills that many cards. Then create a 1/1 green Insect creature token for each creature card milled this way.
+
+Ultimate Insect
+rules_text: Level up—Sacrifice an Insect [i](Sacrifice an Insect: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 1-4] Flying, ward {1}
+[level 5+] Flying, ward {2}
+Creatures your opponents control get -2/-2. => Level up—Sacrifice an Insect or pay {3} [i](Sacrifice an Insect or pay {3}: Put a level counter on this. Level up only as a sorcery.)[/i] [3/3]
+[level 1-4] Flying, ward {1} [4/4]
+[level 5+] Flying, ward {2}
+Creatures your opponents control get -2/-2. [7/7]
+special_text: Level up—Sacrifice an Insect [i](Sacrifice an Insect: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 1-4] Flying, ward {1}
+[level 5+] Flying, ward {2}
+Creatures your opponents control get -2/-2. => Level up—Sacrifice an Insect or pay {3} [i](Sacrifice an Insect or pay {3}: Put a level counter on this. Level up only as a sorcery.)[/i] [3/3]
+[level 1-4] Flying, ward {1} [4/4]
+[level 5+] Flying, ward {2}
+Creatures your opponents control get -2/-2. [7/7]
+
+Insect Queen
+rules_text: Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+At the beginning of your end step, create a 1/3 green Insect creature token. Then put a +1/+1 counter on target Insect you control. => Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+At the beginning of your end step, create a 1/1 green Insect creature token. Then put a +1/+1 counter on target Insect you control.
+
+Buster Blader, the Dragon Destroyer Swordsman
+rules_text: Fusion {2}{R}{G}{W} — A Warrior and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Menace, reach, protection from Dragons
+Dragons can't attack or block and their activated abilities can't be activated. => Fusion {2}{R}{G}{W} — A Warrior and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Menace, reach, protection from Dragons
+Dragons can't attack or block and their activated abilities can't be activated.
+
+Five-Headed Dragon
+rules_text: Fusion {W}{U}{B}{R}{G} — Five Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, haste, protection from everything
+If Five-Headed Dragon would enter without being cast, exile it instead. => Fusion {W}{U}{B}{R}{G} — Five Dragons [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, haste, protection from everything
+If Five-Headed Dragon would enter without being cast, exile it instead.
+
+Blackland Fire Dragon
+rules_text: Flying
+You may exile this card from your graveyard as fusion material to cast a spell with Fusion.
+Dragoncycling {1}{BR} [i]({1}{BR}, Discard this card: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+You may exile this card from your graveyard as fusion material to cast a spell with Fusion.
+{1}{R}, Discard this card: It deals 4 damage to target creature.
+
+Book of Life
+type: Sorcery => Kindred Sorcery — Zombie
+
+Call of the Mummy
+type: Enchantment => Kindred Enchantment — Zombie
+
+Rage of Kairyu-Shin
+type: Instant => Kindred Instant — Dragon
+rules_text: As an additional cost to cast this spell, behold a Dragon or pay {2}.
+Tap target creature or artifact. Put a number of stun counters on that permanent equal to the number of Island cards in your graveyard plus the number of Islands you control. => As an additional cost to cast this spell, behold another Dragon or pay {2}.
+Tap target creature or artifact. Put a number of stun counters on that permanent equal to the number of Island cards in your graveyard plus the number of Islands you control.
+
+Karbonala Warrior
+rules_text: Fusion {3}{W} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Whenever you attack, create a 1/1 white Warrior creature token that's tapped and attacking. Then creatures you control get +1/+1 until end of turn. => Fusion {3}{W} — Two Warriors [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Whenever you attack, create a 1/1 white Warrior creature token that's tapped and attacking. Then creatures you control get +1/+1 until end of turn.
+
+Chimera the Flying Mythical Beast
+rules_text: Fusion {3}{G} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield. => Fusion {3}{G} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying
+When Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield.
+
+Darkfire Dragon
+rules_text: Fusion {4}{R} — A Dragon and a Red Creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying
+When this creature dies, it deals 2 damage to target opponent and each creature they control. Then remove this card from the game. [i](Return it to your sideboard if you have one.)[/i] => Fusion {4}{R} — A Dragon and a Red Creature [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying
+When this creature dies, it deals 2 damage to target opponent and each creature they control. Then remove this card from the game. [i](Return it to your sideboard if you have one.)[/i]
+
+Spider Egg
+type: Instant — Trap => Kindred Instant — Insect Trap
+rules_text: If an opponent attacks you, you may exile three Insect cards from your graveyard rather than pay this spell's mana cost.
+Create three 1/3 green Insect creature tokens with reach. => If an opponent attacks you with two or more creatures, you may pay {G} rather than pay this spell's mana cost.
+Mill three cards, then create three 1/1 green Insect creature tokens.
+
+Mother Spider
+rules_text: This spell costs {1} less to cast for each Insect card in your graveyard.
+Reach
+When this creature enters, each opponent sacrifices two creatures. => This spell costs {1} less to cast for each Insect you control and each Insect card in your graveyard.
+Reach
+When this creature enters, each opponent sacrifices two creatures. Create two 1/1 green Insect creature tokens.
+
+Fusionist
+rules_text: Fusion {2}{G}{W} — Two creatures with mana value 3 or less [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, vigilance, lifelink
+Whenever this creature attacks, other creatures you control get +1/+1 and gain flying and lifelink until end of turn. Untap them. => Fusion {2}{G}{W} — Two creatures with mana value 3 or less [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, vigilance, lifelink
+Whenever this creature attacks, other creatures you control get +1/+1 and gain flying and lifelink until end of turn. Untap them.
+
+Rare Fish
+rules_text: Fusion {5}{R} — A creature with mana value 5 or greater and a creature with mana value 3 or greater [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+At the beginning of combat on your turn, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn. => Fusion {5}{R} — A creature with mana value 5 or greater and a creature with mana value 3 or greater [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+At the beginning of combat on your turn, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn.
+
+Worm Bait
+type: Sorcery => Kindred Sorcery — Insect
+cost: {1}{G} => {X}{G}{G}
+rules_text: Create X 1/1 green Insect creature tokens, where X is one plus the number of Insects you control. => Mill X cards. Put each creature card with mana value X or less from your graveyard onto the battlefield. They become green Insects and have base power and toughness 1/1.
+
+Cyber Twin Dragon
+rules_text: Fusion {5}{U}{R} — An artifact creature and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material cards.)[/i]
+Flying, haste
+Whenever this creature attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase. => Fusion {5}{U}{R} — An artifact creature and a Dragon [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying, haste
+Whenever this creature attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+
+Majesty of the White Dragons
+type: Instant => Kindred Instant — Dragon
+rules_text: As an additional cost to cast this spell, behold any number of dragons. This spell costs {1} less to cast for each beheld this way.
+Choose two —
+• Scry X.
+• Counter target spell with mana value X or less.
+• You gain X life and draw a card.
+• Destroy target nonland permanent with mana value X or less. => As an additional cost to cast this spell, behold any number of other dragons. This spell costs {1} less to cast for each beheld this way.
+Choose two —
+• Scry X.
+• Counter target spell with mana value X or less.
+• You gain X life and draw a card.
+• Destroy target nonland permanent with mana value X or less.
+
+Reinforce Truth
+type: Instant => Kindred Instant — Warrior
+
+Copy Knight
+type: Enchantment => Kindred Enchantment — Warrior
+
+Dark Renewal
+type: Instant — Trap => Kindred Instant — Wizard Trap
+
+The Ultimate Creature of Destruction
+type: Instant => Kindred Instant — Dragon
+rules_text: As an additional cost to cast this spell, behold a dragon or pay {2}.
+Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. [i](While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)[/i] => As an additional cost to cast this spell, behold another Dragon or pay {2}.
+Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. [i](While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)[/i]
+
+Guardragon Cataclysm
+type: Instant => Kindred Instant — Dragon
+
+Dark Magical Circle
+type: Enchantment => Kidred Enchantment — Wizard
+
+Dedication Through Light and Darkness
+type: Instant => Kindred Instant — Wizard
+cost: {B} => {1}{B}
+
+Burst Breath
+type: Instant => Kindred Instant — Dragon
+
+Dark Magic Curtain
+type: Sorcery => Kindred Sorcery — Wizard
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

@@ -193,7 +193,7 @@
 		{
 			"name": "Black Luster Ritual",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery — Ritual",
 			"collector_number": "217",
 			"image_uris": {
@@ -563,7 +563,7 @@
 		{
 			"name": "Hamburger Recipe",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery — Ritual",
 			"collector_number": "255",
 			"image_uris": {
@@ -604,7 +604,7 @@
 			"name": "Return of the Zombies",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Enchantment",
+			"type": "Kindred Enchantment — Zombie",
 			"collector_number": "114",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/60.png"
@@ -993,7 +993,7 @@
 		{
 			"name": "Thunder Dragon",
 			"rarity": "common",
-			"mana_cost": "{3}{R/W}{R/W}",
+			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Dragon",
 			"collector_number": "337",
 			"image_uris": {
@@ -1093,8 +1093,8 @@
 		{
 			"name": "Flute of Summoning Dragon",
 			"rarity": "rare",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Sorcery",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Kindred Sorcery — Dragon",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/109.png"
@@ -1133,7 +1133,7 @@
 		{
 			"name": "Black Magic Ritual",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Sorcery — Ritual",
 			"collector_number": "219",
 			"image_uris": {
@@ -1533,7 +1533,7 @@
 		{
 			"name": "White Dragon Ritual",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery — Ritual",
 			"collector_number": "43",
 			"image_uris": {
@@ -1604,7 +1604,7 @@
 			"name": "Burst Stream of Destruction",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Sorcery",
+			"type": "Kindred Sorcery — Dragon",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/160.png"
@@ -1644,7 +1644,7 @@
 			"name": "Dark Magic Attack",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Instant",
+			"type": "Kindred Instant — Wizard",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/164.png"
@@ -1654,7 +1654,7 @@
 			"name": "Magician's Rod",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Artifact",
+			"type": "Kindred Artifact — Wizard",
 			"collector_number": "68",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/165.png"
@@ -1664,7 +1664,7 @@
 			"name": "Magician Navigation",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{B}",
-			"type": "Instant",
+			"type": "Kindred Instant — Wizard",
 			"collector_number": "264",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/166.png"
@@ -1684,7 +1684,7 @@
 			"name": "Thousand Knives",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Sorcery",
+			"type": "Kindred Sorcery — Wizard",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/168.png"
@@ -1754,7 +1754,7 @@
 			"name": "Cards of the Red Stone",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Sorcery",
+			"type": "Kindred Sorcery — Dragon",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/175.png"
@@ -1774,7 +1774,7 @@
 			"name": "Red-Eyes Spirit",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Instant — Trap",
+			"type": "Kindred Instant — Dragon Trap",
 			"collector_number": "288",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/177.png"
@@ -1784,7 +1784,7 @@
 			"name": "Inferno Fire Blast",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
+			"type": "Kindred Sorcery — Dragon",
 			"collector_number": "150",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/178.png"
@@ -1913,7 +1913,7 @@
 		{
 			"name": "Black Illusion Ritual",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery — Ritual",
 			"collector_number": "51",
 			"image_uris": {
@@ -1963,8 +1963,8 @@
 		{
 			"name": "Multiplication of Ants",
 			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Sorcery",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Sorcery — Insect",
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/196.png"
@@ -1993,7 +1993,7 @@
 		{
 			"name": "Doom Dozer",
 			"rarity": "uncommon",
-			"mana_cost": "{6}{B}{G}",
+			"mana_cost": "{7}{B}{G}",
 			"type": "Creature — Insect",
 			"collector_number": "242",
 			"image_uris": {
@@ -2504,7 +2504,7 @@
 			"name": "Book of Life",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Sorcery",
+			"type": "Kindred Sorcery — Zombie",
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/250.png"
@@ -2564,7 +2564,7 @@
 			"name": "Call of the Mummy",
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
-			"type": "Enchantment",
+			"type": "Kindred Enchantment — Zombie",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/256.png"
@@ -2834,7 +2834,7 @@
 			"name": "Rage of Kairyu-Shin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Instant",
+			"type": "Kindred Instant — Dragon",
 			"collector_number": "74",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/283.png"
@@ -3074,7 +3074,7 @@
 			"name": "Spider Egg",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Instant — Trap",
+			"type": "Kindred Instant — Insect Trap",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/307.png"
@@ -3333,8 +3333,8 @@
 		{
 			"name": "Worm Bait",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Kindred Sorcery — Insect",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/333.png"
@@ -3404,7 +3404,7 @@
 			"name": "Majesty of the White Dragons",
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{U}",
-			"type": "Instant",
+			"type": "Kindred Instant — Dragon",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/340.png"
@@ -3424,7 +3424,7 @@
 			"name": "Reinforce Truth",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Instant",
+			"type": "Kindred Instant — Warrior",
 			"collector_number": "289",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/342.png"
@@ -3434,7 +3434,7 @@
 			"name": "Copy Knight",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Enchantment",
+			"type": "Kindred Enchantment — Warrior",
 			"collector_number": "231",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/343.png"
@@ -3554,7 +3554,7 @@
 			"name": "Dark Renewal",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Instant — Trap",
+			"type": "Kindred Instant — Wizard Trap",
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/355.png"
@@ -3564,7 +3564,7 @@
 			"name": "The Ultimate Creature of Destruction",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Instant",
+			"type": "Kindred Instant — Dragon",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/356.png"
@@ -3574,7 +3574,7 @@
 			"name": "Guardragon Cataclysm",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Instant",
+			"type": "Kindred Instant — Dragon",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/357.png"
@@ -3584,7 +3584,7 @@
 			"name": "Dark Magical Circle",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment",
+			"type": "Kidred Enchantment — Wizard",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/358.png"
@@ -3593,8 +3593,8 @@
 		{
 			"name": "Dedication Through Light and Darkness",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Instant",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Instant — Wizard",
 			"collector_number": "100",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/359.png"
@@ -3614,7 +3614,7 @@
 			"name": "Burst Breath",
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{R}{R}",
-			"type": "Instant",
+			"type": "Kindred Instant — Dragon",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/361.png"
@@ -3874,7 +3874,7 @@
 			"name": "Dark Magic Curtain",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Sorcery",
+			"type": "Kindred Sorcery — Wizard",
 			"collector_number": "235",
 			"image_uris": {
 				"en": "https://mse-hub/sets/YUB-files/img/387.png"
