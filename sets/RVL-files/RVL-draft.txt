@@ -1,0 +1,4257 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Marchesa, Envy of the High City",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/0.png"
+			}
+		},
+		{
+			"name": "High City Magistrate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/1.png"
+			}
+		},
+		{
+			"name": "Maven of the Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Sphinx",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/2.png"
+			}
+		},
+		{
+			"name": "Shameless Provocateur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/3.png"
+			}
+		},
+		{
+			"name": "Kingsbane Chimera",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/4.png"
+			}
+		},
+		{
+			"name": "Generous Minstrel",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/5.png"
+			}
+		},
+		{
+			"name": "Famished Courtesan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/6.png"
+			}
+		},
+		{
+			"name": "Curator of Curiosities",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/7.png"
+			}
+		},
+		{
+			"name": "Carrion Gorger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/8.png"
+			}
+		},
+		{
+			"name": "Ludovica, Paliano's Finest",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Angel Soldier",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/9.png"
+			}
+		},
+		{
+			"name": "Edric, the Eyes and Ears",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Elf Rogue",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/10.png"
+			}
+		},
+		{
+			"name": "Gutter Hogs",
+			"rarity": "common",
+			"mana_cost": "{3}{B/G}",
+			"type": "Creature — Boar",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/11.png"
+			}
+		},
+		{
+			"name": "Gregarious Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/12.png"
+			}
+		},
+		{
+			"name": "Disillusion",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/13.png"
+			}
+		},
+		{
+			"name": "Deadly Intrigue",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/14.png"
+			}
+		},
+		{
+			"name": "Paliano Courser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Pegasus",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/15.png"
+			}
+		},
+		{
+			"name": "Renunciate",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/16.png"
+			}
+		},
+		{
+			"name": "Agitate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/17.png"
+			}
+		},
+		{
+			"name": "Gnork, Aspiring Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Goblin Noble",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/18.png"
+			}
+		},
+		{
+			"name": "Agent of Change",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/19.png"
+			}
+		},
+		{
+			"name": "Reckless Hawker",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/20.png"
+			}
+		},
+		{
+			"name": "Livio, the Incorruptible",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/21.png"
+			}
+		},
+		{
+			"name": "Heavy is the Head",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/22.png"
+			}
+		},
+		{
+			"name": "Usurp",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/23.png"
+			}
+		},
+		{
+			"name": "Magister of Law",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/24.png"
+			}
+		},
+		{
+			"name": "Bribe",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Bribe",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/25.png"
+			}
+		},
+		{
+			"name": "Lurid Bloom",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/26.png"
+			}
+		},
+		{
+			"name": "Covetous Clutches",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{B}{B}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/27.png"
+			}
+		},
+		{
+			"name": "Audacious Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/28.png"
+			}
+		},
+		{
+			"name": "Question Authority",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/29.png"
+			}
+		},
+		{
+			"name": "Stolid Gatekeepers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/30.png"
+			}
+		},
+		{
+			"name": "Unfinished Research",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/31.png"
+			}
+		},
+		{
+			"name": "Vaunted Veteran",
+			"rarity": "common",
+			"mana_cost": "{2}{R/W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/32.png"
+			}
+		},
+		{
+			"name": "Malzagio, the Accuser",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/33.png"
+			}
+		},
+		{
+			"name": "Fateful Heiress",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/34.png"
+			}
+		},
+		{
+			"name": "Faithful Advocate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/35.png"
+			}
+		},
+		{
+			"name": "Royal Propagandist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/36.png"
+			}
+		},
+		{
+			"name": "Seditious Whispers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/37.png"
+			}
+		},
+		{
+			"name": "Beatrice, Uncanny Trickster",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/38.png"
+			}
+		},
+		{
+			"name": "Spiteful Baron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/39.png"
+			}
+		},
+		{
+			"name": "Tactician's Gambit",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/40.png"
+			}
+		},
+		{
+			"name": "The Court of Whispers",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Advisor",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/41.png"
+			}
+		},
+		{
+			"name": "Clever Codebreaker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/42.png"
+			}
+		},
+		{
+			"name": "Misguided Loyalty",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Enchantment",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/43.png"
+			}
+		},
+		{
+			"name": "Back-Alley Deal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/44.png"
+			}
+		},
+		{
+			"name": "Clockwork Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{9}{U}{U}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/45.png"
+			}
+		},
+		{
+			"name": "Magistrate's Marshal",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Detective",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/46.png"
+			}
+		},
+		{
+			"name": "Vulgar Entertainment",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/47.png"
+			}
+		},
+		{
+			"name": "Overburdened Laborers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/48.png"
+			}
+		},
+		{
+			"name": "Oriel, Benevolent Ruler",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Unicorn Noble",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/49.png"
+			}
+		},
+		{
+			"name": "Armani, Cryptic Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Sphinx Noble",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/50.png"
+			}
+		},
+		{
+			"name": "Vigo, King of Vermin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Ogre Noble",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/51.png"
+			}
+		},
+		{
+			"name": "Cianna, Scaled Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Snake Noble",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/52.png"
+			}
+		},
+		{
+			"name": "Ravenna, Puppet Queen",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/53.png"
+			}
+		},
+		{
+			"name": "Furtive Necromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/54.png"
+			}
+		},
+		{
+			"name": "Wary Messenger",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/55.png"
+			}
+		},
+		{
+			"name": "Rebel Improviser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/56.png"
+			}
+		},
+		{
+			"name": "Spycraft",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/57.png"
+			}
+		},
+		{
+			"name": "Grenzo, Sadistic Renegade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Goblin Rebel",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/58.png"
+			}
+		},
+		{
+			"name": "Expedient Demise",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/59.png"
+			}
+		},
+		{
+			"name": "King's Remembrance",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/60.png"
+			}
+		},
+		{
+			"name": "Serpent Whisperer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/61.png"
+			}
+		},
+		{
+			"name": "Memories of Stone",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/62.png"
+			}
+		},
+		{
+			"name": "Obliging Servitor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/63.png"
+			}
+		},
+		{
+			"name": "Unblinking Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Homunculus Horror",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/64.png"
+			}
+		},
+		{
+			"name": "Puppet Government",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/65.png"
+			}
+		},
+		{
+			"name": "Scheming Kingmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/66.png"
+			}
+		},
+		{
+			"name": "Giovanni, the Celebrated",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/67.png"
+			}
+		},
+		{
+			"name": "Elowyn, Eerie Matriarch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — Faerie Noble",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/68.png"
+			}
+		},
+		{
+			"name": "Milo and Omar, Eccentrics",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Ape Wizard",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/69.png"
+			}
+		},
+		{
+			"name": "Mercenary Sleuths",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/70.png"
+			}
+		},
+		{
+			"name": "Exotic Peacock",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/71.png"
+			}
+		},
+		{
+			"name": "Cora, Magnanimous Magician",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/72.png"
+			}
+		},
+		{
+			"name": "Mournful Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/73.png"
+			}
+		},
+		{
+			"name": "Muzzio's Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/74.png"
+			}
+		},
+		{
+			"name": "Custodi Offerings",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/75.png"
+			}
+		},
+		{
+			"name": "Disarming Gesture",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/76.png"
+			}
+		},
+		{
+			"name": "Ferocious Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Goblin Shaman",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/77.png"
+			}
+		},
+		{
+			"name": "Volatile Growth",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/78.png"
+			}
+		},
+		{
+			"name": "Rebel Sharpshooters",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/79.png"
+			}
+		},
+		{
+			"name": "Public Lashing",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/80.png"
+			}
+		},
+		{
+			"name": "Civil Disobedience",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/81.png"
+			}
+		},
+		{
+			"name": "Survey the City",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Instant",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/82.png"
+			}
+		},
+		{
+			"name": "Luminous Venompod",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/83.png"
+			}
+		},
+		{
+			"name": "Looming Gallows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/84.png"
+			}
+		},
+		{
+			"name": "Shifting Chameleon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Lizard",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/85.png"
+			}
+		},
+		{
+			"name": "Tyrant's Retribution",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Instant",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/86.png"
+			}
+		},
+		{
+			"name": "Blazing Defiance",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/87.png"
+			}
+		},
+		{
+			"name": "Pasquale's Emissary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Druid",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/88.png"
+			}
+		},
+		{
+			"name": "Pistris, Bane of Trest",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}{U}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/89.png"
+			}
+		},
+		{
+			"name": "Pasquale, Utopia Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/90.png"
+			}
+		},
+		{
+			"name": "Stubborn Refusal",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/91.png"
+			}
+		},
+		{
+			"name": "Fearless Trendsetter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/92.png"
+			}
+		},
+		{
+			"name": "Conceited Duelist",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/93.png"
+			}
+		},
+		{
+			"name": "Overthrow",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/94.png"
+			}
+		},
+		{
+			"name": "Devious Double-Cross",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/95.png"
+			}
+		},
+		{
+			"name": "Wandering Peddler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/96.png"
+			}
+		},
+		{
+			"name": "Trestan Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/97.png"
+			}
+		},
+		{
+			"name": "Intrepid Pioneer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/98.png"
+			}
+		},
+		{
+			"name": "Taran, Lord of None",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/99.png"
+			}
+		},
+		{
+			"name": "Smuggler's Packbeast",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/100.png"
+			}
+		},
+		{
+			"name": "High Treason",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/101.png"
+			}
+		},
+		{
+			"name": "Loyal Squire",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/102.png"
+			}
+		},
+		{
+			"name": "Outlandish Invention",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/103.png"
+			}
+		},
+		{
+			"name": "Prudent Poisoner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/104.png"
+			}
+		},
+		{
+			"name": "Aven Courier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/105.png"
+			}
+		},
+		{
+			"name": "Arisen Empire",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/106.png"
+			}
+		},
+		{
+			"name": "Angel of Concord",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/107.png"
+			}
+		},
+		{
+			"name": "Insatiable Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/108.png"
+			}
+		},
+		{
+			"name": "Tainted Banquet",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/109.png"
+			}
+		},
+		{
+			"name": "Paranoia",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/110.png"
+			}
+		},
+		{
+			"name": "Midnight Sacrament",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/111.png"
+			}
+		},
+		{
+			"name": "Masquerade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/112.png"
+			}
+		},
+		{
+			"name": "Under Cover of Night",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/113.png"
+			}
+		},
+		{
+			"name": "Sage of Ruin",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/114.png"
+			}
+		},
+		{
+			"name": "Swift-Riding Heralds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Horse Scout",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/115.png"
+			}
+		},
+		{
+			"name": "Moldering Duchess",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/116.png"
+			}
+		},
+		{
+			"name": "Favored Inheritor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/117.png"
+			}
+		},
+		{
+			"name": "Jeering Pretender",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/118.png"
+			}
+		},
+		{
+			"name": "Frame Job",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/119.png"
+			}
+		},
+		{
+			"name": "Through the Grapevine",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/120.png"
+			}
+		},
+		{
+			"name": "Dance of Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/121.png"
+			}
+		},
+		{
+			"name": "Ballroom Butchery",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/122.png"
+			}
+		},
+		{
+			"name": "Ambitious Scion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/123.png"
+			}
+		},
+		{
+			"name": "Formal Invitation",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/124.png"
+			}
+		},
+		{
+			"name": "Peacebringer Dove",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/125.png"
+			}
+		},
+		{
+			"name": "Beggar's Cell",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/126.png"
+			}
+		},
+		{
+			"name": "Cunning Interception",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{U}",
+			"type": "Instant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/127.png"
+			}
+		},
+		{
+			"name": "Patrician's Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/128.png"
+			}
+		},
+		{
+			"name": "Queen's Requiem",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/129.png"
+			}
+		},
+		{
+			"name": "Dark Dealings",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/130.png"
+			}
+		},
+		{
+			"name": "Unstable Conductor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/131.png"
+			}
+		},
+		{
+			"name": "Helm of the Victor",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/132.png"
+			}
+		},
+		{
+			"name": "Custodi Devotee",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/133.png"
+			}
+		},
+		{
+			"name": "Seething Fiend",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Devil",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/134.png"
+			}
+		},
+		{
+			"name": "Counterfeit Craftsman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/135.png"
+			}
+		},
+		{
+			"name": "Cut the Strings",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/136.png"
+			}
+		},
+		{
+			"name": "Unanimous Assent",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/137.png"
+			}
+		},
+		{
+			"name": "Dissident Chef",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/138.png"
+			}
+		},
+		{
+			"name": "Elusive Trespasser",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/139.png"
+			}
+		},
+		{
+			"name": "Tree of Alms",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/140.png"
+			}
+		},
+		{
+			"name": "Gilded Shackles",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/141.png"
+			}
+		},
+		{
+			"name": "Blueblood Connoisseur",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/142.png"
+			}
+		},
+		{
+			"name": "The Court's Favor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/143.png"
+			}
+		},
+		{
+			"name": "Voice of the People",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/144.png"
+			}
+		},
+		{
+			"name": "Friends in High Places",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/145.png"
+			}
+		},
+		{
+			"name": "Neutral Negotiator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/146.png"
+			}
+		},
+		{
+			"name": "Hunter of the Proud",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/147.png"
+			}
+		},
+		{
+			"name": "Paragon of Bounty",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Cat Elk",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/148.png"
+			}
+		},
+		{
+			"name": "Eloquent Hieromancer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/149.png"
+			}
+		},
+		{
+			"name": "Decaying Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Skeleton Noble",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/150.png"
+			}
+		},
+		{
+			"name": "Fanciful Technocrat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/151.png"
+			}
+		},
+		{
+			"name": "Royal Gossipmonger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/152.png"
+			}
+		},
+		{
+			"name": "Twinblade Aspirants",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/153.png"
+			}
+		},
+		{
+			"name": "Grip of Madness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/154.png"
+			}
+		},
+		{
+			"name": "Outrage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/155.png"
+			}
+		},
+		{
+			"name": "Thriving Trade",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/156.png"
+			}
+		},
+		{
+			"name": "Bullish Innovator",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Creature — Minotaur Artificer",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/157.png"
+			}
+		},
+		{
+			"name": "Courier's Memento",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Clue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/158.png"
+			}
+		},
+		{
+			"name": "Callous Impostor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Shapeshifter Rogue",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/159.png"
+			}
+		},
+		{
+			"name": "Crooked Bookkeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/160.png"
+			}
+		},
+		{
+			"name": "Stoic Champion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/161.png"
+			}
+		},
+		{
+			"name": "Puppeteer's Flourish",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/162.png"
+			}
+		},
+		{
+			"name": "United Triumvirate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Advisor",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/163.png"
+			}
+		},
+		{
+			"name": "Fervent Loyalist",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/164.png"
+			}
+		},
+		{
+			"name": "Rites of Redemption",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/165.png"
+			}
+		},
+		{
+			"name": "Twilight Anthem",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/166.png"
+			}
+		},
+		{
+			"name": "Progress Unbound",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/167.png"
+			}
+		},
+		{
+			"name": "Vicious Cycle",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/168.png"
+			}
+		},
+		{
+			"name": "Faltering Devotion",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/169.png"
+			}
+		},
+		{
+			"name": "Patterns of Perfection",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/170.png"
+			}
+		},
+		{
+			"name": "Cleansing Dawn",
+			"rarity": "rare",
+			"mana_cost": "{X}{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/171.png"
+			}
+		},
+		{
+			"name": "Fungal Corruption",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/172.png"
+			}
+		},
+		{
+			"name": "Guillotine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/173.png"
+			}
+		},
+		{
+			"name": "Towering Chainbreaker",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Giant Rebel",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/174.png"
+			}
+		},
+		{
+			"name": "Invigorating Songstress",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Bard",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/175.png"
+			}
+		},
+		{
+			"name": "Radical Interloper",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/176.png"
+			}
+		},
+		{
+			"name": "Sofia, Grand Councilor",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/177.png"
+			}
+		},
+		{
+			"name": "Inquisitor Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/178.png"
+			}
+		},
+		{
+			"name": "Dream Siphon",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/179.png"
+			}
+		},
+		{
+			"name": "Incite Hysteria",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/180.png"
+			}
+		},
+		{
+			"name": "Infernal Muse",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Devil Bard",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/181.png"
+			}
+		},
+		{
+			"name": "War Profiteer",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/182.png"
+			}
+		},
+		{
+			"name": "Lugash, Mad Visionary",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Cyclops Shaman",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/183.png"
+			}
+		},
+		{
+			"name": "Explosive Finale",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{G}{G}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/184.png"
+			}
+		},
+		{
+			"name": "Mutinous Mob",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Goblin Rebel",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/185.png"
+			}
+		},
+		{
+			"name": "Isabelle, Master Diplomat",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{W}{W}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/186.png"
+			}
+		},
+		{
+			"name": "Overgrown Companion",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Badger",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/187.png"
+			}
+		},
+		{
+			"name": "Sublime Harmonizer",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/188.png"
+			}
+		},
+		{
+			"name": "Earthly Paradise",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/189.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "The Monarch",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/190.png"
+			}
+		},
+		{
+			"name": "Corridors of Power",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/191.png"
+			}
+		},
+		{
+			"name": "Defensive Measures",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/192.png"
+			}
+		},
+		{
+			"name": "Chancellor's Gallery",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/193.png"
+			}
+		},
+		{
+			"name": "Charlatan's Hideaway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/194.png"
+			}
+		},
+		{
+			"name": "Torturer's Vault",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/195.png"
+			}
+		},
+		{
+			"name": "Rebel's Refuge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/196.png"
+			}
+		},
+		{
+			"name": "Emissary's Glasshouse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/197.png"
+			}
+		},
+		{
+			"name": "Viscount's Ballroom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/198.png"
+			}
+		},
+		{
+			"name": "Inventor's Workshop",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/199.png"
+			}
+		},
+		{
+			"name": "Shaman's Sanctum",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/200.png"
+			}
+		},
+		{
+			"name": "Socialite's Salon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/201.png"
+			}
+		},
+		{
+			"name": "Traveler's Cabin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/202.png"
+			}
+		},
+		{
+			"name": "Vibrant Palazzo",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/203.png"
+			}
+		},
+		{
+			"name": "House of Parliament",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/204.png"
+			}
+		},
+		{
+			"name": "Sunken Manor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/205.png"
+			}
+		},
+		{
+			"name": "Carnival Gondola",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/206.png"
+			}
+		},
+		{
+			"name": "Unruly Borough",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/207.png"
+			}
+		},
+		{
+			"name": "Regal Estate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/208.png"
+			}
+		},
+		{
+			"name": "Unsanctioned Academy",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/209.png"
+			}
+		},
+		{
+			"name": "Forsaken Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/210.png"
+			}
+		},
+		{
+			"name": "Bustling Province",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/211.png"
+			}
+		},
+		{
+			"name": "Ancient Waterway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/212.png"
+			}
+		},
+		{
+			"name": "Syr Leah, the Queen's Rose",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Human Noble Knight",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/213.png"
+			}
+		},
+		{
+			"name": "Dowager Countess",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/214.png"
+			}
+		},
+		{
+			"name": "Opulent Throng",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/215.png"
+			}
+		},
+		{
+			"name": "Alchemical Tattooist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/216.png"
+			}
+		},
+		{
+			"name": "Mercurial Timepiece",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/217.png"
+			}
+		},
+		{
+			"name": "Autonomous Power Suit",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Artifact Creature — Equipment Construct",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/218.png"
+			}
+		},
+		{
+			"name": "Zaire, Fang of the Viper",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/219.png"
+			}
+		},
+		{
+			"name": "Great Bogwalker",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{G}{G}",
+			"type": "Creature — Elemental Zombie",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/220.png"
+			}
+		},
+		{
+			"name": "Parasitic Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/221.png"
+			}
+		},
+		{
+			"name": "Last Will and Testament",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/222.png"
+			}
+		},
+		{
+			"name": "Rewrite History",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/223.png"
+			}
+		},
+		{
+			"name": "Sway the Masses",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/224.png"
+			}
+		},
+		{
+			"name": "Beloved Prima Donna",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/225.png"
+			}
+		},
+		{
+			"name": "Blade of the Black Rose",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/226.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/227.png"
+			}
+		},
+		{
+			"name": "Unmask the Truth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/228.png"
+			}
+		},
+		{
+			"name": "Phantom Witness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/229.png"
+			}
+		},
+		{
+			"name": "Searing Revelation",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Instant",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/230.png"
+			}
+		},
+		{
+			"name": "Smoldering Incubus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Devil Shapeshifter",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/231.png"
+			}
+		},
+		{
+			"name": "Loathsome Turncoat",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/232.png"
+			}
+		},
+		{
+			"name": "Lost at Sea",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/233.png"
+			}
+		},
+		{
+			"name": "Recusant Scholar",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/234.png"
+			}
+		},
+		{
+			"name": "Chart the Future",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/235.png"
+			}
+		},
+		{
+			"name": "Hemlock Wine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/236.png"
+			}
+		},
+		{
+			"name": "City-Wide Brawl",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/237.png"
+			}
+		},
+		{
+			"name": "Twist of Fate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Conspiracy",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/238.png"
+			}
+		},
+		{
+			"name": "Make Trouble",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/239.png"
+			}
+		},
+		{
+			"name": "Pact of Obscurity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/240.png"
+			}
+		},
+		{
+			"name": "Scalding Surprise",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/241.png"
+			}
+		},
+		{
+			"name": "Sylvan Spy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/242.png"
+			}
+		},
+		{
+			"name": "Pristine Wilderness",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/243.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/244.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/245.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/246.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/247.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/248.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/249.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/250.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/251.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/252.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/253.png"
+			}
+		},
+		{
+			"name": "Wild and Free",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/254.png"
+			}
+		},
+		{
+			"name": "Drakestown Lich",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/255.png"
+			}
+		},
+		{
+			"name": "Sydri's Sabotage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/256.png"
+			}
+		},
+		{
+			"name": "Airborne Missive",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/257.png"
+			}
+		},
+		{
+			"name": "Arcane Spymaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/258.png"
+			}
+		},
+		{
+			"name": "Archive Acqisition",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/259.png"
+			}
+		},
+		{
+			"name": "Cease and Desist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/260.png"
+			}
+		},
+		{
+			"name": "Ticking Puzzlebomb",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/261.png"
+			}
+		},
+		{
+			"name": "Glorytaker Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/262.png"
+			}
+		},
+		{
+			"name": "Rally the Cavalry",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/263.png"
+			}
+		},
+		{
+			"name": "Song of Restoration",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/264.png"
+			}
+		},
+		{
+			"name": "Optimistic Worldwalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid Rebel",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/265.png"
+			}
+		},
+		{
+			"name": "Gargantuan Silkspinner",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/266.png"
+			}
+		},
+		{
+			"name": "Myopic Judge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Homunculus Advisor",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/267.png"
+			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/268.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/269.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Snake",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/270.png"
+			}
+		},
+		{
+			"name": "Dragon Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Dragon Construct",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/271.png"
+			}
+		},
+		{
+			"name": "Noble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Noble",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/272.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/273.png"
+			}
+		},
+		{
+			"name": "Loyal Squire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/274.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/275.png"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/276.png"
+			}
+		},
+		{
+			"name": "Insatiable Hydra",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hydra",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/277.png"
+			}
+		},
+		{
+			"name": "Goat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goat",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/278.png"
+			}
+		},
+		{
+			"name": "Noble Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Noble Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/279.png"
+			}
+		},
+		{
+			"name": "Ally",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/280.png"
+			}
+		},
+		{
+			"name": "Black Lotus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/281.png"
+			}
+		},
+		{
+			"name": "Bear",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bear",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/282.png"
+			}
+		},
+		{
+			"name": "Butterfly Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Butterfly Illusion",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/283.png"
+			}
+		},
+		{
+			"name": "Neighborly Giant",
+			"rarity": "common",
+			"mana_cost": "{5}{G/W}",
+			"type": "Creature — Giant",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/284.png"
+			}
+		},
+		{
+			"name": "Abscond",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/285.png"
+			}
+		},
+		{
+			"name": "Spire Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/286.png"
+			}
+		},
+		{
+			"name": "Eloping Consort",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/287.png"
+			}
+		},
+		{
+			"name": "Elite Contender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/288.png"
+			}
+		},
+		{
+			"name": "Harrowing Specter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/289.png"
+			}
+		},
+		{
+			"name": "Esteemed Paladin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/290.png"
+			}
+		},
+		{
+			"name": "Petition the Priesthood",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/291.png"
+			}
+		},
+		{
+			"name": "Kinnesta Vanguard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/292.png"
+			}
+		},
+		{
+			"name": "Worthy Successor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/293.png"
+			}
+		},
+		{
+			"name": "Keen Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/294.png"
+			}
+		},
+		{
+			"name": "Spellsmith's Goggles",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/295.png"
+			}
+		},
+		{
+			"name": "Psychic Deluge",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/296.png"
+			}
+		},
+		{
+			"name": "Perfidious Pixie",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/297.png"
+			}
+		},
+		{
+			"name": "Submerse",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/298.png"
+			}
+		},
+		{
+			"name": "Experimental Collaboration",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/299.png"
+			}
+		},
+		{
+			"name": "Delicate Optimizer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/300.png"
+			}
+		},
+		{
+			"name": "Cold-Blooded Traitor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/301.png"
+			}
+		},
+		{
+			"name": "Vilify",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/302.png"
+			}
+		},
+		{
+			"name": "Forbidden Fruit",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/303.png"
+			}
+		},
+		{
+			"name": "Imperious Marquis",
+			"rarity": "common",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/304.png"
+			}
+		},
+		{
+			"name": "Ravage Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/305.png"
+			}
+		},
+		{
+			"name": "Ravishing Scoundrel",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/306.png"
+			}
+		},
+		{
+			"name": "Well-Mannered Goblin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Noble",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/307.png"
+			}
+		},
+		{
+			"name": "Render Senseless",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/308.png"
+			}
+		},
+		{
+			"name": "Explosive Demonstration",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/309.png"
+			}
+		},
+		{
+			"name": "Goblin Guards",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/310.png"
+			}
+		},
+		{
+			"name": "Makeshift Trebuchet",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/311.png"
+			}
+		},
+		{
+			"name": "Newborn Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/312.png"
+			}
+		},
+		{
+			"name": "Defiant Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel Wizard",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/313.png"
+			}
+		},
+		{
+			"name": "Woodland Harbinger",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/314.png"
+			}
+		},
+		{
+			"name": "Cordial Gatewarden",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/315.png"
+			}
+		},
+		{
+			"name": "Featherlight Bow",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/316.png"
+			}
+		},
+		{
+			"name": "Seasoned Mentor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/317.png"
+			}
+		},
+		{
+			"name": "Wanderer's Boon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/318.png"
+			}
+		},
+		{
+			"name": "Liminal Shift",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/319.png"
+			}
+		},
+		{
+			"name": "Heedless Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/320.png"
+			}
+		},
+		{
+			"name": "Ballot Collector",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/321.png"
+			}
+		},
+		{
+			"name": "Malignant Curse",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/322.png"
+			}
+		},
+		{
+			"name": "Masterful Maneuvers",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/323.png"
+			}
+		},
+		{
+			"name": "Arcadian Slumber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/324.png"
+			}
+		},
+		{
+			"name": "Roam the Canals",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/325.png"
+			}
+		},
+		{
+			"name": "Plunging Thrust",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/326.png"
+			}
+		},
+		{
+			"name": "Kindly Veterinarians",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Beast",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/327.png"
+			}
+		},
+		{
+			"name": "Caustic Monstrosity",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/328.png"
+			}
+		},
+		{
+			"name": "Awoken Roots",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/329.png"
+			}
+		},
+		{
+			"name": "Channel Vitality",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/330.png"
+			}
+		},
+		{
+			"name": "Flourishing Mossweaver",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/331.png"
+			}
+		},
+		{
+			"name": "Ominous Hiss",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/332.png"
+			}
+		},
+		{
+			"name": "Quid Pro Quo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/333.png"
+			}
+		},
+		{
+			"name": "Dungeon Dwellers",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/334.png"
+			}
+		},
+		{
+			"name": "Pitiful End",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/335.png"
+			}
+		},
+		{
+			"name": "Flametongue Despot",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/336.png"
+			}
+		},
+		{
+			"name": "Vexing Reflections",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/337.png"
+			}
+		},
+		{
+			"name": "Nimble Knave",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/338.png"
+			}
+		},
+		{
+			"name": "Custodi Bishop",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/339.png"
+			}
+		},
+		{
+			"name": "Watchful Apparition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/340.png"
+			}
+		},
+		{
+			"name": "Staged Funeral",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/341.png"
+			}
+		},
+		{
+			"name": "Merry Beastbonder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/342.png"
+			}
+		},
+		{
+			"name": "Communal Augury",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/343.png"
+			}
+		},
+		{
+			"name": "Grizzly Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Bear Elemental",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/344.png"
+			}
+		},
+		{
+			"name": "Rousing Storyteller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Bard Rebel",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/345.png"
+			}
+		},
+		{
+			"name": "Undead Potentate",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Skeleton Noble",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/346.png"
+			}
+		},
+		{
+			"name": "Wildheart Rioter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Shaman Rebel",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/347.png"
+			}
+		},
+		{
+			"name": "Ode to the Free Folk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/348.png"
+			}
+		},
+		{
+			"name": "Haughty Hecklers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/349.png"
+			}
+		},
+		{
+			"name": "Cogwheel Assistant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/350.png"
+			}
+		},
+		{
+			"name": "Rebel Firebrand",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Goblin Rebel",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/351.png"
+			}
+		},
+		{
+			"name": "Heavy Coinpurse",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Bribe",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/352.png"
+			}
+		},
+		{
+			"name": "Betrothed Baronet",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/353.png"
+			}
+		},
+		{
+			"name": "Masked Carnival",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/354.png"
+			}
+		},
+		{
+			"name": "Belfry Drakes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/355.png"
+			}
+		},
+		{
+			"name": "Belle of the Ball",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/356.png"
+			}
+		},
+		{
+			"name": "Spur of the Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/357.png"
+			}
+		},
+		{
+			"name": "Liar's Castigation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/358.png"
+			}
+		},
+		{
+			"name": "Rapacious Ravens",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/359.png"
+			}
+		},
+		{
+			"name": "Demon of Subjugation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/360.png"
+			}
+		},
+		{
+			"name": "Diligent Scribe",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/361.png"
+			}
+		},
+		{
+			"name": "Notorious Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/362.png"
+			}
+		},
+		{
+			"name": "Sudden Betrayal",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/363.png"
+			}
+		},
+		{
+			"name": "Rowdy Troubadour",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Bard Rebel",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/364.png"
+			}
+		},
+		{
+			"name": "Keymaster Puppet",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/365.png"
+			}
+		},
+		{
+			"name": "Galvanic Battery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/366.png"
+			}
+		},
+		{
+			"name": "Prism of the Trifecta",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/367.png"
+			}
+		},
+		{
+			"name": "Zaire's Elixir",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/368.png"
+			}
+		},
+		{
+			"name": "Duel at Dawn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/369.png"
+			}
+		},
+		{
+			"name": "Cry for Absolution",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/370.png"
+			}
+		},
+		{
+			"name": "Royal Inquisitors",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/371.png"
+			}
+		},
+		{
+			"name": "Venal Knight",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/372.png"
+			}
+		},
+		{
+			"name": "Lavish Aristocrat",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/373.png"
+			}
+		},
+		{
+			"name": "Mystic Meddlers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Faerie Wizard",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/374.png"
+			}
+		},
+		{
+			"name": "Fluttering Hush",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/375.png"
+			}
+		},
+		{
+			"name": "Dazzling Angler",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/376.png"
+			}
+		},
+		{
+			"name": "Double Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/377.png"
+			}
+		},
+		{
+			"name": "Morbid Reveler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/378.png"
+			}
+		},
+		{
+			"name": "Restless Crusader",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/379.png"
+			}
+		},
+		{
+			"name": "Gnawing Cluster",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/380.png"
+			}
+		},
+		{
+			"name": "Oppressive Miasma",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/381.png"
+			}
+		},
+		{
+			"name": "Sentinel Sphere",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/382.png"
+			}
+		},
+		{
+			"name": "Concealed Dagger",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/383.png"
+			}
+		},
+		{
+			"name": "Pioneering Skysailer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/384.png"
+			}
+		},
+		{
+			"name": "Purifying Basin",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/385.png"
+			}
+		},
+		{
+			"name": "Voyeur's Orb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/386.png"
+			}
+		},
+		{
+			"name": "Perfect Forgery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/387.png"
+			}
+		},
+		{
+			"name": "Shimmersteel Blade",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RVL-files/img/388.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Marchesa, Envy of the High City
+	5 Ludovica, Paliano's Finest
+	5 Edric, the Eyes and Ears
+	5 Gnork, Aspiring Tyrant
+	5 Reckless Hawker
+	5 Livio, the Incorruptible
+	5 Heavy is the Head
+	5 Magister of Law
+	5 Lurid Bloom
+	5 Covetous Clutches
+	5 Malzagio, the Accuser
+	5 Beatrice, Uncanny Trickster
+	5 Tactician's Gambit
+	5 The Court of Whispers
+	5 Clockwork Colossus
+	5 Oriel, Benevolent Ruler
+	5 Armani, Cryptic Arbiter
+	5 Vigo, King of Vermin
+	5 Cianna, Scaled Sovereign
+	5 Ravenna, Puppet Queen
+	5 Grenzo, Sadistic Renegade
+	5 King's Remembrance
+	5 Puppet Government
+	5 Giovanni, the Celebrated
+	5 Elowyn, Eerie Matriarch
+	5 Milo and Omar, Eccentrics
+	5 Cora, Magnanimous Magician
+	5 Custodi Offerings
+	5 Volatile Growth
+	5 Survey the City
+	5 Blazing Defiance
+	5 Pistris, Bane of Trest
+	5 Pasquale, Utopia Seeker
+	5 Overthrow
+	5 Devious Double-Cross
+	5 Taran, Lord of None
+	5 High Treason
+	5 Arisen Empire
+	5 Angel of Concord
+	5 Insatiable Hydra
+	5 Tainted Banquet
+	5 Frame Job
+	5 Cunning Interception
+	5 Queen's Requiem
+	5 Dark Dealings
+	5 Callous Impostor
+	5 Rites of Redemption
+	5 Twilight Anthem
+	5 Progress Unbound
+	5 Vicious Cycle
+	5 Faltering Devotion
+	5 Patterns of Perfection
+	5 Cleansing Dawn
+	5 Towering Chainbreaker
+	5 Sofia, Grand Councilor
+	5 Inquisitor Sphinx
+	5 Dream Siphon
+	5 Incite Hysteria
+	5 Infernal Muse
+	5 War Profiteer
+	5 Lugash, Mad Visionary
+	5 Explosive Finale
+	5 Mutinous Mob
+	5 Isabelle, Master Diplomat
+	5 Overgrown Companion
+	5 Sublime Harmonizer
+	5 Earthly Paradise
+	5 Corridors of Power
+	5 Syr Leah, the Queen's Rose
+	5 Dowager Countess
+	5 Opulent Throng
+	5 Alchemical Tattooist
+	5 Mercurial Timepiece
+	5 Autonomous Power Suit
+	5 Zaire, Fang of the Viper
+	5 Great Bogwalker
+	5 Parasitic Rebirth
+	5 Rewrite History
+	5 Beloved Prima Donna
+	5 Blade of the Black Rose
+	5 Searing Revelation
+	5 Lost at Sea
+	5 Chart the Future
+	5 Pristine Wilderness
+	5 Wild and Free
+	5 Drakestown Lich
+	5 Sydri's Sabotage
+	5 Arcane Spymaster
+	5 Archive Acqisition
+	5 Ticking Puzzlebomb
+	5 Glorytaker Wyrm
+	5 Rally the Cavalry
+	5 Song of Restoration
+	5 Optimistic Worldwalker
+	5 Gargantuan Silkspinner
+[uncommon(3)]
+	5 High City Magistrate
+	5 Maven of the Mask
+	5 Shameless Provocateur
+	5 Kingsbane Chimera
+	5 Generous Minstrel
+	5 Famished Courtesan
+	5 Curator of Curiosities
+	5 Carrion Gorger
+	5 Paliano Courser
+	5 Renunciate
+	5 Usurp
+	5 Audacious Hoarder
+	5 Fateful Heiress
+	5 Faithful Advocate
+	5 Royal Propagandist
+	5 Seditious Whispers
+	5 Spiteful Baron
+	5 Furtive Necromancer
+	5 Wary Messenger
+	5 Rebel Improviser
+	5 Serpent Whisperer
+	5 Unblinking Familiar
+	5 Scheming Kingmaker
+	5 Mournful Dryad
+	5 Muzzio's Archivist
+	5 Disarming Gesture
+	5 Ferocious Outcast
+	5 Public Lashing
+	5 Luminous Venompod
+	5 Looming Gallows
+	5 Shifting Chameleon
+	5 Tyrant's Retribution
+	5 Pasquale's Emissary
+	5 Fearless Trendsetter
+	5 Wandering Peddler
+	5 Trestan Operative
+	5 Outlandish Invention
+	5 Prudent Poisoner
+	5 Aven Courier
+	5 Midnight Sacrament
+	5 Masquerade
+	5 Sage of Ruin
+	5 Swift-Riding Heralds
+	5 Favored Inheritor
+	5 Jeering Pretender
+	5 Through the Grapevine
+	5 Dance of Renewal
+	5 Ballroom Butchery
+	5 Ambitious Scion
+	5 Beggar's Cell
+	5 Patrician's Mask
+	5 Helm of the Victor
+	5 Counterfeit Craftsman
+	5 Unanimous Assent
+	5 Tree of Alms
+	5 Gilded Shackles
+	5 Blueblood Connoisseur
+	5 Friends in High Places
+	5 Neutral Negotiator
+	5 Hunter of the Proud
+	5 Paragon of Bounty
+	5 Eloquent Hieromancer
+	5 Decaying Queen
+	5 Fanciful Technocrat
+	5 Royal Gossipmonger
+	5 Twinblade Aspirants
+	5 Outrage
+	5 Thriving Trade
+	5 United Triumvirate
+	5 Fungal Corruption
+	5 Guillotine
+	5 Defensive Measures
+	5 Vibrant Palazzo
+	5 House of Parliament
+	5 Sunken Manor
+	5 Carnival Gondola
+	5 Unruly Borough
+	5 Regal Estate
+	5 Unsanctioned Academy
+	5 Forsaken Citadel
+	5 Bustling Province
+	5 Ancient Waterway
+	5 Sway the Masses
+	5 Unmask the Truth
+	5 Phantom Witness
+	5 Smoldering Incubus
+	5 Hemlock Wine
+	5 Pact of Obscurity
+	5 Scalding Surprise
+	5 Sylvan Spy
+	5 Airborne Missive
+	5 Cease and Desist
+	5 Myopic Judge
+	5 Elite Contender
+	5 Harrowing Specter
+	5 Petition the Priesthood
+	5 Keen Cartographer
+	5 Spellsmith's Goggles
+	5 Psychic Deluge
+	5 Delicate Optimizer
+	5 Cold-Blooded Traitor
+	5 Forbidden Fruit
+	5 Newborn Phoenix
+	5 Masterful Maneuvers
+	5 Arcadian Slumber
+	5 Kindly Veterinarians
+	5 Quid Pro Quo
+	5 Vexing Reflections
+	5 Custodi Bishop
+	5 Watchful Apparition
+	5 Merry Beastbonder
+	5 Communal Augury
+	5 Grizzly Behemoth
+	5 Rousing Storyteller
+	5 Wildheart Rioter
+	5 Ode to the Free Folk
+	5 Haughty Hecklers
+	5 Cogwheel Assistant
+	5 Betrothed Baronet
+	5 Masked Carnival
+	5 Belfry Drakes
+	5 Belle of the Ball
+	5 Spur of the Moment
+	5 Liar's Castigation
+	5 Demon of Subjugation
+	5 Notorious Looter
+	5 Keymaster Puppet
+	5 Galvanic Battery
+	5 Prism of the Trifecta
+	5 Perfect Forgery
+[common(10)]
+	5 Gutter Hogs
+	5 Gregarious Guide
+	5 Disillusion
+	5 Deadly Intrigue
+	5 Agitate
+	5 Agent of Change
+	5 Question Authority
+	5 Stolid Gatekeepers
+	5 Unfinished Research
+	5 Vaunted Veteran
+	5 Clever Codebreaker
+	5 Misguided Loyalty
+	5 Back-Alley Deal
+	5 Magistrate's Marshal
+	5 Vulgar Entertainment
+	5 Overburdened Laborers
+	5 Spycraft
+	5 Expedient Demise
+	5 Memories of Stone
+	5 Obliging Servitor
+	5 Mercenary Sleuths
+	5 Exotic Peacock
+	5 Rebel Sharpshooters
+	5 Civil Disobedience
+	5 Stubborn Refusal
+	5 Conceited Duelist
+	5 Intrepid Pioneer
+	5 Smuggler's Packbeast
+	5 Loyal Squire
+	5 Paranoia
+	5 Under Cover of Night
+	5 Moldering Duchess
+	5 Formal Invitation
+	5 Peacebringer Dove
+	5 Unstable Conductor
+	5 Custodi Devotee
+	5 Seething Fiend
+	5 Cut the Strings
+	5 Dissident Chef
+	5 Elusive Trespasser
+	5 The Court's Favor
+	5 Voice of the People
+	5 Grip of Madness
+	5 Bullish Innovator
+	5 Courier's Memento
+	5 Crooked Bookkeeper
+	5 Stoic Champion
+	5 Puppeteer's Flourish
+	5 Fervent Loyalist
+	5 Invigorating Songstress
+	5 Radical Interloper
+	5 Chancellor's Gallery
+	5 Charlatan's Hideaway
+	5 Torturer's Vault
+	5 Rebel's Refuge
+	5 Emissary's Glasshouse
+	5 Viscount's Ballroom
+	5 Inventor's Workshop
+	5 Shaman's Sanctum
+	5 Socialite's Salon
+	5 Traveler's Cabin
+	5 Last Will and Testament
+	5 Loathsome Turncoat
+	5 Recusant Scholar
+	5 City-Wide Brawl
+	5 Twist of Fate
+	5 Make Trouble
+	5 Neighborly Giant
+	5 Abscond
+	5 Spire Guardian
+	5 Eloping Consort
+	5 Esteemed Paladin
+	5 Kinnesta Vanguard
+	5 Worthy Successor
+	5 Perfidious Pixie
+	5 Submerse
+	5 Experimental Collaboration
+	5 Vilify
+	5 Imperious Marquis
+	5 Ravage Soul
+	5 Ravishing Scoundrel
+	5 Well-Mannered Goblin
+	5 Render Senseless
+	5 Explosive Demonstration
+	5 Goblin Guards
+	5 Makeshift Trebuchet
+	5 Defiant Pyromancer
+	5 Woodland Harbinger
+	5 Cordial Gatewarden
+	5 Featherlight Bow
+	5 Seasoned Mentor
+	5 Wanderer's Boon
+	5 Liminal Shift
+	5 Heedless Hunter
+	5 Ballot Collector
+	5 Malignant Curse
+	5 Roam the Canals
+	5 Plunging Thrust
+	5 Caustic Monstrosity
+	5 Awoken Roots
+	5 Channel Vitality
+	5 Flourishing Mossweaver
+	5 Ominous Hiss
+	5 Dungeon Dwellers
+	5 Pitiful End
+	5 Flametongue Despot
+	5 Nimble Knave
+	5 Staged Funeral
+	5 Undead Potentate
+	5 Rebel Firebrand
+	5 Heavy Coinpurse
+	5 Rapacious Ravens
+	5 Diligent Scribe
+	5 Sudden Betrayal
+	5 Rowdy Troubadour
+	5 Zaire's Elixir
+	5 Duel at Dawn
+	5 Cry for Absolution
+	5 Royal Inquisitors
+	5 Venal Knight
+	5 Lavish Aristocrat
+	5 Mystic Meddlers
+	5 Fluttering Hush
+	5 Dazzling Angler
+	5 Double Agent
+	5 Morbid Reveler
+	5 Restless Crusader
+	5 Gnawing Cluster
+	5 Oppressive Miasma
+	5 Sentinel Sphere
+	5 Concealed Dagger
+	5 Pioneering Skysailer
+	5 Purifying Basin
+	5 Voyeur's Orb
+	5 Shimmersteel Blade

@@ -1,0 +1,2902 @@
+﻿[
+    {
+        "card_name": "Angel of Concord",
+        "number": 21,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "107"
+    },
+    {
+        "card_name": "Clockwork Colossus",
+        "number": 64,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "45"
+    },
+    {
+        "card_name": "Arisen Empire",
+        "number": 96,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "106"
+    },
+    {
+        "card_name": "Blazing Defiance",
+        "number": 138,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "87"
+    },
+    {
+        "card_name": "Insatiable Hydra",
+        "number": 188,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "108"
+    },
+    {
+        "card_name": "Cleansing Dawn",
+        "number": 25,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "171"
+    },
+    {
+        "card_name": "Arcane Spymaster",
+        "number": 58,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "258"
+    },
+    {
+        "card_name": "Blade of the Black Rose",
+        "number": 97,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "226"
+    },
+    {
+        "card_name": "Glorytaker Wyrm",
+        "number": 145,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "262"
+    },
+    {
+        "card_name": "Cianna, Scaled Sovereign",
+        "number": 176,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "52"
+    },
+    {
+        "card_name": "Custodi Offerings",
+        "number": 29,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "75"
+    },
+    {
+        "card_name": "Archive Acqisition",
+        "number": 59,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "259"
+    },
+    {
+        "card_name": "Drakestown Lich",
+        "number": 103,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "255"
+    },
+    {
+        "card_name": "Gnork, Aspiring Tyrant",
+        "number": 146,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "18"
+    },
+    {
+        "card_name": "Gargantuan Silkspinner",
+        "number": 183,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "266"
+    },
+    {
+        "card_name": "Livio, the Incorruptible",
+        "number": 41,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "21"
+    },
+    {
+        "card_name": "Armani, Cryptic Arbiter",
+        "number": 60,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "50"
+    },
+    {
+        "card_name": "Frame Job",
+        "number": 108,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "119"
+    },
+    {
+        "card_name": "Rally the Cavalry",
+        "number": 158,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "263"
+    },
+    {
+        "card_name": "Optimistic Worldwalker",
+        "number": 196,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "265"
+    },
+    {
+        "card_name": "Oriel, Benevolent Ruler",
+        "number": 44,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "49"
+    },
+    {
+        "card_name": "Devious Double-Cross",
+        "number": 71,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "95"
+    },
+    {
+        "card_name": "Queen's Requiem",
+        "number": 123,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "129"
+    },
+    {
+        "card_name": "Reckless Hawker",
+        "number": 160,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "20"
+    },
+    {
+        "card_name": "Song of Restoration",
+        "number": 202,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "264"
+    },
+    {
+        "card_name": "Overthrow",
+        "number": 45,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "94"
+    },
+    {
+        "card_name": "Sydri's Sabotage",
+        "number": 92,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "256"
+    },
+    {
+        "card_name": "Vigo, King of Vermin",
+        "number": 132,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "51"
+    },
+    {
+        "card_name": "Ticking Puzzlebomb",
+        "number": 168,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "261"
+    },
+    {
+        "card_name": "Wild and Free",
+        "number": 209,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "254"
+    },
+    {
+        "card_name": "Beggar's Cell",
+        "number": 22,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "126"
+    },
+    {
+        "card_name": "Aven Courier",
+        "number": 61,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "105"
+    },
+    {
+        "card_name": "Blueblood Connoisseur",
+        "number": 98,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "142"
+    },
+    {
+        "card_name": "Belfry Drakes",
+        "number": 136,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "355"
+    },
+    {
+        "card_name": "Arcadian Slumber",
+        "number": 172,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "324"
+    },
+    {
+        "card_name": "Betrothed Baronet",
+        "number": 23,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "353"
+    },
+    {
+        "card_name": "Counterfeit Craftsman",
+        "number": 65,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "135"
+    },
+    {
+        "card_name": "Cold-Blooded Traitor",
+        "number": 99,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "301"
+    },
+    {
+        "card_name": "Belle of the Ball",
+        "number": 137,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "356"
+    },
+    {
+        "card_name": "Dance of Renewal",
+        "number": 178,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "121"
+    },
+    {
+        "card_name": "Cease and Desist",
+        "number": 24,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "260"
+    },
+    {
+        "card_name": "Delicate Optimizer",
+        "number": 70,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "300"
+    },
+    {
+        "card_name": "Demon of Subjugation",
+        "number": 101,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "360"
+    },
+    {
+        "card_name": "Masked Carnival",
+        "number": 150,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "354"
+    },
+    {
+        "card_name": "Grizzly Behemoth",
+        "number": 185,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "344"
+    },
+    {
+        "card_name": "Custodi Bishop",
+        "number": 27,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "339"
+    },
+    {
+        "card_name": "Keen Cartographer",
+        "number": 76,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "294"
+    },
+    {
+        "card_name": "Fateful Heiress",
+        "number": 106,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "34"
+    },
+    {
+        "card_name": "Newborn Phoenix",
+        "number": 151,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "312"
+    },
+    {
+        "card_name": "Hemlock Wine",
+        "number": 187,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "236"
+    },
+    {
+        "card_name": "Elite Contender",
+        "number": 32,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "288"
+    },
+    {
+        "card_name": "Muzzio's Archivist",
+        "number": 78,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "74"
+    },
+    {
+        "card_name": "Forbidden Fruit",
+        "number": 107,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "303"
+    },
+    {
+        "card_name": "Notorious Looter",
+        "number": 152,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "362"
+    },
+    {
+        "card_name": "Kindly Veterinarians",
+        "number": 191,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "327"
+    },
+    {
+        "card_name": "Faithful Advocate",
+        "number": 35,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "35"
+    },
+    {
+        "card_name": "Neutral Negotiator",
+        "number": 80,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "146"
+    },
+    {
+        "card_name": "Liar's Castigation",
+        "number": 111,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "358"
+    },
+    {
+        "card_name": "Outrage",
+        "number": 153,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "155"
+    },
+    {
+        "card_name": "Luminous Venompod",
+        "number": 192,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "83"
+    },
+    {
+        "card_name": "Gilded Shackles",
+        "number": 37,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "141"
+    },
+    {
+        "card_name": "Psychic Deluge",
+        "number": 83,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "296"
+    },
+    {
+        "card_name": "Looming Gallows",
+        "number": 113,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "84"
+    },
+    {
+        "card_name": "Public Lashing",
+        "number": 155,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "80"
+    },
+    {
+        "card_name": "Merry Beastbonder",
+        "number": 194,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "342"
+    },
+    {
+        "card_name": "Paliano Courser",
+        "number": 46,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "15"
+    },
+    {
+        "card_name": "Quid Pro Quo",
+        "number": 85,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "333"
+    },
+    {
+        "card_name": "Pact of Obscurity",
+        "number": 120,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "240"
+    },
+    {
+        "card_name": "Rebel Improviser",
+        "number": 159,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "56"
+    },
+    {
+        "card_name": "Mournful Dryad",
+        "number": 195,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "73"
+    },
+    {
+        "card_name": "Petition the Priesthood",
+        "number": 48,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "291"
+    },
+    {
+        "card_name": "Renunciate",
+        "number": 87,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "16"
+    },
+    {
+        "card_name": "Patrician's Mask",
+        "number": 121,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "128"
+    },
+    {
+        "card_name": "Scalding Surprise",
+        "number": 163,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "241"
+    },
+    {
+        "card_name": "Rousing Storyteller",
+        "number": 199,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "345"
+    },
+    {
+        "card_name": "Phantom Witness",
+        "number": 49,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "229"
+    },
+    {
+        "card_name": "Spellsmith's Goggles",
+        "number": 89,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "295"
+    },
+    {
+        "card_name": "Royal Propagandist",
+        "number": 127,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "36"
+    },
+    {
+        "card_name": "Smoldering Incubus",
+        "number": 165,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "231"
+    },
+    {
+        "card_name": "Sylvan Spy",
+        "number": 204,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "242"
+    },
+    {
+        "card_name": "United Triumvirate",
+        "number": 54,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "163"
+    },
+    {
+        "card_name": "Unmask the Truth",
+        "number": 94,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "228"
+    },
+    {
+        "card_name": "Spiteful Baron",
+        "number": 128,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "39"
+    },
+    {
+        "card_name": "Spur of the Moment",
+        "number": 166,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "357"
+    },
+    {
+        "card_name": "Thriving Trade",
+        "number": 205,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "156"
+    },
+    {
+        "card_name": "Watchful Apparition",
+        "number": 56,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "340"
+    },
+    {
+        "card_name": "Vexing Reflections",
+        "number": 95,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "337"
+    },
+    {
+        "card_name": "Usurp",
+        "number": 131,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "23"
+    },
+    {
+        "card_name": "Wandering Peddler",
+        "number": 170,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "96"
+    },
+    {
+        "card_name": "Trestan Operative",
+        "number": 206,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "97"
+    },
+    {
+        "card_name": "Abscond",
+        "number": 20,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "285"
+    },
+    {
+        "card_name": "Back-Alley Deal",
+        "number": 62,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "44"
+    },
+    {
+        "card_name": "Deadly Intrigue",
+        "number": 100,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "14"
+    },
+    {
+        "card_name": "Agent of Change",
+        "number": 134,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "19"
+    },
+    {
+        "card_name": "Awoken Roots",
+        "number": 173,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "329"
+    },
+    {
+        "card_name": "Cry for Absolution",
+        "number": 26,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "370"
+    },
+    {
+        "card_name": "Clever Codebreaker",
+        "number": 63,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "42"
+    },
+    {
+        "card_name": "Double Agent",
+        "number": 102,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "377"
+    },
+    {
+        "card_name": "Agitate",
+        "number": 135,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "17"
+    },
+    {
+        "card_name": "Caustic Monstrosity",
+        "number": 174,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "328"
+    },
+    {
+        "card_name": "Custodi Devotee",
+        "number": 28,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "133"
+    },
+    {
+        "card_name": "Courier's Memento",
+        "number": 66,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "158"
+    },
+    {
+        "card_name": "Dungeon Dwellers",
+        "number": 104,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "334"
+    },
+    {
+        "card_name": "Civil Disobedience",
+        "number": 139,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "81"
+    },
+    {
+        "card_name": "Channel Vitality",
+        "number": 175,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "330"
+    },
+    {
+        "card_name": "Diligent Scribe",
+        "number": 30,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "361"
+    },
+    {
+        "card_name": "Crooked Bookkeeper",
+        "number": 67,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "160"
+    },
+    {
+        "card_name": "Expedient Demise",
+        "number": 105,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "59"
+    },
+    {
+        "card_name": "Conceited Duelist",
+        "number": 140,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "93"
+    },
+    {
+        "card_name": "Cordial Gatewarden",
+        "number": 177,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "315"
+    },
+    {
+        "card_name": "Duel at Dawn",
+        "number": 31,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "369"
+    },
+    {
+        "card_name": "Cut the Strings",
+        "number": 68,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "136"
+    },
+    {
+        "card_name": "Gnawing Cluster",
+        "number": 109,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "380"
+    },
+    {
+        "card_name": "Defiant Pyromancer",
+        "number": 141,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "313"
+    },
+    {
+        "card_name": "Disillusion",
+        "number": 179,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "13"
+    },
+    {
+        "card_name": "Eloping Consort",
+        "number": 33,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "287"
+    },
+    {
+        "card_name": "Dazzling Angler",
+        "number": 69,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "376"
+    },
+    {
+        "card_name": "Grip of Madness",
+        "number": 110,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "154"
+    },
+    {
+        "card_name": "Explosive Demonstration",
+        "number": 142,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "309"
+    },
+    {
+        "card_name": "Dissident Chef",
+        "number": 180,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "138"
+    },
+    {
+        "card_name": "Esteemed Paladin",
+        "number": 34,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "290"
+    },
+    {
+        "card_name": "Elusive Trespasser",
+        "number": 72,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "139"
+    },
+    {
+        "card_name": "Loathsome Turncoat",
+        "number": 112,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "232"
+    },
+    {
+        "card_name": "Fervent Loyalist",
+        "number": 143,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "164"
+    },
+    {
+        "card_name": "Featherlight Bow",
+        "number": 181,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "316"
+    },
+    {
+        "card_name": "Formal Invitation",
+        "number": 36,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "124"
+    },
+    {
+        "card_name": "Exotic Peacock",
+        "number": 73,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "71"
+    },
+    {
+        "card_name": "Malignant Curse",
+        "number": 114,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "322"
+    },
+    {
+        "card_name": "Flametongue Despot",
+        "number": 144,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "336"
+    },
+    {
+        "card_name": "Flourishing Mossweaver",
+        "number": 182,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "331"
+    },
+    {
+        "card_name": "Kinnesta Vanguard",
+        "number": 38,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "292"
+    },
+    {
+        "card_name": "Experimental Collaboration",
+        "number": 74,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "299"
+    },
+    {
+        "card_name": "Moldering Duchess",
+        "number": 115,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "116"
+    },
+    {
+        "card_name": "Goblin Guards",
+        "number": 147,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "310"
+    },
+    {
+        "card_name": "Gregarious Guide",
+        "number": 184,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "12"
+    },
+    {
+        "card_name": "Lavish Aristocrat",
+        "number": 39,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "373"
+    },
+    {
+        "card_name": "Fluttering Hush",
+        "number": 75,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "375"
+    },
+    {
+        "card_name": "Morbid Reveler",
+        "number": 116,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "378"
+    },
+    {
+        "card_name": "Make Trouble",
+        "number": 148,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "239"
+    },
+    {
+        "card_name": "Heedless Hunter",
+        "number": 186,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "320"
+    },
+    {
+        "card_name": "Liminal Shift",
+        "number": 40,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "319"
+    },
+    {
+        "card_name": "Mercenary Sleuths",
+        "number": 77,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "70"
+    },
+    {
+        "card_name": "Nimble Knave",
+        "number": 117,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "338"
+    },
+    {
+        "card_name": "Makeshift Trebuchet",
+        "number": 149,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "311"
+    },
+    {
+        "card_name": "Intrepid Pioneer",
+        "number": 189,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "98"
+    },
+    {
+        "card_name": "Loyal Squire",
+        "number": 42,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "102"
+    },
+    {
+        "card_name": "Mystic Meddlers",
+        "number": 79,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "374"
+    },
+    {
+        "card_name": "Ominous Hiss",
+        "number": 118,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "332"
+    },
+    {
+        "card_name": "Plunging Thrust",
+        "number": 154,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "326"
+    },
+    {
+        "card_name": "Invigorating Songstress",
+        "number": 190,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "175"
+    },
+    {
+        "card_name": "Magistrate's Marshal",
+        "number": 43,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "46"
+    },
+    {
+        "card_name": "Obliging Servitor",
+        "number": 81,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "63"
+    },
+    {
+        "card_name": "Oppressive Miasma",
+        "number": 119,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "381"
+    },
+    {
+        "card_name": "Puppeteer's Flourish",
+        "number": 156,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "162"
+    },
+    {
+        "card_name": "Memories of Stone",
+        "number": 193,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "62"
+    },
+    {
+        "card_name": "Peacebringer Dove",
+        "number": 47,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "125"
+    },
+    {
+        "card_name": "Perfidious Pixie",
+        "number": 82,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "297"
+    },
+    {
+        "card_name": "Pitiful End",
+        "number": 122,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "335"
+    },
+    {
+        "card_name": "Radical Interloper",
+        "number": 157,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "176"
+    },
+    {
+        "card_name": "Overburdened Laborers",
+        "number": 197,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "48"
+    },
+    {
+        "card_name": "Royal Inquisitors",
+        "number": 50,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "371"
+    },
+    {
+        "card_name": "Question Authority",
+        "number": 84,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "29"
+    },
+    {
+        "card_name": "Rapacious Ravens",
+        "number": 124,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "359"
+    },
+    {
+        "card_name": "Render Senseless",
+        "number": 161,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "308"
+    },
+    {
+        "card_name": "Rebel Sharpshooters",
+        "number": 198,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "79"
+    },
+    {
+        "card_name": "Spire Guardian",
+        "number": 51,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "286"
+    },
+    {
+        "card_name": "Recusant Scholar",
+        "number": 86,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "234"
+    },
+    {
+        "card_name": "Ravage Soul",
+        "number": 125,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "305"
+    },
+    {
+        "card_name": "Rowdy Troubadour",
+        "number": 162,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "364"
+    },
+    {
+        "card_name": "Seasoned Mentor",
+        "number": 200,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "317"
+    },
+    {
+        "card_name": "Stoic Champion",
+        "number": 52,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "161"
+    },
+    {
+        "card_name": "Roam the Canals",
+        "number": 88,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "325"
+    },
+    {
+        "card_name": "Restless Crusader",
+        "number": 126,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "379"
+    },
+    {
+        "card_name": "Seething Fiend",
+        "number": 164,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "134"
+    },
+    {
+        "card_name": "Smuggler's Packbeast",
+        "number": 201,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "100"
+    },
+    {
+        "card_name": "Stolid Gatekeepers",
+        "number": 53,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "30"
+    },
+    {
+        "card_name": "Spycraft",
+        "number": 90,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "57"
+    },
+    {
+        "card_name": "Staged Funeral",
+        "number": 129,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "341"
+    },
+    {
+        "card_name": "Sudden Betrayal",
+        "number": 167,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "363"
+    },
+    {
+        "card_name": "Stubborn Refusal",
+        "number": 203,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "91"
+    },
+    {
+        "card_name": "Venal Knight",
+        "number": 55,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "372"
+    },
+    {
+        "card_name": "Submerse",
+        "number": 91,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "298"
+    },
+    {
+        "card_name": "Undead Potentate",
+        "number": 130,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "346"
+    },
+    {
+        "card_name": "Unstable Conductor",
+        "number": 169,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "131"
+    },
+    {
+        "card_name": "Vulgar Entertainment",
+        "number": 207,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "47"
+    },
+    {
+        "card_name": "Worthy Successor",
+        "number": 57,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "293"
+    },
+    {
+        "card_name": "Unfinished Research",
+        "number": 93,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "31"
+    },
+    {
+        "card_name": "Vilify",
+        "number": 133,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "302"
+    },
+    {
+        "card_name": "Well-Mannered Goblin",
+        "number": 171,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "307"
+    },
+    {
+        "card_name": "Wanderer's Boon",
+        "number": 208,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "318"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Inquisitor Sphinx",
+        "number": 257,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "178"
+    },
+    {
+        "card_name": "Beatrice, Uncanny Trickster",
+        "number": 216,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "38"
+    },
+    {
+        "card_name": "Incite Hysteria",
+        "number": 255,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "180"
+    },
+    {
+        "card_name": "Explosive Finale",
+        "number": 237,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "184"
+    },
+    {
+        "card_name": "Earthly Paradise",
+        "number": 233,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "189"
+    },
+    {
+        "card_name": "King's Remembrance",
+        "number": 260,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "60"
+    },
+    {
+        "card_name": "Callous Impostor",
+        "number": 218,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "159"
+    },
+    {
+        "card_name": "Infernal Muse",
+        "number": 256,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "181"
+    },
+    {
+        "card_name": "Lugash, Mad Visionary",
+        "number": 263,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "183"
+    },
+    {
+        "card_name": "Isabelle, Master Diplomat",
+        "number": 258,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "186"
+    },
+    {
+        "card_name": "Magister of Law",
+        "number": 265,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "24"
+    },
+    {
+        "card_name": "Covetous Clutches",
+        "number": 225,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "27"
+    },
+    {
+        "card_name": "Malzagio, the Accuser",
+        "number": 266,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "33"
+    },
+    {
+        "card_name": "Mutinous Mob",
+        "number": 271,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "185"
+    },
+    {
+        "card_name": "Overgrown Companion",
+        "number": 276,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "187"
+    },
+    {
+        "card_name": "Sofia, Grand Councilor",
+        "number": 295,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "177"
+    },
+    {
+        "card_name": "Dark Dealings",
+        "number": 228,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "130"
+    },
+    {
+        "card_name": "Puppet Government",
+        "number": 285,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "65"
+    },
+    {
+        "card_name": "Towering Chainbreaker",
+        "number": 304,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "174"
+    },
+    {
+        "card_name": "Rites of Redemption",
+        "number": 287,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "165"
+    },
+    {
+        "card_name": "Survey the City",
+        "number": 297,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "82"
+    },
+    {
+        "card_name": "Dream Siphon",
+        "number": 232,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "179"
+    },
+    {
+        "card_name": "War Profiteer",
+        "number": 312,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "182"
+    },
+    {
+        "card_name": "Volatile Growth",
+        "number": 311,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "78"
+    },
+    {
+        "card_name": "Sublime Harmonizer",
+        "number": 296,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "188"
+    },
+    {
+        "card_name": "High City Magistrate",
+        "number": 1,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "1"
+    },
+    {
+        "card_name": "Maven of the Mask",
+        "number": 2,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "2"
+    },
+    {
+        "card_name": "Shameless Provocateur",
+        "number": 3,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "3"
+    },
+    {
+        "card_name": "Kingsbane Chimera",
+        "number": 4,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "4"
+    },
+    {
+        "card_name": "Disarming Gesture",
+        "number": 230,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "76"
+    },
+    {
+        "card_name": "Communal Augury",
+        "number": 222,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "343"
+    },
+    {
+        "card_name": "Furtive Necromancer",
+        "number": 246,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "54"
+    },
+    {
+        "card_name": "Ballroom Butchery",
+        "number": 215,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "122"
+    },
+    {
+        "card_name": "Ferocious Outcast",
+        "number": 243,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "77"
+    },
+    {
+        "card_name": "Generous Minstrel",
+        "number": 247,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "5"
+    },
+    {
+        "card_name": "Eloquent Hieromancer",
+        "number": 235,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "149"
+    },
+    {
+        "card_name": "Harrowing Specter",
+        "number": 251,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "289"
+    },
+    {
+        "card_name": "Haughty Hecklers",
+        "number": 252,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "349"
+    },
+    {
+        "card_name": "Hunter of the Proud",
+        "number": 254,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "147"
+    },
+    {
+        "card_name": "Paragon of Bounty",
+        "number": 277,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "148"
+    },
+    {
+        "card_name": "Friends in High Places",
+        "number": 244,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "145"
+    },
+    {
+        "card_name": "Scheming Kingmaker",
+        "number": 290,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "66"
+    },
+    {
+        "card_name": "Jeering Pretender",
+        "number": 259,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "118"
+    },
+    {
+        "card_name": "Ode to the Free Folk",
+        "number": 273,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "348"
+    },
+    {
+        "card_name": "Pasquale's Emissary",
+        "number": 280,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "88"
+    },
+    {
+        "card_name": "Myopic Judge",
+        "number": 272,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "267"
+    },
+    {
+        "card_name": "Unblinking Familiar",
+        "number": 309,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "64"
+    },
+    {
+        "card_name": "Seditious Whispers",
+        "number": 292,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "37"
+    },
+    {
+        "card_name": "Wildheart Rioter",
+        "number": 314,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "347"
+    },
+    {
+        "card_name": "Tree of Alms",
+        "number": 305,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "140"
+    },
+    {
+        "card_name": "Ballot Collector",
+        "number": 316,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "321"
+    },
+    {
+        "card_name": "Misguided Loyalty",
+        "number": 320,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "43"
+    },
+    {
+        "card_name": "Ravishing Scoundrel",
+        "number": 322,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "306"
+    },
+    {
+        "card_name": "Rebel Firebrand",
+        "number": 323,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "351"
+    },
+    {
+        "card_name": "Neighborly Giant",
+        "number": 321,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "284"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Dowager Countess",
+        "number": 231,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "214"
+    },
+    {
+        "card_name": "Alchemical Tattooist",
+        "number": 211,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "216"
+    },
+    {
+        "card_name": "Great Bogwalker",
+        "number": 249,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "220"
+    },
+    {
+        "card_name": "Beloved Prima Donna",
+        "number": 217,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "225"
+    },
+    {
+        "card_name": "Chart the Future",
+        "number": 220,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "235"
+    },
+    {
+        "card_name": "Opulent Throng",
+        "number": 274,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "215"
+    },
+    {
+        "card_name": "Autonomous Power Suit",
+        "number": 214,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "218"
+    },
+    {
+        "card_name": "Lurid Bloom",
+        "number": 264,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "26"
+    },
+    {
+        "card_name": "Faltering Devotion",
+        "number": 238,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "169"
+    },
+    {
+        "card_name": "Cunning Interception",
+        "number": 226,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "127"
+    },
+    {
+        "card_name": "Syr Leah, the Queen's Rose",
+        "number": 299,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "213"
+    },
+    {
+        "card_name": "Mercurial Timepiece",
+        "number": 269,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "217"
+    },
+    {
+        "card_name": "Parasitic Rebirth",
+        "number": 278,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "221"
+    },
+    {
+        "card_name": "Ludovica, Paliano's Finest",
+        "number": 262,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "9"
+    },
+    {
+        "card_name": "Edric, the Eyes and Ears",
+        "number": 234,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "10"
+    },
+    {
+        "card_name": "Tainted Banquet",
+        "number": 301,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "109"
+    },
+    {
+        "card_name": "Milo and Omar, Eccentrics",
+        "number": 270,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "69"
+    },
+    {
+        "card_name": "Vicious Cycle",
+        "number": 310,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "168"
+    },
+    {
+        "card_name": "Searing Revelation",
+        "number": 291,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "230"
+    },
+    {
+        "card_name": "Lost at Sea",
+        "number": 261,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "233"
+    },
+    {
+        "card_name": "Twilight Anthem",
+        "number": 306,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "166"
+    },
+    {
+        "card_name": "Progress Unbound",
+        "number": 283,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "167"
+    },
+    {
+        "card_name": "Zaire, Fang of the Viper",
+        "number": 315,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "219"
+    },
+    {
+        "card_name": "Tactician's Gambit",
+        "number": 300,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "40"
+    },
+    {
+        "card_name": "Patterns of Perfection",
+        "number": 281,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "170"
+    },
+    {
+        "card_name": "Ambitious Scion",
+        "number": 212,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "123"
+    },
+    {
+        "card_name": "Audacious Hoarder",
+        "number": 213,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "28"
+    },
+    {
+        "card_name": "Carrion Gorger",
+        "number": 219,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "8"
+    },
+    {
+        "card_name": "Fearless Trendsetter",
+        "number": 242,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "92"
+    },
+    {
+        "card_name": "Airborne Missive",
+        "number": 210,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "257"
+    },
+    {
+        "card_name": "Famished Courtesan",
+        "number": 239,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "6"
+    },
+    {
+        "card_name": "Cogwheel Assistant",
+        "number": 221,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "350"
+    },
+    {
+        "card_name": "Decaying Queen",
+        "number": 229,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "150"
+    },
+    {
+        "card_name": "Helm of the Victor",
+        "number": 253,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "132"
+    },
+    {
+        "card_name": "Royal Gossipmonger",
+        "number": 288,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "152"
+    },
+    {
+        "card_name": "Favored Inheritor",
+        "number": 241,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "117"
+    },
+    {
+        "card_name": "Curator of Curiosities",
+        "number": 227,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "7"
+    },
+    {
+        "card_name": "Fungal Corruption",
+        "number": 245,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "172"
+    },
+    {
+        "card_name": "Masterful Maneuvers",
+        "number": 268,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "323"
+    },
+    {
+        "card_name": "Shifting Chameleon",
+        "number": 294,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "85"
+    },
+    {
+        "card_name": "Prudent Poisoner",
+        "number": 284,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "104"
+    },
+    {
+        "card_name": "Fanciful Technocrat",
+        "number": 240,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "151"
+    },
+    {
+        "card_name": "Sage of Ruin",
+        "number": 289,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "114"
+    },
+    {
+        "card_name": "Swift-Riding Heralds",
+        "number": 298,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "115"
+    },
+    {
+        "card_name": "Through the Grapevine",
+        "number": 303,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "120"
+    },
+    {
+        "card_name": "Tyrant's Retribution",
+        "number": 308,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "86"
+    },
+    {
+        "card_name": "Outlandish Invention",
+        "number": 275,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "103"
+    },
+    {
+        "card_name": "Serpent Whisperer",
+        "number": 293,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "61"
+    },
+    {
+        "card_name": "Twinblade Aspirants",
+        "number": 307,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "153"
+    },
+    {
+        "card_name": "Wary Messenger",
+        "number": 313,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "55"
+    },
+    {
+        "card_name": "Imperious Marquis",
+        "number": 319,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "304"
+    },
+    {
+        "card_name": "Bullish Innovator",
+        "number": 317,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "157"
+    },
+    {
+        "card_name": "Gutter Hogs",
+        "number": 318,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "11"
+    },
+    {
+        "card_name": "Vaunted Veteran",
+        "number": 324,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "32"
+    },
+    {
+        "card_name": "Woodland Harbinger",
+        "number": 325,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "314"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Court of Whispers",
+        "number": 224,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "41"
+    },
+    {
+        "card_name": "Ravenna, Puppet Queen",
+        "number": 286,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "53"
+    },
+    {
+        "card_name": "Grenzo, Sadistic Renegade",
+        "number": 250,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "58"
+    },
+    {
+        "card_name": "Pasquale, Utopia Seeker",
+        "number": 279,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "90"
+    },
+    {
+        "card_name": "Cora, Magnanimous Magician",
+        "number": 223,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "72"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Marchesa, Envy of the High City",
+        "number": 267,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "0"
+    },
+    {
+        "card_name": "Taran, Lord of None",
+        "number": 302,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "99"
+    },
+    {
+        "card_name": "Elowyn, Eerie Matriarch",
+        "number": 236,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "68"
+    },
+    {
+        "card_name": "Giovanni, the Celebrated",
+        "number": 248,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "67"
+    },
+    {
+        "card_name": "Pistris, Bane of Trest",
+        "number": 282,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "89"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Rewrite History",
+        "number": 14,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "223"
+    },
+    {
+        "card_name": "Heavy is the Head",
+        "number": 8,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "22"
+    },
+    {
+        "card_name": "High Treason",
+        "number": 9,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "101"
+    },
+    {
+        "card_name": "Defensive Measures",
+        "number": 7,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "192"
+    },
+    {
+        "card_name": "Masquerade",
+        "number": 11,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "112"
+    },
+    {
+        "card_name": "Midnight Sacrament",
+        "number": 12,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "111"
+    },
+    {
+        "card_name": "Sway the Masses",
+        "number": 15,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "224"
+    },
+    {
+        "card_name": "Unanimous Assent",
+        "number": 17,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "137"
+    },
+    {
+        "card_name": "Galvanic Battery",
+        "number": 327,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "366"
+    },
+    {
+        "card_name": "Guillotine",
+        "number": 328,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "173"
+    },
+    {
+        "card_name": "Keymaster Puppet",
+        "number": 330,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "365"
+    },
+    {
+        "card_name": "Perfect Forgery",
+        "number": 331,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "387"
+    },
+    {
+        "card_name": "Prism of the Trifecta",
+        "number": 333,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "367"
+    },
+    {
+        "card_name": "City-Wide Brawl",
+        "number": 5,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "237"
+    },
+    {
+        "card_name": "The Court's Favor",
+        "number": 6,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "143"
+    },
+    {
+        "card_name": "Last Will and Testament",
+        "number": 10,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "222"
+    },
+    {
+        "card_name": "Paranoia",
+        "number": 13,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "110"
+    },
+    {
+        "card_name": "Twist of Fate",
+        "number": 16,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "238"
+    },
+    {
+        "card_name": "Under Cover of Night",
+        "number": 18,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "113"
+    },
+    {
+        "card_name": "Voice of the People",
+        "number": 19,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "144"
+    },
+    {
+        "card_name": "Concealed Dagger",
+        "number": 326,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "383"
+    },
+    {
+        "card_name": "Heavy Coinpurse",
+        "number": 329,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "352"
+    },
+    {
+        "card_name": "Pioneering Skysailer",
+        "number": 332,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "384"
+    },
+    {
+        "card_name": "Purifying Basin",
+        "number": 334,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "385"
+    },
+    {
+        "card_name": "Sentinel Sphere",
+        "number": 335,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "382"
+    },
+    {
+        "card_name": "Shimmersteel Blade",
+        "number": 336,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "388"
+    },
+    {
+        "card_name": "Voyeur's Orb",
+        "number": 337,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "386"
+    },
+    {
+        "card_name": "Zaire's Elixir",
+        "number": 338,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "368"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "House of Parliament",
+        "number": 347,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "204"
+    },
+    {
+        "card_name": "Sunken Manor",
+        "number": 354,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "205"
+    },
+    {
+        "card_name": "Carnival Gondola",
+        "number": 341,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "206"
+    },
+    {
+        "card_name": "Unruly Borough",
+        "number": 357,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "207"
+    },
+    {
+        "card_name": "Vibrant Palazzo",
+        "number": 359,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "203"
+    },
+    {
+        "card_name": "Chancellor's Gallery",
+        "number": 342,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "193"
+    },
+    {
+        "card_name": "Charlatan's Hideaway",
+        "number": 343,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "194"
+    },
+    {
+        "card_name": "Torturer's Vault",
+        "number": 355,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "195"
+    },
+    {
+        "card_name": "Rebel's Refuge",
+        "number": 350,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "196"
+    },
+    {
+        "card_name": "Emissary's Glasshouse",
+        "number": 345,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "197"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Regal Estate",
+        "number": 351,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "208"
+    },
+    {
+        "card_name": "Unsanctioned Academy",
+        "number": 358,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "209"
+    },
+    {
+        "card_name": "Forsaken Citadel",
+        "number": 346,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "210"
+    },
+    {
+        "card_name": "Bustling Province",
+        "number": 340,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "211"
+    },
+    {
+        "card_name": "Ancient Waterway",
+        "number": 339,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "212"
+    },
+    {
+        "card_name": "Viscount's Ballroom",
+        "number": 360,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "198"
+    },
+    {
+        "card_name": "Inventor's Workshop",
+        "number": 348,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "199"
+    },
+    {
+        "card_name": "Shaman's Sanctum",
+        "number": 352,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "200"
+    },
+    {
+        "card_name": "Socialite's Salon",
+        "number": 353,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "201"
+    },
+    {
+        "card_name": "Traveler's Cabin",
+        "number": 356,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "202"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Corridors of Power",
+        "number": 344,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "191"
+    },
+    {
+        "card_name": "Pristine Wilderness",
+        "number": 349,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "243"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 361,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "244"
+    },
+    {
+        "card_name": "Island",
+        "number": 363,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "245"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 365,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "246"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 367,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "247"
+    },
+    {
+        "card_name": "Forest",
+        "number": 370,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "248"
+    },
+    {
+        "card_name": "Island",
+        "number": 364,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "249"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 366,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "250"
+    },
+    {
+        "card_name": "Forest",
+        "number": 369,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "251"
+    },
+    {
+        "card_name": "Plains",
+        "number": 362,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "252"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 368,
+        "shape": "normal",
+        "set": "RVL",
+        "position": "253"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "",
+        "number": 1,
+        "shape": "token",
+        "set": "RVL",
+        "position": "190"
+    },
+    {
+        "card_name": "Ally",
+        "number": 2,
+        "shape": "token",
+        "set": "RVL",
+        "position": "280"
+    },
+    {
+        "card_name": "Copy",
+        "number": 3,
+        "shape": "token",
+        "set": "RVL",
+        "position": "273"
+    },
+    {
+        "card_name": "Black Lotus",
+        "number": 17,
+        "shape": "token",
+        "set": "RVL",
+        "position": "281"
+    },
+    {
+        "card_name": "Bribe",
+        "number": 18,
+        "shape": "token",
+        "set": "RVL",
+        "position": "25"
+    },
+    {
+        "card_name": "Clue",
+        "number": 19,
+        "shape": "token",
+        "set": "RVL",
+        "position": "227"
+    },
+    {
+        "card_name": "Bird",
+        "number": 4,
+        "shape": "token",
+        "set": "RVL",
+        "position": "269"
+    },
+    {
+        "card_name": "Goat",
+        "number": 5,
+        "shape": "token",
+        "set": "RVL",
+        "position": "278"
+    },
+    {
+        "card_name": "Loyal Squire",
+        "number": 6,
+        "shape": "token",
+        "set": "RVL",
+        "position": "274"
+    },
+    {
+        "card_name": "Noble",
+        "number": 7,
+        "shape": "token",
+        "set": "RVL",
+        "position": "272"
+    },
+    {
+        "card_name": "Rat",
+        "number": 8,
+        "shape": "token",
+        "set": "RVL",
+        "position": "276"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 9,
+        "shape": "token",
+        "set": "RVL",
+        "position": "275"
+    },
+    {
+        "card_name": "Snake",
+        "number": 10,
+        "shape": "token",
+        "set": "RVL",
+        "position": "270"
+    },
+    {
+        "card_name": "Dragon Construct",
+        "number": 11,
+        "shape": "token",
+        "set": "RVL",
+        "position": "271"
+    },
+    {
+        "card_name": "Goblin",
+        "number": 12,
+        "shape": "token",
+        "set": "RVL",
+        "position": "268"
+    },
+    {
+        "card_name": "Bear",
+        "number": 13,
+        "shape": "token",
+        "set": "RVL",
+        "position": "282"
+    },
+    {
+        "card_name": "Insatiable Hydra",
+        "number": 14,
+        "shape": "token",
+        "set": "RVL",
+        "position": "277"
+    },
+    {
+        "card_name": "Butterfly Illusion",
+        "number": 15,
+        "shape": "token",
+        "set": "RVL",
+        "position": "283"
+    },
+    {
+        "card_name": "Noble Knight",
+        "number": 16,
+        "shape": "token",
+        "set": "RVL",
+        "position": "279"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
