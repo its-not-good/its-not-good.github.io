@@ -1,4 +1,80 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Deadly Intrigue
+type: Sorcery => Instant
+
+Heavy is the Head
+rules_text: [i](Start the game with this conspiracy face up in the command zone.)[/i]
+At the beginning of your first upkeep, you become the monarch.
+At the beginning of your end step, if you're the monarch, you lose 2 life. => [i](Start the game with this conspiracy face up in the command zone.)[/i]
+At the beginning of your first upkeep, you become the monarch.
+Whenever you become the monarch, you lose 3 life.
+
+Usurp
+type: Sorcery => Instant
+rules_text: This spell costs {1} less to cast if it targets a creature the monarch controls.
+Destroy target creature. You become the monarch. => This spell costs {1} less to cast if it targets a creature the monarch controls.
+This spell costs {3} less to cast if you're the monarch.
+Destroy target creature. You become the monarch.
+
+Expedient Demise
+rules_text: Destroy target creature. Then you gain X life, where X is the toll. [i](The toll is the number of players who had a permanent they control die this turn.)[/i] => Destroy up to two target creatures controlled by different players. Then you gain X life, where X is the toll. [i](The toll is the number of players who had a permanent they control die this turn.)[/i]
+
+Taran, Lord of None
+rules_text: Dethrone, protection from the monarch
+You can't become the monarch.
+Other Rebels and revolutionary creatures you control get +1/+1 and have haste.
+Artifacts you control have “{T}: Add one mana of any color. Spend this mana only to cast a Rebel or revolutionary spell.” => Dethrone, hexproof from the monarch
+You can't become the monarch.
+Other Rebels and revolutionary creatures you control get +1/+1 and have haste.
+Artifacts you control have “{T}: Add one mana of any color. Spend this mana only to cast a Rebel or revolutionary spell.”
+
+Grip of Madness
+rules_text: Choose one — 
+• Destroy target goaded creature.
+• Destroy target creature with power 2 or less. => Choose one or both — 
+• Destroy target goaded creature.
+• Destroy target creature with power 2 or less.
+
+Lugash, Mad Visionary
+rules_text: Revolutionary — Scry 1, then reveal the top card of your library. If it's a land card or a revolutionary card, put it onto the battlefield. Otherwise, Lugash deals damage to you equal to that card's mana value.
+[i]Landfall[/i] — Whenever a land enters under your control, if you're not the monarch, trigger the revolutionary ability of target permanent. => Revolutionary — Scry 1, then reveal the top card of your library. If it's a land card or a revolutionary card, put it onto the battlefield. Otherwise, Lugash deals damage to you equal to that card's mana value.
+[i]Landfall[/i] — Whenever a land enters under your control, if you're not the monarch, trigger the revolutionary ability of another target permanent.
+
+
+type: Legendary Creature — Human Noble => The Monarch
+cost: {R}{W}{B} => 
+rules_text: Deathtouch, haste
+Other Nobles you control get +1/+1 and have deathtouch.
+Whenever you become the monarch, you may goad all creatures your opponents control. => At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch.
+pt: 3/3 => 
+
+City-Wide Brawl
+rules_text: Machination — If you're attacking three opponents. [i](Start the game with this conspiracy face down in the command zone. You may turn this conspiracy face up at any time as long as the condition is met.)[/i]
+When you turn this conspiracy face up, attacking creatures you control get +1/+1 until end of turn. => Machination — If you're attacking each of your opponents. [i](Start the game with this conspiracy face down in the command zone. You may turn this conspiracy face up at any time as long as the condition is met.)[/i]
+When you turn this conspiracy face up, attacking creatures you control get +1/+1 until end of turn.
+
+Submerse
+type: Sorcery => Instant
+rules_text: Put target nonland permanent on top of its owner's library. => Put up to two target nonland permanents controlled by different players on top of their owners' libraries.
+
+Ravage Soul
+rules_text: Target creature gets -X/-X until end of turn, where X is 3 plus the toll. [i](The toll is the number of players who had a permanent they control die this turn.)[/i] => Distribute X -1/-1 counters among up to three target creatures controlled by different players, where X is 3 plus the toll. [i](The toll is the number of players who had a permanent they control die this turn.)[/i]
+
+Ravishing Scoundrel
+rules_text: Whenever this creature enters goad target creature. => When this creature enters, goad target creature.
+
+Vexing Reflections
+rules_text: [i]Will of the Council[/i] — Starting with you, each player votes for envy or vanity. If envy gets more votes, create a token that's a copy of target nonland permanent an opponent controls. If vanity gets more votes or the vote is tied, create a token that's a copy of target nonland permanent you control.
+Cipher => [i]Will of the Council[/i] — Choose target nonland permanent you control and target nonland permanent an opponent controls. Then starting with you, each player votes for envy or vanity. If envy gets more votes, create a token that's a copy of the chosen permanent an opponent controls. If vanity gets more votes or the vote is tied, create a token that's a copy of the chosen permanent you control.
+Cipher
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
