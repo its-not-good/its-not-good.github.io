@@ -1,4 +1,824 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+
+VERSION 13 CHANGELOG
+====================
+
+Hunter's Torch added.
+
+Blazing Torch removed.
+
+Great One's Wisdom
+
+Iosefka's Blood Vial
+
+Folded Saw Cleaver
+
+Scourge Beast
+
+Threaded Cane
+
+Hunter's Axe
+
+Tonitrus
+
+The Cursed Lady Maria
+
+Father Gascoigne
+
+Gehrman of the Hunter's Dream
+
+Alfred, Hunter of Vilebloods
+
+Annalise, Queen of the Vilebloods
+
+A Call Beyond
+
+The Bloody Crow of Cainhurst
+
+Accursed Brew
+
+Augur of Ebrietas
+
+Beast Blood Pellet
+
+Beast Roar
+
+Blacksky Eye
+
+Blue Elixir
+
+Bolt Paper
+
+Fire Paper
+
+Bone Marrow Ash
+
+Gather the Townsfolk
+
+Rifle Huntsman
+
+Cannon Huntsman
+rules_text: Exhaust — {2}{R}, Discard a card: This creature deals 3 damage to any target. If mana produced by a Coldblood was used to activate this ability, draw a card. => Exhaust — {2}{R}, Discard a card: This creature deals 3 damage to any target. Put a +1/+1 counter on this creature. If mana produced by a Coldblood was used to activate this ability, draw a card.
+
+Bleeding Huntsman
+rules_text: Whenever this creature enters or dies, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Whenever this creature enters or dies, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Sabre Huntsman
+
+Pitchfork Huntsman
+
+Molotov Cocktail
+
+Lead Elixir
+
+Pebble
+
+Oil Urn
+rules_text: When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Until end of turn, all damage dealt to target permanent is doubled. => When this artifact enters, draw a card.
+{T}, Sacrifice this artifact: Until end of turn, all damage dealt to target permanent is doubled.
+
+Winter Lantern
+
+Coldblood
+
+Blood
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Blood of Arianna
+
+Blood of Adella
+
+Blood of Adeline
+
+Sedative
+
+Choir Bell
+
+Antidote
+
+Empty Phantasm Shell
+
+Executioner's Gloves
+
+Madaras Whistle
+
+Poison Knife
+
+Pungent Blood Cocktail
+
+Shaman Bone Blade
+
+Throwing Knife
+
+Tiny Music Box
+
+Tiny Tonitrus
+
+Numbing Mist
+
+Bastard of Loran
+
+Arcane Haze
+
+Bloodshot Eyeball
+
+Living String
+
+Yellow Backbone
+rules_text: When this artifact enters or leaves the battlefield, create a Blood token. When you do, target creature you don't control gets -X/-X until end of turn, where X is the number of artifacts you control. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{4}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i] => When this artifact enters or leaves the battlefield, create a Blood token. When you do, target creature you don't control gets -X/-X until end of turn, where X is the number of artifacts you control. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+{4}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]
+
+Infected Organ
+
+Pearl Slug
+
+Chalice Dungeon
+
+Human
+
+Beast
+
+Fish Kin
+
+Horror
+
+Amygdalan Arm Club
+
+Beast Claw
+
+Burial Blade
+
+Blade of Mercy
+
+Bloodletter Mace
+
+Boom Hammer
+
+Great One Coldblood
+
+Hunter's Cannon
+
+Chikage
+
+Church Cannon
+
+Church Sword
+
+Hunter Blunderbuss
+
+Fist of Gratia
+
+Flamespray
+
+Gun Down
+
+Guiding Moonlight
+
+Holy Moonlight Sword
+
+Kos, Mother of the Nightmare
+
+Kos Parasite
+
+The Brain of Mensis
+
+Make Contact
+
+Destroy Evil
+
+Flora, the Moon Presence
+
+Ebrietas, Daughter of the Cosmos
+
+Formless Oedon
+
+Rom, the Vacuous Spider
+
+Spider Kin
+
+Orphan of Kos
+
+Celestial Emissary
+
+Amygdala
+
+Giant Fishman
+
+The One Reborn
+
+Afflicted Beggar
+
+Blood Saint
+rules_text: When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+When this creature dies, create a 1/1 colorless Kin enchantment creature token with “This creature gets +X/+0, where X is your insight.” => When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+When this creature dies, create a 1/1 colorless Kin enchantment creature token with “This creature gets +X/+0, where X is your insight.”
+
+Bath Messengers
+
+Beastclaw Hunter
+
+Bell-Ringing Woman
+
+Beastial Hunter
+
+Blood Minister
+rules_text: When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+{T}, Sacrifice another creature or artifact: Put a +1/+1 counter on target creature. => When this creature enters, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+{T}, Sacrifice another creature or artifact: Put a +1/+1 counter on target creature.
+
+Church Assassin
+
+Arianna, Oedon's Consort
+
+Kin
+
+The Hunt Begins
+
+Stoke the Flames
+
+Burning the Dream
+
+Searching Patient
+
+Hostile Patient
+
+Feral Patient
+
+Infected Patient
+
+Arcane Patient
+
+Patient's Head
+
+Queen Killer
+
+Nightmare Hound
+
+Gravekeeper Scorpion
+type: Creature => Creature — Insect Horror
+
+Mensis Defector
+
+The Doll
+
+Powder Keg Hunter
+
+Discple of Djura
+
+Choir Intelligencer
+
+Eileen, the Crow
+
+Vicar Amelia
+
+Micolash, Host of the Nightmare
+
+Laurence, the First Vicar
+
+Cleric Beast
+
+Fishing Hamlet Priest
+
+Forbidden Woods Gatekeeper
+
+Sickly Yharnamite
+
+Yharnam Hunter
+
+Black Church Hunter
+
+White Church Hunter
+
+Imposter Iosefka
+
+Iosefka, the Blood-Healer
+rules_text: When Iosefka enters, return target artifact or enchantment card with mana value 3 or less from your graveyard to the battlefield.
+When Iosefka dies, create a Blood token and you gain 3 life. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => When Iosefka enters, return target artifact or enchantment card with mana value 3 or less from your graveyard to the battlefield.
+When Iosefka dies, create a Blood token and you gain 3 life. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Labyrinth Madman
+
+Mad Labyrinth Hunter
+
+Master Willem
+
+Mensis Scholar
+
+Mergo's Cry
+
+Narrow Minded Man
+
+Oedon Chapel Dweller
+
+Old Hunter
+
+Henryk, Tragic Hunter
+
+Beast Cutter Hunter
+
+Patches, the Spider
+
+Retired Hunter Djura
+
+Saint Adeline
+
+Harrowed Hunter
+
+Tomb Prospector
+
+Valtr, Master of the League
+
+Wanderer from the East
+
+Strength of Arms
+
+Petrify
+
+Madaras Twin
+
+Yurie, the Last Scholar
+
+Tonitrus Hunter
+
+Burn at the Stake
+
+Ambushed by Beasts
+
+Crazed Confrontation
+
+Hooded Beast Patient
+
+Beast of the Hunt
+
+Beast-Possessed Soul
+
+Blood Gel
+
+Blood-Starved Beast
+
+Bloodletting Beast
+
+Bloodlicker
+rules_text: Lifelink
+This creature can't attack or block unless you sacrifice a Blood. When you do, put a +1/+1 counter on this creature. [i](This cost is paid as this is declared as an attacker or blocker.)[/i]
+When this creature dies, create X Blood tokens, where X is the number of +1/+1 counters on it. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => Lifelink
+This creature can't attack or block unless you sacrifice a Blood. When you do, put a +1/+1 counter on this creature. [i](This cost is paid as this is declared as an attacker or blocker.)[/i]
+When this creature dies, create X Blood tokens, where X is the number of +1/+1 counters on it. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Bound Widow
+
+Brain Sucker
+
+Cain's Servant
+
+Cainhurst Servant Knight
+
+Carrion Crow
+
+Mutated Crow
+
+Celestial Child
+
+Celestial Minion
+
+Child of Rom
+
+Executioner Church Giant
+
+Destroyer Church Giant
+
+Lost Church Giant
+
+Church Servant
+
+Church Cleanser
+
+Church Harvester
+
+Church Crucifier
+
+Church Excoriator
+
+Cramped Casket
+
+Nightmare Crawler
+
+Darkbeast Paarl
+rules_text: Haste
+Whenever you discard a card, Darkbeast Paarl deals 2 damage to any target. This ability triggers only once per turn.
+Madness {2}{R}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Haste
+Whenever you discard a card, Darkbeast Paarl deals 2 damage to any target. This ability triggers only once per turn.
+Madness {1}{R}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Labyrinth Spirit
+
+Church Executioner
+
+Eye Collector
+
+Fish Dog
+
+Trawl Through the Muck
+
+Cleaver Fishman
+
+Spear-Thrower Fishman
+
+Fluorescent Flower
+
+Garden of Eyes
+
+Boulder Defense
+
+Giant Lost Child
+
+Great Snake Ball
+
+Hemwick Grave Woman
+
+Hemwick Hammer Woman
+
+Hemwick Solderer
+rules_text: Whenever this creature enters or attacks, you may exile target card from a graveyard. If you exile a creature card this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Madness {2} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Whenever this creature enters or attacks, you may exile target card from a graveyard. If you exile a creature card this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Madness {2} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Spiked Hunting Dog
+
+Rabid Dog
+
+Mutated Dog
+
+Huntsman's Minion
+
+Keeper of the Old Lords
+rules_text: Whenever you cast a spell from anywhere other than your hand, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Sacrifice an artifact or creature: This creature gets +2/+0 until end of turn. => Whenever you cast a spell from anywhere other than your hand, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Sacrifice an artifact or creature: This creature gets +1/+0 until end of turn.
+pt: 3/2 => 2/2
+
+Keeper's Hunting Dogs
+
+Kidnap
+
+Yahar'gul Kidnapper
+
+Labyrinth Mole
+
+Labyrinth Rat
+
+Labyrinth Soldier
+
+The Blood Moon Rises
+
+Persistence
+
+Delve into the Labyrinth
+
+Old Hunter Bone
+
+End of Night
+
+Transcendence
+
+Hunters Must Hunt
+
+Loran Cleric
+
+Burden of the Hunt
+
+Fishman Mage
+rules_text: Prowess
+Exhaust — {2}: Commune with Kos. Activate only as a sorcery. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i] => Prowess
+Exhaust — {3}: Commune with Kos. Put a +1/+1 counter on this creature. Activate only as a sorcery. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Skeletal Puppet
+rules_text: Exhaust — {3}: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i] => Exhaust — {3}: Commune with the Brain of Mensis. Put a +1/+1 coutner on this creature. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Praise the Moon Presence
+
+Oedon Chapel
+
+Nightmare Boar
+
+Parasite Larvae
+rules_text: Exhaust — {2}: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i] => Exhaust — {2}: Commune with the Brain of Mensis. Put a +1/+1 counter this creature. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]
+
+Labyrinth Ritekeeper
+
+Soul-Guide Lantern
+
+Labyrinth Flaming Swordsman
+
+Lonely Old Dear
+
+Twin Dagger Watcher
+
+Call the Watchers
+
+Lantern Watcher
+rules_text: When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Exhaust — {2}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]
+Exhaust — {2}{B}{B}: Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on this creature. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Halberd Watcher
+
+Stalking Beastman
+
+Large Wandering Nightmare
+
+Small Wandering Nightmare
+
+Living Failures
+
+Lost Child of Antiquity
+
+Ludwig, The Acursed
+rules_text: Lifelink, trample
+Whenever you gain life, create that many Blood tokens. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever Ludwig deals combat damage to a player, if an Equipment is attached to him, you may transform him. => Lifelink, trample
+Whenever you gain life, create that many Blood tokens. This ability triggers only once each turn. [i](They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Whenever Ludwig deals combat damage to a player, if an Equipment is attached to him, you may transform him.
+
+Surrounded by Mad Ones
+rules_text: Each player discards four cards. Exile each card with madness discarded this way. For as long as they remain exiled, you may cast those cards for their madness costs.
+Madness {2}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Each player discards four cards. Exile up to two cards discarded this way. For as long as they remain exiled, you may play those cards and may spend mana as though it were mana of any type to cast them.
+Madness {2}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Mad One
+
+Maneater Boar
+
+Martyr Logarius
+
+Merciless Blunderbuss
+
+Merciless Butcher
+
+Merciless Mace
+
+At Mergo's Will
+
+Attendant of Mergo
+
+Mergo's Chief Attendant
+
+Mergo's Wet Nurse
+
+Illusion
+
+The Mother Apostle
+
+Nightmare Apostle
+
+Failed Apostle
+
+Nightmare Executioner
+
+Nightmare Cannoneer
+
+Pthumerian Pilgrim
+rules_text: When this creature enters, look at the top five cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you don't put a card into your hand this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => When this creature enters, look at the top five cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you don't put a card into your hand this way, create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Pthumerian Descendant
+
+Rotted Corpse
+rules_text: When this creature enters, mill a card, create a Blood token, and you gain 1 life. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => When this creature enters, mill a card, create a Blood token, and you gain 1 life. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+
+Shadows of Yharnam
+
+Walking Silverbeast
+
+Slime Scholar
+
+Procession of the Orphan
+
+Prayers to Kos
+
+Snail Woman
+
+Minor Snake Ball
+
+Masked Huntsman
+
+The Witch of Hemwick
+type: Creature — Human Warlock => Legendary Creature — Human Warlock
+pt: 2/2 => 2/3
+
+Undead Blade Giant
+
+Undead Cannon Giant
+
+Watchdog of the Old Lords
+
+Hook Gravedigger
+
+Pickaxe Gravedigger
+
+Rifle Gravedigger
+rules_text: When this creature enters or dies, mill three cards.
+Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i] => When this creature enters or dies, mill three cards.
+Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. Put a +1/+1 counter on this creautre. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]
+
+Elder Huntsman
+
+Huntsman Chaingunner
+
+Healing Church Communion
+
+Pthumeru Chalice
+
+Great Pthumeru Ihyll Chalice
+
+Hintertomb Chalice
+
+Ailing Loran Chalice
+
+Great Isz Chalice
+
+Sign in Blood
+
+Beast Rune
+
+Clawmark Rune
+
+Blood Rapture
+
+Anti-Clockwise Metamorphosis
+
+Moon Rune
+
+Guidance Rune
+
+Deep Sea Rune
+
+Lake Rune
+
+Eye Rune
+
+Clockwise Metamorphosis
+
+Oedon Writhe
+
+Communion Rune
+
+Heir Rune
+
+Impurity Oath
+
+Radiance Oath
+
+Milkweed Oath
+
+Beast's Embrace Oath
+
+Hunter's Oath
+
+Corruption Oath
+
+Beast Cutter
+
+Beast Hunter Saif
+
+Kirkhammer
+
+Logarius' Wheel
+
+The Sin of Byrgenwerth
+
+Rifle Spear
+
+Piercing Rifle
+
+Repeating Pistol
+
+Rosmarinus
+
+Whirligig Saw
+
+Abandoned Hunter's Workshop
+
+Hunter's Dream
+
+Astral Clocktower
+rules_text: This land enters tapped.
+{T}: Add {R}.
+{3}{R}{R}: Until end of turn, this land becomes a 1/1 red Human creature with double strike. Then you may attach target equipment you control to it. => This land enters tapped.
+{T}: Add {R}.
+{2}{R}{R}: Until end of turn, this land becomes a 1/1 red Human creature with first strike. Then you may attach target equipment you control to it.
+
+Byrgenwerth
+
+Cathedral Ward
+
+Fishing Hamlet
+
+Nightmare of Mensis
+
+Forbidden Woods
+
+Yahar'gul, Unseen Village
+
+Phlebotomize
+
+Frenzying Voices
+
+Unsettling Discoveries
+
+Solemn Respite
+
+Encircled by Ghosts
+
+Sorrowful Song
+
+Gift of the Moon
+
+Childhood's Beginning
+
+Killing Moon
+
+Peaceful Dawn
+
+Bloodmad Blitz
+rules_text: Target creature gets +2/+2 until end of turn. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Target creature gets +2/+2 until end of turn. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)[/i]
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Hunter's Awakening
+
+Honoring Wishes
+
+Into the Mist
+
+Hunter's Remembrance
+
+What We Should Not Know
+
+Desperate Struggle
+
+The Blood Sings
+
+Wander the Woods
+
+The Good Hunter
+
+Visceral Attack
+
+Consult the Great Ones
+
+Gentle Quiet
+
+The Hunter's Armory
+
+The Tragedy of Ludwig
+
+Crimes of the Church
+
+The Child Kin
+
+Mensis Cage
+
+Behold! A Paleblood Sky
+
+Insight
+
+Dark Well
+
+Blood Stone Shard
+
+Blood Rock
+
+Altar of Surgery
+
+Chalice Ritual Site
+
+The Cursed Coast
+
+Snake Infested Gravesite
+
+Great Bridge
+
+Grand Cathedral
+
+Hypogean Gaol
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

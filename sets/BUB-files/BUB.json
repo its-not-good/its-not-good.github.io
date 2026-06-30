@@ -1,9 +1,8 @@
 ﻿{
     "name": "Bloodborne: Universes Beyond",
     "formats": "",
-    "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "draft booster",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -13,7 +12,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 324,
+            "number": 323,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]",
@@ -26,6 +25,7 @@
             "artist": "",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -46,6 +46,7 @@
             "artist": "",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -53,7 +54,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 322,
+            "number": 321,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Equipped creature gets +1/+0 and has \u201cWhenever this creature deals combat damage, create a Blood token.\u201d\nTrick weapon {1} [i]({1}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]",
@@ -77,6 +78,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -108,6 +111,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "RG Signpost"
         },
         {
@@ -139,6 +144,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -146,7 +153,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 325,
+            "number": 324,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Equipped creature gets +3/+1 and has trample.\nTrick weapon {2} [i]({2}: You may transform this if it is attached, otherwise attach it to target creature you control. Only as a sorcery.)[/i]",
@@ -170,6 +177,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -190,6 +199,7 @@
             "artist": "",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -221,6 +231,8 @@
             "loyalty2": "",
             "artist2": "Daniel S. Alessi",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -252,6 +264,8 @@
             "loyalty2": "",
             "artist2": "Ryan van Dogne",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -283,6 +297,8 @@
             "loyalty2": "",
             "artist2": "nagasawatougo",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -303,6 +319,7 @@
             "artist": "Rashuu",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -323,6 +340,7 @@
             "artist": "Juditangelo",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -343,6 +361,7 @@
             "artist": "See Hang",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -363,6 +382,7 @@
             "artist": "Federica Costantini",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -383,6 +403,7 @@
             "artist": "",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -403,6 +424,7 @@
             "artist": "",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -423,6 +445,7 @@
             "artist": "",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -443,6 +466,7 @@
             "artist": "",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -463,6 +487,7 @@
             "artist": "",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -470,7 +495,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 319,
+            "number": 318,
             "color_identity": "U",
             "cost": "{1}",
             "rules_text": "{2}{U}, {T}, Sacrifice this artifact: Target creature gets +2/+0 and can't be blocked until end of turn. Activate only as a sorcery.\nWhen this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.",
@@ -483,6 +508,7 @@
             "artist": "",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": "Blue Unblockable spell"
         },
         {
@@ -503,6 +529,7 @@
             "artist": "",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -523,6 +550,7 @@
             "artist": "",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -530,7 +558,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 320,
+            "number": 319,
             "color_identity": "B",
             "cost": "{1}",
             "rules_text": "{2}{B}, {T}, Sacrifice this artifact: Target creature gets -3/-3 until end of turn. Activate only as a sorcery.\nWhen this artifact is put into your graveyard from the battlefield, you may pay {1}. If you do, draw a card.",
@@ -543,6 +571,7 @@
             "artist": "",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": "Black overcosted -X/-X removal"
         },
         {
@@ -563,6 +592,7 @@
             "artist": "",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -583,6 +613,7 @@
             "artist": "",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -593,7 +624,7 @@
             "number": 173,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Exhaust \u2014 {2}{R}, Discard a card: This creature deals 3 damage to any target. If mana produced by a Coldblood was used to activate this ability, draw a card.",
+            "rules_text": "Exhaust \u2014 {2}{R}, Discard a card: This creature deals 3 damage to any target. Put a +1/+1 counter on this creature. If mana produced by a Coldblood was used to activate this ability, draw a card.",
             "flavor_text": "[i]\u201cYou foul beast! You can't hide for long!\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -603,6 +634,7 @@
             "artist": "",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -613,7 +645,7 @@
             "number": 161,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever this creature enters or dies, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "Whenever this creature enters or dies, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i]\u201cIt's all your fault!\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -623,6 +655,7 @@
             "artist": "",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -643,6 +676,7 @@
             "artist": "",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -663,6 +697,7 @@
             "artist": "",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -683,6 +718,7 @@
             "artist": "",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "Red Face damage spell"
         },
         {
@@ -703,6 +739,7 @@
             "artist": "",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "Green Pump spell"
         },
         {
@@ -723,6 +760,7 @@
             "artist": "",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": "White tap effect"
         },
         {
@@ -733,7 +771,7 @@
             "number": 329,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "When this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: Until end of turn, all damage dealt to target permanent is doubled.",
+            "rules_text": "When this artifact enters, draw a card.\n{T}, Sacrifice this artifact: Until end of turn, all damage dealt to target permanent is doubled.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -743,6 +781,7 @@
             "artist": "",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -763,6 +802,7 @@
             "artist": "hushpuppy",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -783,6 +823,7 @@
             "artist": "",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -803,6 +844,7 @@
             "artist": "",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -823,6 +865,7 @@
             "artist": "",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "So far\n\nReturning Mechanics\nBlood Tokens (Black red?)\nMadness (Blue Red)\nTransform\n\nNew Mechanics\nInsight: \"Increase your Insight\"\n[Hunt for Paleblood]: An ability word that is active if a player has gained life and a player has lost life this turn.\nChalice Dungeon (Considering this one. but Dungeons are a contentious mechanic in MTG)\nEndless Nightmare (when this creature dies you you may exile it to create a token copy of it that is an enchantment instead of its other types)\nColdblood: tokens that tap and sac to add 2 colorless mana that cant be spent to cast spells from hand\". So abilities, flashback, and madness etc.\nCommune with [great one name] : if you dont control a great one you may create a [name] token. Then commune with a great one. (They are token enchantments that do things when communed with)\nOtherworldy: An ability word that triggers when a token enters under your control. (like landfall, but tokens entering instead of lands)\n\nArchetypes (So far)\nTransforming Equipment (Trick Weapons) -RWu\n- Equipment\n- Activated Abilities\n\nTransforming Monsters (Insight) \u2014 RGu\n- Insight\n- Transform triggers\n\nHunters (Hunt for Paleblood) \u2014 GBr\n- Hunt for Paleblood\n- Fight/Bite/Creatures dealing damage to eachother\n- Venture\n\nThe Great Ones(big insight) \u2014 UBg\n- Insight\n- Artifact Sac\n\nThe Healing Church (tokens) \u2014 GWr\n- Otherworldly\n- Tokens\n\nThe School of Mensis (Madness) \u2014 RUb\n- Madness discard\n- Cast from somewhere other than hand\n\nThe Great Ones (Commune bigger) \u2014 UGw\n- Commune\n- Enchantress\n- Otherworldly\n\nThe Chalice Dungeon (blood and dungeons) \u2014 BRw\n- Venture\n- Blood Tokens\n- Madness\n\nHunters of Hunters??? \u2014 BWg\n- Hunt for Paleblood\n- Venture\n\nCainhurst \u2014 UWb\n- Artifacts Matter\n-"
         },
         {
@@ -830,7 +873,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Blood",
-            "number": 316,
+            "number": 315,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "This artifact enters with three blood counters on it.\n{1}, {T}, Discard a card, Remove a blood counter from this artifact: Up to one target creature you control gains haste until end of turn. Draw a card.",
@@ -843,6 +886,7 @@
             "artist": "",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -850,7 +894,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Blood",
-            "number": 315,
+            "number": 314,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Whenever you gain life, put a blood counter on this artifact.\n{T}, Pay 1 life, Discard a card, Remove a blood counter from this artifact: Draw a card.",
@@ -863,6 +907,7 @@
             "artist": "",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -870,7 +915,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Blood",
-            "number": 314,
+            "number": 313,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Whenever you lose life, put a blood counter on this artifact.\n{1}, {T}, Discard a card, Remove a blood counter from this artifact: You gain 2 life and draw a card.",
@@ -883,6 +928,7 @@
             "artist": "",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -903,6 +949,7 @@
             "artist": "",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": "Blue draw and reshuffle"
         },
         {
@@ -923,6 +970,7 @@
             "artist": "",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "White token maker"
         },
         {
@@ -943,6 +991,7 @@
             "artist": "",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -963,6 +1012,7 @@
             "artist": "",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": "Red Pump spell"
         },
         {
@@ -983,6 +1033,7 @@
             "artist": "",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1003,6 +1054,7 @@
             "artist": "",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1023,6 +1075,7 @@
             "artist": "",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": "Black sacrifice remocal"
         },
         {
@@ -1043,6 +1096,7 @@
             "artist": "",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "Red threaten/Red card advantage"
         },
         {
@@ -1063,6 +1117,7 @@
             "artist": "",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": "Blue Mind control"
         },
         {
@@ -1083,6 +1138,7 @@
             "artist": "",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1103,6 +1159,7 @@
             "artist": "",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": "Icy Manipulator"
         },
         {
@@ -1123,6 +1180,7 @@
             "artist": "",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1143,6 +1201,7 @@
             "artist": "",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": "Mind Rot +"
         },
         {
@@ -1163,6 +1222,7 @@
             "artist": "",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": "Zombify"
         },
         {
@@ -1183,6 +1243,7 @@
             "artist": "",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1203,6 +1264,7 @@
             "artist": "",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1223,6 +1285,7 @@
             "artist": "",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1233,7 +1296,7 @@
             "number": 154,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this artifact enters or leaves the battlefield, create a Blood token. When you do, target creature you don't control gets -X/-X until end of turn, where X is the number of artifacts you control. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{4}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]",
+            "rules_text": "When this artifact enters or leaves the battlefield, create a Blood token. When you do, target creature you don't control gets -X/-X until end of turn, where X is the number of artifacts you control. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\n{4}, {T}, Sacrifice this artifact: Venture into the Chalice Dungeon. Activate only as a sorcery. [i](Enter the first room or advance to the next room.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1243,6 +1306,7 @@
             "artist": "",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1263,6 +1327,7 @@
             "artist": "",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1283,6 +1348,7 @@
             "artist": "",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1291,7 +1357,7 @@
             "rarity": "common",
             "type": "",
             "number": 15,
-            "color_identity": "C",
+            "color_identity": "UR",
             "cost": "",
             "rules_text": "Chamber of the Seal \nYou gain X life, where X is 1 plus your insight.",
             "flavor_text": "[i][/i]",
@@ -1303,6 +1369,7 @@
             "artist": "",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1323,6 +1390,7 @@
             "artist": "",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1343,6 +1411,7 @@
             "artist": "",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1363,6 +1432,7 @@
             "artist": "",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1383,6 +1453,7 @@
             "artist": "",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1414,6 +1485,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1434,6 +1507,7 @@
             "artist": "",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1465,6 +1539,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1496,6 +1572,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1516,6 +1594,7 @@
             "artist": "",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1536,6 +1615,7 @@
             "artist": "",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1543,7 +1623,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 323,
+            "number": 322,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "When this artifact enters, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]\n{T}: Add one mana of any color.\n{T}: Add {C}{C}. This mana can't be spent to cast spells from your hand.",
@@ -1556,6 +1636,7 @@
             "artist": "",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1576,6 +1657,7 @@
             "artist": "",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1596,6 +1678,7 @@
             "artist": "",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1616,6 +1699,7 @@
             "artist": "",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1647,6 +1731,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1667,6 +1753,7 @@
             "artist": "",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1687,6 +1774,7 @@
             "artist": "",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1707,6 +1795,7 @@
             "artist": "",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1727,6 +1816,7 @@
             "artist": "",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1747,6 +1837,7 @@
             "artist": "mrpk",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1767,7 +1858,8 @@
             "artist": "",
             "alias": "",
             "position": "81",
-            "notes": ""
+            "rotated": false,
+            "notes": "UW Artifacts is a control deck built around getting amassing a board of utility artifacts and answering your opponent's aggression with removal, counterspells, and late game power plays. It has lots of ways to get artifacts into play or to pay you off for playing artifacts. Some blue white cards are:"
         },
         {
             "card_name": "Kos, Mother of the Nightmare",
@@ -1787,6 +1879,7 @@
             "artist": "",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1807,6 +1900,7 @@
             "artist": "",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1827,6 +1921,7 @@
             "artist": "",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1847,6 +1942,7 @@
             "artist": "",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1867,6 +1963,7 @@
             "artist": "mareniusart",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1887,6 +1984,7 @@
             "artist": "",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1907,6 +2005,7 @@
             "artist": "",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1927,6 +2026,7 @@
             "artist": "",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1947,6 +2047,7 @@
             "artist": "",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1967,6 +2068,7 @@
             "artist": "",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": "Find some Rom spider image"
         },
         {
@@ -1987,6 +2089,7 @@
             "artist": "Shimhaq",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2007,6 +2110,7 @@
             "artist": "Shimhaq",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2027,6 +2131,7 @@
             "artist": "",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2047,6 +2152,7 @@
             "artist": "",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2067,6 +2173,7 @@
             "artist": "",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2098,6 +2205,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2108,7 +2217,7 @@
             "number": 163,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nWhen this creature dies, create a 1/1 colorless Kin enchantment creature token with \u201cThis creature gets +X/+0, where X is your insight.\u201d",
+            "rules_text": "When this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nWhen this creature dies, create a 1/1 colorless Kin enchantment creature token with \u201cThis creature gets +X/+0, where X is your insight.\u201d",
             "flavor_text": "[i]\u201cDon't you want to be treated, with blood? I only wish to be of help.\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2118,6 +2227,7 @@
             "artist": "",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2138,6 +2248,7 @@
             "artist": "",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2158,6 +2269,7 @@
             "artist": "",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2178,6 +2290,7 @@
             "artist": "",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2198,6 +2311,7 @@
             "artist": "",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2208,7 +2322,7 @@
             "number": 110,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{T}, Sacrifice another creature or artifact: Put a +1/+1 counter on target creature.",
+            "rules_text": "When this creature enters, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\n{T}, Sacrifice another creature or artifact: Put a +1/+1 counter on target creature.",
             "flavor_text": "[i]\u201cYharnam is the home of blood ministration. You need only unravel its mystery.\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -2218,6 +2332,7 @@
             "artist": "",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2238,6 +2353,7 @@
             "artist": "",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2258,6 +2374,7 @@
             "artist": "",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2278,6 +2395,7 @@
             "artist": "",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2298,6 +2416,7 @@
             "artist": "",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": "GB Hybrid with Keyword"
         },
         {
@@ -2318,6 +2437,7 @@
             "artist": "",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2338,6 +2458,7 @@
             "artist": "",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2358,6 +2479,7 @@
             "artist": "",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2378,6 +2500,7 @@
             "artist": "",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2398,6 +2521,7 @@
             "artist": "",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2418,6 +2542,7 @@
             "artist": "",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2438,6 +2563,7 @@
             "artist": "",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2458,6 +2584,7 @@
             "artist": "",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2478,6 +2605,7 @@
             "artist": "",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": "RW Signpost"
         },
         {
@@ -2498,13 +2626,14 @@
             "artist": "",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "RG Hybrid"
         },
         {
             "card_name": "Gravekeeper Scorpion",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature",
+            "type": "Creature \u2014 Insect Horror",
             "number": 272,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
@@ -2518,6 +2647,7 @@
             "artist": "",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "RW Signpost"
         },
         {
@@ -2538,6 +2668,7 @@
             "artist": "",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2558,6 +2689,7 @@
             "artist": "",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2578,6 +2710,7 @@
             "artist": "",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2598,6 +2731,7 @@
             "artist": "",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2618,6 +2752,7 @@
             "artist": "",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2638,6 +2773,7 @@
             "artist": "Anato Finstark",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2658,6 +2794,7 @@
             "artist": "Grimzzi",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2678,6 +2815,7 @@
             "artist": "",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2698,6 +2836,7 @@
             "artist": "",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2718,6 +2857,7 @@
             "artist": "Illeram",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2738,6 +2878,7 @@
             "artist": "",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2758,6 +2899,7 @@
             "artist": "",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "Blue draw and reshuffle"
         },
         {
@@ -2789,6 +2931,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "This creature enters with X +1/+1 counters on it."
         },
         {
@@ -2809,6 +2953,7 @@
             "artist": "",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": "GB Hybrid with Keyword"
         },
         {
@@ -2829,7 +2974,8 @@
             "artist": "",
             "alias": "",
             "position": "133",
-            "notes": "GB Hybrid with Keyword"
+            "rotated": false,
+            "notes": "BW sacrifice is a midrange deck built around making a lot of small nonland permanents that can be sacrificed for value to extend the length of the game and slowly wittle your opponent's life away. Some black white cards are:"
         },
         {
             "card_name": "White Church Hunter",
@@ -2849,6 +2995,7 @@
             "artist": "",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": "GB Hybrid with Keyword"
         },
         {
@@ -2869,6 +3016,7 @@
             "artist": "",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "GB Hybrid with Keyword"
         },
         {
@@ -2879,7 +3027,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When Iosefka enters, return target artifact or enchantment card with mana value 3 or less from your graveyard to the battlefield.\nWhen Iosefka dies, create a Blood token and you gain 3 life. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "When Iosefka enters, return target artifact or enchantment card with mana value 3 or less from your graveyard to the battlefield.\nWhen Iosefka dies, create a Blood token and you gain 3 life. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i]\u201cThe patients here in my clinic must not be exposed to infection.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2889,6 +3037,7 @@
             "artist": "",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2909,6 +3058,7 @@
             "artist": "",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2929,6 +3079,7 @@
             "artist": "",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2949,6 +3100,7 @@
             "artist": "",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": "Blue Mind control"
         },
         {
@@ -2969,6 +3121,7 @@
             "artist": "",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2989,6 +3142,7 @@
             "artist": "",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3009,6 +3163,7 @@
             "artist": "",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3029,6 +3184,7 @@
             "artist": "",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3049,6 +3205,7 @@
             "artist": "",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3069,6 +3226,7 @@
             "artist": "",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3089,6 +3247,7 @@
             "artist": "",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3109,6 +3268,7 @@
             "artist": "",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3129,6 +3289,7 @@
             "artist": "",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3149,6 +3310,7 @@
             "artist": "hushpuppy",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3169,6 +3331,7 @@
             "artist": "",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3189,6 +3352,7 @@
             "artist": "Federica Costantini",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3209,6 +3373,7 @@
             "artist": "",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3229,6 +3394,7 @@
             "artist": "",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3249,6 +3415,7 @@
             "artist": "",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3269,6 +3436,7 @@
             "artist": "",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3289,6 +3457,7 @@
             "artist": "",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3309,6 +3478,7 @@
             "artist": "FumeKrab",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3329,6 +3499,7 @@
             "artist": "",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3349,6 +3520,7 @@
             "artist": "",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3369,6 +3541,7 @@
             "artist": "",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3389,6 +3562,7 @@
             "artist": "",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3409,6 +3583,7 @@
             "artist": "",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3429,6 +3604,7 @@
             "artist": "",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3449,6 +3625,7 @@
             "artist": "",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": "RG Signpost"
         },
         {
@@ -3469,6 +3646,7 @@
             "artist": "",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3489,6 +3667,7 @@
             "artist": "",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3520,6 +3699,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3530,7 +3711,7 @@
             "number": 113,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Lifelink\nThis creature can't attack or block unless you sacrifice a Blood. When you do, put a +1/+1 counter on this creature. [i](This cost is paid as this is declared as an attacker or blocker.)[/i]\nWhen this creature dies, create X Blood tokens, where X is the number of +1/+1 counters on it. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "Lifelink\nThis creature can't attack or block unless you sacrifice a Blood. When you do, put a +1/+1 counter on this creature. [i](This cost is paid as this is declared as an attacker or blocker.)[/i]\nWhen this creature dies, create X Blood tokens, where X is the number of +1/+1 counters on it. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3540,6 +3721,7 @@
             "artist": "",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3560,6 +3742,7 @@
             "artist": "",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3580,6 +3763,7 @@
             "artist": "hushpuppy",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3600,6 +3784,7 @@
             "artist": "",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3620,6 +3805,7 @@
             "artist": "",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3640,6 +3826,7 @@
             "artist": "",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3660,6 +3847,7 @@
             "artist": "",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3680,6 +3868,7 @@
             "artist": "",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3700,6 +3889,7 @@
             "artist": "",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": "GB Hybrid with Keyword"
         },
         {
@@ -3720,6 +3910,7 @@
             "artist": "",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3740,6 +3931,7 @@
             "artist": "",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3760,6 +3952,7 @@
             "artist": "",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3780,6 +3973,7 @@
             "artist": "",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3800,6 +3994,7 @@
             "artist": "",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3820,6 +4015,7 @@
             "artist": "",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3840,6 +4036,7 @@
             "artist": "",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3860,6 +4057,7 @@
             "artist": "",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3880,6 +4078,7 @@
             "artist": "",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3900,6 +4099,7 @@
             "artist": "",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3920,6 +4120,7 @@
             "artist": "",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3930,7 +4131,7 @@
             "number": 174,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Haste\nWhenever you discard a card, Darkbeast Paarl deals 2 damage to any target. This ability triggers only once per turn.\nMadness {2}{R}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "Haste\nWhenever you discard a card, Darkbeast Paarl deals 2 damage to any target. This ability triggers only once per turn.\nMadness {1}{R}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -3940,6 +4141,7 @@
             "artist": "",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3960,6 +4162,7 @@
             "artist": "",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3980,6 +4183,7 @@
             "artist": "",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4000,6 +4204,7 @@
             "artist": "",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4020,6 +4225,7 @@
             "artist": "",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4040,6 +4246,7 @@
             "artist": "",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4060,6 +4267,7 @@
             "artist": "",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4080,6 +4288,7 @@
             "artist": "",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4100,6 +4309,7 @@
             "artist": "",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4120,6 +4330,7 @@
             "artist": "",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4140,6 +4351,7 @@
             "artist": "",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4160,6 +4372,7 @@
             "artist": "",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4180,6 +4393,7 @@
             "artist": "",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4200,6 +4414,7 @@
             "artist": "",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4220,6 +4435,7 @@
             "artist": "",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4230,7 +4446,7 @@
             "number": 128,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever this creature enters or attacks, you may exile target card from a graveyard. If you exile a creature card this way, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nMadness {2} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "Whenever this creature enters or attacks, you may exile target card from a graveyard. If you exile a creature card this way, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nMadness {2} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i]\u201cYou sicken me!\u201d[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -4240,6 +4456,7 @@
             "artist": "",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4260,6 +4477,7 @@
             "artist": "",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4280,6 +4498,7 @@
             "artist": "",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4300,6 +4519,7 @@
             "artist": "",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": "RG Hybrid"
         },
         {
@@ -4320,6 +4540,7 @@
             "artist": "",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4330,9 +4551,9 @@
             "number": 187,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever you cast a spell from anywhere other than your hand, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]\nSacrifice an artifact or creature: This creature gets +2/+0 until end of turn.",
+            "rules_text": "Whenever you cast a spell from anywhere other than your hand, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]\nSacrifice an artifact or creature: This creature gets +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "BUB",
@@ -4340,6 +4561,7 @@
             "artist": "",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4360,6 +4582,7 @@
             "artist": "",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4380,6 +4603,7 @@
             "artist": "",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4400,6 +4624,7 @@
             "artist": "",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4420,6 +4645,7 @@
             "artist": "",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4440,6 +4666,7 @@
             "artist": "",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4460,6 +4687,7 @@
             "artist": "",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4480,6 +4708,7 @@
             "artist": "",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4500,6 +4729,7 @@
             "artist": "DrawSouls",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4520,6 +4750,7 @@
             "artist": "",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4540,6 +4771,7 @@
             "artist": "",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4560,6 +4792,7 @@
             "artist": "DrawSouls",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4580,6 +4813,7 @@
             "artist": "EyYojimbo",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4600,6 +4834,7 @@
             "artist": "Trip Dancer",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4620,6 +4855,7 @@
             "artist": "",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4640,6 +4876,7 @@
             "artist": "zerodownart",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4650,7 +4887,7 @@
             "number": 66,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Prowess\nExhaust \u2014 {2}: Commune with Kos. Activate only as a sorcery. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i]",
+            "rules_text": "Prowess\nExhaust \u2014 {3}: Commune with Kos. Put a +1/+1 counter on this creature. Activate only as a sorcery. [i](If you don't control Kos, create a token of them. Then commune with a Great One you control. Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4660,6 +4897,7 @@
             "artist": "",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4670,7 +4908,7 @@
             "number": 93,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Exhaust \u2014 {3}: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]",
+            "rules_text": "Exhaust \u2014 {3}: Commune with the Brain of Mensis. Put a +1/+1 coutner on this creature. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i]\u201cOoh! Majestic! A hunter is a hunter, even in a dream.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4680,6 +4918,7 @@
             "artist": "",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4700,6 +4939,7 @@
             "artist": "Trip Dancer",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4720,6 +4960,7 @@
             "artist": "",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4740,6 +4981,7 @@
             "artist": "",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4750,7 +4992,7 @@
             "number": 86,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Exhaust \u2014 {2}: Commune with the Brain of Mensis. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]",
+            "rules_text": "Exhaust \u2014 {2}: Commune with the Brain of Mensis. Put a +1/+1 counter this creature. Activate only as a sorcery. [i](Create a the Brain of Mensis token or awaken a Great One you control. Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4760,6 +5002,7 @@
             "artist": "",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4780,6 +5023,7 @@
             "artist": "",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4800,6 +5044,7 @@
             "artist": "",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4820,6 +5065,7 @@
             "artist": "",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4840,6 +5086,7 @@
             "artist": "",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4860,6 +5107,7 @@
             "artist": "",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4880,6 +5128,7 @@
             "artist": "",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4890,7 +5139,7 @@
             "number": 133,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]\nExhaust \u2014 {2}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
+            "rules_text": "When this creature enters, venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]\nExhaust \u2014 {2}{B}{B}: Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on this creature. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4900,6 +5149,7 @@
             "artist": "",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4920,6 +5170,7 @@
             "artist": "",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4940,6 +5191,7 @@
             "artist": "",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4960,6 +5212,7 @@
             "artist": "",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4980,6 +5233,7 @@
             "artist": "",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5000,6 +5254,7 @@
             "artist": "FumeKrab",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": "Blue Mind control"
         },
         {
@@ -5020,6 +5275,7 @@
             "artist": "",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5030,7 +5286,7 @@
             "number": 278,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "Lifelink, trample\nWhenever you gain life, create that many Blood tokens. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nWhenever Ludwig deals combat damage to a player, if an Equipment is attached to him, you may transform him.",
+            "rules_text": "Lifelink, trample\nWhenever you gain life, create that many Blood tokens. This ability triggers only once each turn. [i](They're artifacts with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nWhenever Ludwig deals combat damage to a player, if an Equipment is attached to him, you may transform him.",
             "flavor_text": "[i]\u201cAn unsightly beast... A great terror looms!\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5051,6 +5307,8 @@
             "loyalty2": "",
             "artist2": "nagasawatougo",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5061,7 +5319,7 @@
             "number": 288,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
-            "rules_text": "Each player discards four cards. Exile each card with madness discarded this way. For as long as they remain exiled, you may cast those cards for their madness costs.\nMadness {2}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "Each player discards four cards. Exile up to two cards discarded this way. For as long as they remain exiled, you may play those cards and may spend mana as though it were mana of any type to cast them.\nMadness {2}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5071,6 +5329,7 @@
             "artist": "",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5091,6 +5350,7 @@
             "artist": "",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5111,6 +5371,7 @@
             "artist": "",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5131,6 +5392,7 @@
             "artist": "Shimhaq",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5151,6 +5413,7 @@
             "artist": "",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5171,6 +5434,7 @@
             "artist": "",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5191,6 +5455,7 @@
             "artist": "",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5211,6 +5476,7 @@
             "artist": "",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5231,6 +5497,7 @@
             "artist": "",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5251,6 +5518,7 @@
             "artist": "FumeKrab",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5271,6 +5539,7 @@
             "artist": "",
             "alias": "",
             "position": "254",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5291,6 +5560,7 @@
             "artist": "",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5311,6 +5581,7 @@
             "artist": "",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5331,6 +5602,7 @@
             "artist": "",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5351,6 +5623,7 @@
             "artist": "",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5371,6 +5644,7 @@
             "artist": "",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5391,6 +5665,7 @@
             "artist": "",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5401,7 +5676,7 @@
             "number": 44,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, look at the top five cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you don't put a card into your hand this way, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "When this creature enters, look at the top five cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you don't put a card into your hand this way, create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5411,6 +5686,7 @@
             "artist": "",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5431,6 +5707,7 @@
             "artist": "",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5441,7 +5718,7 @@
             "number": 148,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "When this creature enters, mill a card, create a Blood token, and you gain 1 life. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "When this creature enters, mill a card, create a Blood token, and you gain 1 life. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5451,6 +5728,7 @@
             "artist": "",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5471,6 +5749,7 @@
             "artist": "Trip Dancer",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5502,6 +5781,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5522,6 +5803,7 @@
             "artist": "",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5542,6 +5824,7 @@
             "artist": "",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5562,6 +5845,7 @@
             "artist": "",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5582,6 +5866,7 @@
             "artist": "",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5602,6 +5887,7 @@
             "artist": "",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5633,19 +5919,21 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "This creature enters with X +1/+1 counters on it."
         },
         {
             "card_name": "The Witch of Hemwick",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 101,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever you discard a card, you may exile that card from your graveyard. For as long as it remains exiled, it has \u201cYou may play this card from exile by sacrificing an artifact or enchantment in addition to paying its other costs.\u201d\nMadness {U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "BUB",
@@ -5653,6 +5941,7 @@
             "artist": "FumeKrab",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5673,6 +5962,7 @@
             "artist": "",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5693,6 +5983,7 @@
             "artist": "",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5713,6 +6004,7 @@
             "artist": "",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5733,6 +6025,7 @@
             "artist": "",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5753,6 +6046,7 @@
             "artist": "",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5763,7 +6057,7 @@
             "number": 147,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "When this creature enters or dies, mill three cards.\nExhaust \u2014 {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
+            "rules_text": "When this creature enters or dies, mill three cards.\nExhaust \u2014 {2}{B}: Target creature an opponent controls gets -3/-3 until end of turn. Put a +1/+1 counter on this creautre. Activate only as a sorcery. [i](Activate each exhaust ability only once.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5773,6 +6067,7 @@
             "artist": "",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5793,6 +6088,7 @@
             "artist": "",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5813,6 +6109,7 @@
             "artist": "",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5833,7 +6130,8 @@
             "artist": "",
             "alias": "",
             "position": "281",
-            "notes": "GB Hybrid with Keyword"
+            "rotated": false,
+            "notes": "GW Tokens is a deck that can go very wide with tokens and pays you off for each token you make. Whether that be with board pumps, otherworldly triggers, or through communing with great ones, this strategy will have no shortage of permanents in play. Some green white cards are:"
         },
         {
             "card_name": "Pthumeru Chalice",
@@ -5853,6 +6151,7 @@
             "artist": "",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5873,6 +6172,7 @@
             "artist": "",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5893,6 +6193,7 @@
             "artist": "",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5913,6 +6214,7 @@
             "artist": "",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5933,17 +6235,18 @@
             "artist": "",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Blazing Torch",
+            "card_name": "Hunter's Torch",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 313,
+            "number": 325,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Equipped creature can't be blocked by Vampires or Zombies.\nEquipped creature has \u201c{T}, Sacrifice this Equipment: This Equipment deals 2 damage to any target.\u201d\nEquip {1}",
+            "rules_text": "Equipped creature gets +1/+0 and can't be blocked by Beasts and Kin.\nEquipped creature has \u201c{T}, Sacrifice this Equipment: This Equipment deals 2 damage to any target.\u201d\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5953,6 +6256,7 @@
             "artist": "",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5973,6 +6277,7 @@
             "artist": "m1ne0h",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5993,6 +6298,7 @@
             "artist": "",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6013,6 +6319,7 @@
             "artist": "",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6033,6 +6340,7 @@
             "artist": "",
             "alias": "",
             "position": "291",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6053,6 +6361,7 @@
             "artist": "",
             "alias": "",
             "position": "292",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6073,6 +6382,7 @@
             "artist": "",
             "alias": "",
             "position": "293",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6093,6 +6403,7 @@
             "artist": "",
             "alias": "",
             "position": "294",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6113,6 +6424,7 @@
             "artist": "",
             "alias": "",
             "position": "295",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6133,6 +6445,7 @@
             "artist": "",
             "alias": "",
             "position": "296",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6153,6 +6466,7 @@
             "artist": "",
             "alias": "",
             "position": "297",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6173,6 +6487,7 @@
             "artist": "",
             "alias": "",
             "position": "298",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6193,6 +6508,7 @@
             "artist": "",
             "alias": "",
             "position": "299",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6213,6 +6529,7 @@
             "artist": "",
             "alias": "",
             "position": "300",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6233,6 +6550,7 @@
             "artist": "",
             "alias": "",
             "position": "301",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6253,6 +6571,7 @@
             "artist": "",
             "alias": "",
             "position": "302",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6273,6 +6592,7 @@
             "artist": "",
             "alias": "",
             "position": "303",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6293,6 +6613,7 @@
             "artist": "",
             "alias": "",
             "position": "304",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6313,6 +6634,7 @@
             "artist": "",
             "alias": "",
             "position": "305",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6333,6 +6655,7 @@
             "artist": "",
             "alias": "",
             "position": "306",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6353,6 +6676,7 @@
             "artist": "",
             "alias": "",
             "position": "307",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6384,6 +6708,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6415,6 +6741,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6446,6 +6774,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6477,7 +6807,9 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": ""
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "RW Trick Weapons isn't just any red white equipment deck, it's built around transforming its equipment, and cheating the equip costs of those equipment for power plays. It is a very aggressive deck with extremely quick damage. Some red white cards are:"
         },
         {
             "card_name": "The Sin of Byrgenwerth",
@@ -6497,6 +6829,7 @@
             "artist": "Ryan van Dongen",
             "alias": "",
             "position": "312",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6528,6 +6861,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6548,6 +6883,7 @@
             "artist": "",
             "alias": "",
             "position": "314",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6568,6 +6904,7 @@
             "artist": "",
             "alias": "",
             "position": "315",
+            "rotated": false,
             "notes": "White tap effect"
         },
         {
@@ -6588,6 +6925,7 @@
             "artist": "",
             "alias": "",
             "position": "316",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6619,6 +6957,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6639,6 +6979,7 @@
             "artist": "",
             "alias": "",
             "position": "318",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6659,6 +7000,7 @@
             "artist": "",
             "alias": "",
             "position": "319",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6669,7 +7011,7 @@
             "number": 337,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R}.\n{3}{R}{R}: Until end of turn, this land becomes a 1/1 red Human creature with double strike. Then you may attach target equipment you control to it.",
+            "rules_text": "This land enters tapped.\n{T}: Add {R}.\n{2}{R}{R}: Until end of turn, this land becomes a 1/1 red Human creature with first strike. Then you may attach target equipment you control to it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6679,6 +7021,7 @@
             "artist": "",
             "alias": "",
             "position": "320",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6699,6 +7042,7 @@
             "artist": "",
             "alias": "",
             "position": "321",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6719,6 +7063,7 @@
             "artist": "",
             "alias": "",
             "position": "322",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6739,6 +7084,7 @@
             "artist": "",
             "alias": "",
             "position": "323",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6759,6 +7105,7 @@
             "artist": "",
             "alias": "",
             "position": "324",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6779,6 +7126,7 @@
             "artist": "",
             "alias": "",
             "position": "325",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6799,6 +7147,7 @@
             "artist": "",
             "alias": "",
             "position": "326",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6819,6 +7168,7 @@
             "artist": "Bloodexer",
             "alias": "",
             "position": "327",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6839,6 +7189,7 @@
             "artist": "bloodexer",
             "alias": "",
             "position": "328",
+            "rotated": false,
             "notes": "White tap effect"
         },
         {
@@ -6859,6 +7210,7 @@
             "artist": "Bloodexer",
             "alias": "",
             "position": "329",
+            "rotated": false,
             "notes": "Possibly change to \n\nAt the beginning of your end step create a blood token.\n\n1, Sacrifice N artifacts: Create a Kin."
         },
         {
@@ -6879,6 +7231,7 @@
             "artist": "Bloodexer",
             "alias": "",
             "position": "330",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6899,6 +7252,7 @@
             "artist": "bloodexer",
             "alias": "",
             "position": "331",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6919,6 +7273,7 @@
             "artist": "bloodexer",
             "alias": "",
             "position": "332",
+            "rotated": false,
             "notes": "White tap effect"
         },
         {
@@ -6939,6 +7294,7 @@
             "artist": "Orioto",
             "alias": "",
             "position": "333",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6959,6 +7315,7 @@
             "artist": "Tamara Tretykova",
             "alias": "",
             "position": "334",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6979,6 +7336,7 @@
             "artist": "Bastien Lecouffe Deharme",
             "alias": "",
             "position": "335",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6999,6 +7357,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "336",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7009,7 +7368,7 @@
             "number": 166,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Target creature gets +2/+2 until end of turn. Create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.\u201d)[/i]\nMadness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
+            "rules_text": "Target creature gets +2/+2 until end of turn. Create a Blood token. [i](It's an artifact with \u201c{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\u201d)[/i]\nMadness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7019,6 +7378,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "337",
+            "rotated": false,
             "notes": "White tap effect"
         },
         {
@@ -7039,6 +7399,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "338",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7059,6 +7420,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "339",
+            "rotated": false,
             "notes": "Bukareste's idea"
         },
         {
@@ -7079,6 +7441,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "340",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7099,6 +7462,7 @@
             "artist": "",
             "alias": "",
             "position": "341",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7119,6 +7483,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "342",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7139,6 +7504,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "343",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7159,6 +7525,7 @@
             "artist": "Tearsof_art",
             "alias": "",
             "position": "344",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7179,6 +7546,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "345",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7199,6 +7567,7 @@
             "artist": "",
             "alias": "",
             "position": "346",
+            "rotated": false,
             "notes": "Inspired by Gesteigpanzer's idea"
         },
         {
@@ -7219,6 +7588,7 @@
             "artist": "Gesteigpanzer",
             "alias": "",
             "position": "347",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7239,6 +7609,7 @@
             "artist": "Diogo Costa",
             "alias": "",
             "position": "348",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7259,6 +7630,7 @@
             "artist": "Bloodexer",
             "alias": "",
             "position": "349",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7279,7 +7651,8 @@
             "artist": "",
             "alias": "",
             "position": "350",
-            "notes": ""
+            "rotated": false,
+            "notes": "UB Graveyard MAdness is a deck which gains value through its graveyard and discarding its own cards. There are 3 Madness archetypes in this set and each one focuses on a different aspect of the archetypes. They all blend together very well in the Grixis colors of red black and blue. Blue black specifically benefits from having put its own cards in its graveyard through discard or other means. Some blue black cards are:"
         },
         {
             "card_name": "The Tragedy of Ludwig",
@@ -7299,6 +7672,7 @@
             "artist": "Zhauyu Ma",
             "alias": "",
             "position": "351",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7319,6 +7693,7 @@
             "artist": "Piotr Kowalski",
             "alias": "",
             "position": "352",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7339,6 +7714,7 @@
             "artist": "Piotr Kowalski",
             "alias": "",
             "position": "353",
+            "rotated": false,
             "notes": "GB Hybrid with Keyword"
         },
         {
@@ -7359,6 +7735,7 @@
             "artist": "bloodexer",
             "alias": "",
             "position": "354",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7379,6 +7756,7 @@
             "artist": "Suculent Burger",
             "alias": "",
             "position": "355",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7399,6 +7777,7 @@
             "artist": "",
             "alias": "",
             "position": "356",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7419,6 +7798,7 @@
             "artist": "",
             "alias": "",
             "position": "357",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7426,7 +7806,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Blood",
-            "number": 318,
+            "number": 317,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{T}, Tap another untapped artifact you control: Add {C}.\n{1}, {T}, Discard a card, sacrifice this artifact: Draw a card.",
@@ -7439,6 +7819,7 @@
             "artist": "",
             "alias": "",
             "position": "358",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7446,7 +7827,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Blood",
-            "number": 317,
+            "number": 316,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "{T}, Tap another untapped artifact you control: Add {C}{C}.\n{2}, {T}, Discard a card, sacrifice this artifact: Draw two cards.",
@@ -7459,6 +7840,7 @@
             "artist": "",
             "alias": "",
             "position": "359",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7479,6 +7861,7 @@
             "artist": "",
             "alias": "",
             "position": "360",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7486,7 +7869,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 321,
+            "number": 320,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "{1}, {T}, Sacrifice an artifact: Venture into the Chalice Dungeon. [i](Enter the first room or advance to the next room.)[/i]",
@@ -7499,6 +7882,7 @@
             "artist": "",
             "alias": "",
             "position": "361",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7519,6 +7903,7 @@
             "artist": "",
             "alias": "",
             "position": "362",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7539,6 +7924,7 @@
             "artist": "",
             "alias": "",
             "position": "363",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7559,6 +7945,7 @@
             "artist": "",
             "alias": "",
             "position": "364",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7579,6 +7966,7 @@
             "artist": "",
             "alias": "",
             "position": "365",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7599,8 +7987,9 @@
             "artist": "",
             "alias": "",
             "position": "366",
+            "rotated": false,
             "notes": ""
         }
     ],
-    "version": 12
+    "version": 14
 }

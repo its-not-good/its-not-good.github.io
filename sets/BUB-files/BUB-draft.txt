@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "324",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/0.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Artifact — Blood",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/1.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/1.png"
 			}
 		},
 		{
@@ -25,16 +25,16 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "322",
+			"collector_number": "321",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/2_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/2_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/2_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/2_front.png"
 			}
 		},
 		{
@@ -47,11 +47,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/3_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/3_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/3_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/3_front.png"
 			}
 		},
 		{
@@ -64,11 +64,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/4_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/4_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/4_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/4_front.png"
 			}
 		},
 		{
@@ -76,16 +76,16 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "325",
+			"collector_number": "324",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/5_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/5_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/5_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/5_front.png"
 			}
 		},
 		{
@@ -95,7 +95,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/6.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/6.png"
 			}
 		},
 		{
@@ -108,11 +108,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/7_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/7_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/7_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/7_front.png"
 			}
 		},
 		{
@@ -125,11 +125,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/8_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/8_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/8_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/8_front.png"
 			}
 		},
 		{
@@ -142,11 +142,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/9_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/9_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/9_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/9_front.png"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/10.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/10.png"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			"type": "Legendary Creature — Vampire Noble",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/11.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/11.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/12.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/12.png"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"type": "Legendary Creature — Human Hunter",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/13.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/13.png"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/14.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/14.png"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/15.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/15.png"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/16.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/16.png"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"type": "Instant",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/17.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/17.png"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"type": "Instant",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/18.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/18.png"
 			}
 		},
 		{
@@ -244,9 +244,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "319",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/19.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/19.png"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/20.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/20.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/21.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/21.png"
 			}
 		},
 		{
@@ -274,9 +274,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "320",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/22.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/22.png"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/23.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/23.png"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/24.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/24.png"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/25.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/25.png"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/26.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/26.png"
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/27.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/27.png"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/28.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/28.png"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 			"type": "Artifact",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/29.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/29.png"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"type": "Artifact",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/30.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/30.png"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"type": "Artifact",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/31.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/31.png"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"type": "Artifact",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/32.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/32.png"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/33.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/33.png"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 			"type": "Token Artifact — Coldblood",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/34.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/34.png"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/35.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/35.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/36.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/36.png"
 			}
 		},
 		{
@@ -424,9 +424,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "316",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/37.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/37.png"
 			}
 		},
 		{
@@ -434,9 +434,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "315",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/38.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/38.png"
 			}
 		},
 		{
@@ -444,9 +444,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "314",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/39.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/39.png"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 			"type": "Artifact",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/40.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/40.png"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 			"type": "Artifact",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/41.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/41.png"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/42.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/42.png"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 			"type": "Artifact",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/43.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/43.png"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"type": "Artifact",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/44.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/44.png"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 			"type": "Sorcery",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/45.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/45.png"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 			"type": "Artifact",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/46.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/46.png"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 			"type": "Artifact",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/47.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/47.png"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			"type": "Artifact",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/48.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/48.png"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/49.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/49.png"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			"type": "Artifact",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/50.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/50.png"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"type": "Artifact",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/51.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/51.png"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"type": "Artifact",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/52.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/52.png"
 			}
 		},
 		{
@@ -586,7 +586,7 @@
 			"type": "Artifact",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/53.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/53.png"
 			}
 		},
 		{
@@ -596,7 +596,7 @@
 			"type": "Artifact",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/54.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/54.png"
 			}
 		},
 		{
@@ -606,7 +606,7 @@
 			"type": "Artifact",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/55.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/55.png"
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 			"type": "Artifact",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/56.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/56.png"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 			"type": "Artifact",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/57.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/57.png"
 			}
 		},
 		{
@@ -636,7 +636,7 @@
 			"type": "Artifact",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/58.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/58.png"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 			"type": "Artifact",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/59.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/59.png"
 			}
 		},
 		{
@@ -656,7 +656,7 @@
 			"type": "",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/60.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/60.png"
 			}
 		},
 		{
@@ -666,7 +666,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/61.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/61.png"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/62.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/62.png"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 			"type": "Token Enchantment Creature — Fish Kin",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/63.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/63.png"
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/64.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/64.png"
 			}
 		},
 		{
@@ -709,11 +709,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/65_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/65_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/65_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/65_front.png"
 			}
 		},
 		{
@@ -723,7 +723,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/66.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/66.png"
 			}
 		},
 		{
@@ -736,11 +736,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/67_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/67_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/67_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/67_front.png"
 			}
 		},
 		{
@@ -753,11 +753,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/68_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/68_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/68_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/68_front.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/69.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/69.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/70.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/70.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "323",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/71.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/71.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/72.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/72.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/73.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/73.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/74.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/74.png"
 			}
 		},
 		{
@@ -830,11 +830,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/75_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/75_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/75_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/75_front.png"
 			}
 		},
 		{
@@ -844,7 +844,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/76.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/76.png"
 			}
 		},
 		{
@@ -854,7 +854,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/77.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/77.png"
 			}
 		},
 		{
@@ -864,7 +864,7 @@
 			"type": "Instant",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/78.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/78.png"
 			}
 		},
 		{
@@ -874,7 +874,7 @@
 			"type": "Instant",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/79.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/79.png"
 			}
 		},
 		{
@@ -884,7 +884,7 @@
 			"type": "Enchantment",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/80.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/80.png"
 			}
 		},
 		{
@@ -894,7 +894,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/81.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/81.png"
 			}
 		},
 		{
@@ -904,7 +904,7 @@
 			"type": "Token Legendary Enchantment — Great One",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/82.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/82.png"
 			}
 		},
 		{
@@ -914,7 +914,7 @@
 			"type": "Enchantment",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/83.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/83.png"
 			}
 		},
 		{
@@ -924,7 +924,7 @@
 			"type": "Token Legendary Enchantment — Great One",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/84.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/84.png"
 			}
 		},
 		{
@@ -934,7 +934,7 @@
 			"type": "Enchantment",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/85.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/85.png"
 			}
 		},
 		{
@@ -944,7 +944,7 @@
 			"type": "Instant",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/86.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/86.png"
 			}
 		},
 		{
@@ -954,7 +954,7 @@
 			"type": "Token Legendary Enchantment — Great One",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/87.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/87.png"
 			}
 		},
 		{
@@ -964,7 +964,7 @@
 			"type": "Token Legendary Enchantment — Great One",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/88.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/88.png"
 			}
 		},
 		{
@@ -974,7 +974,7 @@
 			"type": "Token Legendary Enchantment — Great One",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/89.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/89.png"
 			}
 		},
 		{
@@ -984,7 +984,7 @@
 			"type": "Legendary Enchantment Creature — Kin Spider",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/90.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/90.png"
 			}
 		},
 		{
@@ -994,7 +994,7 @@
 			"type": "Token Enchantment Creature — Spider Kin",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/91.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/91.png"
 			}
 		},
 		{
@@ -1004,7 +1004,7 @@
 			"type": "Legendary Enchantment Creature — Great One",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/92.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/92.png"
 			}
 		},
 		{
@@ -1014,7 +1014,7 @@
 			"type": "Legendary Enchantment Creature — Kin",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/93.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/93.png"
 			}
 		},
 		{
@@ -1024,7 +1024,7 @@
 			"type": "Enchantment Creature — Great One",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/94.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/94.png"
 			}
 		},
 		{
@@ -1034,7 +1034,7 @@
 			"type": "Creature — Fish Giant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/95.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/95.png"
 			}
 		},
 		{
@@ -1044,7 +1044,7 @@
 			"type": "Legendary Enchantment Creature — Zombie Kin",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/96.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/96.png"
 			}
 		},
 		{
@@ -1057,11 +1057,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/97_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/97_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/97_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/97_front.png"
 			}
 		},
 		{
@@ -1071,7 +1071,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/98.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/98.png"
 			}
 		},
 		{
@@ -1081,7 +1081,7 @@
 			"type": "Creature — Kin",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/99.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/99.png"
 			}
 		},
 		{
@@ -1091,7 +1091,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/100.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/100.png"
 			}
 		},
 		{
@@ -1101,7 +1101,7 @@
 			"type": "Creature — Zombie Cleric",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/101.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/101.png"
 			}
 		},
 		{
@@ -1111,7 +1111,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/102.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/102.png"
 			}
 		},
 		{
@@ -1121,7 +1121,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/103.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/103.png"
 			}
 		},
 		{
@@ -1131,7 +1131,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/104.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/104.png"
 			}
 		},
 		{
@@ -1141,7 +1141,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/105.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/105.png"
 			}
 		},
 		{
@@ -1151,7 +1151,7 @@
 			"type": "Token Enchantment Creature — Kin",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/106.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/106.png"
 			}
 		},
 		{
@@ -1161,7 +1161,7 @@
 			"type": "Instant",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/107.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/107.png"
 			}
 		},
 		{
@@ -1171,7 +1171,7 @@
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/108.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/108.png"
 			}
 		},
 		{
@@ -1181,7 +1181,7 @@
 			"type": "Instant",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/109.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/109.png"
 			}
 		},
 		{
@@ -1191,7 +1191,7 @@
 			"type": "Enchantment Creature — Human Kin",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/110.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/110.png"
 			}
 		},
 		{
@@ -1201,7 +1201,7 @@
 			"type": "Enchantment Creature — Human Kin",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/111.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/111.png"
 			}
 		},
 		{
@@ -1211,7 +1211,7 @@
 			"type": "Enchantment Creature — Human Kin",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/112.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/112.png"
 			}
 		},
 		{
@@ -1221,7 +1221,7 @@
 			"type": "Enchantment Creature — Human Kin",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/113.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/113.png"
 			}
 		},
 		{
@@ -1231,7 +1231,7 @@
 			"type": "Enchantment Creature — Human Kin",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/114.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/114.png"
 			}
 		},
 		{
@@ -1241,7 +1241,7 @@
 			"type": "Enchantment Creature — Human Kin",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/115.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/115.png"
 			}
 		},
 		{
@@ -1251,7 +1251,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/116.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/116.png"
 			}
 		},
 		{
@@ -1261,17 +1261,17 @@
 			"type": "Creature — Dog Hunter",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/117.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/117.png"
 			}
 		},
 		{
 			"name": "Gravekeeper Scorpion",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
-			"type": "Creature",
+			"type": "Creature — Insect Horror",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/118.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/118.png"
 			}
 		},
 		{
@@ -1281,7 +1281,7 @@
 			"type": "Creature — Human Scholar",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/119.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/119.png"
 			}
 		},
 		{
@@ -1291,7 +1291,7 @@
 			"type": "Legendary Artifact Creature — Construct",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/120.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/120.png"
 			}
 		},
 		{
@@ -1301,7 +1301,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/121.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/121.png"
 			}
 		},
 		{
@@ -1311,7 +1311,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/122.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/122.png"
 			}
 		},
 		{
@@ -1321,7 +1321,7 @@
 			"type": "Creature — Human Cleric Rogue",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/123.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/123.png"
 			}
 		},
 		{
@@ -1331,7 +1331,7 @@
 			"type": "Legendary Creature — Human Hunter",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/124.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/124.png"
 			}
 		},
 		{
@@ -1341,7 +1341,7 @@
 			"type": "Legendary Creature — Beast Cleric",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/125.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/125.png"
 			}
 		},
 		{
@@ -1351,7 +1351,7 @@
 			"type": "Legendary Creature — Human Scholar",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/126.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/126.png"
 			}
 		},
 		{
@@ -1361,7 +1361,7 @@
 			"type": "Legendary Creature — Beast Cleric",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/127.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/127.png"
 			}
 		},
 		{
@@ -1371,7 +1371,7 @@
 			"type": "Creature — Beast Cleric",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/128.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/128.png"
 			}
 		},
 		{
@@ -1381,7 +1381,7 @@
 			"type": "Enchantment Creature — Fish Human Kin",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/129.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/129.png"
 			}
 		},
 		{
@@ -1391,7 +1391,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/130.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/130.png"
 			}
 		},
 		{
@@ -1404,11 +1404,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/131_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/131_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/131_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/131_front.png"
 			}
 		},
 		{
@@ -1418,7 +1418,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/132.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/132.png"
 			}
 		},
 		{
@@ -1428,7 +1428,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/133.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/133.png"
 			}
 		},
 		{
@@ -1438,7 +1438,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/134.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/134.png"
 			}
 		},
 		{
@@ -1448,7 +1448,7 @@
 			"type": "Legendary Creature — Human Shapeshifter",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/135.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/135.png"
 			}
 		},
 		{
@@ -1458,7 +1458,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/136.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/136.png"
 			}
 		},
 		{
@@ -1468,7 +1468,7 @@
 			"type": "Creature — Pthumerian Berserker",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/137.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/137.png"
 			}
 		},
 		{
@@ -1478,7 +1478,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/138.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/138.png"
 			}
 		},
 		{
@@ -1488,7 +1488,7 @@
 			"type": "Legendary Creature — Human Scholar",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/139.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/139.png"
 			}
 		},
 		{
@@ -1498,7 +1498,7 @@
 			"type": "Creature — Human Scholar",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/140.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/140.png"
 			}
 		},
 		{
@@ -1508,7 +1508,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/141.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/141.png"
 			}
 		},
 		{
@@ -1518,7 +1518,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/142.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/142.png"
 			}
 		},
 		{
@@ -1528,7 +1528,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/143.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/143.png"
 			}
 		},
 		{
@@ -1538,7 +1538,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/144.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/144.png"
 			}
 		},
 		{
@@ -1548,7 +1548,7 @@
 			"type": "Legendary Creature — Human Hunter",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/145.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/145.png"
 			}
 		},
 		{
@@ -1558,7 +1558,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/146.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/146.png"
 			}
 		},
 		{
@@ -1568,7 +1568,7 @@
 			"type": "Legendary Creature — Human Spider",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/147.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/147.png"
 			}
 		},
 		{
@@ -1578,7 +1578,7 @@
 			"type": "Legendary Creature — Human Hunter",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/148.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/148.png"
 			}
 		},
 		{
@@ -1588,7 +1588,7 @@
 			"type": "Legendary Enchantment Creature — Human Kin",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/149.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/149.png"
 			}
 		},
 		{
@@ -1598,7 +1598,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/150.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/150.png"
 			}
 		},
 		{
@@ -1608,7 +1608,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/151.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/151.png"
 			}
 		},
 		{
@@ -1618,7 +1618,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/152.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/152.png"
 			}
 		},
 		{
@@ -1628,7 +1628,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/153.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/153.png"
 			}
 		},
 		{
@@ -1638,7 +1638,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/154.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/154.png"
 			}
 		},
 		{
@@ -1648,7 +1648,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/155.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/155.png"
 			}
 		},
 		{
@@ -1658,7 +1658,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/156.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/156.png"
 			}
 		},
 		{
@@ -1668,7 +1668,7 @@
 			"type": "Legendary Creature — Human Scholar",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/157.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/157.png"
 			}
 		},
 		{
@@ -1678,7 +1678,7 @@
 			"type": "Creature — Human Hunter",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/158.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/158.png"
 			}
 		},
 		{
@@ -1688,7 +1688,7 @@
 			"type": "Sorcery",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/159.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/159.png"
 			}
 		},
 		{
@@ -1698,7 +1698,7 @@
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/160.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/160.png"
 			}
 		},
 		{
@@ -1708,7 +1708,7 @@
 			"type": "Sorcery",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/161.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/161.png"
 			}
 		},
 		{
@@ -1718,7 +1718,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/162.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/162.png"
 			}
 		},
 		{
@@ -1728,7 +1728,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/163.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/163.png"
 			}
 		},
 		{
@@ -1738,7 +1738,7 @@
 			"type": "Creature — Beast Nightmare",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/164.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/164.png"
 			}
 		},
 		{
@@ -1748,7 +1748,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/165.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/165.png"
 			}
 		},
 		{
@@ -1758,7 +1758,7 @@
 			"type": "Creature — Beast Horror",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/166.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/166.png"
 			}
 		},
 		{
@@ -1771,11 +1771,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/167_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/167_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/167_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/167_front.png"
 			}
 		},
 		{
@@ -1785,7 +1785,7 @@
 			"type": "Creature — Vampire Beast",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/168.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/168.png"
 			}
 		},
 		{
@@ -1795,7 +1795,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/169.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/169.png"
 			}
 		},
 		{
@@ -1805,7 +1805,7 @@
 			"type": "Enchantment Creature — Kin",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/170.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/170.png"
 			}
 		},
 		{
@@ -1815,7 +1815,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/171.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/171.png"
 			}
 		},
 		{
@@ -1825,7 +1825,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/172.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/172.png"
 			}
 		},
 		{
@@ -1835,7 +1835,7 @@
 			"type": "Creature — Bird Horror",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/173.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/173.png"
 			}
 		},
 		{
@@ -1845,7 +1845,7 @@
 			"type": "Creature — Bird Dog Horror",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/174.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/174.png"
 			}
 		},
 		{
@@ -1855,7 +1855,7 @@
 			"type": "Enchantment Creature — Kin",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/175.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/175.png"
 			}
 		},
 		{
@@ -1865,7 +1865,7 @@
 			"type": "Enchantment Creature — Kin",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/176.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/176.png"
 			}
 		},
 		{
@@ -1875,7 +1875,7 @@
 			"type": "Enchantment Creature — Spider Kin",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/177.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/177.png"
 			}
 		},
 		{
@@ -1885,7 +1885,7 @@
 			"type": "Creature — Giant Pthumerian",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/178.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/178.png"
 			}
 		},
 		{
@@ -1895,7 +1895,7 @@
 			"type": "Creature — Giant Pthumerian",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/179.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/179.png"
 			}
 		},
 		{
@@ -1905,7 +1905,7 @@
 			"type": "Creature — Giant Pthumerian",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/180.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/180.png"
 			}
 		},
 		{
@@ -1915,7 +1915,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/181.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/181.png"
 			}
 		},
 		{
@@ -1925,7 +1925,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/182.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/182.png"
 			}
 		},
 		{
@@ -1935,7 +1935,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/183.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/183.png"
 			}
 		},
 		{
@@ -1945,7 +1945,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/184.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/184.png"
 			}
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/185.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/185.png"
 			}
 		},
 		{
@@ -1965,7 +1965,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/186.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/186.png"
 			}
 		},
 		{
@@ -1975,7 +1975,7 @@
 			"type": "Enchantment Creature — Kin Horror",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/187.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/187.png"
 			}
 		},
 		{
@@ -1985,7 +1985,7 @@
 			"type": "Legendary Creature — Skeleton Beast",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/188.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/188.png"
 			}
 		},
 		{
@@ -1995,7 +1995,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/189.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/189.png"
 			}
 		},
 		{
@@ -2005,7 +2005,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/190.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/190.png"
 			}
 		},
 		{
@@ -2015,7 +2015,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/191.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/191.png"
 			}
 		},
 		{
@@ -2025,7 +2025,7 @@
 			"type": "Enchantment Creature — Fish Dog Kin",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/192.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/192.png"
 			}
 		},
 		{
@@ -2035,7 +2035,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/193.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/193.png"
 			}
 		},
 		{
@@ -2045,7 +2045,7 @@
 			"type": "Enchantment Creature — Fish Human Kin",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/194.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/194.png"
 			}
 		},
 		{
@@ -2055,7 +2055,7 @@
 			"type": "Enchantment Creature — Fish Human Kin",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/195.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/195.png"
 			}
 		},
 		{
@@ -2065,7 +2065,7 @@
 			"type": "Enchantment Creature — Plant Kin",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/196.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/196.png"
 			}
 		},
 		{
@@ -2075,7 +2075,7 @@
 			"type": "Enchantment Creature — Insect Kin",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/197.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/197.png"
 			}
 		},
 		{
@@ -2085,7 +2085,7 @@
 			"type": "Instant",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/198.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/198.png"
 			}
 		},
 		{
@@ -2095,7 +2095,7 @@
 			"type": "Creature — Giant",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/199.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/199.png"
 			}
 		},
 		{
@@ -2105,7 +2105,7 @@
 			"type": "Creature — Snake Horror Hydra",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/200.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/200.png"
 			}
 		},
 		{
@@ -2115,7 +2115,7 @@
 			"type": "Creature — Human Witch",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/201.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/201.png"
 			}
 		},
 		{
@@ -2125,7 +2125,7 @@
 			"type": "Creature — Human Witch",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/202.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/202.png"
 			}
 		},
 		{
@@ -2135,7 +2135,7 @@
 			"type": "Creature — Human Witch",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/203.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/203.png"
 			}
 		},
 		{
@@ -2145,7 +2145,7 @@
 			"type": "Creature — Dog Hunter",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/204.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/204.png"
 			}
 		},
 		{
@@ -2155,7 +2155,7 @@
 			"type": "Creature — Dog",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/205.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/205.png"
 			}
 		},
 		{
@@ -2165,7 +2165,7 @@
 			"type": "Creature — Bird Dog Horror",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/206.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/206.png"
 			}
 		},
 		{
@@ -2175,7 +2175,7 @@
 			"type": "Creature — Ogre Hunter",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/207.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/207.png"
 			}
 		},
 		{
@@ -2185,7 +2185,7 @@
 			"type": "Creature — Pthumerian Shaman",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/208.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/208.png"
 			}
 		},
 		{
@@ -2195,7 +2195,7 @@
 			"type": "Creature — Demon Dog Hunter",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/209.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/209.png"
 			}
 		},
 		{
@@ -2205,7 +2205,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/210.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/210.png"
 			}
 		},
 		{
@@ -2215,7 +2215,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/211.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/211.png"
 			}
 		},
 		{
@@ -2225,7 +2225,7 @@
 			"type": "Creature — Mole Horror",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/212.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/212.png"
 			}
 		},
 		{
@@ -2235,7 +2235,7 @@
 			"type": "Creature — Rat",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/213.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/213.png"
 			}
 		},
 		{
@@ -2245,7 +2245,7 @@
 			"type": "Creature — Pthumerian Soldier",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/214.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/214.png"
 			}
 		},
 		{
@@ -2255,7 +2255,7 @@
 			"type": "Enchantment",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/215.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/215.png"
 			}
 		},
 		{
@@ -2265,7 +2265,7 @@
 			"type": "Instant",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/216.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/216.png"
 			}
 		},
 		{
@@ -2275,7 +2275,7 @@
 			"type": "Enchantment",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/217.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/217.png"
 			}
 		},
 		{
@@ -2285,7 +2285,7 @@
 			"type": "Artifact",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/218.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/218.png"
 			}
 		},
 		{
@@ -2295,7 +2295,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/219.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/219.png"
 			}
 		},
 		{
@@ -2305,7 +2305,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/220.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/220.png"
 			}
 		},
 		{
@@ -2315,7 +2315,7 @@
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/221.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/221.png"
 			}
 		},
 		{
@@ -2325,7 +2325,7 @@
 			"type": "Creature — Beast Cleric",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/222.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/222.png"
 			}
 		},
 		{
@@ -2335,7 +2335,7 @@
 			"type": "Enchantment",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/223.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/223.png"
 			}
 		},
 		{
@@ -2345,7 +2345,7 @@
 			"type": "Enchantment Creature — Fish Human Kin",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/224.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/224.png"
 			}
 		},
 		{
@@ -2355,7 +2355,7 @@
 			"type": "Artifact Creature — Skeleton Construct",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/225.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/225.png"
 			}
 		},
 		{
@@ -2365,7 +2365,7 @@
 			"type": "Sorcery",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/226.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/226.png"
 			}
 		},
 		{
@@ -2375,7 +2375,7 @@
 			"type": "Land",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/227.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/227.png"
 			}
 		},
 		{
@@ -2385,7 +2385,7 @@
 			"type": "Creature — Boar Horror",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/228.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/228.png"
 			}
 		},
 		{
@@ -2395,7 +2395,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/229.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/229.png"
 			}
 		},
 		{
@@ -2405,7 +2405,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/230.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/230.png"
 			}
 		},
 		{
@@ -2415,7 +2415,7 @@
 			"type": "Artifact",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/231.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/231.png"
 			}
 		},
 		{
@@ -2425,7 +2425,7 @@
 			"type": "Creature — Pthumerian Soldier",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/232.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/232.png"
 			}
 		},
 		{
@@ -2435,7 +2435,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/233.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/233.png"
 			}
 		},
 		{
@@ -2445,7 +2445,7 @@
 			"type": "Creature — Pthumerian Berserker",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/234.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/234.png"
 			}
 		},
 		{
@@ -2455,7 +2455,7 @@
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/235.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/235.png"
 			}
 		},
 		{
@@ -2465,7 +2465,7 @@
 			"type": "Creature — Pthumerian Cleric",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/236.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/236.png"
 			}
 		},
 		{
@@ -2475,7 +2475,7 @@
 			"type": "Creature — Pthumerian Warrior",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/237.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/237.png"
 			}
 		},
 		{
@@ -2485,7 +2485,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/238.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/238.png"
 			}
 		},
 		{
@@ -2495,7 +2495,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/239.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/239.png"
 			}
 		},
 		{
@@ -2505,7 +2505,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/240.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/240.png"
 			}
 		},
 		{
@@ -2515,7 +2515,7 @@
 			"type": "Enchantment Creature — Giant Kin",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/241.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/241.png"
 			}
 		},
 		{
@@ -2525,7 +2525,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/242.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/242.png"
 			}
 		},
 		{
@@ -2538,11 +2538,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/243_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/243_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/243_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/243_front.png"
 			}
 		},
 		{
@@ -2552,7 +2552,7 @@
 			"type": "Instant",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/244.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/244.png"
 			}
 		},
 		{
@@ -2562,7 +2562,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/245.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/245.png"
 			}
 		},
 		{
@@ -2572,7 +2572,7 @@
 			"type": "Creature — Boar Beast",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/246.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/246.png"
 			}
 		},
 		{
@@ -2582,7 +2582,7 @@
 			"type": "Legendary Creature — Spirit Noble",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/247.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/247.png"
 			}
 		},
 		{
@@ -2592,7 +2592,7 @@
 			"type": "Creature — Pthumerian Horror",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/248.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/248.png"
 			}
 		},
 		{
@@ -2602,7 +2602,7 @@
 			"type": "Creature — Pthumerian Horror",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/249.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/249.png"
 			}
 		},
 		{
@@ -2612,7 +2612,7 @@
 			"type": "Creature — Pthumerian Horror",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/250.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/250.png"
 			}
 		},
 		{
@@ -2622,7 +2622,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/251.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/251.png"
 			}
 		},
 		{
@@ -2632,7 +2632,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/252.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/252.png"
 			}
 		},
 		{
@@ -2642,7 +2642,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/253.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/253.png"
 			}
 		},
 		{
@@ -2652,7 +2652,7 @@
 			"type": "Legendary Enchantment Creature — Great One",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/254.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/254.png"
 			}
 		},
 		{
@@ -2662,7 +2662,7 @@
 			"type": "Token Enchantment Creature — Illusion",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/255.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/255.png"
 			}
 		},
 		{
@@ -2672,7 +2672,7 @@
 			"type": "Legendary Creature — Spider",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/256.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/256.png"
 			}
 		},
 		{
@@ -2682,7 +2682,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/257.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/257.png"
 			}
 		},
 		{
@@ -2692,7 +2692,7 @@
 			"type": "Creature — Human Spider",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/258.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/258.png"
 			}
 		},
 		{
@@ -2702,7 +2702,7 @@
 			"type": "Creature — Warrior Horror",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/259.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/259.png"
 			}
 		},
 		{
@@ -2712,7 +2712,7 @@
 			"type": "Creature — Warrior Horror",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/260.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/260.png"
 			}
 		},
 		{
@@ -2722,7 +2722,7 @@
 			"type": "Creature — Pthumerian Spirit",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/261.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/261.png"
 			}
 		},
 		{
@@ -2732,7 +2732,7 @@
 			"type": "Creature — Pthumerian Noble",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/262.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/262.png"
 			}
 		},
 		{
@@ -2742,7 +2742,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/263.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/263.png"
 			}
 		},
 		{
@@ -2752,7 +2752,7 @@
 			"type": "Creature — Pthumerian Horror",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/264.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/264.png"
 			}
 		},
 		{
@@ -2765,11 +2765,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/265_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/265_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/265_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/265_front.png"
 			}
 		},
 		{
@@ -2779,7 +2779,7 @@
 			"type": "Enchantment Creature — Ooze Kin",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/266.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/266.png"
 			}
 		},
 		{
@@ -2789,7 +2789,7 @@
 			"type": "Enchantment",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/267.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/267.png"
 			}
 		},
 		{
@@ -2799,7 +2799,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/268.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/268.png"
 			}
 		},
 		{
@@ -2809,7 +2809,7 @@
 			"type": "Enchantment Creature — Fish Kin",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/269.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/269.png"
 			}
 		},
 		{
@@ -2819,7 +2819,7 @@
 			"type": "Creature — Snake Horror Hydra",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/270.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/270.png"
 			}
 		},
 		{
@@ -2832,21 +2832,21 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/271_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/271_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/271_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/271_front.png"
 			}
 		},
 		{
 			"name": "The Witch of Hemwick",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Warlock",
+			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/272.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/272.png"
 			}
 		},
 		{
@@ -2856,7 +2856,7 @@
 			"type": "Creature — Pthumerian Zombie Giant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/273.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/273.png"
 			}
 		},
 		{
@@ -2866,7 +2866,7 @@
 			"type": "Creature — Pthumerian Zombie Giant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/274.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/274.png"
 			}
 		},
 		{
@@ -2876,7 +2876,7 @@
 			"type": "Creature — Elemental Beast",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/275.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/275.png"
 			}
 		},
 		{
@@ -2886,7 +2886,7 @@
 			"type": "Creature — Pthumerian",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/276.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/276.png"
 			}
 		},
 		{
@@ -2896,7 +2896,7 @@
 			"type": "Creature — Pthumerian",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/277.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/277.png"
 			}
 		},
 		{
@@ -2906,7 +2906,7 @@
 			"type": "Creature — Pthumerian",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/278.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/278.png"
 			}
 		},
 		{
@@ -2916,7 +2916,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/279.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/279.png"
 			}
 		},
 		{
@@ -2926,7 +2926,7 @@
 			"type": "Creature — Human Beast Hunter",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/280.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/280.png"
 			}
 		},
 		{
@@ -2936,7 +2936,7 @@
 			"type": "Enchantment",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/281.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/281.png"
 			}
 		},
 		{
@@ -2946,7 +2946,7 @@
 			"type": "Artifact",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/282.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/282.png"
 			}
 		},
 		{
@@ -2956,7 +2956,7 @@
 			"type": "Artifact",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/283.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/283.png"
 			}
 		},
 		{
@@ -2966,7 +2966,7 @@
 			"type": "Artifact",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/284.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/284.png"
 			}
 		},
 		{
@@ -2976,7 +2976,7 @@
 			"type": "Artifact",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/285.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/285.png"
 			}
 		},
 		{
@@ -2986,17 +2986,17 @@
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/286.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/286.png"
 			}
 		},
 		{
-			"name": "Blazing Torch",
+			"name": "Hunter's Torch",
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "313",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/287.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/287.png"
 			}
 		},
 		{
@@ -3006,7 +3006,7 @@
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/288.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/288.png"
 			}
 		},
 		{
@@ -3016,7 +3016,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/289.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/289.png"
 			}
 		},
 		{
@@ -3026,7 +3026,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/290.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/290.png"
 			}
 		},
 		{
@@ -3036,7 +3036,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/291.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/291.png"
 			}
 		},
 		{
@@ -3046,7 +3046,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/292.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/292.png"
 			}
 		},
 		{
@@ -3056,7 +3056,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/293.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/293.png"
 			}
 		},
 		{
@@ -3066,7 +3066,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/294.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/294.png"
 			}
 		},
 		{
@@ -3076,7 +3076,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/295.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/295.png"
 			}
 		},
 		{
@@ -3086,7 +3086,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/296.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/296.png"
 			}
 		},
 		{
@@ -3096,7 +3096,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/297.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/297.png"
 			}
 		},
 		{
@@ -3106,7 +3106,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/298.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/298.png"
 			}
 		},
 		{
@@ -3116,7 +3116,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/299.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/299.png"
 			}
 		},
 		{
@@ -3126,7 +3126,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/300.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/300.png"
 			}
 		},
 		{
@@ -3136,7 +3136,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/301.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/301.png"
 			}
 		},
 		{
@@ -3146,7 +3146,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/302.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/302.png"
 			}
 		},
 		{
@@ -3156,7 +3156,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/303.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/303.png"
 			}
 		},
 		{
@@ -3166,7 +3166,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/304.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/304.png"
 			}
 		},
 		{
@@ -3176,7 +3176,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/305.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/305.png"
 			}
 		},
 		{
@@ -3186,7 +3186,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/306.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/306.png"
 			}
 		},
 		{
@@ -3196,7 +3196,7 @@
 			"type": "Enchantment — Aura Rune",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/307.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/307.png"
 			}
 		},
 		{
@@ -3209,11 +3209,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/308_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/308_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/308_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/308_front.png"
 			}
 		},
 		{
@@ -3226,11 +3226,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/309_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/309_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/309_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/309_front.png"
 			}
 		},
 		{
@@ -3243,11 +3243,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/310_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/310_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/310_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/310_front.png"
 			}
 		},
 		{
@@ -3260,11 +3260,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/311_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/311_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/311_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/311_front.png"
 			}
 		},
 		{
@@ -3274,7 +3274,7 @@
 			"type": "Enchantment",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/312.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/312.png"
 			}
 		},
 		{
@@ -3287,11 +3287,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/313_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/313_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/313_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/313_front.png"
 			}
 		},
 		{
@@ -3301,7 +3301,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/314.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/314.png"
 			}
 		},
 		{
@@ -3311,7 +3311,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/315.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/315.png"
 			}
 		},
 		{
@@ -3321,7 +3321,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/316.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/316.png"
 			}
 		},
 		{
@@ -3334,11 +3334,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/BUB-files/img/317_back.png"
+					"en": "https://its-not-good.github.io/sets/BUB-files/img/317_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/317_front.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/317_front.png"
 			}
 		},
 		{
@@ -3348,7 +3348,7 @@
 			"type": "Land",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/318.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/318.png"
 			}
 		},
 		{
@@ -3358,7 +3358,7 @@
 			"type": "Land",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/319.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/319.png"
 			}
 		},
 		{
@@ -3368,7 +3368,7 @@
 			"type": "Land",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/320.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/320.png"
 			}
 		},
 		{
@@ -3378,7 +3378,7 @@
 			"type": "Land",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/321.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/321.png"
 			}
 		},
 		{
@@ -3388,7 +3388,7 @@
 			"type": "Land",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/322.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/322.png"
 			}
 		},
 		{
@@ -3398,7 +3398,7 @@
 			"type": "Land",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/323.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/323.png"
 			}
 		},
 		{
@@ -3408,7 +3408,7 @@
 			"type": "Land",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/324.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/324.png"
 			}
 		},
 		{
@@ -3418,7 +3418,7 @@
 			"type": "Land",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/325.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/325.png"
 			}
 		},
 		{
@@ -3428,7 +3428,7 @@
 			"type": "Land",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/326.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/326.png"
 			}
 		},
 		{
@@ -3438,7 +3438,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/327.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/327.png"
 			}
 		},
 		{
@@ -3448,7 +3448,7 @@
 			"type": "Instant",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/328.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/328.png"
 			}
 		},
 		{
@@ -3458,7 +3458,7 @@
 			"type": "Enchantment",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/329.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/329.png"
 			}
 		},
 		{
@@ -3468,7 +3468,7 @@
 			"type": "Instant",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/330.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/330.png"
 			}
 		},
 		{
@@ -3478,7 +3478,7 @@
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/331.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/331.png"
 			}
 		},
 		{
@@ -3488,7 +3488,7 @@
 			"type": "Instant",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/332.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/332.png"
 			}
 		},
 		{
@@ -3498,7 +3498,7 @@
 			"type": "Sorcery",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/333.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/333.png"
 			}
 		},
 		{
@@ -3508,7 +3508,7 @@
 			"type": "Enchantment",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/334.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/334.png"
 			}
 		},
 		{
@@ -3518,7 +3518,7 @@
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/335.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/335.png"
 			}
 		},
 		{
@@ -3528,7 +3528,7 @@
 			"type": "Sorcery",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/336.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/336.png"
 			}
 		},
 		{
@@ -3538,7 +3538,7 @@
 			"type": "Instant",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/337.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/337.png"
 			}
 		},
 		{
@@ -3548,7 +3548,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/338.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/338.png"
 			}
 		},
 		{
@@ -3558,7 +3558,7 @@
 			"type": "Enchantment",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/339.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/339.png"
 			}
 		},
 		{
@@ -3568,7 +3568,7 @@
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/340.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/340.png"
 			}
 		},
 		{
@@ -3578,7 +3578,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/341.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/341.png"
 			}
 		},
 		{
@@ -3588,7 +3588,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/342.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/342.png"
 			}
 		},
 		{
@@ -3598,7 +3598,7 @@
 			"type": "Instant",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/343.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/343.png"
 			}
 		},
 		{
@@ -3608,7 +3608,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/344.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/344.png"
 			}
 		},
 		{
@@ -3618,7 +3618,7 @@
 			"type": "Sorcery",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/345.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/345.png"
 			}
 		},
 		{
@@ -3628,7 +3628,7 @@
 			"type": "Legendary Creature — Human Hunter",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/346.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/346.png"
 			}
 		},
 		{
@@ -3638,7 +3638,7 @@
 			"type": "Sorcery",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/347.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/347.png"
 			}
 		},
 		{
@@ -3648,7 +3648,7 @@
 			"type": "Instant",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/348.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/348.png"
 			}
 		},
 		{
@@ -3658,7 +3658,7 @@
 			"type": "Instant",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/349.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/349.png"
 			}
 		},
 		{
@@ -3668,7 +3668,7 @@
 			"type": "Artifact",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/350.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/350.png"
 			}
 		},
 		{
@@ -3678,7 +3678,7 @@
 			"type": "Instant",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/351.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/351.png"
 			}
 		},
 		{
@@ -3688,7 +3688,7 @@
 			"type": "Enchantment",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/352.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/352.png"
 			}
 		},
 		{
@@ -3698,7 +3698,7 @@
 			"type": "Legendary Enchantment Creature — Human Kin",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/353.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/353.png"
 			}
 		},
 		{
@@ -3708,7 +3708,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/354.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/354.png"
 			}
 		},
 		{
@@ -3718,7 +3718,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/355.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/355.png"
 			}
 		},
 		{
@@ -3728,7 +3728,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/356.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/356.png"
 			}
 		},
 		{
@@ -3738,7 +3738,7 @@
 			"type": "Land",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/357.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/357.png"
 			}
 		},
 		{
@@ -3746,9 +3746,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Blood",
-			"collector_number": "318",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/358.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/358.png"
 			}
 		},
 		{
@@ -3756,9 +3756,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Blood",
-			"collector_number": "317",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/359.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/359.png"
 			}
 		},
 		{
@@ -3768,7 +3768,7 @@
 			"type": "Artifact",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/360.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/360.png"
 			}
 		},
 		{
@@ -3776,9 +3776,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "321",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/361.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/361.png"
 			}
 		},
 		{
@@ -3788,7 +3788,7 @@
 			"type": "Land",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/362.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/362.png"
 			}
 		},
 		{
@@ -3798,7 +3798,7 @@
 			"type": "Land",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/363.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/363.png"
 			}
 		},
 		{
@@ -3808,7 +3808,7 @@
 			"type": "Land",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/364.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/364.png"
 			}
 		},
 		{
@@ -3818,7 +3818,7 @@
 			"type": "Land",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/365.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/365.png"
 			}
 		},
 		{
@@ -3828,362 +3828,1208 @@
 			"type": "Land",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://mse-hub/sets/BUB-files/img/366.png"
+				"en": "https://its-not-good.github.io/sets/BUB-files/img/366.png"
 			}
 		}
 	]
 
 [rare(1)]
-	5 The Cursed Lady Maria
-	5 Father Gascoigne
-	5 Gehrman of the Hunter's Dream
-	5 Shaman Bone Blade
-	5 Burial Blade
-	5 Blade of Mercy
-	5 Chikage
-	5 Gun Down
-	5 Holy Moonlight Sword
-	5 Rom, the Vacuous Spider
-	5 Orphan of Kos
-	5 Celestial Emissary
-	5 The One Reborn
-	5 Arianna, Oedon's Consort
-	5 The Doll
-	5 Eileen, the Crow
-	5 Vicar Amelia
-	5 Micolash, Host of the Nightmare
-	5 Laurence, the First Vicar
-	5 Cleric Beast
-	5 Master Willem
-	5 Patches, the Spider
-	5 Retired Hunter Djura
-	5 Yurie, the Last Scholar
-	5 Burn at the Stake
-	5 Blood-Starved Beast
-	5 Celestial Child
-	5 Church Excoriator
-	5 Darkbeast Paarl
-	5 The Blood Moon Rises
-	5 End of Night
-	5 Loran Cleric
-	5 Call the Watchers
-	5 Living Failures
-	5 Ludwig, The Acursed
-	5 Martyr Logarius
-	5 Mergo's Chief Attendant
-	5 Mergo's Wet Nurse
-	5 The Mother Apostle
-	5 Pthumerian Descendant
-	5 Shadows of Yharnam
-	5 The Witch of Hemwick
-	5 Undead Blade Giant
-	5 Undead Cannon Giant
-	5 Watchdog of the Old Lords
-	5 Impurity Oath
-	5 Radiance Oath
-	5 Milkweed Oath
-	5 Beast's Embrace Oath
-	5 Hunter's Oath
-	5 Corruption Oath
-	5 Whirligig Saw
-	5 Astral Clocktower
-	5 Phlebotomize
-	5 Childhood's Beginning
-	5 Peaceful Dawn
-	5 Honoring Wishes
-	5 The Blood Sings
-	5 The Good Hunter
-	5 Visceral Attack
-	5 Consult the Great Ones
-	5 Behold! A Paleblood Sky
-	5 Altar of Surgery
-	5 The Cursed Coast
-	5 Snake Infested Gravesite
-	5 Great Bridge
-	5 Grand Cathedral
+	1 The Cursed Lady Maria
+	2 Father Gascoigne
+	1 Gehrman of the Hunter's Dream
+	2 Shaman Bone Blade
+	2 Burial Blade
+	2 Blade of Mercy
+	2 Chikage
+	2 Gun Down
+	2 Holy Moonlight Sword
+	2 Rom, the Vacuous Spider
+	1 Orphan of Kos
+	2 Celestial Emissary
+	1 The One Reborn
+	2 Arianna, Oedon's Consort
+	2 The Doll
+	1 Eileen, the Crow
+	1 Vicar Amelia
+	1 Micolash, Host of the Nightmare
+	1 Laurence, the First Vicar
+	1 Cleric Beast
+	2 Master Willem
+	2 Patches, the Spider
+	2 Retired Hunter Djura
+	2 Yurie, the Last Scholar
+	2 Burn at the Stake
+	2 Blood-Starved Beast
+	2 Celestial Child
+	2 Church Excoriator
+	2 Darkbeast Paarl
+	2 The Blood Moon Rises
+	2 End of Night
+	2 Loran Cleric
+	2 Call the Watchers
+	2 Living Failures
+	1 Ludwig, The Acursed
+	1 Martyr Logarius
+	2 Mergo's Chief Attendant
+	1 Mergo's Wet Nurse
+	2 The Mother Apostle
+	2 Pthumerian Descendant
+	2 Shadows of Yharnam
+	2 The Witch of Hemwick
+	2 Undead Blade Giant
+	2 Undead Cannon Giant
+	2 Watchdog of the Old Lords
+	2 Impurity Oath
+	2 Radiance Oath
+	2 Milkweed Oath
+	2 Beast's Embrace Oath
+	2 Hunter's Oath
+	2 Corruption Oath
+	2 Whirligig Saw
+	2 Astral Clocktower
+	2 Phlebotomize
+	1 Childhood's Beginning
+	2 Peaceful Dawn
+	1 Honoring Wishes
+	1 The Blood Sings
+	2 The Good Hunter
+	2 Visceral Attack
+	2 Consult the Great Ones
+	2 Behold! A Paleblood Sky
+	2 Altar of Surgery
+	2 The Cursed Coast
+	2 Snake Infested Gravesite
+	2 Great Bridge
+	2 Grand Cathedral
 [uncommon(3)]
-	5 Iosefka's Blood Vial
-	5 Scourge Beast
-	5 Tonitrus
-	5 Alfred, Hunter of Vilebloods
-	5 Annalise, Queen of the Vilebloods
-	5 The Bloody Crow of Cainhurst
-	5 Bolt Paper
-	5 Fire Paper
-	5 Winter Lantern
-	5 Blood of Arianna
-	5 Blood of Adella
-	5 Blood of Adeline
-	5 Pungent Blood Cocktail
-	5 Tiny Music Box
-	5 Tiny Tonitrus
-	5 Numbing Mist
-	5 Bastard of Loran
-	5 Arcane Haze
-	5 Bloodshot Eyeball
-	5 Living String
-	5 Yellow Backbone
-	5 Infected Organ
-	5 Pearl Slug
-	5 Amygdalan Arm Club
-	5 Beast Claw
-	5 Boom Hammer
-	5 Hunter's Cannon
-	5 Church Cannon
-	5 Guiding Moonlight
-	5 Kos Parasite
-	5 Make Contact
-	5 Destroy Evil
-	5 Blood Saint
-	5 Beastclaw Hunter
-	5 Bell-Ringing Woman
-	5 Stoke the Flames
-	5 Burning the Dream
-	5 Queen Killer
-	5 Gravekeeper Scorpion
-	5 Mensis Defector
-	5 Powder Keg Hunter
-	5 Discple of Djura
-	5 Choir Intelligencer
-	5 Fishing Hamlet Priest
-	5 Imposter Iosefka
-	5 Iosefka, the Blood-Healer
-	5 Labyrinth Madman
-	5 Oedon Chapel Dweller
-	5 Old Hunter
-	5 Henryk, Tragic Hunter
-	5 Saint Adeline
-	5 Harrowed Hunter
-	5 Tomb Prospector
-	5 Valtr, Master of the League
-	5 Madaras Twin
-	5 Tonitrus Hunter
-	5 Crazed Confrontation
-	5 Beast-Possessed Soul
-	5 Bloodletting Beast
-	5 Bloodlicker
-	5 Child of Rom
-	5 Lost Church Giant
-	5 Church Harvester
-	5 Church Crucifier
-	5 Cramped Casket
-	5 Nightmare Crawler
-	5 Labyrinth Spirit
-	5 Eye Collector
-	5 Fluorescent Flower
-	5 Great Snake Ball
-	5 Hemwick Hammer Woman
-	5 Spiked Hunting Dog
-	5 Huntsman's Minion
-	5 Keeper of the Old Lords
-	5 Kidnap
-	5 Yahar'gul Kidnapper
-	5 Labyrinth Soldier
-	5 Delve into the Labyrinth
-	5 Old Hunter Bone
-	5 Hunters Must Hunt
-	5 Burden of the Hunt
-	5 Oedon Chapel
-	5 Soul-Guide Lantern
-	5 Lantern Watcher
-	5 Stalking Beastman
-	5 Large Wandering Nightmare
-	5 Lost Child of Antiquity
-	5 Surrounded by Mad Ones
-	5 Maneater Boar
-	5 Merciless Blunderbuss
-	5 Merciless Mace
-	5 At Mergo's Will
-	5 Attendant of Mergo
-	5 Failed Apostle
-	5 Nightmare Cannoneer
-	5 Pthumerian Pilgrim
-	5 Slime Scholar
-	5 Procession of the Orphan
-	5 Prayers to Kos
-	5 Snail Woman
-	5 Minor Snake Ball
-	5 Hook Gravedigger
-	5 Pickaxe Gravedigger
-	5 Rifle Gravedigger
-	5 Elder Huntsman
-	5 Huntsman Chaingunner
-	5 Beast Rune
-	5 Clawmark Rune
-	5 Blood Rapture
-	5 Anti-Clockwise Metamorphosis
-	5 Moon Rune
-	5 Guidance Rune
-	5 Deep Sea Rune
-	5 Lake Rune
-	5 Eye Rune
-	5 Clockwise Metamorphosis
-	5 Oedon Writhe
-	5 Communion Rune
-	5 Heir Rune
-	5 Beast Cutter
-	5 Beast Hunter Saif
-	5 Logarius' Wheel
-	5 The Sin of Byrgenwerth
-	5 Abandoned Hunter's Workshop
-	5 Hunter's Dream
-	5 Byrgenwerth
-	5 Cathedral Ward
-	5 Fishing Hamlet
-	5 Nightmare of Mensis
-	5 Forbidden Woods
-	5 Yahar'gul, Unseen Village
-	5 Encircled by Ghosts
-	5 Killing Moon
-	5 What We Should Not Know
-	5 Desperate Struggle
-	5 Wander the Woods
-	5 Gentle Quiet
-	5 The Hunter's Armory
-	5 The Tragedy of Ludwig
-	5 Crimes of the Church
-	5 Blood Rock
-	5 Chalice Ritual Site
-	5 Hypogean Gaol
-[common(10)]
-	5 Great One's Wisdom
-	5 Folded Saw Cleaver
-	5 Threaded Cane
-	5 Hunter's Axe
-	5 A Call Beyond
-	5 Accursed Brew
-	5 Augur of Ebrietas
-	5 Beast Blood Pellet
-	5 Beast Roar
-	5 Blacksky Eye
-	5 Blue Elixir
-	5 Bone Marrow Ash
-	5 Gather the Townsfolk
-	5 Rifle Huntsman
-	5 Cannon Huntsman
-	5 Bleeding Huntsman
-	5 Sabre Huntsman
-	5 Pitchfork Huntsman
-	5 Molotov Cocktail
-	5 Lead Elixir
-	5 Pebble
-	5 Oil Urn
-	5 
-	5 Sedative
-	5 Choir Bell
-	5 Antidote
-	5 Empty Phantasm Shell
-	5 Executioner's Gloves
-	5 Madaras Whistle
-	5 Poison Knife
-	5 Throwing Knife
-	5 Bloodletter Mace
-	5 Great One Coldblood
-	5 Church Sword
-	5 Hunter Blunderbuss
-	5 Fist of Gratia
-	5 Flamespray
-	5 Amygdala
-	5 Giant Fishman
-	5 Afflicted Beggar
-	5 Bath Messengers
-	5 Beastial Hunter
-	5 Blood Minister
-	5 Church Assassin
-	5 The Hunt Begins
-	5 Searching Patient
-	5 Hostile Patient
-	5 Feral Patient
-	5 Infected Patient
-	5 Arcane Patient
-	5 Patient's Head
-	5 Nightmare Hound
-	5 Forbidden Woods Gatekeeper
-	5 Sickly Yharnamite
-	5 Yharnam Hunter
-	5 Black Church Hunter
-	5 White Church Hunter
-	5 Mad Labyrinth Hunter
-	5 Mensis Scholar
-	5 Mergo's Cry
-	5 Narrow Minded Man
-	5 Beast Cutter Hunter
-	5 Wanderer from the East
-	5 Strength of Arms
-	5 Petrify
-	5 Ambushed by Beasts
-	5 Hooded Beast Patient
-	5 Beast of the Hunt
-	5 Blood Gel
-	5 Bound Widow
-	5 Brain Sucker
-	5 Cain's Servant
-	5 Cainhurst Servant Knight
-	5 Carrion Crow
-	5 Mutated Crow
-	5 Celestial Minion
-	5 Executioner Church Giant
-	5 Destroyer Church Giant
-	5 Church Servant
-	5 Church Cleanser
-	5 Church Executioner
-	5 Fish Dog
-	5 Trawl Through the Muck
-	5 Cleaver Fishman
-	5 Spear-Thrower Fishman
-	5 Garden of Eyes
-	5 Boulder Defense
-	5 Giant Lost Child
-	5 Hemwick Grave Woman
-	5 Hemwick Solderer
-	5 Rabid Dog
-	5 Mutated Dog
-	5 Keeper's Hunting Dogs
-	5 Labyrinth Mole
-	5 Labyrinth Rat
-	5 Persistence
-	5 Transcendence
-	5 Fishman Mage
-	5 Skeletal Puppet
-	5 Praise the Moon Presence
-	5 Nightmare Boar
-	5 Parasite Larvae
-	5 Labyrinth Ritekeeper
-	5 Labyrinth Flaming Swordsman
-	5 Lonely Old Dear
-	5 Twin Dagger Watcher
-	5 Halberd Watcher
-	5 Small Wandering Nightmare
-	5 Mad One
-	5 Merciless Butcher
-	5 Nightmare Apostle
-	5 Nightmare Executioner
-	5 Rotted Corpse
-	5 Walking Silverbeast
-	5 Masked Huntsman
-	5 Healing Church Communion
-	5 Pthumeru Chalice
-	5 Great Pthumeru Ihyll Chalice
-	5 Hintertomb Chalice
-	5 Ailing Loran Chalice
-	5 Great Isz Chalice
-	5 Blazing Torch
-	5 Sign in Blood
-	5 Kirkhammer
-	5 Rifle Spear
-	5 Piercing Rifle
-	5 Repeating Pistol
-	5 Rosmarinus
-	5 Frenzying Voices
-	5 Unsettling Discoveries
-	5 Solemn Respite
-	5 Sorrowful Song
-	5 Gift of the Moon
-	5 Bloodmad Blitz
-	5 Hunter's Awakening
-	5 Into the Mist
-	5 Hunter's Remembrance
-	5 The Child Kin
-	5 Mensis Cage
-	5 Dark Well
-	5 Blood Stone Shard
+	4 Iosefka's Blood Vial
+	4 Scourge Beast
+	4 Tonitrus
+	4 Alfred, Hunter of Vilebloods
+	4 Annalise, Queen of the Vilebloods
+	4 The Bloody Crow of Cainhurst
+	4 Bolt Paper
+	4 Fire Paper
+	4 Winter Lantern
+	4 Blood of Arianna
+	4 Blood of Adella
+	4 Blood of Adeline
+	4 Pungent Blood Cocktail
+	4 Tiny Music Box
+	4 Tiny Tonitrus
+	4 Numbing Mist
+	4 Bastard of Loran
+	4 Arcane Haze
+	4 Bloodshot Eyeball
+	4 Living String
+	4 Yellow Backbone
+	4 Infected Organ
+	4 Pearl Slug
+	4 Amygdalan Arm Club
+	4 Beast Claw
+	4 Boom Hammer
+	4 Hunter's Cannon
+	4 Church Cannon
+	4 Guiding Moonlight
+	4 Kos Parasite
+	4 Make Contact
+	4 Destroy Evil
+	4 Blood Saint
+	4 Beastclaw Hunter
+	4 Bell-Ringing Woman
+	4 Stoke the Flames
+	4 Burning the Dream
+	4 Queen Killer
+	4 Gravekeeper Scorpion
+	4 Mensis Defector
+	4 Powder Keg Hunter
+	4 Discple of Djura
+	4 Choir Intelligencer
+	4 Fishing Hamlet Priest
+	4 Imposter Iosefka
+	4 Iosefka, the Blood-Healer
+	4 Labyrinth Madman
+	4 Oedon Chapel Dweller
+	4 Old Hunter
+	4 Henryk, Tragic Hunter
+	4 Saint Adeline
+	4 Harrowed Hunter
+	4 Tomb Prospector
+	4 Valtr, Master of the League
+	4 Madaras Twin
+	4 Tonitrus Hunter
+	4 Crazed Confrontation
+	4 Beast-Possessed Soul
+	4 Bloodletting Beast
+	4 Bloodlicker
+	4 Child of Rom
+	4 Lost Church Giant
+	4 Church Harvester
+	4 Church Crucifier
+	4 Cramped Casket
+	4 Nightmare Crawler
+	4 Labyrinth Spirit
+	4 Eye Collector
+	4 Fluorescent Flower
+	4 Great Snake Ball
+	4 Hemwick Hammer Woman
+	4 Spiked Hunting Dog
+	4 Huntsman's Minion
+	4 Keeper of the Old Lords
+	4 Kidnap
+	4 Yahar'gul Kidnapper
+	4 Labyrinth Soldier
+	4 Delve into the Labyrinth
+	4 Old Hunter Bone
+	4 Hunters Must Hunt
+	4 Burden of the Hunt
+	4 Oedon Chapel
+	4 Soul-Guide Lantern
+	4 Lantern Watcher
+	4 Stalking Beastman
+	4 Large Wandering Nightmare
+	4 Lost Child of Antiquity
+	4 Surrounded by Mad Ones
+	4 Maneater Boar
+	4 Merciless Blunderbuss
+	4 Merciless Mace
+	4 At Mergo's Will
+	4 Attendant of Mergo
+	4 Failed Apostle
+	4 Nightmare Cannoneer
+	4 Pthumerian Pilgrim
+	4 Slime Scholar
+	4 Procession of the Orphan
+	4 Prayers to Kos
+	4 Snail Woman
+	4 Minor Snake Ball
+	4 Hook Gravedigger
+	4 Pickaxe Gravedigger
+	4 Rifle Gravedigger
+	4 Elder Huntsman
+	4 Huntsman Chaingunner
+	4 Beast Rune
+	4 Clawmark Rune
+	4 Blood Rapture
+	4 Anti-Clockwise Metamorphosis
+	4 Moon Rune
+	4 Guidance Rune
+	4 Deep Sea Rune
+	4 Lake Rune
+	4 Eye Rune
+	4 Clockwise Metamorphosis
+	4 Oedon Writhe
+	4 Communion Rune
+	4 Heir Rune
+	4 Beast Cutter
+	4 Beast Hunter Saif
+	4 Logarius' Wheel
+	4 The Sin of Byrgenwerth
+	4 Abandoned Hunter's Workshop
+	4 Hunter's Dream
+	4 Byrgenwerth
+	4 Cathedral Ward
+	4 Fishing Hamlet
+	4 Nightmare of Mensis
+	4 Forbidden Woods
+	4 Yahar'gul, Unseen Village
+	4 Encircled by Ghosts
+	4 Killing Moon
+	4 What We Should Not Know
+	4 Desperate Struggle
+	4 Wander the Woods
+	4 Gentle Quiet
+	4 The Hunter's Armory
+	4 The Tragedy of Ludwig
+	4 Crimes of the Church
+	4 Blood Rock
+	4 Chalice Ritual Site
+	4 Hypogean Gaol
+[common(6)]
+	8 Great One's Wisdom
+	8 Folded Saw Cleaver
+	8 Threaded Cane
+	8 Hunter's Axe
+	8 A Call Beyond
+	8 Accursed Brew
+	8 Augur of Ebrietas
+	8 Beast Blood Pellet
+	8 Beast Roar
+	8 Blacksky Eye
+	8 Blue Elixir
+	8 Bone Marrow Ash
+	8 Gather the Townsfolk
+	8 Rifle Huntsman
+	8 Cannon Huntsman
+	8 Bleeding Huntsman
+	8 Sabre Huntsman
+	8 Pitchfork Huntsman
+	8 Molotov Cocktail
+	8 Lead Elixir
+	8 Pebble
+	8 Oil Urn
+	8 
+	8 Sedative
+	8 Choir Bell
+	8 Antidote
+	8 Empty Phantasm Shell
+	8 Executioner's Gloves
+	8 Madaras Whistle
+	8 Poison Knife
+	8 Throwing Knife
+	8 Bloodletter Mace
+	8 Great One Coldblood
+	8 Church Sword
+	8 Hunter Blunderbuss
+	8 Fist of Gratia
+	8 Flamespray
+	8 Amygdala
+	8 Giant Fishman
+	8 Afflicted Beggar
+	8 Bath Messengers
+	8 Beastial Hunter
+	8 Blood Minister
+	8 Church Assassin
+	8 The Hunt Begins
+	8 Searching Patient
+	8 Hostile Patient
+	8 Feral Patient
+	8 Infected Patient
+	8 Arcane Patient
+	8 Patient's Head
+	8 Nightmare Hound
+	8 Forbidden Woods Gatekeeper
+	8 Sickly Yharnamite
+	8 Yharnam Hunter
+	8 Black Church Hunter
+	8 White Church Hunter
+	8 Mad Labyrinth Hunter
+	8 Mensis Scholar
+	8 Mergo's Cry
+	8 Narrow Minded Man
+	8 Beast Cutter Hunter
+	8 Wanderer from the East
+	8 Strength of Arms
+	8 Petrify
+	8 Ambushed by Beasts
+	8 Hooded Beast Patient
+	8 Beast of the Hunt
+	8 Blood Gel
+	8 Bound Widow
+	8 Brain Sucker
+	8 Cain's Servant
+	8 Cainhurst Servant Knight
+	8 Carrion Crow
+	8 Mutated Crow
+	8 Celestial Minion
+	8 Executioner Church Giant
+	8 Destroyer Church Giant
+	8 Church Servant
+	8 Church Cleanser
+	8 Church Executioner
+	8 Fish Dog
+	8 Trawl Through the Muck
+	8 Cleaver Fishman
+	8 Spear-Thrower Fishman
+	8 Garden of Eyes
+	8 Boulder Defense
+	8 Giant Lost Child
+	8 Hemwick Grave Woman
+	8 Hemwick Solderer
+	8 Rabid Dog
+	8 Mutated Dog
+	8 Keeper's Hunting Dogs
+	8 Labyrinth Mole
+	8 Labyrinth Rat
+	8 Persistence
+	8 Transcendence
+	8 Fishman Mage
+	8 Skeletal Puppet
+	8 Praise the Moon Presence
+	8 Nightmare Boar
+	8 Parasite Larvae
+	8 Labyrinth Ritekeeper
+	8 Labyrinth Flaming Swordsman
+	8 Lonely Old Dear
+	8 Twin Dagger Watcher
+	8 Halberd Watcher
+	8 Small Wandering Nightmare
+	8 Mad One
+	8 Merciless Butcher
+	8 Nightmare Apostle
+	8 Nightmare Executioner
+	8 Rotted Corpse
+	8 Walking Silverbeast
+	8 Masked Huntsman
+	8 Healing Church Communion
+	8 Pthumeru Chalice
+	8 Great Pthumeru Ihyll Chalice
+	8 Hintertomb Chalice
+	8 Ailing Loran Chalice
+	8 Great Isz Chalice
+	8 Hunter's Torch
+	8 Sign in Blood
+	8 Kirkhammer
+	8 Rifle Spear
+	8 Piercing Rifle
+	8 Repeating Pistol
+	8 Rosmarinus
+	8 Frenzying Voices
+	8 Unsettling Discoveries
+	8 Solemn Respite
+	8 Sorrowful Song
+	8 Gift of the Moon
+	8 Bloodmad Blitz
+	8 Hunter's Awakening
+	8 Into the Mist
+	8 Hunter's Remembrance
+	8 The Child Kin
+	8 Mensis Cage
+	8 Dark Well
+	8 Blood Stone Shard
+[common | masterpiece(1)]
+	8 Great One's Wisdom
+	8 Folded Saw Cleaver
+	8 Threaded Cane
+	8 Hunter's Axe
+	8 A Call Beyond
+	8 Accursed Brew
+	8 Augur of Ebrietas
+	8 Beast Blood Pellet
+	8 Beast Roar
+	8 Blacksky Eye
+	8 Blue Elixir
+	8 Bone Marrow Ash
+	8 Gather the Townsfolk
+	8 Rifle Huntsman
+	8 Cannon Huntsman
+	8 Bleeding Huntsman
+	8 Sabre Huntsman
+	8 Pitchfork Huntsman
+	8 Molotov Cocktail
+	8 Lead Elixir
+	8 Pebble
+	8 Oil Urn
+	8 
+	8 Sedative
+	8 Choir Bell
+	8 Antidote
+	8 Empty Phantasm Shell
+	8 Executioner's Gloves
+	8 Madaras Whistle
+	8 Poison Knife
+	8 Throwing Knife
+	8 Bloodletter Mace
+	8 Great One Coldblood
+	8 Church Sword
+	8 Hunter Blunderbuss
+	8 Fist of Gratia
+	8 Flamespray
+	8 Amygdala
+	8 Giant Fishman
+	8 Afflicted Beggar
+	8 Bath Messengers
+	8 Beastial Hunter
+	8 Blood Minister
+	8 Church Assassin
+	8 The Hunt Begins
+	8 Searching Patient
+	8 Hostile Patient
+	8 Feral Patient
+	8 Infected Patient
+	8 Arcane Patient
+	8 Patient's Head
+	8 Nightmare Hound
+	8 Forbidden Woods Gatekeeper
+	8 Sickly Yharnamite
+	8 Yharnam Hunter
+	8 Black Church Hunter
+	8 White Church Hunter
+	8 Mad Labyrinth Hunter
+	8 Mensis Scholar
+	8 Mergo's Cry
+	8 Narrow Minded Man
+	8 Beast Cutter Hunter
+	8 Wanderer from the East
+	8 Strength of Arms
+	8 Petrify
+	8 Ambushed by Beasts
+	8 Hooded Beast Patient
+	8 Beast of the Hunt
+	8 Blood Gel
+	8 Bound Widow
+	8 Brain Sucker
+	8 Cain's Servant
+	8 Cainhurst Servant Knight
+	8 Carrion Crow
+	8 Mutated Crow
+	8 Celestial Minion
+	8 Executioner Church Giant
+	8 Destroyer Church Giant
+	8 Church Servant
+	8 Church Cleanser
+	8 Church Executioner
+	8 Fish Dog
+	8 Trawl Through the Muck
+	8 Cleaver Fishman
+	8 Spear-Thrower Fishman
+	8 Garden of Eyes
+	8 Boulder Defense
+	8 Giant Lost Child
+	8 Hemwick Grave Woman
+	8 Hemwick Solderer
+	8 Rabid Dog
+	8 Mutated Dog
+	8 Keeper's Hunting Dogs
+	8 Labyrinth Mole
+	8 Labyrinth Rat
+	8 Persistence
+	8 Transcendence
+	8 Fishman Mage
+	8 Skeletal Puppet
+	8 Praise the Moon Presence
+	8 Nightmare Boar
+	8 Parasite Larvae
+	8 Labyrinth Ritekeeper
+	8 Labyrinth Flaming Swordsman
+	8 Lonely Old Dear
+	8 Twin Dagger Watcher
+	8 Halberd Watcher
+	8 Small Wandering Nightmare
+	8 Mad One
+	8 Merciless Butcher
+	8 Nightmare Apostle
+	8 Nightmare Executioner
+	8 Rotted Corpse
+	8 Walking Silverbeast
+	8 Masked Huntsman
+	8 Healing Church Communion
+	8 Pthumeru Chalice
+	8 Great Pthumeru Ihyll Chalice
+	8 Hintertomb Chalice
+	8 Ailing Loran Chalice
+	8 Great Isz Chalice
+	8 Hunter's Torch
+	8 Sign in Blood
+	8 Kirkhammer
+	8 Rifle Spear
+	8 Piercing Rifle
+	8 Repeating Pistol
+	8 Rosmarinus
+	8 Frenzying Voices
+	8 Unsettling Discoveries
+	8 Solemn Respite
+	8 Sorrowful Song
+	8 Gift of the Moon
+	8 Bloodmad Blitz
+	8 Hunter's Awakening
+	8 Into the Mist
+	8 Hunter's Remembrance
+	8 The Child Kin
+	8 Mensis Cage
+	8 Dark Well
+	8 Blood Stone Shard
+[foil(1)]
+	12 Great One's Wisdom
+	6 Iosefka's Blood Vial
+	12 Folded Saw Cleaver
+	6 Scourge Beast
+	12 Threaded Cane
+	12 Hunter's Axe
+	6 Tonitrus
+	1 The Cursed Lady Maria
+	2 Father Gascoigne
+	1 Gehrman of the Hunter's Dream
+	6 Alfred, Hunter of Vilebloods
+	6 Annalise, Queen of the Vilebloods
+	12 A Call Beyond
+	6 The Bloody Crow of Cainhurst
+	12 Accursed Brew
+	12 Augur of Ebrietas
+	12 Beast Blood Pellet
+	12 Beast Roar
+	12 Blacksky Eye
+	12 Blue Elixir
+	6 Bolt Paper
+	6 Fire Paper
+	12 Bone Marrow Ash
+	12 Gather the Townsfolk
+	12 Rifle Huntsman
+	12 Cannon Huntsman
+	12 Bleeding Huntsman
+	12 Sabre Huntsman
+	12 Pitchfork Huntsman
+	12 Molotov Cocktail
+	12 Lead Elixir
+	12 Pebble
+	12 Oil Urn
+	6 Winter Lantern
+	12 
+	6 Blood of Arianna
+	6 Blood of Adella
+	6 Blood of Adeline
+	12 Sedative
+	12 Choir Bell
+	12 Antidote
+	12 Empty Phantasm Shell
+	12 Executioner's Gloves
+	12 Madaras Whistle
+	12 Poison Knife
+	6 Pungent Blood Cocktail
+	2 Shaman Bone Blade
+	12 Throwing Knife
+	6 Tiny Music Box
+	6 Tiny Tonitrus
+	6 Numbing Mist
+	6 Bastard of Loran
+	6 Arcane Haze
+	6 Bloodshot Eyeball
+	6 Living String
+	6 Yellow Backbone
+	6 Infected Organ
+	6 Pearl Slug
+	6 Amygdalan Arm Club
+	6 Beast Claw
+	2 Burial Blade
+	2 Blade of Mercy
+	12 Bloodletter Mace
+	6 Boom Hammer
+	12 Great One Coldblood
+	6 Hunter's Cannon
+	2 Chikage
+	6 Church Cannon
+	12 Church Sword
+	12 Hunter Blunderbuss
+	12 Fist of Gratia
+	12 Flamespray
+	2 Gun Down
+	6 Guiding Moonlight
+	2 Holy Moonlight Sword
+	6 Kos Parasite
+	6 Make Contact
+	6 Destroy Evil
+	2 Rom, the Vacuous Spider
+	1 Orphan of Kos
+	2 Celestial Emissary
+	12 Amygdala
+	12 Giant Fishman
+	1 The One Reborn
+	12 Afflicted Beggar
+	6 Blood Saint
+	12 Bath Messengers
+	6 Beastclaw Hunter
+	6 Bell-Ringing Woman
+	12 Beastial Hunter
+	12 Blood Minister
+	12 Church Assassin
+	2 Arianna, Oedon's Consort
+	12 The Hunt Begins
+	6 Stoke the Flames
+	6 Burning the Dream
+	12 Searching Patient
+	12 Hostile Patient
+	12 Feral Patient
+	12 Infected Patient
+	12 Arcane Patient
+	12 Patient's Head
+	6 Queen Killer
+	12 Nightmare Hound
+	6 Gravekeeper Scorpion
+	6 Mensis Defector
+	2 The Doll
+	6 Powder Keg Hunter
+	6 Discple of Djura
+	6 Choir Intelligencer
+	1 Eileen, the Crow
+	1 Vicar Amelia
+	1 Micolash, Host of the Nightmare
+	1 Laurence, the First Vicar
+	1 Cleric Beast
+	6 Fishing Hamlet Priest
+	12 Forbidden Woods Gatekeeper
+	12 Sickly Yharnamite
+	12 Yharnam Hunter
+	12 Black Church Hunter
+	12 White Church Hunter
+	6 Imposter Iosefka
+	6 Iosefka, the Blood-Healer
+	6 Labyrinth Madman
+	12 Mad Labyrinth Hunter
+	2 Master Willem
+	12 Mensis Scholar
+	12 Mergo's Cry
+	12 Narrow Minded Man
+	6 Oedon Chapel Dweller
+	6 Old Hunter
+	6 Henryk, Tragic Hunter
+	12 Beast Cutter Hunter
+	2 Patches, the Spider
+	2 Retired Hunter Djura
+	6 Saint Adeline
+	6 Harrowed Hunter
+	6 Tomb Prospector
+	6 Valtr, Master of the League
+	12 Wanderer from the East
+	12 Strength of Arms
+	12 Petrify
+	6 Madaras Twin
+	2 Yurie, the Last Scholar
+	6 Tonitrus Hunter
+	2 Burn at the Stake
+	12 Ambushed by Beasts
+	6 Crazed Confrontation
+	12 Hooded Beast Patient
+	12 Beast of the Hunt
+	6 Beast-Possessed Soul
+	12 Blood Gel
+	2 Blood-Starved Beast
+	6 Bloodletting Beast
+	6 Bloodlicker
+	12 Bound Widow
+	12 Brain Sucker
+	12 Cain's Servant
+	12 Cainhurst Servant Knight
+	12 Carrion Crow
+	12 Mutated Crow
+	2 Celestial Child
+	12 Celestial Minion
+	6 Child of Rom
+	12 Executioner Church Giant
+	12 Destroyer Church Giant
+	6 Lost Church Giant
+	12 Church Servant
+	12 Church Cleanser
+	6 Church Harvester
+	6 Church Crucifier
+	2 Church Excoriator
+	6 Cramped Casket
+	6 Nightmare Crawler
+	2 Darkbeast Paarl
+	6 Labyrinth Spirit
+	12 Church Executioner
+	6 Eye Collector
+	12 Fish Dog
+	12 Trawl Through the Muck
+	12 Cleaver Fishman
+	12 Spear-Thrower Fishman
+	6 Fluorescent Flower
+	12 Garden of Eyes
+	12 Boulder Defense
+	12 Giant Lost Child
+	6 Great Snake Ball
+	12 Hemwick Grave Woman
+	6 Hemwick Hammer Woman
+	12 Hemwick Solderer
+	6 Spiked Hunting Dog
+	12 Rabid Dog
+	12 Mutated Dog
+	6 Huntsman's Minion
+	6 Keeper of the Old Lords
+	12 Keeper's Hunting Dogs
+	6 Kidnap
+	6 Yahar'gul Kidnapper
+	12 Labyrinth Mole
+	12 Labyrinth Rat
+	6 Labyrinth Soldier
+	2 The Blood Moon Rises
+	12 Persistence
+	6 Delve into the Labyrinth
+	6 Old Hunter Bone
+	2 End of Night
+	12 Transcendence
+	6 Hunters Must Hunt
+	2 Loran Cleric
+	6 Burden of the Hunt
+	12 Fishman Mage
+	12 Skeletal Puppet
+	12 Praise the Moon Presence
+	6 Oedon Chapel
+	12 Nightmare Boar
+	12 Parasite Larvae
+	12 Labyrinth Ritekeeper
+	6 Soul-Guide Lantern
+	12 Labyrinth Flaming Swordsman
+	12 Lonely Old Dear
+	12 Twin Dagger Watcher
+	2 Call the Watchers
+	6 Lantern Watcher
+	12 Halberd Watcher
+	6 Stalking Beastman
+	6 Large Wandering Nightmare
+	12 Small Wandering Nightmare
+	2 Living Failures
+	6 Lost Child of Antiquity
+	1 Ludwig, The Acursed
+	6 Surrounded by Mad Ones
+	12 Mad One
+	6 Maneater Boar
+	1 Martyr Logarius
+	6 Merciless Blunderbuss
+	12 Merciless Butcher
+	6 Merciless Mace
+	6 At Mergo's Will
+	6 Attendant of Mergo
+	2 Mergo's Chief Attendant
+	1 Mergo's Wet Nurse
+	2 The Mother Apostle
+	12 Nightmare Apostle
+	6 Failed Apostle
+	12 Nightmare Executioner
+	6 Nightmare Cannoneer
+	6 Pthumerian Pilgrim
+	2 Pthumerian Descendant
+	12 Rotted Corpse
+	2 Shadows of Yharnam
+	12 Walking Silverbeast
+	6 Slime Scholar
+	6 Procession of the Orphan
+	6 Prayers to Kos
+	6 Snail Woman
+	6 Minor Snake Ball
+	12 Masked Huntsman
+	2 The Witch of Hemwick
+	2 Undead Blade Giant
+	2 Undead Cannon Giant
+	2 Watchdog of the Old Lords
+	6 Hook Gravedigger
+	6 Pickaxe Gravedigger
+	6 Rifle Gravedigger
+	6 Elder Huntsman
+	6 Huntsman Chaingunner
+	12 Healing Church Communion
+	12 Pthumeru Chalice
+	12 Great Pthumeru Ihyll Chalice
+	12 Hintertomb Chalice
+	12 Ailing Loran Chalice
+	12 Great Isz Chalice
+	12 Hunter's Torch
+	12 Sign in Blood
+	6 Beast Rune
+	6 Clawmark Rune
+	6 Blood Rapture
+	6 Anti-Clockwise Metamorphosis
+	6 Moon Rune
+	6 Guidance Rune
+	6 Deep Sea Rune
+	6 Lake Rune
+	6 Eye Rune
+	6 Clockwise Metamorphosis
+	6 Oedon Writhe
+	6 Communion Rune
+	6 Heir Rune
+	2 Impurity Oath
+	2 Radiance Oath
+	2 Milkweed Oath
+	2 Beast's Embrace Oath
+	2 Hunter's Oath
+	2 Corruption Oath
+	6 Beast Cutter
+	6 Beast Hunter Saif
+	12 Kirkhammer
+	6 Logarius' Wheel
+	6 The Sin of Byrgenwerth
+	12 Rifle Spear
+	12 Piercing Rifle
+	12 Repeating Pistol
+	12 Rosmarinus
+	2 Whirligig Saw
+	6 Abandoned Hunter's Workshop
+	6 Hunter's Dream
+	2 Astral Clocktower
+	6 Byrgenwerth
+	6 Cathedral Ward
+	6 Fishing Hamlet
+	6 Nightmare of Mensis
+	6 Forbidden Woods
+	6 Yahar'gul, Unseen Village
+	2 Phlebotomize
+	12 Frenzying Voices
+	12 Unsettling Discoveries
+	12 Solemn Respite
+	6 Encircled by Ghosts
+	12 Sorrowful Song
+	12 Gift of the Moon
+	1 Childhood's Beginning
+	6 Killing Moon
+	2 Peaceful Dawn
+	12 Bloodmad Blitz
+	12 Hunter's Awakening
+	1 Honoring Wishes
+	12 Into the Mist
+	12 Hunter's Remembrance
+	6 What We Should Not Know
+	6 Desperate Struggle
+	1 The Blood Sings
+	6 Wander the Woods
+	2 The Good Hunter
+	2 Visceral Attack
+	2 Consult the Great Ones
+	6 Gentle Quiet
+	6 The Hunter's Armory
+	6 The Tragedy of Ludwig
+	6 Crimes of the Church
+	12 The Child Kin
+	12 Mensis Cage
+	2 Behold! A Paleblood Sky
+	12 Dark Well
+	12 Blood Stone Shard
+	6 Blood Rock
+	2 Altar of Surgery
+	6 Chalice Ritual Site
+	2 The Cursed Coast
+	2 Snake Infested Gravesite
+	2 Great Bridge
+	2 Grand Cathedral
+	6 Hypogean Gaol
+[wildcard(1)]
+	6 Great One's Wisdom
+	15 Iosefka's Blood Vial
+	6 Folded Saw Cleaver
+	15 Scourge Beast
+	6 Threaded Cane
+	6 Hunter's Axe
+	15 Tonitrus
+	4 The Cursed Lady Maria
+	7 Father Gascoigne
+	4 Gehrman of the Hunter's Dream
+	15 Alfred, Hunter of Vilebloods
+	15 Annalise, Queen of the Vilebloods
+	6 A Call Beyond
+	15 The Bloody Crow of Cainhurst
+	6 Accursed Brew
+	6 Augur of Ebrietas
+	6 Beast Blood Pellet
+	6 Beast Roar
+	6 Blacksky Eye
+	6 Blue Elixir
+	15 Bolt Paper
+	15 Fire Paper
+	6 Bone Marrow Ash
+	6 Gather the Townsfolk
+	6 Rifle Huntsman
+	6 Cannon Huntsman
+	6 Bleeding Huntsman
+	6 Sabre Huntsman
+	6 Pitchfork Huntsman
+	6 Molotov Cocktail
+	6 Lead Elixir
+	6 Pebble
+	6 Oil Urn
+	15 Winter Lantern
+	6 
+	15 Blood of Arianna
+	15 Blood of Adella
+	15 Blood of Adeline
+	6 Sedative
+	6 Choir Bell
+	6 Antidote
+	6 Empty Phantasm Shell
+	6 Executioner's Gloves
+	6 Madaras Whistle
+	6 Poison Knife
+	15 Pungent Blood Cocktail
+	7 Shaman Bone Blade
+	6 Throwing Knife
+	15 Tiny Music Box
+	15 Tiny Tonitrus
+	15 Numbing Mist
+	15 Bastard of Loran
+	15 Arcane Haze
+	15 Bloodshot Eyeball
+	15 Living String
+	15 Yellow Backbone
+	15 Infected Organ
+	15 Pearl Slug
+	15 Amygdalan Arm Club
+	15 Beast Claw
+	7 Burial Blade
+	7 Blade of Mercy
+	6 Bloodletter Mace
+	15 Boom Hammer
+	6 Great One Coldblood
+	15 Hunter's Cannon
+	7 Chikage
+	15 Church Cannon
+	6 Church Sword
+	6 Hunter Blunderbuss
+	6 Fist of Gratia
+	6 Flamespray
+	7 Gun Down
+	15 Guiding Moonlight
+	7 Holy Moonlight Sword
+	15 Kos Parasite
+	15 Make Contact
+	15 Destroy Evil
+	7 Rom, the Vacuous Spider
+	4 Orphan of Kos
+	7 Celestial Emissary
+	6 Amygdala
+	6 Giant Fishman
+	4 The One Reborn
+	6 Afflicted Beggar
+	15 Blood Saint
+	6 Bath Messengers
+	15 Beastclaw Hunter
+	15 Bell-Ringing Woman
+	6 Beastial Hunter
+	6 Blood Minister
+	6 Church Assassin
+	7 Arianna, Oedon's Consort
+	6 The Hunt Begins
+	15 Stoke the Flames
+	15 Burning the Dream
+	6 Searching Patient
+	6 Hostile Patient
+	6 Feral Patient
+	6 Infected Patient
+	6 Arcane Patient
+	6 Patient's Head
+	15 Queen Killer
+	6 Nightmare Hound
+	15 Gravekeeper Scorpion
+	15 Mensis Defector
+	7 The Doll
+	15 Powder Keg Hunter
+	15 Discple of Djura
+	15 Choir Intelligencer
+	4 Eileen, the Crow
+	4 Vicar Amelia
+	4 Micolash, Host of the Nightmare
+	4 Laurence, the First Vicar
+	4 Cleric Beast
+	15 Fishing Hamlet Priest
+	6 Forbidden Woods Gatekeeper
+	6 Sickly Yharnamite
+	6 Yharnam Hunter
+	6 Black Church Hunter
+	6 White Church Hunter
+	15 Imposter Iosefka
+	15 Iosefka, the Blood-Healer
+	15 Labyrinth Madman
+	6 Mad Labyrinth Hunter
+	7 Master Willem
+	6 Mensis Scholar
+	6 Mergo's Cry
+	6 Narrow Minded Man
+	15 Oedon Chapel Dweller
+	15 Old Hunter
+	15 Henryk, Tragic Hunter
+	6 Beast Cutter Hunter
+	7 Patches, the Spider
+	7 Retired Hunter Djura
+	15 Saint Adeline
+	15 Harrowed Hunter
+	15 Tomb Prospector
+	15 Valtr, Master of the League
+	6 Wanderer from the East
+	6 Strength of Arms
+	6 Petrify
+	15 Madaras Twin
+	7 Yurie, the Last Scholar
+	15 Tonitrus Hunter
+	7 Burn at the Stake
+	6 Ambushed by Beasts
+	15 Crazed Confrontation
+	6 Hooded Beast Patient
+	6 Beast of the Hunt
+	15 Beast-Possessed Soul
+	6 Blood Gel
+	7 Blood-Starved Beast
+	15 Bloodletting Beast
+	15 Bloodlicker
+	6 Bound Widow
+	6 Brain Sucker
+	6 Cain's Servant
+	6 Cainhurst Servant Knight
+	6 Carrion Crow
+	6 Mutated Crow
+	7 Celestial Child
+	6 Celestial Minion
+	15 Child of Rom
+	6 Executioner Church Giant
+	6 Destroyer Church Giant
+	15 Lost Church Giant
+	6 Church Servant
+	6 Church Cleanser
+	15 Church Harvester
+	15 Church Crucifier
+	7 Church Excoriator
+	15 Cramped Casket
+	15 Nightmare Crawler
+	7 Darkbeast Paarl
+	15 Labyrinth Spirit
+	6 Church Executioner
+	15 Eye Collector
+	6 Fish Dog
+	6 Trawl Through the Muck
+	6 Cleaver Fishman
+	6 Spear-Thrower Fishman
+	15 Fluorescent Flower
+	6 Garden of Eyes
+	6 Boulder Defense
+	6 Giant Lost Child
+	15 Great Snake Ball
+	6 Hemwick Grave Woman
+	15 Hemwick Hammer Woman
+	6 Hemwick Solderer
+	15 Spiked Hunting Dog
+	6 Rabid Dog
+	6 Mutated Dog
+	15 Huntsman's Minion
+	15 Keeper of the Old Lords
+	6 Keeper's Hunting Dogs
+	15 Kidnap
+	15 Yahar'gul Kidnapper
+	6 Labyrinth Mole
+	6 Labyrinth Rat
+	15 Labyrinth Soldier
+	7 The Blood Moon Rises
+	6 Persistence
+	15 Delve into the Labyrinth
+	15 Old Hunter Bone
+	7 End of Night
+	6 Transcendence
+	15 Hunters Must Hunt
+	7 Loran Cleric
+	15 Burden of the Hunt
+	6 Fishman Mage
+	6 Skeletal Puppet
+	6 Praise the Moon Presence
+	15 Oedon Chapel
+	6 Nightmare Boar
+	6 Parasite Larvae
+	6 Labyrinth Ritekeeper
+	15 Soul-Guide Lantern
+	6 Labyrinth Flaming Swordsman
+	6 Lonely Old Dear
+	6 Twin Dagger Watcher
+	7 Call the Watchers
+	15 Lantern Watcher
+	6 Halberd Watcher
+	15 Stalking Beastman
+	15 Large Wandering Nightmare
+	6 Small Wandering Nightmare
+	7 Living Failures
+	15 Lost Child of Antiquity
+	4 Ludwig, The Acursed
+	15 Surrounded by Mad Ones
+	6 Mad One
+	15 Maneater Boar
+	4 Martyr Logarius
+	15 Merciless Blunderbuss
+	6 Merciless Butcher
+	15 Merciless Mace
+	15 At Mergo's Will
+	15 Attendant of Mergo
+	7 Mergo's Chief Attendant
+	4 Mergo's Wet Nurse
+	7 The Mother Apostle
+	6 Nightmare Apostle
+	15 Failed Apostle
+	6 Nightmare Executioner
+	15 Nightmare Cannoneer
+	15 Pthumerian Pilgrim
+	7 Pthumerian Descendant
+	6 Rotted Corpse
+	7 Shadows of Yharnam
+	6 Walking Silverbeast
+	15 Slime Scholar
+	15 Procession of the Orphan
+	15 Prayers to Kos
+	15 Snail Woman
+	15 Minor Snake Ball
+	6 Masked Huntsman
+	7 The Witch of Hemwick
+	7 Undead Blade Giant
+	7 Undead Cannon Giant
+	7 Watchdog of the Old Lords
+	15 Hook Gravedigger
+	15 Pickaxe Gravedigger
+	15 Rifle Gravedigger
+	15 Elder Huntsman
+	15 Huntsman Chaingunner
+	6 Healing Church Communion
+	6 Pthumeru Chalice
+	6 Great Pthumeru Ihyll Chalice
+	6 Hintertomb Chalice
+	6 Ailing Loran Chalice
+	6 Great Isz Chalice
+	6 Hunter's Torch
+	6 Sign in Blood
+	15 Beast Rune
+	15 Clawmark Rune
+	15 Blood Rapture
+	15 Anti-Clockwise Metamorphosis
+	15 Moon Rune
+	15 Guidance Rune
+	15 Deep Sea Rune
+	15 Lake Rune
+	15 Eye Rune
+	15 Clockwise Metamorphosis
+	15 Oedon Writhe
+	15 Communion Rune
+	15 Heir Rune
+	7 Impurity Oath
+	7 Radiance Oath
+	7 Milkweed Oath
+	7 Beast's Embrace Oath
+	7 Hunter's Oath
+	7 Corruption Oath
+	15 Beast Cutter
+	15 Beast Hunter Saif
+	6 Kirkhammer
+	15 Logarius' Wheel
+	15 The Sin of Byrgenwerth
+	6 Rifle Spear
+	6 Piercing Rifle
+	6 Repeating Pistol
+	6 Rosmarinus
+	7 Whirligig Saw
+	15 Abandoned Hunter's Workshop
+	15 Hunter's Dream
+	7 Astral Clocktower
+	15 Byrgenwerth
+	15 Cathedral Ward
+	15 Fishing Hamlet
+	15 Nightmare of Mensis
+	15 Forbidden Woods
+	15 Yahar'gul, Unseen Village
+	7 Phlebotomize
+	6 Frenzying Voices
+	6 Unsettling Discoveries
+	6 Solemn Respite
+	15 Encircled by Ghosts
+	6 Sorrowful Song
+	6 Gift of the Moon
+	4 Childhood's Beginning
+	15 Killing Moon
+	7 Peaceful Dawn
+	6 Bloodmad Blitz
+	6 Hunter's Awakening
+	4 Honoring Wishes
+	6 Into the Mist
+	6 Hunter's Remembrance
+	15 What We Should Not Know
+	15 Desperate Struggle
+	4 The Blood Sings
+	15 Wander the Woods
+	7 The Good Hunter
+	7 Visceral Attack
+	7 Consult the Great Ones
+	15 Gentle Quiet
+	15 The Hunter's Armory
+	15 The Tragedy of Ludwig
+	15 Crimes of the Church
+	6 The Child Kin
+	6 Mensis Cage
+	7 Behold! A Paleblood Sky
+	6 Dark Well
+	6 Blood Stone Shard
+	15 Blood Rock
+	7 Altar of Surgery
+	15 Chalice Ritual Site
+	7 The Cursed Coast
+	7 Snake Infested Gravesite
+	7 Great Bridge
+	7 Grand Cathedral
+	15 Hypogean Gaol

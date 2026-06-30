@@ -1,22 +1,45 @@
 import os
 import sys
+import json
 
 def generateHTML(codes):
 	output_html_file = "deckbuilder.html"
+
+	with open(os.path.join('resources', 'site-config.json'), encoding='utf-8-sig') as f:
+		config = json.load(f)
+		base_url = config.get('base_url', '')
+		hub_name = base_url.split('https://')[1].split('.github.io')[0] if 'https://' in base_url else 'unknown'
 
 	# Start creating the HTML file content
 	html_content = '''<html>
 <head>
 	<title>Deckbuilder</title>
-	<link rel="icon" type="image/x-icon" href="/img/deck.png">
-	<link rel="stylesheet" href="resources/mana.css">
-	<link rel="stylesheet" href="/resources/header.css">
-	<link rel="stylesheet" href="/resources/card-text.css">
+	<link rel="icon" type="image/x-icon" href="./img/deckbuilder.png">
+	<link rel="stylesheet" href="./resources/mana.css">
+	<link rel="stylesheet" href="./resources/header.css">
+	<link rel="stylesheet" href="./resources/card-text.css">
+	<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
+<script title="root">
+	const rootPath = ".";
+	const SUPABASE_URL = 'https://mtjkkvtcmejzcpjmropd.supabase.co';
+	const SUPABASE_KEY = 'sb_publishable_Hgyr2JJRsJRa1pYwoz-ijQ_ozfwnp9t';
+	const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+	const hubName = "''' + hub_name + '''";
+
+	function generateShortId(length = 10) {
+		const chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+		let result = '';
+		for (let i = 0; i < length; i++) {
+			result += chars.charAt(Math.floor(Math.random() * chars.length));
+		}
+		return result;
+	}
+</script>
 <style>
 	@font-face {
 		font-family: Beleren;
-		src: url('/resources/beleren.ttf');
+		src: url('./resources/beleren.ttf');
 	}
 	body {
 		font-family: 'Helvetica', 'Arial', sans-serif;
@@ -60,16 +83,43 @@ def generateHTML(codes):
 		overflow-y: hidden;
 	}
 	.deckbuilder-search-grid {
-		width: 80%;
+		width: 95%;
 		max-width: 1200px;
 		min-height: 36px;
 		display: grid;
-		grid-template-columns: 4fr 1fr;
+		grid-template-columns: 5fr 2fr 1fr;
 		gap: 8px;
-		padding: 5px 10%;
+		padding: 5px 2.5%;
 		border-bottom: 1px solid #898989;
 		justify-items: center;
 		align-items: center;
+	}
+	.search-row {
+		display: grid;
+		grid-template-columns: 3fr 1.5fr 1.5fr 1fr 3fr;
+		gap: 5px;
+		padding: 5px 10px;
+		border-bottom: 1px solid #d5d9d9;
+		cursor: pointer;
+		font-size: 12px;
+		align-items: center;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.search-row:hover {
+		background-color: #e9e9e9;
+	}
+	.search-row div {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+	.search-row-header {
+		font-weight: bold;
+		background-color: #e0e0e0;
+		position: sticky;
+		top: 0;
+		z-index: 1;
 	}
 	input {
 		width: 100%;
@@ -107,7 +157,7 @@ def generateHTML(codes):
 		box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
 		outline: 0;
 	}
-	button:disabled {
+	button:disabled, select:disabled {
 		cursor: auto;
 		background-color: #f7fafa;
 		font-style: italic;
@@ -143,11 +193,14 @@ def generateHTML(codes):
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		width: 98%;
-		height: 100%;
-		overflow-y: scroll;
 		gap: 3px;
 		justify-items: center;
 		padding: 1%;
+	}
+	.search-image-grid .img-container {
+		width: 100%;
+		min-height: 150px;
+		aspect-ratio: 2.5 / 3.5;
 	}
 	@media ( max-width: 750px ) {
 		.image-grid {
@@ -188,9 +241,10 @@ def generateHTML(codes):
 	.img-container img {
 		width: 100%;
 		height: auto;
+		border-radius: 3.733% / 2.677%;
 	}
 	.img-container .btn {
-		background: url('img/flip.png') no-repeat;
+		background: url('./img/flip.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 		width: 15%;
@@ -205,7 +259,7 @@ def generateHTML(codes):
 		box-shadow: none;
 	}
 	.img-container .btn:hover {
-		background: url('img/flip-hover.png') no-repeat;
+		background: url('./img/flip-hover.png') no-repeat;
 		background-size: contain;
 		background-position: center;
 	}
@@ -247,6 +301,7 @@ def generateHTML(codes):
 		max-height: 100%;
 		display: block;
 		margin: auto;
+		border-radius: 3.733% / 2.677%;
 	}
 	.card-grid-container .btn {
 		left: 50%;
@@ -284,7 +339,7 @@ def generateHTML(codes):
 		max-width: 1200px;
 		min-height: 36px;
 		display: grid;
-		grid-template-columns: 1.5fr .65fr .75fr .5fr .75fr;
+		grid-template-columns: 1.5fr 1fr .65fr .75fr .75fr;
 		gap: 3px;
 		padding: 5px 2.5%;
 		border-bottom: 1px solid #898989;
@@ -292,6 +347,9 @@ def generateHTML(codes):
 		align-items: center;
 	}
 	.deck-info-grid select {
+		width: 100%;
+	}
+	#search-display {
 		width: 100%;
 	}
 	.deck-count {
@@ -348,6 +406,7 @@ def generateHTML(codes):
 	}
 	.card-img-container img {
 		width: 100%;
+		border-radius: 3.733% / 2.677%;
 	}
 	.card-fx {
 		display: grid;
@@ -362,6 +421,7 @@ def generateHTML(codes):
 	.img-container .h-img {
 		transform: rotateY(0deg) rotate(90deg);
 		width: 85%;
+		border-radius: 3.733% / 2.677%;
 	}
 	.rc-menu {
 		display: none;
@@ -396,13 +456,38 @@ def generateHTML(codes):
 <body>
 	<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png" onclick="goToSearch()">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+	</script>
 	<div id="myContextMenu" class="rc-menu">
 		<ul>
 			<li id="add-to-deck">Add to Deck</li>
@@ -426,6 +511,10 @@ def generateHTML(codes):
 						<option value="descending">Desc</option>
 					</select>
 				</div>
+				<select name="search-display" id="search-display">
+					<option value="cards">Cards</option>
+					<option value="text">Text</option>
+				</select>
 			</div>
 			<div class="search-results-container">
 				<div class="search-image-grid-container">
@@ -442,6 +531,9 @@ def generateHTML(codes):
 			</div>
 			<div class="deck-info-grid">
 				<input type="text" value="Untitled Deck" id="deck-name" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<select name="format-select" class="format-select" id="format-select">
+					<option value="None">Format ...</option>
+				</select>
 				<div id="deck-count" class="deck-count">
 					(0 / 0)
 				</div>
@@ -449,12 +541,14 @@ def generateHTML(codes):
 					<option value="text">Text</option>
 					<option value="images">Images</option>
 				</select>
-				<div></div> <!-- empty div for spacing -->
 				<select name="file-menu" class="file-menu" id="file-menu">
 					<option value="default">Actions ...</option>
 					<option value="new">New deck</option>
 					<option value="import">Import deck</option>
+					<option value="import-clipboard">Load from clipboard</option>
 					<option value="clipboard">Copy to clipboard</option>
+					<option value="save">Save deck</option>
+					<option value="save-hash">Open deck page</option>
 					<option value="export-dek">Export .dek</option>
 					<option value="export-txt">Export .txt</option>
 					<option value="export-cod">Export .cod</option>
@@ -535,16 +629,28 @@ def generateHTML(codes):
 
 	html_content += '''
 
-			await fetch('/lists/all-sets.json')
+			await fetch(rootPath + '/lists/all-sets.json')
 					.then(response => response.json())
 					.then(data => {
 						sets_json = data; 
 				}).catch(error => console.error('Error:', error));
 
+			await fetch(rootPath + '/lists/formats.json')
+					.then(response => response.json())
+					.then(data => {
+						const select = document.getElementById("format-select");
+						data.formats.forEach(f => {
+							const option = document.createElement("option");
+							option.value = f;
+							option.innerText = f;
+							select.appendChild(option);
+						});
+				}).catch(error => console.error('Error:', error));
+
 			cardGrid = document.getElementById("imagesOnlyGrid");
 			card_list_arrayified.sort(compareFunction);
 
-			gridified_card = gridifyCard(card_list_arrayified[0], true, true);
+			gridified_card = gridifyCard(card_list_arrayified[0], true);
 			gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
 			gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
 			document.getElementById("card-grid-container").appendChild(gridified_card);
@@ -559,6 +665,7 @@ def generateHTML(codes):
 
 		document.getElementById("sort-by").onchange = displayChangeListener;
 		document.getElementById("sort-order").onchange = displayChangeListener;
+		document.getElementById("search-display").onchange = displayChangeListener;
 
 		document.getElementById("file-menu").addEventListener("change", function(event) {
 			let option = document.getElementById("file-menu").value;
@@ -573,6 +680,18 @@ def generateHTML(codes):
 			else if (option == "import")
 			{
 				document.getElementById("import-file").click();
+			}
+			else if (option == "import-clipboard")
+			{
+				importFromClipboard();
+			}
+			else if (option == "save")
+			{
+				saveToCloud();
+			}
+			else if (option == "save-hash")
+			{
+				openHashedDeck();
 			}
 			else if (option == "clipboard" || option.startsWith("export"))
 			{
@@ -723,6 +842,49 @@ def generateHTML(codes):
 	html_content += '''
 
 		function preSearch() {
+			const searchTerms = document.getElementById("search").value.toLowerCase();
+			const tokens = tokenizeTerms(searchTerms) || [];
+			const sortBySelect = document.getElementById("sort-by");
+			const sortOrderSelect = document.getElementById("sort-order");
+
+			sortBySelect.disabled = false;
+			sortOrderSelect.disabled = false;
+
+			tokens.forEach(token => {
+				if (token.startsWith("sort:")) {
+					const val = token.substring(5);
+					const map = {
+						"name": "name",
+						"set": "set-code",
+						"mv": "mv",
+						"color": "color",
+						"rarity": "rarity",
+						"cube": "cube"
+					};
+					if (map[val]) {
+						const option = Array.from(sortBySelect.options).find(opt => opt.value === map[val]);
+						if (option) {
+							sortBySelect.value = map[val];
+							sortBySelect.disabled = true;
+						}
+					}
+				}
+				if (token.startsWith("direction:")) {
+					const val = token.substring(10);
+					const map = {
+						"asc": "ascending",
+						"desc": "descending"
+					};
+					if (map[val]) {
+						const option = Array.from(sortOrderSelect.options).find(opt => opt.value === map[val]);
+						if (option) {
+							sortOrderSelect.value = map[val];
+							sortOrderSelect.disabled = true;
+						}
+					}
+				}
+			});
+
 			card_list_arrayified.sort(compareFunction);
 			if (document.getElementById("sort-order").value == "descending")
 			{
@@ -733,11 +895,36 @@ def generateHTML(codes):
 			search();
 		}
 
+		let currentRenderIndex = 0;
+		const CHUNK_SIZE = 100;
+		let searchObserver = null;
+		let currentProcessedResults = [];
+
 		function search() {
 			searchTerms = document.getElementById("search").value.toLowerCase();
+			const displayMode = document.getElementById("search-display").value;
+
+			const resultsContainer = document.querySelector(".search-image-grid-container");
+			if (resultsContainer) resultsContainer.scrollTop = 0;
 
 			cardGrid = document.getElementById("imagesOnlyGrid");
 			cardGrid.innerHTML = "";
+			search_results = [];
+			currentRenderIndex = 0;
+
+			if (searchObserver) {
+				searchObserver.disconnect();
+			}
+
+			if (displayMode === "text") {
+				cardGrid.style.display = "block";
+				const header = document.createElement("div");
+				header.className = "search-row search-row-header";
+				header.innerHTML = "<div>Name</div><div>Sets</div><div>Cost</div><div>P/T</div><div>Type</div>";
+				cardGrid.appendChild(header);
+			} else {
+				cardGrid.style.display = "grid";
+			}
 
 			for (const card of card_list_arrayified) {
 				if (card.shape.includes("token") && !searchTerms.includes("*t:token") && !searchTerms.includes("t:token"))
@@ -747,55 +934,137 @@ def generateHTML(codes):
 
 				searched = searchAllTokens(card, tokenizeTerms(searchTerms));
 
-				if (searched)
+				if (searched && !containsCard(search_results, card))
 				{
 					search_results.push(card);
 				}
 			}
 
-			for (let i = 0; i < search_results.length; i++)
-			{
-				const imgContainer = document.createElement("div");
-				const card_stats = search_results[i];
-				const id = card_stats.set + "-" + card_stats.number + "-" + document.getElementById("display").value;
-				imgContainer.className = "img-container";
-				const card_sr_grid = gridifyCard(search_results[i]);
-				const card_sr = card_sr_grid.getElementsByTagName("img")[0];
-
-				card_sr.onmouseover = function() {
-					cgc = document.getElementById("card-grid-container");
-					cgc.innerHTML = "";
-					const gridified_card = gridifyCard(card_stats, true, true);
-					gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
-					gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
-					if (card_stats.shape.includes("double"))
-					{
-						gridified_card.getElementsByTagName("button")[0].onclick = function() {
-							imgFlip("image-grid-card", card_stats.type.includes("Battle"));
-						}
-					}
-					cgc.appendChild(gridified_card);
-				};
-
-				card_sr.onclick = function() {
-					addCardToDeck(JSON.stringify(card_stats));
-				}
-				card_sr.style.cursor = "pointer";
-
-				contextMenu = document.getElementById("myContextMenu");
-				card_sr.addEventListener("contextmenu", (event) => {
-					event.preventDefault(); // Prevent default context menu
-
-					contextMenu.style.display = "block";
-					contextMenu.style.left = event.pageX + "px";
-					contextMenu.style.top = event.pageY + "px";
-
-					active_card = JSON.stringify(card_stats);
+			// Pre-process results for the current display mode
+			if (displayMode === "text") {
+				const groupedResults = [];
+				const seenNames = new Set();
+				
+				// Create a quick lookup for sets to avoid O(n^2) later
+				const setLookup = {};
+				card_list_arrayified.forEach(c => {
+					if (!setLookup[c.card_name]) setLookup[c.card_name] = new Set();
+					setLookup[c.card_name].add(c.set);
 				});
 
-				imgContainer.appendChild(card_sr);
-				cardGrid.appendChild(imgContainer);
+				search_results.forEach(card => {
+					if (!seenNames.has(card.card_name)) {
+						seenNames.add(card.card_name);
+						const cardSets = Array.from(setLookup[card.card_name]).join(", ");
+						groupedResults.push({ ...card, allSets: cardSets });
+					}
+				});
+				currentProcessedResults = groupedResults;
+			} else {
+				currentProcessedResults = search_results;
 			}
+
+			renderNextChunk();
+		}
+
+		function renderNextChunk() {
+			const displayMode = document.getElementById("search-display").value;
+			const cardGrid = document.getElementById("imagesOnlyGrid");
+			
+			const oldSentinel = document.getElementById("search-sentinel");
+			if (oldSentinel) oldSentinel.remove();
+
+			const nextChunk = currentProcessedResults.slice(currentRenderIndex, currentRenderIndex + CHUNK_SIZE);
+			
+			nextChunk.forEach(card_stats => {
+				if (displayMode === "text") {
+					const row = document.createElement("div");
+					row.className = "search-row";
+					const pt = (card_stats.pt || "").replace(/\\//g, "/");
+					const cleanCost = card_stats.cost.replace(/{(.*?)}/g, (match, p1) => {
+						return p1.length > 1 ? p1.split('').join('/') : p1;
+					});
+					row.innerHTML = `<div>${card_stats.card_name}</div>
+									 <div>${card_stats.allSets}</div>
+									 <div>${cleanCost}</div>
+									 <div>${pt}</div>
+									 <div>${card_stats.type}</div>`;
+					row.onmouseover = () => renderPreview(card_stats);
+					row.onclick = () => addCardToDeck(JSON.stringify(card_stats));
+					row.addEventListener("contextmenu", (event) => {
+						event.preventDefault();
+						showContextMenu(event, card_stats);
+					});
+					cardGrid.appendChild(row);
+				} else {
+					const imgContainer = document.createElement("div");
+					imgContainer.className = "img-container";
+					const card_sr_grid = gridifyCard(card_stats, true, true);
+					const card_sr = card_sr_grid.getElementsByTagName("img")[0];
+					card_sr.onmouseover = () => renderPreview(card_stats);
+					card_sr.onclick = () => addCardToDeck(JSON.stringify(card_stats));
+					card_sr.style.cursor = "pointer";
+					card_sr.addEventListener("contextmenu", (event) => {
+						event.preventDefault();
+						showContextMenu(event, card_stats);
+					});
+					imgContainer.appendChild(card_sr);
+					cardGrid.appendChild(imgContainer);
+				}
+			});
+
+			currentRenderIndex += CHUNK_SIZE;
+
+			if (currentRenderIndex < currentProcessedResults.length) {
+				const sentinel = document.createElement("div");
+				sentinel.id = "search-sentinel";
+				sentinel.style.height = "20px";
+				cardGrid.appendChild(sentinel);
+
+				if (!searchObserver) {
+					searchObserver = new IntersectionObserver((entries) => {
+						if (entries[0].isIntersecting) {
+							renderNextChunk();
+						}
+					}, { root: document.querySelector(".search-image-grid-container"), threshold: 0.1 });
+				}
+				searchObserver.observe(sentinel);
+			}
+		}
+
+		function renderPreview(card_stats) {
+			const cgc = document.getElementById("card-grid-container");
+			cgc.innerHTML = "";
+			const gridified_card = gridifyCard(card_stats, true);
+			gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
+			gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
+			if (card_stats.shape.includes("double")) {
+				gridified_card.getElementsByTagName("button")[0].onclick = function() {
+					imgFlip("image-grid-card", card_stats.rotated);
+				}
+			}
+			cgc.appendChild(gridified_card);
+		}
+
+		function showContextMenu(event, card_stats) {
+			const contextMenu = document.getElementById("myContextMenu");
+			contextMenu.style.display = "block";
+			contextMenu.style.left = event.pageX + "px";
+			contextMenu.style.top = event.pageY + "px";
+			active_card = JSON.stringify(card_stats);
+		}
+
+		function containsCard(list, card)
+		{
+			for (const li of list)
+			{
+				if (li.card_name == card.card_name && li.cost == card.cost)
+				{
+					return true;
+				}
+			}
+
+			return false;
 		}
 
 		'''
@@ -810,8 +1079,9 @@ def generateHTML(codes):
 
 	html_content += '''
 
-		function gridifyCard(card_stats, card_text = false, rotate_card = false, designer_notes = false) {
+		function gridifyCard(card_stats, card_text = false, small = false, designer_notes = false) {
 			const card_name = card_stats.card_name;
+			rotate_card = !small && card_stats.rotated;
 
 			if (!card_text)
 			{
@@ -975,13 +1245,13 @@ def generateHTML(codes):
 							card_in_deck.onmouseover = function() {
 								cgc = document.getElementById("card-grid-container");
 								cgc.innerHTML = "";
-								const gridified_card = gridifyCard(card_stats, true, true);
+								const gridified_card = gridifyCard(card_stats, true);
 								gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
 								gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
 								if (card_stats.shape.includes("double"))
 								{
 									gridified_card.getElementsByTagName("button")[0].onclick = function() {
-										imgFlip("image-grid-card", card_stats.type.includes("Battle"));
+										imgFlip("image-grid-card", card_stats.rotated);
 									}
 								}
 								cgc.appendChild(gridified_card);
@@ -997,13 +1267,13 @@ def generateHTML(codes):
 
 							if (key == "sideboard")
 							{
-								del_btn.src = "/img/sb-delete.png";
+								del_btn.src = rootPath + "/img/sb-delete.png";
 								del_btn.onclick = function() {
 									sideboard.splice(sideboard.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/sb-add.png";
+								add_btn.src = rootPath + "/img/sb-add.png";
 								add_btn.onclick = function() {
 									sideboard.push(card);
 									processDeck();
@@ -1016,13 +1286,13 @@ def generateHTML(codes):
 							}
 							else
 							{
-								del_btn.src = "/img/delete.png";
+								del_btn.src = rootPath + "/img/delete.png";
 								del_btn.onclick = function() {
 									deck.splice(deck.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/add.png";
+								add_btn.src = rootPath + "/img/add.png";
 								add_btn.onclick = function() {
 									deck.push(card);
 									processDeck();
@@ -1058,6 +1328,7 @@ def generateHTML(codes):
 							}
 
 							card_img = document.createElement("img");
+							card_img.loading = "lazy";
 							if ("position" in card_stats) {
 								card_img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.position + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
 							}
@@ -1068,13 +1339,13 @@ def generateHTML(codes):
 							card_img.onmouseover = function() {
 								cgc = document.getElementById("card-grid-container");
 								cgc.innerHTML = "";
-								const gridified_card = gridifyCard(card_stats, true, true);
+								const gridified_card = gridifyCard(card_stats, true);
 								gridified_card.getElementsByTagName("img")[0].id = "image-grid-card";
 								gridified_card.getElementsByTagName("a")[0].removeAttribute("href");
 								if (card_stats.shape.includes("double"))
 								{
 									gridified_card.getElementsByTagName("button")[0].onclick = function() {
-										imgFlip("image-grid-card", card_stats.type.includes("Battle"));
+										imgFlip("image-grid-card", card_stats.rotated);
 									}
 								}
 								cgc.appendChild(gridified_card);
@@ -1093,13 +1364,13 @@ def generateHTML(codes):
 
 							if (key == "sideboard")
 							{
-								del_btn.src = "/img/sb-delete.png";
+								del_btn.src = rootPath + "/img/sb-delete.png";
 								del_btn.onclick = function() {
 									sideboard.splice(sideboard.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/sb-add.png";
+								add_btn.src = rootPath + "/img/sb-add.png";
 								add_btn.onclick = function() {
 									sideboard.push(card);
 									processDeck();
@@ -1112,13 +1383,13 @@ def generateHTML(codes):
 							}
 							else
 							{
-								del_btn.src = "/img/delete.png";
+								del_btn.src = rootPath + "/img/delete.png";
 								del_btn.onclick = function() {
 									deck.splice(deck.indexOf(card), 1);
 									processDeck();
 								}
 
-								add_btn.src = "/img/add.png";
+								add_btn.src = rootPath + "/img/add.png";
 								add_btn.onclick = function() {
 									deck.push(card);
 									processDeck();
@@ -1148,6 +1419,77 @@ def generateHTML(codes):
 					}
 				}
 			}
+		}
+
+		function openHashedDeck() {
+			const deckName = document.getElementById("deck-name").value;
+			let mainParts = [];
+			let sideParts = [];
+
+			const mainMap = new Map();
+			deck.forEach(cardStr => {
+				mainMap.set(cardStr, (mainMap.get(cardStr) || 0) + 1);
+			});
+			mainMap.forEach((count, cardStr) => {
+				const card = JSON.parse(cardStr);
+				mainParts.push(`${card.set}.${card.number}.${count}`);
+			});
+
+			const sideMap = new Map();
+			sideboard.forEach(cardStr => {
+				sideMap.set(cardStr, (sideMap.get(cardStr) || 0) + 1);
+			});
+			sideMap.forEach((count, cardStr) => {
+				const card = JSON.parse(cardStr);
+				sideParts.push(`${card.set}.${card.number}.${count}`);
+			});
+
+			const compactString = `${deckName}|${document.getElementById("format-select").value}|${mainParts.join(',')}|${sideParts.join(',')}`;
+			const hash = btoa(compactString);
+			window.open(rootPath + "/deck#" + hash, "_blank");
+			document.getElementById("file-menu").value = "default";
+		}
+
+		async function saveToCloud() {
+			const deckName = document.getElementById("deck-name").value;
+			const deckFormat = document.getElementById("format-select").value;
+			const deckId = generateShortId();
+			
+			const mainboardData = [];
+			const mainMap = new Map();
+			deck.forEach(cardStr => {
+				mainMap.set(cardStr, (mainMap.get(cardStr) || 0) + 1);
+			});
+			mainMap.forEach((count, cardStr) => {
+				const card = JSON.parse(cardStr);
+				mainboardData.push({ set: card.set, num: card.number, count: count });
+			});
+
+			const sideboardData = [];
+			const sideMap = new Map();
+			sideboard.forEach(cardStr => {
+				sideMap.set(cardStr, (sideMap.get(cardStr) || 0) + 1);
+			});
+			sideMap.forEach((count, cardStr) => {
+				const card = JSON.parse(cardStr);
+				sideboardData.push({ set: card.set, num: card.number, count: count });
+			});
+
+			const { data, error } = await _supabase
+				.from('decks')
+				.insert([
+					{ id: deckId, name: deckName, format: deckFormat, mainboard: mainboardData, sideboard: sideboardData, hub: hubName }
+				])
+				.select();
+
+			if (error) {
+				console.error('Error saving deck:', error);
+				alert('Failed to save deck to cloud.');
+			} else {
+				const shareUrl = window.location.origin + window.location.pathname.replace('deckbuilder', 'deck') + '?id=' + deckId;
+				window.open(shareUrl, "_blank");
+			}
+			document.getElementById("file-menu").value = "default";
 		}
 
 		async function exportFile(export_as) {
@@ -1227,8 +1569,82 @@ def generateHTML(codes):
 			document.getElementById("file-menu").value = "default";
 		}
 
+		async function importFromClipboard() {
+			try {
+				const deckText = await navigator.clipboard.readText();
+
+				deck = [];
+				sideboard = [];
+
+				let deck_map = new Map();
+				let sb_map = new Map();
+				let sb_cards = false;
+
+				for (let line of deckText.split('\\n'))
+				{
+					line = line.trim();
+
+					if (line == 'sideboard' || line == '') // '' for Draftmancer files
+					{
+						sb_cards = true;
+					}
+					else if (!sb_cards)
+					{
+						count = parseInt(line.substring(0, line.indexOf(' ')));
+						card_name = line.substring(line.indexOf(' ') + 1);
+
+						if (deck_map.has(card_name))
+						{
+							deck_map.set(card_name, deck_map.get(card_name) + count);
+						}
+						else
+						{
+							deck_map.set(card_name, count);
+						}
+					}
+					else
+					{
+						count = parseInt(line.substring(0, line.indexOf(' ')));
+						card_name = line.substring(line.indexOf(' ') + 1);
+
+						if (sb_map.has(card_name))
+						{
+							sb_map.set(card_name, sb_map.get(card_name) + count);
+						}
+						else
+						{
+							sb_map.set(card_name, count);
+						}
+					}
+				}
+				for (const card of card_list_arrayified)
+				{
+					if (deck_map.has(card.card_name))
+					{
+						for (let i = 0; i < deck_map.get(card.card_name); i++)
+						{
+							addCardToDeck(JSON.stringify(card));
+						}
+						deck_map.delete(card.card_name);
+					}
+
+					if (sb_map.has(card.card_name))
+					{
+						for (let i = 0; i < sb_map.get(card.card_name); i++)
+						{
+							addCardToSideboard(JSON.stringify(card));
+						}
+						sb_map.delete(card.card_name);
+					}
+				}
+			} catch (err) {
+				console.error('Failed to read clipboard:', err);
+			}
+			document.getElementById("file-menu").value = "default";
+		}
+
 		function goToSearch() {
-			window.location = ("/search");
+			window.location = (rootPath + "/search");
 		}
 
 		document.getElementById("search").addEventListener("keypress", function(event) {
@@ -1244,6 +1660,7 @@ def generateHTML(codes):
 		snippet = f.read()
 		html_content += snippet
 
+	# ඞ sus
 	html_content += '''
 	</script>
 </body>
