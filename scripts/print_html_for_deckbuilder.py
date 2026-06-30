@@ -71,12 +71,6 @@ def generateHTML(codes):
 		overflow-x: hidden;
 		height: 100%;
 	}
-	.gallery-column {
-		display: flex;
-		flex-direction: column;
-		height: 100%;
-		overflow: hidden;
-	}
 	.search-container {
 		height: 100%;
 		border: 1px solid #d5d9d9;
@@ -87,22 +81,6 @@ def generateHTML(codes):
 		display: flex;
 		flex-direction: column;
 		overflow-y: hidden;
-	}
-	.filter-bar {
-		background-color: white;
-		border-top: 1px solid #d5d9d9;
-		padding: 5px 15px;
-		display: flex;
-		align-items: center;
-		gap: 8px;
-		font-size: 13px;
-		min-height: 20px;
-	}
-	.filter-bar input[type="checkbox"] {
-		width: auto;
-		height: auto;
-		margin: 0;
-		cursor: pointer;
 	}
 	.deckbuilder-search-grid {
 		width: 95%;
@@ -210,7 +188,6 @@ def generateHTML(codes):
 	}
 	.search-image-grid-container {
 		overflow-y: scroll;
-		flex: 1;
 	}
 	.search-image-grid {
 		display: grid;
@@ -540,14 +517,8 @@ def generateHTML(codes):
 				</select>
 			</div>
 			<div class="search-results-container">
-				<div class="gallery-column">
-					<div class="search-image-grid-container">
-						<div class="search-image-grid" id="imagesOnlyGrid">
-						</div>
-					</div>
-					<div class="filter-bar">
-						<input type="checkbox" id="filter-duplicates" checked onchange="displayChangeListener()">
-						<label for="filter-duplicates">Filter duplicates</label>
+				<div class="search-image-grid-container">
+					<div class="search-image-grid" id="imagesOnlyGrid">
 					</div>
 				</div>
 				<div class="card-grid-container" id="card-grid-container">
@@ -648,10 +619,8 @@ def generateHTML(codes):
 		let sideboard = [];
 		let active_card = [];
 		let sets_json = {};
-		let contextMenu;
 
 		document.addEventListener("DOMContentLoaded", async function () {
-			contextMenu = document.getElementById("myContextMenu");
 			'''
 
 	with open(os.path.join('scripts', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
@@ -665,48 +634,7 @@ def generateHTML(codes):
 					.then(data => {
 						sets_json = data; 
 				}).catch(error => console.error('Error:', error));
-'''
 
-	if os.path.exists(os.path.join('lists', 'external-hubs.txt')):
-		html_content += '''
-			try {
-				const hubResp = await fetch(rootPath + '/lists/external-hubs.txt');
-				if (hubResp.ok) {
-					const hubsText = await hubResp.text();
-					const hubURLs = hubsText.split(/\\r?\\n/).map(url => url.trim()).filter(url => url.length > 0);
-					for (let url of hubURLs) {
-						if (!url.startsWith('http')) {
-							url = 'https://' + url;
-						}
-						try {
-							const externalCardsResp = await fetch(url + '/lists/all-cards.json');
-							if (externalCardsResp.ok) {
-								const externalCardsJson = await externalCardsResp.json();
-								externalCardsJson.cards.forEach(c => {
-									c.hubURL = url;
-									card_list_arrayified.push(c);
-								});
-							}
-							const externalSetsResp = await fetch(url + '/lists/all-sets.json');
-							if (externalSetsResp.ok) {
-								const externalSetsJson = await externalSetsResp.json();
-								externalSetsJson.sets.forEach(s => {
-									if (!sets_json.sets.some(existing => existing.set_code === s.set_code)) {
-										sets_json.sets.push(s);
-									}
-								});
-							}
-						} catch (e) {
-							console.error('Error fetching external hub:', url, e);
-						}
-					}
-				}
-			} catch (e) {
-				// No external hubs file or other error
-			}
-'''
-
-	html_content += '''
 			await fetch(rootPath + '/lists/formats.json')
 					.then(response => response.json())
 					.then(data => {
@@ -879,8 +807,6 @@ def generateHTML(codes):
 						}
 						for (const card of card_list_arrayified)
 						{
-							if (card.shape && card.shape.includes("token")) continue;
-
 							if (deck_map.has(card.card_name))
 							{
 								for (let i = 0; i < deck_map.get(card.card_name); i++)
@@ -977,7 +903,6 @@ def generateHTML(codes):
 		function search() {
 			searchTerms = document.getElementById("search").value.toLowerCase();
 			const displayMode = document.getElementById("search-display").value;
-			const filterDuplicates = document.getElementById("filter-duplicates").checked;
 
 			const resultsContainer = document.querySelector(".search-image-grid-container");
 			if (resultsContainer) resultsContainer.scrollTop = 0;
@@ -1009,7 +934,7 @@ def generateHTML(codes):
 
 				searched = searchAllTokens(card, tokenizeTerms(searchTerms));
 
-				if (searched && (!filterDuplicates || !containsCard(search_results, card)))
+				if (searched && !containsCard(search_results, card))
 				{
 					search_results.push(card);
 				}
@@ -1018,7 +943,7 @@ def generateHTML(codes):
 			// Pre-process results for the current display mode
 			if (displayMode === "text") {
 				const groupedResults = [];
-				const seenCards = new Set();
+				const seenNames = new Set();
 				
 				// Create a quick lookup for sets to avoid O(n^2) later
 				const setLookup = {};
@@ -1028,12 +953,9 @@ def generateHTML(codes):
 				});
 
 				search_results.forEach(card => {
-					// Unique identifier depends on whether we are filtering duplicates
-					const id = filterDuplicates ? card.card_name : `${card.set}-${card.number}`;
-					
-					if (!seenCards.has(id)) {
-						seenCards.add(id);
-						const cardSets = filterDuplicates ? Array.from(setLookup[card.card_name]).join(", ") : card.set;
+					if (!seenNames.has(card.card_name)) {
+						seenNames.add(card.card_name);
+						const cardSets = Array.from(setLookup[card.card_name]).join(", ");
 						groupedResults.push({ ...card, allSets: cardSets });
 					}
 				});
@@ -1173,34 +1095,6 @@ def generateHTML(codes):
 		html_content += snippet
 
 	html_content += '''
-		const originalBuildImgContainer = buildImgContainer;
-		buildImgContainer = function(card_stats, hidden_title = false, rotate_card = false) {
-			const container = originalBuildImgContainer(card_stats, hidden_title, rotate_card);
-			if (card_stats.hubURL) {
-				const img = container.querySelector(".card-image");
-				if (img) {
-					img.src = img.src.replace(/^.*\/sets\//, card_stats.hubURL + "/sets/");
-				}
-				const hImg = container.querySelector(".h-img");
-				if (hImg) {
-					hImg.src = hImg.src.replace(/^.*\/sets\//, card_stats.hubURL + "/sets/");
-				}
-				const link = container.querySelector("a");
-				if (link) {
-					const url = new URL(card_stats.hubURL + '/card', card_stats.hubURL);
-					const params = {
-						set: card_stats.set,
-						num: card_stats.number,
-						name: card_stats.card_name
-					}
-					for (const key in params) {
-						url.searchParams.append(key, params[key]);
-					}
-					link.href = url.toString();
-				}
-			}
-			return container;
-		};
 
 		function hasAllChars(strOut, strIn) {
 			let retVal = true;
@@ -1538,7 +1432,7 @@ def generateHTML(codes):
 			});
 			mainMap.forEach((count, cardStr) => {
 				const card = JSON.parse(cardStr);
-				mainParts.push(`${card.set}:${card.number}:${count}:${card.card_name}`);
+				mainParts.push(`${card.set}.${card.number}.${count}`);
 			});
 
 			const sideMap = new Map();
@@ -1547,11 +1441,11 @@ def generateHTML(codes):
 			});
 			sideMap.forEach((count, cardStr) => {
 				const card = JSON.parse(cardStr);
-				sideParts.push(`${card.set}:${card.number}:${count}:${card.card_name}`);
+				sideParts.push(`${card.set}.${card.number}.${count}`);
 			});
 
-			const compactString = `${deckName}|${document.getElementById("format-select").value}|${mainParts.join(';')}|${sideParts.join(';')}`;
-			const hash = btoa(unescape(encodeURIComponent(compactString)));
+			const compactString = `${deckName}|${document.getElementById("format-select").value}|${mainParts.join(',')}|${sideParts.join(',')}`;
+			const hash = btoa(compactString);
 			window.open(rootPath + "/deck#" + hash, "_blank");
 			document.getElementById("file-menu").value = "default";
 		}
@@ -1568,7 +1462,7 @@ def generateHTML(codes):
 			});
 			mainMap.forEach((count, cardStr) => {
 				const card = JSON.parse(cardStr);
-				mainboardData.push({ set: card.set, num: card.number, count: count, name: card.card_name });
+				mainboardData.push({ set: card.set, num: card.number, count: count });
 			});
 
 			const sideboardData = [];
@@ -1578,7 +1472,7 @@ def generateHTML(codes):
 			});
 			sideMap.forEach((count, cardStr) => {
 				const card = JSON.parse(cardStr);
-				sideboardData.push({ set: card.set, num: card.number, count: count, name: card.card_name });
+				sideboardData.push({ set: card.set, num: card.number, count: count });
 			});
 
 			const { data, error } = await _supabase
@@ -1725,8 +1619,6 @@ def generateHTML(codes):
 				}
 				for (const card of card_list_arrayified)
 				{
-					if (card.shape && card.shape.includes("token")) continue;
-
 					if (deck_map.has(card.card_name))
 					{
 						for (let i = 0; i < deck_map.get(card.card_name); i++)

@@ -370,39 +370,6 @@ def generateHTML(codes):
 		html_content += f.read()
 
 	html_content += '''
-'''
-
-	if os.path.exists(os.path.join('lists', 'external-hubs.txt')):
-		html_content += '''
-			try {
-				const hubResp = await fetch(rootPath + '/lists/external-hubs.txt');
-				if (hubResp.ok) {
-					const hubsText = await hubResp.text();
-					const hubURLs = hubsText.split(/\\r?\\n/).map(url => url.trim()).filter(url => url.length > 0);
-					for (let url of hubURLs) {
-						if (!url.startsWith('http')) {
-							url = 'https://' + url;
-						}
-						try {
-							const externalCardsResp = await fetch(url + '/lists/all-cards.json');
-							if (externalCardsResp.ok) {
-								const externalCardsJson = await externalCardsResp.json();
-								externalCardsJson.cards.forEach(c => {
-									c.hubURL = url;
-									card_list_arrayified.push(c);
-								});
-							}
-						} catch (e) {
-							console.error('Error fetching external hub:', url, e);
-						}
-					}
-				}
-			} catch (e) {
-				// No external hubs file or other error
-			}
-'''
-
-	html_content += '''
 			const urlParams = new URLSearchParams(window.location.search);
 			const deckId = urlParams.get('id');
 			
@@ -444,7 +411,7 @@ def generateHTML(codes):
 			const hash = window.location.hash.substring(1);
 			if (!hash) return;
 			try {
-				const decoded = decodeURIComponent(escape(atob(hash)));
+				const decoded = atob(hash);
 				if (decoded.startsWith('{')) {
 					// Old JSON format
 					currentDeck = JSON.parse(decoded);
@@ -458,12 +425,9 @@ def generateHTML(codes):
 
 					const parsePart = (str) => {
 						if (!str) return [];
-						// Try semicolon first (new format), fallback to comma (old format)
-						const items = str.includes(';') ? str.split(';') : str.split(',');
-						return items.map(item => {
-							// Try colon first (new format), fallback to period (old format)
-							const bits = item.includes(':') ? item.split(':') : item.split('.');
-							return { set: bits[0], num: bits[1], count: parseInt(bits[2]), name: bits[3] };
+						return str.split(',').map(item => {
+							const bits = item.split('.');
+							return { set: bits[0], num: bits[1], count: parseInt(bits[2]) };
 						});
 					};
 
@@ -559,27 +523,7 @@ def generateHTML(codes):
 		function lookupCards(codes) {
 			if (!codes) return [];
 			return codes.map(item => {
-				const name = (item.name || item.card_name || "").trim();
-				const num = item.num || item.number;
-				const set = item.set;
-
-				let stats = null;
-				
-				// 1. Try Set + Name + Number
-				if (name && num) {
-					stats = card_list_arrayified.find(c => c.set === set && c.card_name.trim() === name && c.number == num);
-				}
-				
-				// 2. Try Set + Name
-				if (!stats && name) {
-					stats = card_list_arrayified.find(c => c.set === set && c.card_name.trim() === name);
-				}
-				
-				// 3. Try Set + Number
-				if (!stats && num) {
-					stats = card_list_arrayified.find(c => c.set === set && c.number == num);
-				}
-
+				const stats = card_list_arrayified.find(c => c.set === item.set && c.number == (item.num || item.number));
 				return stats ? { count: item.count, stats: stats } : null;
 			}).filter(c => c !== null);
 		}
@@ -779,16 +723,14 @@ def generateHTML(codes):
 		}
 
 		function getCardImgSrc(card_stats) {
-			const prefix = card_stats.hubURL ? card_stats.hubURL : rootPath;
 			if ("position" in card_stats) {
-				return prefix + "/sets/" + card_stats.set + "-files/img/" + card_stats.position + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+				return rootPath + "/sets/" + card_stats.set + "-files/img/" + card_stats.position + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
 			}
-			return prefix + "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+			return rootPath + "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
 		}
 
 		function getCardUrl(card) {
-			const prefix = card.hubURL ? card.hubURL : window.location.origin;
-			const url = new URL(prefix + '/card', prefix);
+			const url = new URL(rootPath + '/card', window.location.origin);
 			url.searchParams.append('set', card.set);
 			url.searchParams.append('num', card.number);
 			url.searchParams.append('name', card.card_name);
@@ -806,37 +748,6 @@ def generateHTML(codes):
 
 	with open(os.path.join('scripts', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
 		html_content += f.read()
-
-	html_content += '''
-		const originalBuildImgContainer = buildImgContainer;
-		buildImgContainer = function(card_stats, hidden_title = false, rotate_card = false) {
-			const container = originalBuildImgContainer(card_stats, hidden_title, rotate_card);
-			if (card_stats.hubURL) {
-				const img = container.querySelector(".card-image");
-				if (img) {
-					img.src = img.src.replace(/^.*\/sets\//, card_stats.hubURL + "/sets/");
-				}
-				const hImg = container.querySelector(".h-img");
-				if (hImg) {
-					hImg.src = hImg.src.replace(/^.*\/sets\//, card_stats.hubURL + "/sets/");
-				}
-				const link = container.querySelector("a");
-				if (link) {
-					const url = new URL(card_stats.hubURL + '/card', card_stats.hubURL);
-					const params = {
-						set: card_stats.set,
-						num: card_stats.number,
-						name: card_stats.card_name
-					}
-					for (const key in params) {
-						url.searchParams.append(key, params[key]);
-					}
-					link.href = url.toString();
-				}
-			}
-			return container;
-		};
-'''
 
 	with open(os.path.join('scripts', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
 		html_content += f.read()

@@ -299,58 +299,11 @@ def generateHTML():
             // Load set configs to know naming conventions
             const setsResponse = await fetch('./lists/all-sets.json');
             const setsData = await setsResponse.json();
-            sets_json = setsData; // Ensure sets_json is populated for the loops below
-'''
-
-    if os.path.exists(os.path.join('lists', 'external-hubs.txt')):
-        html_content += '''
-            try {
-                const hubResp = await fetch(rootPath + '/lists/external-hubs.txt');
-                if (hubResp.ok) {
-                    const hubsText = await hubResp.text();
-                    const hubURLs = hubsText.split(/\\r?\\n/).map(url => url.trim()).filter(url => url.length > 0);
-                    for (let url of hubURLs) {
-                        if (!url.startsWith('http')) {
-                            url = 'https://' + url;
-                        }
-                        try {
-                            const externalCardsResp = await fetch(url + '/lists/all-cards.json');
-                            if (externalCardsResp.ok) {
-                                const externalCardsJson = await externalCardsResp.json();
-                                externalCardsJson.cards.forEach(c => {
-                                    c.hubURL = url;
-                                    card_list_arrayified.push(c);
-                                });
-                            }
-                            const externalSetsResp = await fetch(url + '/lists/all-sets.json');
-                            if (externalSetsResp.ok) {
-                                const externalSetsJson = await externalSetsResp.json();
-                                externalSetsJson.sets.forEach(s => {
-                                    if (!sets_json.sets.some(existing => existing.set_code === s.set_code)) {
-                                        s.hubURL = url;
-                                        sets_json.sets.push(s);
-                                    }
-                                });
-                            }
-                        } catch (e) {
-                            console.error('Error fetching external hub:', url, e);
-                        }
-                    }
-                }
-            } catch (e) {
-                // No external hubs file or other error
-            }
-'''
-
-    html_content += '''
-            for (const set of sets_json.sets) {
+            
+            for (const set of setsData.sets) {
                 try {
-                    const prefix = set.hubURL ? set.hubURL : ".";
-                    const setConfResp = await fetch(`${prefix}/sets/${set.set_code}-files/${set.set_code}.json`);
+                    const setConfResp = await fetch(`./sets/${set.set_code}-files/${set.set_code}.json`);
                     setConfigs[set.set_code] = await setConfResp.json();
-                    if (set.hubURL) {
-                        setConfigs[set.set_code].hubURL = set.hubURL;
-                    }
                 } catch (e) {
                     console.error("Could not load config for set:", set.set_code);
                 }
@@ -378,42 +331,10 @@ def generateHTML():
             allCardsArray = card_list_arrayified;
             card_list_arrayified.forEach(card => {
                 const key = `${card.set}-${card.number}`;
-                const isToken = card.shape && card.shape.includes('token');
-                if (!cardLookup[key] || (!isToken && cardLookup[key].shape && cardLookup[key].shape.includes('token'))) {
-                    cardLookup[key] = card;
-                }
+                cardLookup[key] = card;
             });
 
             await fetchDecks();
-        }
-
-        function getCardStats(item) {
-            const name = item.name || item.card_name;
-            const num = item.num || item.number;
-            const set = item.set;
-
-            const findFunc = (c) => {
-                const notToken = !c.shape || !c.shape.includes("token");
-                const matchSet = c.set === set;
-                if (name && num) {
-                    return matchSet && c.card_name === name && c.number == num && notToken;
-                } else if (name) {
-                    return matchSet && c.card_name === name && notToken;
-                } else {
-                    return matchSet && c.number == num && notToken;
-                }
-            };
-
-            let stats = allCardsArray.find(findFunc);
-            if (!stats && name && num) {
-                stats = allCardsArray.find(c => c.set === set && c.card_name === name && (!c.shape || !c.shape.includes("token")));
-                if (!stats) {
-                    stats = cardLookup[`${set}-${num}`];
-                }
-            } else if (!stats) {
-                stats = cardLookup[`${set}-${num}`];
-            }
-            return stats;
         }
 
         document.addEventListener("DOMContentLoaded", async function () {
@@ -563,7 +484,7 @@ def generateHTML():
                     const deckCards = (deck.mainboard || []).concat(deck.sideboard || []);
                     const deckCardNames = new Set();
                     deckCards.forEach(item => {
-                        const c = getCardStats(item);
+                        const c = cardLookup[`${item.set}-${item.num}`];
                         if (c) deckCardNames.add(c.card_name);
                     });
 
@@ -615,8 +536,7 @@ def generateHTML():
                         namePart = `${card.number}${connector}${card.card_name}${suffix}`;
                     }
                     
-                    const prefix = (setConf && setConf.hubURL) ? setConf.hubURL : ".";
-                    imageUrl = `${prefix}/sets/${card.set}-files/img/${namePart}.${imgType}`;
+                    imageUrl = `./sets/${card.set}-files/img/${namePart}.${imgType}`;
                 }
                 
                 const cardEl = document.createElement('a');
@@ -644,7 +564,7 @@ def generateHTML():
             let maxScore = -1;
 
             board.forEach(item => {
-                const card = getCardStats(item);
+                const card = cardLookup[`${item.set}-${item.num}`];
                 if (card) {
                     const mv = convertToMV(card.cost);
                     const rarities = { 'mythic': 4, 'rare': 3, 'uncommon': 2, 'common': 1, 'cube': 0 };
