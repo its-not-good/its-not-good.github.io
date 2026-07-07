@@ -1,4 +1,881 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Regulus added.
+Gazelle the King of Mythical Beasts added.
+Land Flipping added.
+Warrior added.
+Insect added.
+Treasure added.
+Sheep added.
+Beast added.
+Dragon added.
+
+Howling Insect removed.
+Gazelle the King of the Mythical Beasts removed.
+Beast Soul Swap removed.
+
+Blue-Eyes White Dragon
+
+Red-Eyes Black Dragon
+
+Time Wizard
+
+Obelisk the Tormentor
+
+The Winged Dragon of Ra
+
+Slifer the Sky Dragon
+
+Dark Magician
+
+Dark Magician Girl
+
+Raigeki
+
+Trap Hole
+
+Imperial Order
+
+Blue-Eyes Ultimate Dragon
+
+Pot of Greed
+
+Magic Cylinder
+
+Monster Reborn
+
+Polymerization
+
+Kuriboh
+
+Mirror Force
+
+Black Luster Soldier
+
+Black Luster Ritual
+
+Exodia the Forbbiden One
+
+Left Leg of the Forbidden One
+
+Right Leg of the Forbidden One
+
+Right Arm of the Forbidden One
+
+Left Arm of the Forbidden One
+
+Lava Golem
+
+Gearfried the Iron Knight
+
+Kojikocy
+
+Uraby
+
+Tainted Wisdom
+
+Skull Knight
+
+Beastking of the Swamps
+
+Sorcerer of Dark Magic
+
+Horn of Heaven
+
+Mystic Lamp
+
+Call of the Haunted
+
+Giant Rat
+
+Insect Imitation
+cost: {BG}{BG} => {X}{BG}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. If you put an Insect onto the battlefield this way, put two +1/+1 counters on it. => As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to X plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. If you put an Insect onto the battlefield this way, put two +1/+1 counters on it.
+
+Shining Angel
+
+Catapult Turtle
+
+Rabid Horseman
+
+Battle Ox
+
+Mystic Horseman
+rules_text: Trample, haste
+When you sacrifice this creature, the next creature that enters under your control this turn gains trample and haste until end of turn. => Trample, haste
+If you would sacrifice this creature or discard this card to cast a spell with emerge or fusion, that spell costs {2} less to cast. If it is a creature spell, it enters with a trample counter and a haste counter on it.
+
+Armed Ninja
+
+Basic Insect
+
+Killer Needle
+
+Baby Dragon
+
+Drill Bug
+
+Robbin' Goblin
+
+Parasite Paracide
+
+Larvae Moth
+rules_text: You may sacrifice an Insect you control rather than pay this spell's mana cost.
+Ward {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]
+When this creature dies, create two 1/1 green Insect tokens. => You may sacrifice a creature you control with power 2 or greater rather than pay this spell's mana cost.
+Ward {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]
+When this creature dies, create two 1/1 green Insect tokens.
+
+Cocoon of Evolution
+
+The Stern Mystic
+
+Gravity Bind
+
+Last Will
+
+Flying Kamakiri #1
+
+Hamburger Recipe
+
+Magical Hats
+
+Barrel Dragon
+
+Hiro's Shadow Scout
+
+Return of the Zombies
+
+Ultimate Offering
+cost: {6}{G}{G} => {1}{G}{G}
+rules_text: Flash
+Pay 1 life: Put a creature card from your hand onto the battlefield. Activate only once per turn. => Pay X life: The next creature spell you cast this turn costs {X} less to cast. Activate only once per turn.
+
+Mad Sword Beast
+
+Tribute to the Doomed
+
+Buster Blader
+
+Witch of the Black Forest
+
+Jinzo
+
+Magic Jammer
+
+Vampire Lord
+
+Painful Choice
+
+Summoned Skull
+
+Hane-Hane
+
+Swords of Revealing Light
+
+Fissure
+
+Neo the Magic Swordsman
+
+Treeborn Frog
+
+Giant Soldier of Stone
+
+Trap Master
+
+Man-Eater Bug
+
+Dark Hole
+
+De-Spell
+
+Reinforcements
+
+Waboku
+
+Just Desserts
+
+D.D. Warrior Lady
+
+Dark Magician of Chaos
+
+Magician of Faith
+
+Sangan
+
+Chaos Emperor Dragon Envoy of the End
+
+Aqua Madoor
+
+Mystical Elf
+
+Harpie's Feather Duster
+
+Mystical Space Typhoon
+
+Delinquent Duo
+
+The Forceful Sentry
+
+Snatch Steal
+
+UFO Turtle
+
+Share the Pain
+
+Harpie Lady
+
+Thunder Dragon
+
+Twin-Headed Thunder Dragon
+
+Paralyzing Potion
+
+Versago the Destroyer
+
+Tremendous Fire
+
+Flame Swordsman
+
+Flame Manipulator
+
+Masaki the Legendary Swordsman
+
+Eatgaboon
+
+White Hole
+
+Flute of Summoning Dragon
+
+Lord of D.
+
+Thousand Dragon
+
+Relinquished
+
+Black Magic Ritual
+
+Solemn Judgment
+
+Acid Trap Hole
+
+Change of Heart
+
+Solemn Wishes
+rules_text: Flash
+When this enchantment enters, search your library for a land card and put it onto the battlefield tapped.
+[i]Landfall[/i] — Whenever a land enters under your control, you gain 1 life. => Flash
+When this enchantment enters, search your library for a land card and put it onto the battlefield tapped.
+[i]Landfall[/i] — Whenever a land enters under your control, add one mana of any type that land could produce.
+
+Backup Soldier
+
+Michizure
+
+Seven Tools of the Bandit
+
+Cyber Jar
+
+Morphing Jar
+
+Reaper of the Cards
+
+Skull Servant
+
+Mask of Darkness
+
+Shadow Ghoul
+
+Dimensionhole
+
+Senju of the Thousand Hands
+
+Ookazi
+
+Big Eye
+
+Call of the Grave
+
+Confiscation
+
+Black Skull Dragon
+
+Masked Sorcerer
+
+Kairyu-Shin
+
+Sparks
+
+Thousand-Eyes Restrict
+
+Lady of Faith
+
+Musician King
+
+Humanoid Slime
+
+Roaring Ocean Snake
+
+Battle Steer
+
+Curse of Dragon
+
+Koumori Dragon
+
+Gaia the Fierce Knight
+
+Mammoth Graveyard
+
+Zombie Warrior
+
+Battle Warrior
+
+Rude Kaiser
+
+Dark Sage
+
+Brain Control
+
+Burning Land
+rules_text: When this enchantment enters, destroy target land.
+At the beginning of each player's upkeep, this enchantment deals 1 damage to them. => When this enchantment enters, destroy target land.
+At the beginning of each player's upkeep, this enchantment deals 1 damage to that player.
+
+White Dragon Ritual
+
+Magician of Black Chaos
+
+Gaia the Dragon Champion
+
+Spellbinding Circle
+
+Kaibaman
+
+Paladin of White Dragon
+
+The White Stone of Legend
+
+Burst Stream of Destruction
+
+Red-Eyes Dark Dragoon
+
+Meteor Dragon
+
+Meteor Black Dragon
+
+Dark Magic Attack
+
+Magician's Rod
+
+Magician Navigation
+
+Dark Eradicator Warlock
+
+Thousand Knives
+
+Skilled Dark Magician
+
+Ring of Destruction
+
+Destined Rivals
+rules_text: Flash
+Creatures lose all abilities.
+At the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon. => Flash
+Creatures lose all abilities.
+At the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon. [i](To behold a Wizard or a Dragon, choose a Wizard or a Dragon you control or reveal a Wizard or a Dragon card from your hand.)[/i]
+
+Blue-Eyes Abyss Dragon
+
+Strength in Unity
+
+Red-Eyes Zombie Dragon
+
+Cards of the Red Stone
+
+Black Dragon's Chick
+
+Red-Eyes Spirit
+
+Inferno Fire Blast
+
+Red-Eyes Black Metal Dragon
+
+The Black Stone of Legend
+
+Red-Eyes Wyvern
+
+Red-Eyes Darkness Dragon
+
+Petit Moth
+
+Great Moth
+
+Perfectly Ultimate Great Moth
+
+Hungry Burger
+
+Rescue Cat
+
+Card of Safe Return
+
+Rescue Rabbit
+
+Terraforming
+
+Black Illusion Ritual
+
+Metalmorph
+
+Thousand-Eyes Idol
+
+Flying Kamakiri #2
+
+Gokipon
+rules_text: When this creature dies, search your library for an Insect card with mana value 3 or less, reveal it, and put it into your hand, then shuffle. => When this creature dies, search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.
+
+Multiplication of Ants
+
+Pinch Hopper
+
+Big Insect
+
+Doom Dozer
+
+Resonance Insect
+
+Ultimate Insect
+
+Arsenal Bug
+rules_text: Reach
+This creature gets +1/+1 for each other Insect you control and each Insect card in your graveyard. => Reach
+This creature gets +1/+1 for each other Insect you control and each Insect card in your graveyard.
+{2}{G}: Mill a card. Create a 1/1 green Insect creature token.
+
+Metal Armored Bug
+
+Dreadscythe Harvester
+rules_text: Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+Sacrifice another creature: Put a +1/+1 counter on this creature. => Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+Sacrifice another creature or pay {3}: Put a +1/+1 counter on this creature.
+
+Insect Queen
+rules_text: Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+At the beginning of your end step, create a 1/1 green Insect creature token. Then put a +1/+1 counter on target Insect you control. => Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Reach
+At the beginning of your end step, you may sacrifice another creature. If you do, create two 1/1 green Insect creature tokens. Then if you sacrificed a nontoken creature this way, put a +1/+1 counter on each creature you control.
+
+Celtic Guardian
+
+Nobleman of Crossout
+
+Ancient Brain
+
+La Jinn the Mystical Genie of the Lamp
+
+Hinotama
+
+Beaver Warrior
+
+Buster Blader, the Dragon Destroyer Swordsman
+
+King Tiger Wanghu
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, you may have Wanghu fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{R}{G}: Return target land card in your graveyard to your hand. => [i]Landfall[/i] — Whenever a land enters under your control, you may have Wanghu fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+{X}{R}{G}: Target creature gets +X/+X and gains trample until end of turn.
+
+Des Kangaroo
+
+Beast King Barbaros
+
+Prologue of the Destruction Swordsman
+
+Five-Headed Dragon
+
+Super Polymerization
+
+Blackland Fire Dragon
+
+One Day of Peace
+cost: {G} => {1}{G}
+rules_text: Each player may search their library for up to two basic land cards and put them onto the battlefield tapped. Each player who does shuffles afterwards.
+Until the beginning of your next turn, prevent all damage. => Search your library for up to two basic land cards and put them onto the battlefield tapped. Then each opponent may search their library for a basic land card and put it onto the battlefield tapped. Each player who does shuffles afterwards.
+Until the beginning of your next turn, prevent all damage.
+
+Upstart Goblin
+
+Scapegoat
+
+The Legendary Fisherman
+
+Ocean Dragon Lord — Neo-Daedalus
+
+Maiden of the Aqua
+
+Umi
+
+Forest Field
+
+Sogen
+rules_text: [i]({T}: Add {W}.)[/i]
+This land enters tapped.
+{W}, {T}: Create a 1/1 white Warrior creature token. Activate only if you control no creatures. => [i]({T}: Add {W}.)[/i]
+This land enters tapped.
+{1}{W}, {T}: Create a 1/1 white Warrior creature token. This ability costs {1} less to activate if you control no creatures.
+
+Yami
+
+Mountain Field
+
+Impenetrable Formation
+
+Codarus
+
+Levia-Dragon — Daedalus
+
+Mermaid Knight
+
+Deepsea Warrior
+
+Mobius the Frost Monarch
+
+Caius the Shadow Monarch
+
+Erebus the Underworld Monarch
+
+Thestalos the Firestorm Monarch
+
+Zaborg the Thunder Monarch
+
+Raiza the Storm Monarch
+
+Kuraz the Light Monarch
+
+Granmarg the Rock Monarch
+
+Delg the Dark Monarch
+
+Angmarl the Fiendish Monarch
+
+Ehther the Heavenly Monarch
+
+Fusion Gate
+
+Zombie World
+
+Book of Life
+
+Lemuria, the Forgotten City
+
+Forgotten Temple of the Deep
+
+Umiiruka
+
+Return Zombie
+
+Molten Zombie
+
+Call of the Mummy
+
+Decayed Commander
+
+Zombiemeister
+
+Armored Zombie
+
+Bone Mouse
+
+Zombie Tiger
+
+Dragon Zombie
+
+Pyramid Turtle
+
+Clown Zombie
+
+Gernia
+
+Three-Legged Zombie
+
+Corroding Shark
+
+Bone Crusher
+
+The Lady in Wight
+
+Gozuki
+
+Magicians' Souls
+
+Mezuki
+
+Graceful Charity
+
+Spider's Lair
+
+Flame Swordsrealm
+
+Gaia Power
+
+Dragon Ravine
+
+Closed Forest
+
+Fighting Flame Swordsman
+
+Flame Swordsdance
+
+Tornado Wall
+
+Abyss-Strom
+
+Rage of Kairyu-Shin
+
+M-Warrior #1
+
+M-Warrior #2
+
+Karbonala Warrior
+
+Turret Warrior
+
+Harpie Lady Sisters
+
+Berfomet
+rules_text: Defense position {1}{G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]
+When this creature enters or is turned face up, search your library for a Beast card, reveal it, and put it into your hand. Then shuffle.
+All creatures lose flying. => Defense position {1}{G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]
+When this creature enters or is turned face up, search your library for a creature card with power 4 or greater, reveal it, and put it into your hand. Then shuffle.
+All creatures lose flying.
+
+Bazoo the Soul-Eater
+
+Yellow Baboon, Archer of the Forest
+
+Green Baboon, Defender of the Forest
+
+Chimera the Flying Mythical Beast
+cost: {3}{G}{G} => {4}{G}{G}
+rules_text: Fusion {3}{G} — Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying
+When Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield. => Fusion {4}{G} — Two green creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]
+Flying
+When Chimera the Flying Mythical Beast enters or dies, return another permanent card from your graveyard to your hand.
+pt: 5/5 => 6/6
+
+Ancient One of the Deep Forest
+
+Garoozis
+
+Mystical Moon
+
+Vorse Raider
+
+Darkfire Dragon
+
+Troop Dragon
+
+Akz, the Pumer
+
+Tiger Axe
+
+Spiritual Forest
+cost: {1}{G}{G} => {G}{G}
+
+Butterfly Dagger — Elma
+
+Silent Insect
+
+Spider Egg
+
+Mother Spider
+
+Book of Taiyou
+
+Book of Moon
+
+Penguin Soldier
+
+Nightmare Penguin
+
+White Ninja
+
+Desertapir
+
+Needle Worm
+
+Penguin Knight
+
+Skelengel
+
+Soul Reversal
+type: Instant => Sorcery
+cost: {2}{G} => {X}{G}{G}
+rules_text: During your turn, this spell costs {2} less to cast.
+Return up to two colorless cards and/or cards with defense position from your graveyard to your hand. => Return X target permanent cards from your graveyard to your hand. Then put up to X land cards from your hand onto the battlefield tapped. Exile Soul Reversal.
+
+Cyber Dragon
+
+Supply
+
+Magical Scientist
+
+Cyber-Stein
+
+Metamorphosis
+
+Summoner of Illusions
+
+Future Fusion
+
+Instant Fusion
+
+Petit Angel
+
+Mystical Sheep #2
+rules_text: Vigilance
+When this creature enters or dies, create two 0/1 white Sheep creature tokens. => Vigilance
+When this creature enters or dies, create two 0/1 white Sheep creatures.
+
+Mystical Sheep #1
+
+Enchanting Mermaid
+
+Fusionist
+
+Rare Fish
+
+Worm Bait
+
+Cyber Twin Dragon
+
+Totem Dragon
+rules_text: Flying
+You may treat this creature's mana value as 3 when paying an emerge cost.
+{G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only as a sorcery. => Flying
+You may treat this creature's mana value as 4 when paying an emerge cost.
+{G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only as a sorcery.
+pt: 1/1 => 2/1
+
+Angel 07
+
+Overwhelm
+
+Escalation of the Monarchs
+
+March of the Monarchs
+
+Majesty of the White Dragons
+
+Marauding Captain
+
+Reinforce Truth
+
+Copy Knight
+
+Dragon Treasure
+
+Silver Bow and Arrow
+
+Steel Shell
+
+Dark Energy
+
+Salamandra
+
+Violet Crystal
+
+Insect Armor with Laser Cannon
+
+Cestus of Dagla
+
+Gravity Axe
+
+Electro-Whip
+
+Soul Exchange
+
+Dark Renewal
+
+The Ultimate Creature of Destruction
+
+Guardragon Cataclysm
+
+Dark Magical Circle
+
+Dedication Through Light and Darkness
+
+Kidmodo Dragon
+
+Burst Breath
+
+The Thing in the Crater
+
+Convulsion of Nature
+
+The Seal of Orichalcos
+
+Psuedo Space
+
+Mausoleum of the Emperor
+rules_text: You may sacrifice this land as though it were a creature with mana value as 2 when paying an emerge cost.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to pay an emerge cost. => You may sacrifice this land as though it were a creature with mana value 2 when paying an emerge cost.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to pay an emerge cost.
+
+Heart of Clear Water
+
+D.D. Borderline
+
+Harpies' Hunting Ground
+
+Kaiser Colosseum
+
+Labyrinth of Nightmare
+
+Sanguine Swamp
+
+Skull Lair
+
+The Dark Door
+
+Pyramid of Wonders
+
+Spring of Rebirth
+
+Twin-Headed Behemoth
+
+Serpent Night Dragon
+
+Reload
+
+Advance Draw
+rules_text: As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay {2}.
+Draw four cards. => As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay 2. [i](To behold a blue creature with mana value 8 or greater or pay 2, choose a blue creature with mana value 8 or greater or pay 2 you control or reveal a blue creature with mana value 8 or greater or pay 2 card from your hand.)[/i]
+Draw four cards.
+
+Rush Recklessly
+
+D. Tribe
+
+Monster Gate
+
+Fusion Recovery
+
+Different Dimension Gate
+
+Heart of the Underdog
+
+Dark Magic Curtain
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.

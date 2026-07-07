@@ -5,7 +5,7 @@
 			<name>YUB</name>
 			<longname>Yu Gi Oh Universes Beyond</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-30</releasedate>
+			<releasedate>2026-07-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -472,7 +472,7 @@ At the beginning of your upkeep, this creature deals 3 damage to you.</text>
 			<name>Gearfried the Iron Knight</name>
 			<text>When Gearfried enters, return target permanent card from your graveyard to your hand.
 Whenever a permanent becomes attached to Gearfried, destroy that permanent and draw a card.</text>
-			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/26.png" num="185">YUB</set>
+			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/26.png" num="184">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -563,7 +563,7 @@ When Skull Knight enters, each opponent shuffles a card from their hand into the
 			<text>Changeling (This card is every creature type.)
 Deathtouch
 You may treat this card&apos;s name as any other card name.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/31.png" num="176">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/31.png" num="175">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -652,7 +652,7 @@ When this enchantment enters, put target creature card from your graveyard onto 
 			<name>Giant Rat</name>
 			<text>Trample
 When this creature dies, search your library for a green creature card with power 3 or less and put it onto the battlefield then shuffle.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/36.png" num="186">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/36.png" num="185">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -669,15 +669,15 @@ When this creature dies, search your library for a green creature card with powe
 		<card>
 			<name>Insect Imitation</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
-Search your library for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle. If you put an Insect onto the battlefield this way, put two +1/+1 counters on it.</text>
+Search your library for a creature card with mana value equal to X plus the sacrificed creature&apos;s mana value, put that card onto the battlefield, then shuffle. If you put an Insect onto the battlefield this way, put two +1/+1 counters on it.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/37.png" num="321">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>B/GB/G</manacost>
-				<cmc>2</cmc>
+				<manacost>XB/G</manacost>
+				<cmc>1</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 			</prop>
@@ -757,8 +757,8 @@ Whenever this creature deals combat damage to a player, add {R}{G}. Until end of
 		<card>
 			<name>Mystic Horseman</name>
 			<text>Trample, haste
-When you sacrifice this creature, the next creature that enters under your control this turn gains trample and haste until end of turn.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/42.png" num="197">YUB</set>
+If you would sacrifice this creature or discard this card to cast a spell with emerge or fusion, that spell costs {2} less to cast. If it is a creature spell, it enters with a trample counter and a haste counter on it.</text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/42.png" num="196">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -899,10 +899,10 @@ At the beginning of your upkeep, you lose 3 life.</text>
 		</card>
 		<card>
 			<name>Larvae Moth</name>
-			<text>You may sacrifice an Insect you control rather than pay this spell&apos;s mana cost.
+			<text>You may sacrifice a creature you control with power 2 or greater rather than pay this spell&apos;s mana cost.
 Ward {2} (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)
 When this creature dies, create two 1/1 green Insect tokens.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/50.png" num="192">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/50.png" num="191">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -921,7 +921,7 @@ When this creature dies, create two 1/1 green Insect tokens.</text>
 			<text>Defender
 At the beginning of your end step, put two +1/+1 counters on this creature.
 When this creature dies during your turn, search your library for an Insect card with power equal to or less than this creature&apos;s power and put it onto the battlefield. Then shuffle.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/51.png" num="180">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/51.png" num="179">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1095,16 +1095,15 @@ When this enchantment enters, exile target Zombie. Then put target Zombie card i
 		</card>
 		<card>
 			<name>Ultimate Offering</name>
-			<text>Flash
-Pay 1 life: Put a creature card from your hand onto the battlefield. Activate only once per turn.</text>
+			<text>Pay X life: The next creature spell you cast this turn costs {X} less to cast. Activate only once per turn.</text>
 			<set rarity="mythic" picurl="https://its-not-good.github.io/sets/YUB-files/img/61.png" num="209">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>6GG</manacost>
-				<cmc>8</cmc>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -1115,7 +1114,7 @@ Pay 1 life: Put a creature card from your hand onto the battlefield. Activate on
 			<text>Trample
 Whenever this creature enters or dies, put a +1/+1 counter on target creature.
 Forestcycling {1} ({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/62.png" num="193">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/62.png" num="192">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,7 +1396,7 @@ When this creature enters or is turned face up, destroy target artifact or encha
 			<text>Defense position {2}{G}{G} (You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it&apos;s blocking.)
 Deathtouch
 When this creature is turned face up for its Defense position cost, it deals damage equal to its power to target creature an opponent controls.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/78.png" num="194">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/78.png" num="193">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1625,7 +1624,7 @@ When Chaos Emperor Dragon Envoy of the End enters, if you cast it from your hand
 		<card>
 			<name>Harpie&apos;s Feather Duster</name>
 			<text>Destroy all artifacts, enchantments, and non-Bird creatures with flying.</text>
-			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/91.png" num="189">YUB</set>
+			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/91.png" num="188">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1642,7 +1641,7 @@ When Chaos Emperor Dragon Envoy of the End enters, if you cast it from your hand
 			<name>Mystical Space Typhoon</name>
 			<text>During your turn, this spell costs {3} less to cast.
 Destroy target artifact, enchantment, or creature with flying.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/92.png" num="198">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/92.png" num="197">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1903,7 +1902,7 @@ When Flame Swordsman enters or whenever you cast a noncreature spell, Flame Swor
 			<name>Eatgaboon</name>
 			<text>If a creature with power 2 or less entered under an opponent&apos;s control this turn, you may pay {G} rather than pay this spell&apos;s mana cost.
 Put a +1/+1 counter on target creature you control. Then it fights up to one target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/107.png" num="183">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/107.png" num="182">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2076,7 +2075,7 @@ Destroy target creature with toughness 5 or less.</text>
 			<name>Solemn Wishes</name>
 			<text>Flash
 When this enchantment enters, search your library for a land card and put it onto the battlefield tapped.
-Landfall — Whenever a land enters under your control, you gain 1 life.</text>
+Landfall — Whenever a land enters under your control, add one mana of any type that land could produce.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/117.png" num="204">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2698,7 +2697,7 @@ At the beginning of each opponent&apos;s upkeep, search your library for an inst
 		<card>
 			<name>Burning Land</name>
 			<text>When this enchantment enters, destroy target land.
-At the beginning of each player&apos;s upkeep, this enchantment deals 1 damage to them.</text>
+At the beginning of each player&apos;s upkeep, this enchantment deals 1 damage to that player.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/152.png" num="137">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3037,7 +3036,7 @@ When this creature dies, if it had three or more +1/+1 counters on it, you may e
 			<name>Destined Rivals</name>
 			<text>Flash
 Creatures lose all abilities.
-At the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon.</text>
+At the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon. (To behold a Wizard or a Dragon, choose a Wizard or a Dragon you control or reveal a Wizard or a Dragon card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/171.png" num="55">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3255,7 +3254,7 @@ Whenever another creature dies, put a +1/+1 counter on this creature.</text>
 			<name>Petit Moth</name>
 			<text>Ward {1} (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)
 Whenever another Insect enters under your control, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/183.png" num="200">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/183.png" num="199">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3274,7 +3273,7 @@ Whenever another Insect enters under your control, put a +1/+1 counter on this c
 			<text>Emerge {4}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
 Reach, ward {3} (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)
 When this creature dies, create four 1/1 green Insect tokens.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/184.png" num="188">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/184.png" num="187">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3461,8 +3460,8 @@ Whenever this or another creature you control dies, you gain 1 life and draw a c
 		</card>
 		<card>
 			<name>Gokipon</name>
-			<text>When this creature dies, search your library for an Insect card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/195.png" num="187">YUB</set>
+			<text>When this creature dies, search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/195.png" num="186">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3479,7 +3478,7 @@ Whenever this or another creature you control dies, you gain 1 life and draw a c
 		<card>
 			<name>Multiplication of Ants</name>
 			<text>Create X 1/1 green Insect creature tokens, where X is one plus the number of Insects you control.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/196.png" num="196">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/196.png" num="195">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3497,7 +3496,7 @@ Whenever this or another creature you control dies, you gain 1 life and draw a c
 			<text>Reach
 When this creature dies, you may cast an Insect spell from your hand without paying its mana cost.
 Insectcycling {1}{BG} ({1}{BG}, Discard this card: Search your library for an Insect card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/197.png" num="201">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/197.png" num="200">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3589,7 +3588,8 @@ Creatures your opponents control get -2/-2. [7/7]</text>
 		<card>
 			<name>Arsenal Bug</name>
 			<text>Reach
-This creature gets +1/+1 for each other Insect you control and each Insect card in your graveyard.</text>
+This creature gets +1/+1 for each other Insect you control and each Insect card in your graveyard.
+{2}{G}: Mill a card. Create a 1/1 green Insect creature token.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/202.png" num="172">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3609,7 +3609,7 @@ This creature gets +1/+1 for each other Insect you control and each Insect card 
 			<text>Emerge {5}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
 Reach
 When this creature enters, you gain 7 life.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/203.png" num="195">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/203.png" num="194">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3627,8 +3627,8 @@ When this creature enters, you gain 7 life.</text>
 			<name>Dreadscythe Harvester</name>
 			<text>Emerge {4}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
 Reach
-Sacrifice another creature: Put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/204.png" num="182">YUB</set>
+Sacrifice another creature or pay {3}: Put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/204.png" num="181">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3646,8 +3646,8 @@ Sacrifice another creature: Put a +1/+1 counter on this creature.</text>
 			<name>Insect Queen</name>
 			<text>Emerge {5}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
 Reach
-At the beginning of your end step, create a 1/1 green Insect creature token. Then put a +1/+1 counter on target Insect you control.</text>
-			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/205.png" num="191">YUB</set>
+At the beginning of your end step, you may sacrifice another creature. If you do, create two 1/1 green Insect creature tokens. Then if you sacrificed a nontoken creature this way, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/205.png" num="189">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3662,20 +3662,20 @@ At the beginning of your end step, create a 1/1 green Insect creature token. The
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Howling Insect</name>
-			<text>Reach
-When this creature dies, search your library for an Insect card with power 3 or less, put it onto the battlefield, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/206.png" num="190">YUB</set>
+			<name>Regulus</name>
+			<text>Vigilance
+Whenever this creature enters or attacks, mill a card, then put a land card from your graveyard onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/206.png" num="201">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect</type>
+				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
 				<manacost>1GG</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3807,7 +3807,7 @@ Dragons can&apos;t attack or block and their activated abilities can&apos;t be a
 		<card>
 			<name>King Tiger Wanghu</name>
 			<text>Landfall — Whenever a land enters under your control, you may have Wanghu fight target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
-{R}{G}: Return target land card in your graveyard to your hand.</text>
+{X}{R}{G}: Target creature gets +X/+X and gains trample until end of turn.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/214.png" num="259">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3932,16 +3932,16 @@ You may exile this card from your graveyard as fusion material to cast a spell w
 		</card>
 		<card>
 			<name>One Day of Peace</name>
-			<text>Each player may search their library for up to two basic land cards and put them onto the battlefield tapped. Each player who does shuffles afterwards.
+			<text>Search your library for up to two basic land cards and put them onto the battlefield tapped. Then each opponent may search their library for a basic land card and put it onto the battlefield tapped. Each player who does shuffles afterwards.
 Until the beginning of your next turn, prevent all damage.</text>
-			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/221.png" num="199">YUB</set>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/221.png" num="198">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -4072,7 +4072,7 @@ This land enters tapped.
 			<name>Sogen</name>
 			<text>({T}: Add {W}.)
 This land enters tapped.
-{W}, {T}: Create a 1/1 white Warrior creature token. Activate only if you control no creatures.</text>
+{1}{W}, {T}: Create a 1/1 white Warrior creature token. This ability costs {1} less to activate if you control no creatures.</text>
 			<set rarity="mythic" picurl="https://its-not-good.github.io/sets/YUB-files/img/229.png" num="358">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5135,10 +5135,10 @@ Whenever a creature with mana value 2 or less enters under your control, draw a 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Gazelle the King of the Mythical Beasts</name>
+			<name>Gazelle the King of Mythical Beasts</name>
 			<text>Haste
-As long as this card is in your graveyard and you control a Beast, creatures you control have trample.</text>
-			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/289.png" num="184">YUB</set>
+As long as Gazelle is in your graveyard, and you control a creature with power 4 or greater, creatures you control have haste.</text>
+			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/289.png" num="183">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5148,16 +5148,16 @@ As long as this card is in your graveyard and you control a Beast, creatures you
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/5</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Berfomet</name>
 			<text>Defense position {1}{G} (You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it&apos;s blocking.)
-When this creature enters or is turned face up, search your library for a Beast card, reveal it, and put it into your hand. Then shuffle.
+When this creature enters or is turned face up, search your library for a creature card with power 4 or greater, reveal it, and put it into your hand. Then shuffle.
 All creatures lose flying.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/290.png" num="177">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/290.png" num="176">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5227,33 +5227,33 @@ When this creature enters, sacrifice a land, then search your library for up to 
 		</card>
 		<card>
 			<name>Chimera the Flying Mythical Beast</name>
-			<text>Fusion {3}{G} — Two Beasts (You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)
+			<text>Fusion {4}{G} — Two green creatures (You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)
 Flying
-When Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/294.png" num="179">YUB</set>
+When Chimera the Flying Mythical Beast enters or dies, return another permanent card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/294.png" num="178">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>3GG</manacost>
-				<cmc>5</cmc>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/5</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Beast Soul Swap</name>
-			<text>As an additional cost to cast this spell, return a creature you control to its owner&apos;s hand.
-Put a Beast card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/295.png" num="175">YUB</set>
+			<name>Land Flipping</name>
+			<text>As an additional cost to cast this spell, sacrifice a land.
+Search your library for up to three land cards that share a basic land type with the sacrificed permanent, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://its-not-good.github.io/sets/YUB-files/img/295.png" num="190">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
@@ -5419,8 +5419,8 @@ Mountaincycling {1} ({1}, Discard this card: Search your library for a Mountain 
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -5432,7 +5432,7 @@ Mountaincycling {1} ({1}, Discard this card: Search your library for a Mountain 
 {T}: Add {G}. Activate only if this artifact is not attached to a creature.
 Equipped creature gets +1/+1.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/305.png" num="178">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/305.png" num="177">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5660,16 +5660,15 @@ Whenever this or another creature you control is turned face up, draw a card.</t
 		</card>
 		<card>
 			<name>Soul Reversal</name>
-			<text>During your turn, this spell costs {2} less to cast.
-Return up to two colorless cards and/or cards with defense position from your graveyard to your hand.</text>
+			<text>Return X target permanent cards from your graveyard to your hand. Then put up to X land cards from your hand onto the battlefield tapped. Exile Soul Reversal.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/318.png" num="205">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -5830,7 +5829,7 @@ When this creature enters or dies, look at the top five cards of your library. Y
 		<card>
 			<name>Mystical Sheep #2</name>
 			<text>Vigilance
-When this creature enters or dies, create two 0/1 white Sheep creature tokens.</text>
+When this creature enters or dies, create two 0/1 white Sheep creatures.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/328.png" num="327">YUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5956,7 +5955,7 @@ Whenever this creature attacks for the first time each turn, untap all creatures
 		<card>
 			<name>Totem Dragon</name>
 			<text>Flying
-You may treat this creature&apos;s mana value as 3 when paying an emerge cost.
+You may treat this creature&apos;s mana value as 4 when paying an emerge cost.
 {G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/335.png" num="302">YUB</set>
 			<prop>
@@ -5968,7 +5967,7 @@ You may treat this creature&apos;s mana value as 3 when paying an emerge cost.
 				<cmc>2</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -6488,7 +6487,7 @@ This land has all abilities of land cards exiled by it.
 		</card>
 		<card>
 			<name>Mausoleum of the Emperor</name>
-			<text>You may sacrifice this land as though it were a creature with mana value as 2 when paying an emerge cost.
+			<text>You may sacrifice this land as though it were a creature with mana value 2 when paying an emerge cost.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to pay an emerge cost.</text>
 			<set rarity="masterpiece" picurl="https://its-not-good.github.io/sets/YUB-files/img/366.png" num="19">YUB</set>
@@ -6728,7 +6727,7 @@ Flashback {4}{U} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>Advance Draw</name>
-			<text>As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay {2}.
+			<text>As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay 2. (To behold a blue creature with mana value 8 or greater or pay 2, choose a blue creature with mana value 8 or greater or pay 2 you control or reveal a blue creature with mana value 8 or greater or pay 2 card from your hand.)
 Draw four cards.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/380.png" num="47">YUB</set>
 			<prop>
@@ -6763,7 +6762,7 @@ Flashback {3}{G}{G}{G} (You may cast this card from your graveyard for its flash
 		<card>
 			<name>D. Tribe</name>
 			<text>Destroy target permanent. It&apos;s controller creates a 3/3 red Dragon creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/382.png" num="181">YUB</set>
+			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/YUB-files/img/382.png" num="180">YUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6862,6 +6861,111 @@ Exile Dark Magic Curtain.</text>
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warrior YUB</name>
+			<text></text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/388.png" num="2">YUB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect YUB</name>
+			<text></text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/389.png" num="5">YUB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure YUB</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/390.png" num="6">YUB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sheep YUB</name>
+			<text></text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/391.png" num="1">YUB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Sheep</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beast YUB</name>
+			<text></text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/392.png" num="4">YUB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dragon YUB</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://its-not-good.github.io/sets/YUB-files/img/393.png" num="3">YUB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

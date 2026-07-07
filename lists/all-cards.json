@@ -17293,6 +17293,7 @@
             "artist": "",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17315,6 +17316,7 @@
             "artist": "",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17337,6 +17339,7 @@
             "artist": "",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17359,6 +17362,7 @@
             "artist": "",
             "alias": "",
             "position": "3",
+            "rotated": false,
             "notes": "split second was mana reborn's idea and I liked that",
             "image_type": "png",
             "v_mana": ""
@@ -17381,6 +17385,7 @@
             "artist": "",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": "split second was mana reborn's idea and I liked that",
             "image_type": "png",
             "v_mana": ""
@@ -17403,6 +17408,7 @@
             "artist": "",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": "split second was mana reborn's idea and I liked that",
             "image_type": "png",
             "v_mana": ""
@@ -17425,6 +17431,7 @@
             "artist": "",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17447,6 +17454,7 @@
             "artist": "",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17469,6 +17477,7 @@
             "artist": "",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17491,6 +17500,7 @@
             "artist": "",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17513,6 +17523,7 @@
             "artist": "",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17535,6 +17546,7 @@
             "artist": "",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17557,6 +17569,7 @@
             "artist": "",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17579,6 +17592,7 @@
             "artist": "",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17601,6 +17615,7 @@
             "artist": "",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17623,6 +17638,7 @@
             "artist": "",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17645,6 +17661,7 @@
             "artist": "",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17667,6 +17684,7 @@
             "artist": "",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17689,6 +17707,7 @@
             "artist": "",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17711,6 +17730,7 @@
             "artist": "",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17733,6 +17753,7 @@
             "artist": "",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17755,6 +17776,7 @@
             "artist": "",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17777,6 +17799,7 @@
             "artist": "",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17799,6 +17822,7 @@
             "artist": "",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17821,6 +17845,7 @@
             "artist": "",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17843,6 +17868,7 @@
             "artist": "",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17852,7 +17878,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Warrior",
-            "number": 185,
+            "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "When Gearfried enters, return target permanent card from your graveyard to your hand.\nWhenever a permanent becomes attached to Gearfried, destroy that permanent and draw a card.",
@@ -17865,6 +17891,7 @@
             "artist": "",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17887,6 +17914,7 @@
             "artist": "",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17909,6 +17937,7 @@
             "artist": "",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17931,6 +17960,7 @@
             "artist": "",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17953,6 +17983,7 @@
             "artist": "",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17962,7 +17993,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Shapeshifter",
-            "number": 176,
+            "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Changeling [i](This card is every creature type.)[/i]\nDeathtouch\nYou may treat this card's name as any other card name.",
@@ -17975,6 +18006,7 @@
             "artist": "",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -17997,6 +18029,7 @@
             "artist": "",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18019,6 +18052,7 @@
             "artist": "",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18041,6 +18075,7 @@
             "artist": "",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18063,6 +18098,7 @@
             "artist": "",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18072,7 +18108,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Rat Beast",
-            "number": 186,
+            "number": 185,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Trample\nWhen this creature dies, search your library for a green creature card with power 3 or less and put it onto the battlefield then shuffle.",
@@ -18085,6 +18121,7 @@
             "artist": "",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18096,8 +18133,8 @@
             "type": "Sorcery",
             "number": 321,
             "color_identity": "BG",
-            "cost": "{BG}{BG}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. If you put an Insect onto the battlefield this way, put two +1/+1 counters on it.",
+            "cost": "{X}{BG}",
+            "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value equal to X plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. If you put an Insect onto the battlefield this way, put two +1/+1 counters on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -18107,6 +18144,7 @@
             "artist": "",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18129,6 +18167,7 @@
             "artist": "",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18151,6 +18190,7 @@
             "artist": "",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18173,6 +18213,7 @@
             "artist": "",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18195,6 +18236,7 @@
             "artist": "",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18204,10 +18246,10 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Beast Warrior",
-            "number": 197,
+            "number": 196,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Trample, haste\nWhen you sacrifice this creature, the next creature that enters under your control this turn gains trample and haste until end of turn.",
+            "rules_text": "Trample, haste\nIf you would sacrifice this creature or discard this card to cast a spell with emerge or fusion, that spell costs {2} less to cast. If it is a creature spell, it enters with a trample counter and a haste counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -18217,6 +18259,7 @@
             "artist": "",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18239,6 +18282,7 @@
             "artist": "",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18261,6 +18305,7 @@
             "artist": "",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": "Could be Bond Beetle or Duskshell Crawler or Ironshell Beetle",
             "image_type": "png",
             "v_mana": ""
@@ -18283,6 +18328,7 @@
             "artist": "",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18305,6 +18351,7 @@
             "artist": "",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18327,6 +18374,7 @@
             "artist": "",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18349,6 +18397,7 @@
             "artist": "",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18371,6 +18420,7 @@
             "artist": "",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18380,10 +18430,10 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
-            "number": 192,
+            "number": 191,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "You may sacrifice an Insect you control rather than pay this spell's mana cost.\nWard {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]\nWhen this creature dies, create two 1/1 green Insect tokens.",
+            "rules_text": "You may sacrifice a creature you control with power 2 or greater rather than pay this spell's mana cost.\nWard {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]\nWhen this creature dies, create two 1/1 green Insect tokens.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -18393,6 +18443,7 @@
             "artist": "",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18402,7 +18453,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
-            "number": 180,
+            "number": 179,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Defender\nAt the beginning of your end step, put two +1/+1 counters on this creature.\nWhen this creature dies during your turn, search your library for an Insect card with power equal to or less than this creature's power and put it onto the battlefield. Then shuffle.",
@@ -18415,6 +18466,7 @@
             "artist": "",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18437,6 +18489,7 @@
             "artist": "",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18459,6 +18512,7 @@
             "artist": "",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18481,6 +18535,7 @@
             "artist": "",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18503,6 +18558,7 @@
             "artist": "",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18525,6 +18581,7 @@
             "artist": "",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18547,6 +18604,7 @@
             "artist": "",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": "Very important to point out that the final paragraph is meant to allow this to function the way it does in yu gi oh, in which you can alter what the oppoent targets.",
             "image_type": "png",
             "v_mana": ""
@@ -18569,6 +18627,7 @@
             "artist": "",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18591,6 +18650,7 @@
             "artist": "",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18613,6 +18673,7 @@
             "artist": "",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18624,8 +18685,8 @@
             "type": "Enchantment",
             "number": 209,
             "color_identity": "G",
-            "cost": "{6}{G}{G}",
-            "rules_text": "Flash\nPay 1 life: Put a creature card from your hand onto the battlefield. Activate only once per turn.",
+            "cost": "{1}{G}{G}",
+            "rules_text": "Pay X life: The next creature spell you cast this turn costs {X} less to cast. Activate only once per turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -18635,6 +18696,7 @@
             "artist": "",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": "4 or 5 mana. \nFlash\n\nCreatures spells you cast cost 4 or 5 less (generic) to cast. \n\nWhenever you cast a creature spell, you lose 1 life.",
             "image_type": "png",
             "v_mana": ""
@@ -18644,7 +18706,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Beast",
-            "number": 193,
+            "number": 192,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Trample\nWhenever this creature enters or dies, put a +1/+1 counter on target creature.\nForestcycling {1} [i]({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -18657,6 +18719,7 @@
             "artist": "",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18679,6 +18742,7 @@
             "artist": "",
             "alias": "Bone Shards",
             "position": "63",
+            "rotated": false,
             "notes": "Could be Bone Shards",
             "image_type": "png",
             "v_mana": ""
@@ -18701,6 +18765,7 @@
             "artist": "",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18723,6 +18788,7 @@
             "artist": "",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18745,6 +18811,7 @@
             "artist": "",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18767,6 +18834,7 @@
             "artist": "",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18789,6 +18857,7 @@
             "artist": "",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18811,6 +18880,7 @@
             "artist": "",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18833,6 +18903,7 @@
             "artist": "",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18855,6 +18926,7 @@
             "artist": "",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18877,6 +18949,7 @@
             "artist": "",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18899,6 +18972,7 @@
             "artist": "",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18921,6 +18995,7 @@
             "artist": "",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18943,6 +19018,7 @@
             "artist": "",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18965,6 +19041,7 @@
             "artist": "",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18987,6 +19064,7 @@
             "artist": "",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -18996,7 +19074,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Insect",
-            "number": 194,
+            "number": 193,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Defense position {2}{G}{G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]\nDeathtouch\nWhen this creature is turned face up for its Defense position cost, it deals damage equal to its power to target creature an opponent controls.",
@@ -19009,6 +19087,7 @@
             "artist": "",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19031,6 +19110,7 @@
             "artist": "",
             "alias": "Damnation",
             "position": "79",
+            "rotated": false,
             "notes": "Could be Damnation",
             "image_type": "png",
             "v_mana": ""
@@ -19053,6 +19133,7 @@
             "artist": "",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19075,6 +19156,7 @@
             "artist": "",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19097,6 +19179,7 @@
             "artist": "",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19119,6 +19202,7 @@
             "artist": "",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19141,6 +19225,7 @@
             "artist": "",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19163,6 +19248,7 @@
             "artist": "",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19185,6 +19271,7 @@
             "artist": "",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19207,6 +19294,7 @@
             "artist": "",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19229,6 +19317,7 @@
             "artist": "",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19251,6 +19340,7 @@
             "artist": "",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19273,6 +19363,7 @@
             "artist": "",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19282,7 +19373,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 189,
+            "number": 188,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
             "rules_text": "Destroy all artifacts, enchantments, and non-Bird creatures with flying.",
@@ -19295,6 +19386,7 @@
             "artist": "",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": "Maybe should hit fliers too. If it does, make it hit both players then.",
             "image_type": "png",
             "v_mana": ""
@@ -19304,7 +19396,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 198,
+            "number": 197,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "During your turn, this spell costs {3} less to cast.\nDestroy target artifact, enchantment, or creature with flying.",
@@ -19317,6 +19409,7 @@
             "artist": "",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19339,6 +19432,7 @@
             "artist": "",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": "Could be Hymn to Tourach",
             "image_type": "png",
             "v_mana": ""
@@ -19361,6 +19455,7 @@
             "artist": "",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19383,6 +19478,7 @@
             "artist": "",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19405,6 +19501,7 @@
             "artist": "",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19427,6 +19524,7 @@
             "artist": "",
             "alias": "Innocent Blood",
             "position": "97",
+            "rotated": false,
             "notes": "Could be Innocent Blood",
             "image_type": "png",
             "v_mana": ""
@@ -19449,6 +19547,7 @@
             "artist": "",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19471,6 +19570,7 @@
             "artist": "",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19493,6 +19593,7 @@
             "artist": "",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19515,6 +19616,7 @@
             "artist": "",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19537,6 +19639,7 @@
             "artist": "",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19559,6 +19662,7 @@
             "artist": "",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19581,6 +19685,7 @@
             "artist": "",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19603,6 +19708,7 @@
             "artist": "",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19625,6 +19731,7 @@
             "artist": "",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19634,7 +19741,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant \u2013 Trap",
-            "number": 183,
+            "number": 182,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "If a creature with power 2 or less entered under an opponent's control this turn, you may pay {G} rather than pay this spell's mana cost.\nPut a +1/+1 counter on target creature you control. Then it fights up to one target creature you don't control.",
@@ -19647,6 +19754,7 @@
             "artist": "",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19669,6 +19777,7 @@
             "artist": "",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19691,6 +19800,7 @@
             "artist": "",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19713,6 +19823,7 @@
             "artist": "",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19735,6 +19846,7 @@
             "artist": "",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19757,6 +19869,7 @@
             "artist": "",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19779,6 +19892,7 @@
             "artist": "",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19801,6 +19915,7 @@
             "artist": "",
             "alias": "Force of Will",
             "position": "114",
+            "rotated": false,
             "notes": "Could be force of will",
             "image_type": "png",
             "v_mana": ""
@@ -19823,6 +19938,7 @@
             "artist": "",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19845,6 +19961,7 @@
             "artist": "",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19857,7 +19974,7 @@
             "number": 204,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Flash\nWhen this enchantment enters, search your library for a land card and put it onto the battlefield tapped.\n[i]Landfall[/i] \u2013 Whenever a land enters under your control, you gain 1 life.",
+            "rules_text": "Flash\nWhen this enchantment enters, search your library for a land card and put it onto the battlefield tapped.\n[i]Landfall[/i] \u2013 Whenever a land enters under your control, add one mana of any type that land could produce.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -19867,6 +19984,7 @@
             "artist": "",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19889,6 +20007,7 @@
             "artist": "",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19911,6 +20030,7 @@
             "artist": "",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19933,6 +20053,7 @@
             "artist": "",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19955,6 +20076,7 @@
             "artist": "",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19977,6 +20099,7 @@
             "artist": "",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -19999,7 +20122,8 @@
             "artist": "",
             "alias": "",
             "position": "123",
-            "notes": "",
+            "rotated": false,
+            "notes": "gfs",
             "image_type": "png",
             "v_mana": ""
         },
@@ -20021,6 +20145,7 @@
             "artist": "",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20043,6 +20168,7 @@
             "artist": "",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20065,6 +20191,7 @@
             "artist": "",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20087,6 +20214,7 @@
             "artist": "",
             "alias": "Ephemerate",
             "position": "127",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20109,6 +20237,7 @@
             "artist": "",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20131,6 +20260,7 @@
             "artist": "",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20153,6 +20283,7 @@
             "artist": "",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20175,6 +20306,7 @@
             "artist": "",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20197,6 +20329,7 @@
             "artist": "",
             "alias": "Thoughtseize",
             "position": "132",
+            "rotated": false,
             "notes": "Thoughtsieze?",
             "image_type": "png",
             "v_mana": ""
@@ -20219,6 +20352,7 @@
             "artist": "",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20241,6 +20375,7 @@
             "artist": "",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20263,6 +20398,7 @@
             "artist": "",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20285,6 +20421,7 @@
             "artist": "",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20307,6 +20444,7 @@
             "artist": "",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20329,6 +20467,7 @@
             "artist": "",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20351,6 +20490,7 @@
             "artist": "",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20373,6 +20513,7 @@
             "artist": "",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20395,6 +20536,7 @@
             "artist": "",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20417,6 +20559,7 @@
             "artist": "",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20439,6 +20582,7 @@
             "artist": "",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20461,6 +20605,7 @@
             "artist": "",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20483,6 +20628,7 @@
             "artist": "",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20505,6 +20651,7 @@
             "artist": "",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20527,6 +20674,7 @@
             "artist": "",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20549,6 +20697,7 @@
             "artist": "",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20571,6 +20720,7 @@
             "artist": "",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20593,6 +20743,7 @@
             "artist": "",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20615,6 +20766,7 @@
             "artist": "",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20627,7 +20779,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When this enchantment enters, destroy target land.\nAt the beginning of each player's upkeep, this enchantment deals 1 damage to them.",
+            "rules_text": "When this enchantment enters, destroy target land.\nAt the beginning of each player's upkeep, this enchantment deals 1 damage to that player.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -20637,6 +20789,7 @@
             "artist": "",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20659,6 +20812,7 @@
             "artist": "",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20681,6 +20835,7 @@
             "artist": "",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20703,6 +20858,7 @@
             "artist": "",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20725,6 +20881,7 @@
             "artist": "",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20747,6 +20904,7 @@
             "artist": "",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20769,6 +20927,7 @@
             "artist": "",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20791,6 +20950,7 @@
             "artist": "",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20813,6 +20973,7 @@
             "artist": "",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20835,6 +20996,7 @@
             "artist": "",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20857,6 +21019,7 @@
             "artist": "",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20879,6 +21042,7 @@
             "artist": "",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20901,6 +21065,7 @@
             "artist": "",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20923,6 +21088,7 @@
             "artist": "",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20945,6 +21111,7 @@
             "artist": "",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20967,6 +21134,7 @@
             "artist": "",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -20989,6 +21157,7 @@
             "artist": "",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21011,6 +21180,7 @@
             "artist": "",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21033,6 +21203,7 @@
             "artist": "",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21045,7 +21216,7 @@
             "number": 55,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flash\nCreatures lose all abilities.\nAt the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon.",
+            "rules_text": "Flash\nCreatures lose all abilities.\nAt the beginning of each end step, sacrifice this unless you behold a Wizard or a Dragon. [i](To behold a Wizard or a Dragon, choose a Wizard or a Dragon you control or reveal a Wizard or a Dragon card from your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -21055,6 +21226,7 @@
             "artist": "",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": "Could be Dress Down",
             "image_type": "png",
             "v_mana": ""
@@ -21077,6 +21249,7 @@
             "artist": "",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21099,6 +21272,7 @@
             "artist": "",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21121,6 +21295,7 @@
             "artist": "",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21143,6 +21318,7 @@
             "artist": "",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21165,6 +21341,7 @@
             "artist": "",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21187,6 +21364,7 @@
             "artist": "",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21209,6 +21387,7 @@
             "artist": "",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21231,6 +21410,7 @@
             "artist": "",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21253,6 +21433,7 @@
             "artist": "",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21275,6 +21456,7 @@
             "artist": "",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21297,6 +21479,7 @@
             "artist": "",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21306,7 +21489,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
-            "number": 200,
+            "number": 199,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Ward {1} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]\nWhenever another Insect enters under your control, put a +1/+1 counter on this creature.",
@@ -21319,6 +21502,7 @@
             "artist": "",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21328,7 +21512,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Insect",
-            "number": 188,
+            "number": 187,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
             "rules_text": "Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nReach, ward {3} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays the ward cost.)[/i]\nWhen this creature dies, create four 1/1 green Insect tokens.",
@@ -21341,6 +21525,7 @@
             "artist": "",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21363,6 +21548,7 @@
             "artist": "",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21385,6 +21571,7 @@
             "artist": "",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21407,6 +21594,7 @@
             "artist": "",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21429,6 +21617,7 @@
             "artist": "",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21451,6 +21640,7 @@
             "artist": "",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21473,6 +21663,7 @@
             "artist": "",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21495,6 +21686,7 @@
             "artist": "",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21517,6 +21709,7 @@
             "artist": "",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21539,6 +21732,7 @@
             "artist": "",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21561,6 +21755,7 @@
             "artist": "",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21570,10 +21765,10 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
-            "number": 187,
+            "number": 186,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When this creature dies, search your library for an Insect card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.",
+            "rules_text": "When this creature dies, search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -21583,6 +21778,7 @@
             "artist": "",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21592,7 +21788,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Kindred Sorcery \u2013 Insect",
-            "number": 196,
+            "number": 195,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Create X 1/1 green Insect creature tokens, where X is one plus the number of Insects you control.",
@@ -21605,6 +21801,7 @@
             "artist": "",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21614,7 +21811,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Insect",
-            "number": 201,
+            "number": 200,
             "color_identity": "BG",
             "cost": "{3}{G}",
             "rules_text": "Reach\nWhen this creature dies, you may cast an Insect spell from your hand without paying its mana cost.\nInsectcycling {1}{BG} [i]({1}{BG}, Discard this card: Search your library for an Insect card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -21627,6 +21824,7 @@
             "artist": "",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21649,6 +21847,7 @@
             "artist": "",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21671,6 +21870,7 @@
             "artist": "",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21693,6 +21893,7 @@
             "artist": "",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21715,6 +21916,7 @@
             "artist": "",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21727,7 +21929,7 @@
             "number": 172,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Reach\nThis creature gets +1/+1 for each other Insect you control and each Insect card in your graveyard.",
+            "rules_text": "Reach\nThis creature gets +1/+1 for each other Insect you control and each Insect card in your graveyard.\n{2}{G}: Mill a card. Create a 1/1 green Insect creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -21737,6 +21939,7 @@
             "artist": "",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21746,7 +21949,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
-            "number": 195,
+            "number": 194,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
             "rules_text": "Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nReach\nWhen this creature enters, you gain 7 life.",
@@ -21759,6 +21962,7 @@
             "artist": "",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21768,10 +21972,10 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Insect Warrior",
-            "number": 182,
+            "number": 181,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nReach\nSacrifice another creature: Put a +1/+1 counter on this creature.",
+            "rules_text": "Emerge {4}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nReach\nSacrifice another creature or pay {3}: Put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -21781,6 +21985,7 @@
             "artist": "",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21790,10 +21995,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2013 Insect",
-            "number": 191,
+            "number": 189,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nReach\nAt the beginning of your end step, create a 1/1 green Insect creature token. Then put a +1/+1 counter on target Insect you control.",
+            "rules_text": "Emerge {5}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]\nReach\nAt the beginning of your end step, you may sacrifice another creature. If you do, create two 1/1 green Insect creature tokens. Then if you sacrificed a nontoken creature this way, put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "5/6",
             "special_text": "",
@@ -21803,21 +22008,22 @@
             "artist": "",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
         {
-            "card_name": "Howling Insect",
+            "card_name": "Regulus",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
-            "number": 190,
+            "type": "Creature \u2013 Beast",
+            "number": 201,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "Reach\nWhen this creature dies, search your library for an Insect card with power 3 or less, put it onto the battlefield, then shuffle.",
+            "rules_text": "Vigilance\nWhenever this creature enters or attacks, mill a card, then put a land card from your graveyard onto the battlefield.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "YUB",
@@ -21825,7 +22031,8 @@
             "artist": "",
             "alias": "",
             "position": "206",
-            "notes": "",
+            "rotated": false,
+            "notes": "Howling Insect",
             "image_type": "png",
             "v_mana": ""
         },
@@ -21847,6 +22054,7 @@
             "artist": "",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21869,6 +22077,7 @@
             "artist": "",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21891,6 +22100,7 @@
             "artist": "",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21913,6 +22123,7 @@
             "artist": "",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21935,6 +22146,7 @@
             "artist": "",
             "alias": "Lightning Bolt",
             "position": "211",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21957,6 +22169,7 @@
             "artist": "",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21979,6 +22192,7 @@
             "artist": "",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -21991,7 +22205,7 @@
             "number": 259,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land enters under your control, you may have Wanghu fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]\n{R}{G}: Return target land card in your graveyard to your hand.",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land enters under your control, you may have Wanghu fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]\n{X}{R}{G}: Target creature gets +X/+X and gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -22001,6 +22215,7 @@
             "artist": "",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22023,6 +22238,7 @@
             "artist": "",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22045,6 +22261,7 @@
             "artist": "",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22067,6 +22284,7 @@
             "artist": "",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22089,6 +22307,7 @@
             "artist": "",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22111,6 +22330,7 @@
             "artist": "",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22133,6 +22353,7 @@
             "artist": "",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22142,10 +22363,10 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 199,
+            "number": 198,
             "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "Each player may search their library for up to two basic land cards and put them onto the battlefield tapped. Each player who does shuffles afterwards.\nUntil the beginning of your next turn, prevent all damage.",
+            "cost": "{1}{G}",
+            "rules_text": "Search your library for up to two basic land cards and put them onto the battlefield tapped. Then each opponent may search their library for a basic land card and put it onto the battlefield tapped. Each player who does shuffles afterwards.\nUntil the beginning of your next turn, prevent all damage.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -22155,6 +22376,7 @@
             "artist": "",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22177,6 +22399,7 @@
             "artist": "",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22199,6 +22422,7 @@
             "artist": "",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22221,6 +22445,7 @@
             "artist": "",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22243,6 +22468,7 @@
             "artist": "",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22265,6 +22491,7 @@
             "artist": "",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22287,6 +22514,7 @@
             "artist": "",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22309,6 +22537,7 @@
             "artist": "",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22321,7 +22550,7 @@
             "number": 358,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "[i]({T}: Add {W}.)[/i]\nThis land enters tapped.\n{W}, {T}: Create a 1/1 white Warrior creature token. Activate only if you control no creatures.",
+            "rules_text": "[i]({T}: Add {W}.)[/i]\nThis land enters tapped.\n{1}{W}, {T}: Create a 1/1 white Warrior creature token. This ability costs {1} less to activate if you control no creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -22331,6 +22560,7 @@
             "artist": "",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22353,6 +22583,7 @@
             "artist": "",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22375,6 +22606,7 @@
             "artist": "",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22397,6 +22629,7 @@
             "artist": "",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22419,6 +22652,7 @@
             "artist": "",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22441,6 +22675,7 @@
             "artist": "",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22463,6 +22698,7 @@
             "artist": "",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22485,6 +22721,7 @@
             "artist": "",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22507,6 +22744,7 @@
             "artist": "",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22529,6 +22767,7 @@
             "artist": "",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22551,6 +22790,7 @@
             "artist": "",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22573,6 +22813,7 @@
             "artist": "",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22595,6 +22836,7 @@
             "artist": "",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22617,6 +22859,7 @@
             "artist": "",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22639,6 +22882,7 @@
             "artist": "",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22661,6 +22905,7 @@
             "artist": "",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22683,6 +22928,7 @@
             "artist": "",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22705,6 +22951,7 @@
             "artist": "",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22727,6 +22974,7 @@
             "artist": "",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22749,6 +22997,7 @@
             "artist": "",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22771,6 +23020,7 @@
             "artist": "",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22793,6 +23043,7 @@
             "artist": "",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22815,6 +23066,7 @@
             "artist": "",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22837,6 +23089,7 @@
             "artist": "",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22859,6 +23112,7 @@
             "artist": "",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22881,6 +23135,7 @@
             "artist": "",
             "alias": "",
             "position": "254",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22903,6 +23158,7 @@
             "artist": "",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22925,6 +23181,7 @@
             "artist": "",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22947,6 +23204,7 @@
             "artist": "",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22969,6 +23227,7 @@
             "artist": "",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -22991,6 +23250,7 @@
             "artist": "",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23013,6 +23273,7 @@
             "artist": "",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23035,6 +23296,7 @@
             "artist": "",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23057,6 +23319,7 @@
             "artist": "",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23079,6 +23342,7 @@
             "artist": "",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23101,6 +23365,7 @@
             "artist": "",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23123,6 +23388,7 @@
             "artist": "",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23145,6 +23411,7 @@
             "artist": "",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23167,6 +23434,7 @@
             "artist": "",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23189,6 +23457,7 @@
             "artist": "",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23211,6 +23480,7 @@
             "artist": "",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23233,6 +23503,7 @@
             "artist": "",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23255,6 +23526,7 @@
             "artist": "",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23277,6 +23549,7 @@
             "artist": "",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23299,6 +23572,7 @@
             "artist": "",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23321,6 +23595,7 @@
             "artist": "",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23343,6 +23618,7 @@
             "artist": "",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23365,6 +23641,7 @@
             "artist": "",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23387,6 +23664,7 @@
             "artist": "",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23409,6 +23687,7 @@
             "artist": "",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23431,6 +23710,7 @@
             "artist": "",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23453,6 +23733,7 @@
             "artist": "",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23475,6 +23756,7 @@
             "artist": "",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23497,6 +23779,7 @@
             "artist": "",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23519,6 +23802,7 @@
             "artist": "",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23541,6 +23825,7 @@
             "artist": "",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23563,6 +23848,7 @@
             "artist": "",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23585,6 +23871,7 @@
             "artist": "",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23607,6 +23894,7 @@
             "artist": "",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23629,21 +23917,22 @@
             "artist": "",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
         {
-            "card_name": "Gazelle the King of the Mythical Beasts",
+            "card_name": "Gazelle the King of Mythical Beasts",
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Beast",
-            "number": 184,
+            "number": 183,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Haste\nAs long as this card is in your graveyard and you control a Beast, creatures you control have trample.",
+            "rules_text": "Haste\nAs long as Gazelle is in your graveyard, and you control a creature with power 4 or greater, creatures you control have haste.",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "5/4",
             "special_text": "",
             "shape": "normal",
             "set": "YUB",
@@ -23651,6 +23940,7 @@
             "artist": "",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": "Could be Questing Beast",
             "image_type": "png",
             "v_mana": ""
@@ -23660,10 +23950,10 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Beast",
-            "number": 177,
+            "number": 176,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Defense position {1}{G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]\nWhen this creature enters or is turned face up, search your library for a Beast card, reveal it, and put it into your hand. Then shuffle.\nAll creatures lose flying.",
+            "rules_text": "Defense position {1}{G} [i](You may cast this card face down as a 2/2 creature with defender for {1}. Turn it face up any time for its mana cost or for its Defense Position cost if it's blocking.)[/i]\nWhen this creature enters or is turned face up, search your library for a creature card with power 4 or greater, reveal it, and put it into your hand. Then shuffle.\nAll creatures lose flying.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -23673,6 +23963,7 @@
             "artist": "",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23695,6 +23986,7 @@
             "artist": "",
             "alias": "",
             "position": "291",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23717,6 +24009,7 @@
             "artist": "",
             "alias": "",
             "position": "292",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23739,6 +24032,7 @@
             "artist": "",
             "alias": "",
             "position": "293",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23748,12 +24042,12 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Beast",
-            "number": 179,
+            "number": 178,
             "color_identity": "G",
-            "cost": "{3}{G}{G}",
-            "rules_text": "Fusion {3}{G} \u2013 Two Beasts [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]\nFlying\nWhen Chimera the Flying Mythical Beast dies, you may exile it. When you do, return target Beast card from your graveyard to the battlefield.",
+            "cost": "{4}{G}{G}",
+            "rules_text": "Fusion {4}{G} \u2013 Two green creatures [i](You may cast this spell from outside the game or from your command zone for its Fusion cost by sacrificing or discarding the noted fusion material creatures.)[/i]\nFlying\nWhen Chimera the Flying Mythical Beast enters or dies, return another permanent card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "YUB",
@@ -23761,19 +24055,20 @@
             "artist": "",
             "alias": "",
             "position": "294",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
         {
-            "card_name": "Beast Soul Swap",
+            "card_name": "Land Flipping",
             "color": "G",
             "rarity": "rare",
-            "type": "Instant",
-            "number": 175,
+            "type": "Sorcery",
+            "number": 190,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "As an additional cost to cast this spell, return a creature you control to its owner's hand.\nPut a Beast card from your hand onto the battlefield.",
+            "rules_text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to three land cards that share a basic land type with the sacrificed permanent, put them onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -23783,7 +24078,8 @@
             "artist": "",
             "alias": "",
             "position": "295",
-            "notes": "",
+            "rotated": false,
+            "notes": "Beast Soul Swap",
             "image_type": "png",
             "v_mana": ""
         },
@@ -23805,6 +24101,7 @@
             "artist": "",
             "alias": "Thragtusk",
             "position": "296",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23827,6 +24124,7 @@
             "artist": "",
             "alias": "",
             "position": "297",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23849,6 +24147,7 @@
             "artist": "",
             "alias": "",
             "position": "298",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23871,6 +24170,7 @@
             "artist": "",
             "alias": "",
             "position": "299",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23893,6 +24193,7 @@
             "artist": "",
             "alias": "",
             "position": "300",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23915,6 +24216,7 @@
             "artist": "",
             "alias": "",
             "position": "301",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23937,6 +24239,7 @@
             "artist": "",
             "alias": "",
             "position": "302",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23959,6 +24262,7 @@
             "artist": "",
             "alias": "",
             "position": "303",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23970,7 +24274,7 @@
             "type": "Enchantment",
             "number": 207,
             "color_identity": "G",
-            "cost": "{1}{G}{G}",
+            "cost": "{G}{G}",
             "rules_text": "Whenever one or more creatures you control die, you may return one of them from your graveyard to the battlefield with a finality counter on it. This ability triggers only once per turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -23981,6 +24285,7 @@
             "artist": "",
             "alias": "",
             "position": "304",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -23990,7 +24295,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Artifact \u2013 Equipment",
-            "number": 178,
+            "number": 177,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "When this card is put into your graveyard from anywhere, you may return it to your hand.\n{T}: Add {G}. Activate only if this artifact is not attached to a creature.\nEquipped creature gets +1/+1.\nEquip {1}",
@@ -24003,6 +24308,7 @@
             "artist": "",
             "alias": "",
             "position": "305",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24025,6 +24331,7 @@
             "artist": "",
             "alias": "",
             "position": "306",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24047,6 +24354,7 @@
             "artist": "",
             "alias": "",
             "position": "307",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24069,6 +24377,7 @@
             "artist": "",
             "alias": "",
             "position": "308",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24091,6 +24400,7 @@
             "artist": "",
             "alias": "",
             "position": "309",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24113,6 +24423,7 @@
             "artist": "",
             "alias": "",
             "position": "310",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24135,6 +24446,7 @@
             "artist": "",
             "alias": "",
             "position": "311",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24157,6 +24469,7 @@
             "artist": "",
             "alias": "",
             "position": "312",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24179,6 +24492,7 @@
             "artist": "",
             "alias": "",
             "position": "313",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24201,6 +24515,7 @@
             "artist": "",
             "alias": "",
             "position": "314",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24223,6 +24538,7 @@
             "artist": "",
             "alias": "",
             "position": "315",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24245,6 +24561,7 @@
             "artist": "",
             "alias": "",
             "position": "316",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24267,6 +24584,7 @@
             "artist": "",
             "alias": "",
             "position": "317",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24275,11 +24593,11 @@
             "card_name": "Soul Reversal",
             "color": "G",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 205,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "During your turn, this spell costs {2} less to cast.\nReturn up to two colorless cards and/or cards with defense position from your graveyard to your hand.",
+            "cost": "{X}{G}{G}",
+            "rules_text": "Return X target permanent cards from your graveyard to your hand. Then put up to X land cards from your hand onto the battlefield tapped. Exile Soul Reversal.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -24289,6 +24607,7 @@
             "artist": "",
             "alias": "",
             "position": "318",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24311,6 +24630,7 @@
             "artist": "",
             "alias": "",
             "position": "319",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24333,6 +24653,7 @@
             "artist": "",
             "alias": "",
             "position": "320",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24355,6 +24676,7 @@
             "artist": "",
             "alias": "",
             "position": "321",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24377,6 +24699,7 @@
             "artist": "",
             "alias": "",
             "position": "322",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24399,6 +24722,7 @@
             "artist": "",
             "alias": "",
             "position": "323",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24421,6 +24745,7 @@
             "artist": "",
             "alias": "",
             "position": "324",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24443,6 +24768,7 @@
             "artist": "",
             "alias": "",
             "position": "325",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24465,6 +24791,7 @@
             "artist": "",
             "alias": "",
             "position": "326",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24487,6 +24814,7 @@
             "artist": "",
             "alias": "",
             "position": "327",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24499,7 +24827,7 @@
             "number": 327,
             "color_identity": "WG",
             "cost": "{1}{GW}{GW}",
-            "rules_text": "Vigilance\nWhen this creature enters or dies, create two 0/1 white Sheep creature tokens.",
+            "rules_text": "Vigilance\nWhen this creature enters or dies, create two 0/1 white Sheep creatures.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -24509,6 +24837,7 @@
             "artist": "",
             "alias": "",
             "position": "328",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24531,6 +24860,7 @@
             "artist": "",
             "alias": "",
             "position": "329",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24553,6 +24883,7 @@
             "artist": "",
             "alias": "",
             "position": "330",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24575,6 +24906,7 @@
             "artist": "",
             "alias": "",
             "position": "331",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24597,6 +24929,7 @@
             "artist": "",
             "alias": "",
             "position": "332",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24619,6 +24952,7 @@
             "artist": "",
             "alias": "",
             "position": "333",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24641,6 +24975,7 @@
             "artist": "",
             "alias": "",
             "position": "334",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24653,9 +24988,9 @@
             "number": 302,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Flying\nYou may treat this creature's mana value as 3 when paying an emerge cost.\n{G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only as a sorcery.",
+            "rules_text": "Flying\nYou may treat this creature's mana value as 4 when paying an emerge cost.\n{G}{W}: Put this card from your graveyard onto the battlefield with a finality counter on it. Activate this ability only as a sorcery.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "YUB",
@@ -24663,6 +24998,7 @@
             "artist": "",
             "alias": "",
             "position": "335",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24685,6 +25021,7 @@
             "artist": "",
             "alias": "",
             "position": "336",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24707,6 +25044,7 @@
             "artist": "",
             "alias": "",
             "position": "337",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24729,6 +25067,7 @@
             "artist": "",
             "alias": "",
             "position": "338",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24751,6 +25090,7 @@
             "artist": "",
             "alias": "",
             "position": "339",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24773,6 +25113,7 @@
             "artist": "",
             "alias": "",
             "position": "340",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24795,6 +25136,7 @@
             "artist": "",
             "alias": "",
             "position": "341",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24817,6 +25159,7 @@
             "artist": "",
             "alias": "",
             "position": "342",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24839,6 +25182,7 @@
             "artist": "",
             "alias": "",
             "position": "343",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24861,6 +25205,7 @@
             "artist": "",
             "alias": "",
             "position": "344",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24883,6 +25228,7 @@
             "artist": "",
             "alias": "",
             "position": "345",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24905,6 +25251,7 @@
             "artist": "",
             "alias": "",
             "position": "346",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24927,6 +25274,7 @@
             "artist": "",
             "alias": "",
             "position": "347",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24949,6 +25297,7 @@
             "artist": "",
             "alias": "",
             "position": "348",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24971,6 +25320,7 @@
             "artist": "",
             "alias": "",
             "position": "349",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -24993,6 +25343,7 @@
             "artist": "",
             "alias": "",
             "position": "350",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25015,6 +25366,7 @@
             "artist": "",
             "alias": "",
             "position": "351",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25037,6 +25389,7 @@
             "artist": "",
             "alias": "",
             "position": "352",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25059,6 +25412,7 @@
             "artist": "",
             "alias": "",
             "position": "353",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25081,6 +25435,7 @@
             "artist": "",
             "alias": "",
             "position": "354",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25103,6 +25458,7 @@
             "artist": "",
             "alias": "",
             "position": "355",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25125,6 +25481,7 @@
             "artist": "",
             "alias": "",
             "position": "356",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25147,6 +25504,7 @@
             "artist": "",
             "alias": "",
             "position": "357",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25169,6 +25527,7 @@
             "artist": "",
             "alias": "",
             "position": "358",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25191,6 +25550,7 @@
             "artist": "",
             "alias": "",
             "position": "359",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25213,6 +25573,7 @@
             "artist": "",
             "alias": "",
             "position": "360",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25235,6 +25596,7 @@
             "artist": "",
             "alias": "",
             "position": "361",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25257,6 +25619,7 @@
             "artist": "",
             "alias": "",
             "position": "362",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25279,6 +25642,7 @@
             "artist": "",
             "alias": "",
             "position": "363",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25301,6 +25665,7 @@
             "artist": "",
             "alias": "Cavern of Souls",
             "position": "364",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25323,6 +25688,7 @@
             "artist": "",
             "alias": "",
             "position": "365",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25335,7 +25701,7 @@
             "number": 19,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "You may sacrifice this land as though it were a creature with mana value as 2 when paying an emerge cost.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to pay an emerge cost.",
+            "rules_text": "You may sacrifice this land as though it were a creature with mana value 2 when paying an emerge cost.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to pay an emerge cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -25345,6 +25711,7 @@
             "artist": "",
             "alias": "",
             "position": "366",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25367,6 +25734,7 @@
             "artist": "",
             "alias": "",
             "position": "367",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25389,6 +25757,7 @@
             "artist": "",
             "alias": "",
             "position": "368",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25411,6 +25780,7 @@
             "artist": "",
             "alias": "",
             "position": "369",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25433,6 +25803,7 @@
             "artist": "",
             "alias": "",
             "position": "370",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25455,6 +25826,7 @@
             "artist": "",
             "alias": "",
             "position": "371",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25477,6 +25849,7 @@
             "artist": "",
             "alias": "",
             "position": "372",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25499,6 +25872,7 @@
             "artist": "",
             "alias": "",
             "position": "373",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25521,6 +25895,7 @@
             "artist": "",
             "alias": "",
             "position": "374",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25543,6 +25918,7 @@
             "artist": "",
             "alias": "",
             "position": "375",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25565,6 +25941,7 @@
             "artist": "",
             "alias": "",
             "position": "376",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25587,6 +25964,7 @@
             "artist": "",
             "alias": "",
             "position": "377",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25609,6 +25987,7 @@
             "artist": "",
             "alias": "",
             "position": "378",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25631,6 +26010,7 @@
             "artist": "",
             "alias": "",
             "position": "379",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25643,7 +26023,7 @@
             "number": 47,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay {2}.\nDraw four cards.",
+            "rules_text": "As an additional cost to cast this spell, behold a blue creature with mana value 8 or greater or pay 2. [i](To behold a blue creature with mana value 8 or greater or pay 2, choose a blue creature with mana value 8 or greater or pay 2 you control or reveal a blue creature with mana value 8 or greater or pay 2 card from your hand.)[/i]\nDraw four cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -25653,6 +26033,7 @@
             "artist": "",
             "alias": "",
             "position": "380",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25675,6 +26056,7 @@
             "artist": "",
             "alias": "",
             "position": "381",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25684,7 +26066,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 181,
+            "number": 180,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Destroy target permanent. It's controller creates a 3/3 red Dragon creature token with flying.",
@@ -25697,6 +26079,7 @@
             "artist": "",
             "alias": "",
             "position": "382",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25719,6 +26102,7 @@
             "artist": "",
             "alias": "",
             "position": "383",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25741,6 +26125,7 @@
             "artist": "",
             "alias": "",
             "position": "384",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25763,6 +26148,7 @@
             "artist": "",
             "alias": "",
             "position": "385",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25785,6 +26171,7 @@
             "artist": "",
             "alias": "",
             "position": "386",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -25807,6 +26194,145 @@
             "artist": "",
             "alias": "",
             "position": "387",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Warrior",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Warrior",
+            "number": 2,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YUB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "388",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Insect",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Insect",
+            "number": 5,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YUB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "389",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2013 Treasure",
+            "number": 6,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "YUB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "390",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Sheep",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Sheep",
+            "number": 1,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "0/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "YUB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "391",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Beast",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Beast",
+            "number": 4,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "YUB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "392",
+            "rotated": false,
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Dragon",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2013 Dragon",
+            "number": 3,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "YUB",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "393",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""

@@ -72,12 +72,12 @@
         "position": "302"
     },
     {
-        "card_name": "Beast Soul Swap",
-        "number": 175,
+        "card_name": "Chimera the Flying Mythical Beast",
+        "number": 178,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "295"
+        "position": "294"
     },
     {
         "card_name": "Imperial Order",
@@ -112,12 +112,12 @@
         "position": "180"
     },
     {
-        "card_name": "Chimera the Flying Mythical Beast",
-        "number": 179,
+        "card_name": "Gazelle the King of Mythical Beasts",
+        "number": 183,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "294"
+        "position": "289"
     },
     {
         "card_name": "Mirror Force",
@@ -152,12 +152,12 @@
         "position": "300"
     },
     {
-        "card_name": "Gazelle the King of the Mythical Beasts",
+        "card_name": "Gearfried the Iron Knight",
         "number": 184,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "289"
+        "position": "26"
     },
     {
         "card_name": "Raigeki",
@@ -192,12 +192,12 @@
         "position": "109"
     },
     {
-        "card_name": "Gearfried the Iron Knight",
-        "number": 185,
+        "card_name": "Harpie's Feather Duster",
+        "number": 188,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "26"
+        "position": "91"
     },
     {
         "card_name": "Swords of Revealing Light",
@@ -232,12 +232,12 @@
         "position": "25"
     },
     {
-        "card_name": "Harpie's Feather Duster",
+        "card_name": "Insect Queen",
         "number": 189,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "91"
+        "position": "205"
     },
     {
         "card_name": "Time Wizard",
@@ -272,12 +272,12 @@
         "position": "217"
     },
     {
-        "card_name": "Insect Queen",
-        "number": 191,
+        "card_name": "Land Flipping",
+        "number": 190,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "205"
+        "position": "295"
     },
     {
         "card_name": "The Ultimate Creature of Destruction",
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Berfomet",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Butterfly Dagger \u2014 Elma",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -513,7 +513,7 @@
     },
     {
         "card_name": "D. Tribe",
-        "number": 181,
+        "number": 180,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "Dreadscythe Harvester",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -593,7 +593,7 @@
     },
     {
         "card_name": "Giant Rat",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -633,7 +633,7 @@
     },
     {
         "card_name": "Great Moth",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -672,12 +672,12 @@
         "position": "384"
     },
     {
-        "card_name": "Howling Insect",
-        "number": 190,
+        "card_name": "Man-Eater Bug",
+        "number": 193,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "206"
+        "position": "78"
     },
     {
         "card_name": "Pyramid Turtle",
@@ -712,12 +712,12 @@
         "position": "297"
     },
     {
-        "card_name": "Man-Eater Bug",
-        "number": 194,
+        "card_name": "Pinch Hopper",
+        "number": 200,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "78"
+        "position": "197"
     },
     {
         "card_name": "Sangan",
@@ -752,12 +752,12 @@
         "position": "83"
     },
     {
-        "card_name": "Pinch Hopper",
+        "card_name": "Regulus",
         "number": 201,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
-        "position": "197"
+        "position": "206"
     },
     {
         "card_name": "Scapegoat",
@@ -1073,7 +1073,7 @@
     },
     {
         "card_name": "Beastking of the Swamps",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1113,7 +1113,7 @@
     },
     {
         "card_name": "Cocoon of Evolution",
-        "number": 180,
+        "number": 179,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1153,7 +1153,7 @@
     },
     {
         "card_name": "Eatgaboon",
-        "number": 183,
+        "number": 182,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Gokipon",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Larvae Moth",
-        "number": 192,
+        "number": 191,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Mad Sword Beast",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1313,7 +1313,7 @@
     },
     {
         "card_name": "Metal Armored Bug",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1353,7 +1353,7 @@
     },
     {
         "card_name": "Multiplication of Ants",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1393,7 +1393,7 @@
     },
     {
         "card_name": "Mystic Horseman",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1433,7 +1433,7 @@
     },
     {
         "card_name": "Mystical Space Typhoon",
-        "number": 198,
+        "number": 197,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1473,7 +1473,7 @@
     },
     {
         "card_name": "One Day of Peace",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -1513,7 +1513,7 @@
     },
     {
         "card_name": "Petit Moth",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "YUB",
         "rotated": false,
@@ -2968,6 +2968,79 @@
         "set": "YUB",
         "rotated": false,
         "position": "226"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Treasure",
+        "number": 6,
+        "shape": "token",
+        "set": "YUB",
+        "rotated": false,
+        "position": "390"
+    },
+    {
+        "card_name": "Sheep",
+        "number": 1,
+        "shape": "token",
+        "set": "YUB",
+        "rotated": false,
+        "position": "391"
+    },
+    {
+        "card_name": "Warrior",
+        "number": 2,
+        "shape": "token",
+        "set": "YUB",
+        "rotated": false,
+        "position": "388"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 3,
+        "shape": "token",
+        "set": "YUB",
+        "rotated": false,
+        "position": "393"
+    },
+    {
+        "card_name": "Beast",
+        "number": 4,
+        "shape": "token",
+        "set": "YUB",
+        "rotated": false,
+        "position": "392"
+    },
+    {
+        "card_name": "Insect",
+        "number": 5,
+        "shape": "token",
+        "set": "YUB",
+        "rotated": false,
+        "position": "389"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
