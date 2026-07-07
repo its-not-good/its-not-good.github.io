@@ -5,7 +5,7 @@
 			<name>BUB</name>
 			<longname>Bloodborne: Universes Beyond</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-30</releasedate>
+			<releasedate>2026-07-06</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1435,8 +1435,7 @@ Equip—Discard a card. Activate only once per turn.</text>
 		<card>
 			<name>Great One Coldblood</name>
 			<text>When this artifact enters, increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)
-{T}: Add one mana of any color.
-{T}: Add {C}{C}. This mana can&apos;t be spent to cast spells from your hand.</text>
+{T}: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/71.png" num="322">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1568,7 +1567,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Fist of Gratia</name>
-			<text>When this Equipment enters, it deals damage to target creature you don&apos;t control equal to the number of creatures and Equipment you control.
+			<text>When this Equipment enters, it deals damage to target creature you don&apos;t control equal to the number of creatures, Auras, and Equipment you control.
 Equipped creature gets +1/+0.
 Equip {2}</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/77.png" num="24">BUB</set>
@@ -1786,8 +1785,8 @@ Whenever Ebrietas or another Great One you control attacks, put a +1/+1 counter 
 		<card>
 			<name>Formless Oedon BUB</name>
 			<text>(Oedon is colorless. Whenever you awaken Oedon, he becomes a creature in addition to his other types until your next turn.)
-Blood Moon — Oedon can&apos;t attack unless you have three or more insight.
-Whenever you awaken Oedon, you gain 3 life, then awaken each other Great One you control.</text>
+Blood Moon — As long as you have three or more insight, Great Ones you control has vigilance.
+Tap three other untapped creatures you control: Awaken Oedon. Activate only as a sorcery.</text>
 			<set rarity="special" picurl="https://its-not-good.github.io/sets/BUB-files/img/89.png" num="2">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2049,7 +2048,7 @@ Madness {2}{B} (If you discard this card, discard it into exile. When you do, ca
 		</card>
 		<card>
 			<name>Beastial Hunter</name>
-			<text>During your turn this creature has deathtouch.
+			<text>Trample
 Hunt for Paleblood — At the beginning of your end step, if a player gained life and a player lost life this turn, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/102.png" num="215">BUB</set>
 			<prop>
@@ -2086,7 +2085,7 @@ Hunt for Paleblood — At the beginning of your end step, if a player gained lif
 		<card>
 			<name>Church Assassin</name>
 			<text>Lifelink
-{4}, Exile this card from your graveyard: Increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)</text>
+{3}, Exile this card from your graveyard: Increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/104.png" num="117">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2296,7 +2295,7 @@ Madness {2}{U} (If you discard this card, discard it into exile. When you do, ca
 		<card>
 			<name>Queen Killer</name>
 			<text>When this creature enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
-Whenever an Equipment attached to a creature you control transforms, that creature gets +2/+2 and gains trample and haste until end of turn.</text>
+Whenever an Equipment attached to a creature you control transforms, that creature gets +2/+2 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/BUB-files/img/116.png" num="284">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2313,7 +2312,7 @@ Whenever an Equipment attached to a creature you control transforms, that creatu
 		</card>
 		<card>
 			<name>Nightmare Hound</name>
-			<text>Blood Moon — At the beginning of your end step, if you have three or more insight, you may pay {1}. If you do, create a token that&apos;s a copy of this creature, except it loses this ability.</text>
+			<text>Blood Moon — As long as you have three or more insight, this creature gets +2/+1 and has haste.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/117.png" num="307">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2848,7 +2847,7 @@ Otherworldly — Whenever a token enters under your control, you gain 1 life.</t
 			<name>Henryk, Tragic Hunter</name>
 			<text>Deathtouch
 Whenever Henryk or another Hunter you control dies, increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)
-Blood Moon — At the beginning of your end step, if you have three or more insight, put a +1/+1 counter on Henryk.</text>
+Blood Moon — As long as you have three or more insight, Henryk gets +3/+3.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/BUB-files/img/145.png" num="232">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2859,7 +2858,7 @@ Blood Moon — At the beginning of your end step, if you have three or more insi
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3148,18 +3147,18 @@ Flashback {8}{G}{G} (You may cast this card from your graveyard for its flashbac
 		</card>
 		<card>
 			<name>Hooded Beast Patient</name>
-			<text>Blood Moon — {2}, Exile this card from your graveyard: Create a 3/3 green Beast creature token. Activate only if you have three or more insight.</text>
+			<text>When this creature enters, increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/162.png" num="233">BUB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3325,8 +3324,8 @@ Whenever this creature deals combat damage to a player, that player loses an ins
 				<side>front</side>
 				<type>Enchantment Creature — Kin</type>
 				<maintype>Creature</maintype>
-				<manacost>3W/UW/U</manacost>
-				<cmc>5</cmc>
+				<manacost>2W/UW/U</manacost>
+				<cmc>4</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 				<pt>3/4</pt>
@@ -3354,7 +3353,7 @@ Whenever an Equipment enters under your control, create a Coldblood token. (It&a
 		<card>
 			<name>Cainhurst Servant Knight</name>
 			<text>First strike
-This creature gets +1/+1 for each Equipment you control.</text>
+This creature gets +1/+1 for each Aura and Equipment you control.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/172.png" num="6">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3407,7 +3406,7 @@ Madness—Sacrifice an artifact. (If you discard this card, discard it into exil
 		</card>
 		<card>
 			<name>Celestial Child</name>
-			<text>{5}, {T}: Commune with any Great One. This costs {1} less to activate for each Great One you control. (Create a token of Ebrietas, Flora, Kos, Oedon, or The Brain of Mensis or awaken a Great One you control.)</text>
+			<text>{5}, {T}: Commune with any Great One. This costs {1} less to activate for each Great One you control. Activate only as a sorcery. (Create a token of Ebrietas, Flora, Kos, Oedon, or The Brain of Mensis or awaken a Great One you control.)</text>
 			<set rarity="rare" picurl="https://its-not-good.github.io/sets/BUB-files/img/175.png" num="263">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4102,8 +4101,7 @@ When this creature enters, venture into the Chalice Dungeon, then mill four card
 		</card>
 		<card>
 			<name>Labyrinth Soldier</name>
-			<text>Activated abilities of artifacts you control cost {1} less to activate.
-Whenever an Equipment becomes attached to a creature you control, you may transform that Equipment.</text>
+			<text>Activated abilities of artifacts you control cost {1} less to activate.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/BUB-files/img/214.png" num="34">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4114,7 +4112,7 @@ Whenever an Equipment becomes attached to a creature you control, you may transf
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4231,8 +4229,8 @@ Create three 1/1 white Human creature tokens and three Blood tokens. You gain 3 
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4WW</manacost>
-				<cmc>6</cmc>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -4388,7 +4386,7 @@ Create a 3/3 green Beast creature token.</text>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4882,7 +4880,7 @@ Attacking creatures you control have deathtouch.</text>
 		<card>
 			<name>Nightmare Apostle</name>
 			<text>Flash
-When this creature enters or dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+When this creature dies, increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/257.png" num="243">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5045,8 +5043,8 @@ Blood Moon — At the beginning of your end step, if you have three or more insi
 		</card>
 		<card>
 			<name>Crawling Silverbeast</name>
-			<text>{2}: This creature gets +1/+0 and gains trample until end of turn.
-At the beginning of your end step, create a Coldblood token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add {C}{C}. This mana can&apos;t be spent to cast spells from your hand.&quot;)
+			<text>Trample
+{1}: This creature gets +1/+0 until end of turn.
 ---
 (Front): Walking Silverbeast</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/265_back.png" num="205b">BUB</set>
@@ -5168,14 +5166,14 @@ This creature enters with X +1/+1 counters on it.</text>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Snake Parasite</related>
 		</card>
 		<card>
 			<name>Snake Parasite</name>
-			<text>At the beginning of your end step, put a +1/+1 counter on target creature you control.
+			<text>This creature gets +X/+X where X is your insight.
 ---
 (Front): Masked Huntsman</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/271_back.png" num="241b">BUB</set>
@@ -5188,7 +5186,7 @@ This creature enters with X +1/+1 counters on it.</text>
 				<cmc>0</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Masked Huntsman</related>
@@ -5319,7 +5317,7 @@ Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of
 		</card>
 		<card>
 			<name>Elder Huntsman</name>
-			<text>{T}, Discard a card or sacrifice an artifact: Draw a card. If you sacrificed an Equipment or discarded an Equipment card this way, you may return it to the battlefield under your control with a finality counter on it.</text>
+			<text>Whenever you attack, you may discard a card then draw a card. If you discarded an Aura or Equipment card this way, you may return it to the battlefield under your control, attached to target attacking creature.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/BUB-files/img/279.png" num="176">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5330,7 +5328,7 @@ Exhaust — {2}{B}: Target creature an opponent controls gets -3/-3 until end of
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/4</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -6373,7 +6371,8 @@ Otherworldly — Whenever a token enters under your control, target creature you
 		</card>
 		<card>
 			<name>Sorrowful Song</name>
-			<text>Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+			<text>Increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)
+Exile the top card of your library. You may play that card until the end of your next turn. 
 Flashback {6}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/332.png" num="201">BUB</set>
 			<prop>
@@ -6794,7 +6793,7 @@ Track your current insight here.</text>
 		<card>
 			<name>Dark Well</name>
 			<text>{T}, Sacrifice this land: Search your for a basic land card, put it onto the battlefield tapped, then shuffle.
-{4}, Discard this card: Increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)</text>
+{3}, Discard this card: Increase your insight. (Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/357.png" num="341">BUB</set>
 			<prop>
 				<layout>normal</layout>
@@ -6808,7 +6807,7 @@ Track your current insight here.</text>
 		</card>
 		<card>
 			<name>Blood Stone Shard</name>
-			<text>{T}, Tap another untapped artifact you control: Add {C}.
+			<text>{T}: Add {C}. This mana can&apos;t be spent to cast spells from your hand.
 {1}, {T}, Discard a card, sacrifice this artifact: Draw a card.</text>
 			<set rarity="common" picurl="https://its-not-good.github.io/sets/BUB-files/img/358.png" num="317">BUB</set>
 			<prop>
@@ -6823,7 +6822,7 @@ Track your current insight here.</text>
 		</card>
 		<card>
 			<name>Blood Rock</name>
-			<text>{T}, Tap another untapped artifact you control: Add {C}{C}.
+			<text>{T}: Add {C}{C}. This mana can&apos;t be spent to cast spells from your hand.
 {2}, {T}, Discard a card, sacrifice this artifact: Draw two cards.</text>
 			<set rarity="uncommon" picurl="https://its-not-good.github.io/sets/BUB-files/img/359.png" num="316">BUB</set>
 			<prop>

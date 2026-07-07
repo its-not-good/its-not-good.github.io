@@ -1,4 +1,123 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+
+
+type: Artifact => 
+cost: {2} => 
+rules_text: When this artifact enters or leaves the battlefield, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => 
+
+Great One Coldblood
+rules_text: When this artifact enters, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+{T}: Add one mana of any color.
+{T}: Add {C}{C}. This mana can't be spent to cast spells from your hand. => When this artifact enters, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+{T}: Add one mana of any color.
+
+Fist of Gratia
+rules_text: When this Equipment enters, it deals damage to target creature you don't control equal to the number of creatures and Equipment you control.
+Equipped creature gets +1/+0.
+Equip {2} => When this Equipment enters, it deals damage to target creature you don't control equal to the number of creatures, Auras, and Equipment you control.
+Equipped creature gets +1/+0.
+Equip {2}
+
+Formless Oedon
+rules_text: [i](Oedon is colorless. Whenever you awaken Oedon, he becomes a creature in addition to his other types until your next turn.)[/i]
+[i]Blood Moon[/i] — Oedon can't attack unless you have three or more insight.
+Whenever you awaken Oedon, you gain 3 life, then awaken each other Great One you control. => [i](Oedon is colorless. Whenever you awaken Oedon, he becomes a creature in addition to his other types until your next turn.)[/i]
+[i]Blood Moon[/i] — As long as you have three or more insight, Great Ones you control has vigilance.
+Tap three other untapped creatures you control: Awaken Oedon. Activate only as a sorcery.
+
+Beastial Hunter
+rules_text: During your turn this creature has deathtouch.
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, put a +1/+1 counter on this creature. => Trample
+[i]Hunt for Paleblood[/i] — At the beginning of your end step, if a player gained life and a player lost life this turn, put a +1/+1 counter on this creature.
+
+Church Assassin
+rules_text: Lifelink
+{4}, Exile this card from your graveyard: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => Lifelink
+{3}, Exile this card from your graveyard: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Queen Killer
+rules_text: When this creature enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+Whenever an Equipment attached to a creature you control transforms, that creature gets +2/+2 and gains trample and haste until end of turn. => When this creature enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+Whenever an Equipment attached to a creature you control transforms, that creature gets +2/+2 until end of turn.
+
+Nightmare Hound
+rules_text: [i]Blood Moon[/i] — At the beginning of your end step, if you have three or more insight, you may pay {1}. If you do, create a token that's a copy of this creature, except it loses this ability. => [i]Blood Moon[/i] — As long as you have three or more insight, this creature gets +2/+1 and has haste.
+
+Henryk, Tragic Hunter
+rules_text: Deathtouch
+Whenever Henryk or another Hunter you control dies, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+[i]Blood Moon[/i] — At the beginning of your end step, if you have three or more insight, put a +1/+1 counter on Henryk. => Deathtouch
+Whenever Henryk or another Hunter you control dies, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+[i]Blood Moon[/i] — As long as you have three or more insight, Henryk gets +3/+3.
+pt: 3/3 => 2/2
+
+Hooded Beast Patient
+cost: {2}{G} => {1}{G}
+rules_text: [i]Blood Moon[/i] — {2}, Exile this card from your graveyard: Create a 3/3 green Beast creature token. Activate only if you have three or more insight. => When this creature enters, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+pt: 3/3 => 1/1
+
+Brain Sucker
+cost: {3}{WU}{WU} => {2}{WU}{WU}
+
+Cainhurst Servant Knight
+rules_text: First strike
+This creature gets +1/+1 for each Equipment you control. => First strike
+This creature gets +1/+1 for each Aura and Equipment you control.
+
+Celestial Child
+rules_text: {5}, {T}: Commune with any Great One. This costs {1} less to activate for each Great One you control. [i](Create a token of Ebrietas, Flora, Kos, Oedon, or The Brain of Mensis or awaken a Great One you control.)[/i] => {5}, {T}: Commune with any Great One. This costs {1} less to activate for each Great One you control. Activate only as a sorcery. [i](Create a token of Ebrietas, Flora, Kos, Oedon, or The Brain of Mensis or awaken a Great One you control.)[/i]
+
+Labyrinth Soldier
+rules_text: Activated abilities of artifacts you control cost {1} less to activate.
+Whenever an Equipment becomes attached to a creature you control, you may transform that Equipment. => Activated abilities of artifacts you control cost {1} less to activate.
+pt: 1/1 => 2/1
+
+Hunters Must Hunt
+cost: {4}{W}{W} => {5}{W}{W}
+
+Labyrinth Ritekeeper
+pt: 3/3 => 3/4
+
+Nightmare Apostle
+rules_text: Flash
+When this creature enters or dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flash
+When this creature dies, increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Walking Silverbeast
+
+Masked Huntsman
+pt: 2/2 => 2/1
+
+Elder Huntsman
+rules_text: {T}, Discard a card or sacrifice an artifact: Draw a card. If you sacrificed an Equipment or discarded an Equipment card this way, you may return it to the battlefield under your control with a finality counter on it. => Whenever you attack, you may discard a card then draw a card. If you discarded an Aura or Equipment card this way, you may return it to the battlefield under your control, attached to target attacking creature.
+pt: 2/4 => 1/4
+
+Sorrowful Song
+rules_text: Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+Flashback {6}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+Exile the top card of your library. You may play that card until the end of your next turn. 
+Flashback {6}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Dark Well
+rules_text: {T}, Sacrifice this land: Search your for a basic land card, put it onto the battlefield tapped, then shuffle.
+{4}, Discard this card: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i] => {T}, Sacrifice this land: Search your for a basic land card, put it onto the battlefield tapped, then shuffle.
+{3}, Discard this card: Increase your insight. [i](Gain an insight. Surveil X and lose X life, where X is your current insight, then draw a card.)[/i]
+
+Blood Stone Shard
+rules_text: {T}, Tap another untapped artifact you control: Add {C}.
+{1}, {T}, Discard a card, sacrifice this artifact: Draw a card. => {T}: Add {C}. This mana can't be spent to cast spells from your hand.
+{1}, {T}, Discard a card, sacrifice this artifact: Draw a card.
+
+Blood Rock
+rules_text: {T}, Tap another untapped artifact you control: Add {C}{C}.
+{2}, {T}, Discard a card, sacrifice this artifact: Draw two cards. => {T}: Add {C}{C}. This mana can't be spent to cast spells from your hand.
+{2}, {T}, Discard a card, sacrifice this artifact: Draw two cards.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

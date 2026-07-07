@@ -1714,7 +1714,7 @@
 		{
 			"name": "Hooded Beast Patient",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "233",
 			"image_uris": {
@@ -1801,7 +1801,7 @@
 		{
 			"name": "Brain Sucker",
 			"rarity": "common",
-			"mana_cost": "{3}{W/U}{W/U}",
+			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Enchantment Creature — Kin",
 			"collector_number": "293",
 			"image_uris": {
@@ -2311,7 +2311,7 @@
 		{
 			"name": "Hunters Must Hunt",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{W}",
+			"mana_cost": "{5}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "29",
 			"image_uris": {
